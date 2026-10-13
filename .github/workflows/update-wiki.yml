@@ -80,7 +80,11 @@ jobs:
           else
             pages=$(git diff --cached --name-only -- content/pages | wc -l | tr -d ' ')
             {
-              echo "Wiki snapshot $(date -u +%F): $pages page(s) changed"
+              if [ "$pages" = 0 ]; then
+                echo "Wiki snapshot $(date -u +%F): recipe data regenerated"
+              else
+                echo "Wiki snapshot $(date -u +%F): $pages page(s) changed"
+              fi
               echo
               git diff --cached --name-status -- content/pages | sed 's|content/pages/||; s|\.wiki$||' | head -100
             } > /tmp/msg
