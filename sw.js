@@ -1,7 +1,7 @@
 // Service worker: app shell on install, everything else cached as it is
 // visited, plus an on-demand "download the whole wiki" job driven from
 // index.html (the full site is ~70 MB, so it is not forced on install).
-const CACHE = 'gk-wiki-v2';
+const CACHE = 'gk-wiki-v3';
 const SHELL = [
   './', 'index.html', 'cart.html', 'style.css', 'search.js', 'app.js', 'cart.js',
   'data.js', 'search-titles.js', 'search-text.js', 'manifest.webmanifest',
@@ -92,16 +92,23 @@ async function downloadAll(refresh) {
   const worker = async () => {
     while (next < todo.length) {
       const url = scoped(todo[next++]);
-      try {
-        const r = await fetch(url, { cache: 'no-cache' });
-        if (!r.ok) throw new Error(r.status);
-        await cache.put(url, r);
-      } catch (e) { failed++; }
+      // GitHub Pages and similar hosts answer 503/429 under bursts: retry with backoff.
+      let ok = false;
+      for (let attempt = 0; attempt < 4 && !ok; attempt++) {
+        if (attempt) await new Promise(r => setTimeout(r, 1000 * 2 ** attempt));
+        try {
+          const r = await fetch(url, { cache: 'no-cache' });
+          if (!r.ok) throw new Error(r.status);
+          await cache.put(url, r);
+          ok = true;
+        } catch (e) { /* retry */ }
+      }
+      if (!ok) failed++;
       done++;
       if (done % 25 === 0) broadcast({ type: 'offline-progress', done, total: files.length, failed });
     }
   };
-  await Promise.all(Array.from({ length: 6 }, worker));
+  await Promise.all(Array.from({ length: 4 }, worker));
   broadcast({ type: 'offline-done', failed, total: files.length });
 }
 
