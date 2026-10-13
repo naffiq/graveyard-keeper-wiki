@@ -19,7 +19,9 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys()
-      .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      // Only our own old versions: other sites on the same origin (e.g. the GK2 wiki
+      // on naffiq.github.io) keep their caches.
+      .then(keys => Promise.all(keys.filter(k => k.startsWith('gk-wiki-') && k !== CACHE).map(k => caches.delete(k))))
       .then(() => self.clients.claim()));
 });
 
