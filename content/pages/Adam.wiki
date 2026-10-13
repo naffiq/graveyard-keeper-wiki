@@ -1,0 +1,79 @@
+{{NPC Infobox
+| name     = Adam
+| image    = Potter.png
+| day      = 
+| location = [[Village|The Village]]
+| vendor   = pottery products
+| role     = Potter
+}}
+Adam is an [[NPCs|NPC]] vendor of the [[Village|The Village]]. He is found south west of [[The Dead Horse]], selling pottery products. There are two {{Item|clay}} pits next to his house, neither of which can be utilized by the player.
+
+==Trading==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Ceramic bowls}}
+|30
+|{{Money|7}}
+|-
+|}
+
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Ceramic jug}}
+|29
+|{{Money|13}}
+|-
+|}
+
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Porcelain pitcher}}
+| 1
+|[[File:Silver Coin Symbol.png]]4[[File:Copper Coin Symbol.png]]79
+|-
+|}
+|}
+
+===Purchasing===
+This vendor does not purchase any craftables. Strangely, Adam also does not purchase the commercial blessing. This is typical for vendors who have all tiers already unlocked, like [[Clotho|Clotho,]] but Adam requires you to unlock the other tiers first.
+{| class="wikitable" 
+!Item
+!Tier
+!Base Price
+|-
+|colspan="3"|N/A
+|}
+[[ru:Адам]]
+
+==Stranger Sins==
+===Quests===
+====Clay Shards====
+Adam holds the {{Item|Clay Shards}} artifact. To get it from him he asks you to do 2 things for him.
+
+First he'll ask you to upgrade your [[Tavern]] to 40 quality, which requires 30 {{Item|Wooden plank}}, 30 {{Item|A piece of stone}} and 12 {{Item|Simple iron parts}} for an upgrade. You'll need to add 2 tables (8 {{Item|Wooden plank}} and 8 {{Item|Nails}} each) to the new spots that become available as well as have all previous artifacts on display to reach 40 tavern quality.
+
+Secondly he'll ask you to help him with voices that bully him at night that leave no footprints. To deal with this return to his house after midnight and find [[Yorick]] outside. After a chat [[Yorick]] agrees to leave Adam alone. Return in the morning and talk to Adam to receive the {{Item|Clay Shards}} and +20 reputation with Adam.
+
+====Ancient Keys====
+Adam has the {{Item|Ancient Keys}} in his house. Before you can enter his house you need to show him your interest in art and bring him 3 {{Item|Porcelain pitcher}}. He won't be impressed and will offer you 5 silver or you can choose to keep your {{Item|Porcelain pitcher}}. Next you can talk to the [[Merchant]] to obtain 3 rare vases but he's sold them already to the [[Beekeeper]]. The [[Beekeeper]] seems to believe Adam is his arch nemesis and you conspire to fill the vases with poison which was stolen from the [[Beekeeper]] by [[Dig]]. Talk to [[Dig]] and answer anything to his riddle to get the right "Poison Cake" answer. Take the {{Item|Cake with bee poison}} to the [[Beekeeper]] to receive the {{Item|Vases of poison}} to bring to Adam. This will gain you another +20 reputation with him allowing you to enter his home and grab the {{Item|Ancient Keys}} from his chest by his bed. The chest also contains 3 [[Porcelain pitcher]], 5 [[Ceramic jug]], 3 [[Red jelly]], [[Beet slices]], 2 [[Bottle of berry juice]], 20 [[Ceramic bowls]] and a [[Rusty hammer]].
+
+<br>
+{{Navbox-NPCs}}

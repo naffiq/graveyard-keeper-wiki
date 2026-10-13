@@ -1,0 +1,18 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 1
+| source       = [[Farmer]]
+| cost         = 
+}}
+
+The {{PAGENAME}} is received from the [[Farmer]]. Speak with him about his wife and you'll receive 20{{Happiness}}. Next speak to the [[Farmer's Son]]. After that talk to [[Miller]], then to [[Clotho]]. Return back to the Farmer and choose either to buy the {{PAGENAME}} from him for {{Money|10000}} or dig up his wife's body and steal the ring off it.
+
+If you choose to dig up the body, you'll require an [[exhumation permission]]. Once you get it head to the [[Wheat Farm]] and dig up the body. You can then take the body to your [[Morgue]] and perform an [[autopsy]] to remove the {{PAGENAME}} from the body.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Кольцо жрицы]]

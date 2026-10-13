@@ -1,0 +1,92 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = i_crop_waste.png
+| type         = Fertilizer
+| nameinternal = crop_waste
+| study        = {{Techpoint|Green|10}}
+| alchemy      = {{Item|Health powder}}
+| buy          = [[Farmer|Farmer (T I)]]
+| sell         = [[Shepherd]]
+| source       = [[Farming]]
+| cost         = 1
+| quest        = 
+| stacksize    = 100
+}}
+<b>{{PAGENAME}}</b> is a byproduct of [[farming]] and is used to produce [[peat]] and [[maggot]]s, or broken down via [[alchemy]]. Alternatively, it can be purchased from the [[Shepherd]].
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Empty garden bed}}
+|-
+!Item Produced
+!Materials Required
+|-
+|?x[[File:crops.gif|frameless|link=]] Crop<br>?x[[File:seeds.gif|frameless|link=]] Crop seeds<br>{{Item|Crop waste|?}}
+|4x[[File:seeds.gif|frameless|link=]] Crop seeds
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Decomposes into:<br>[[Health powder|Health Powder]]
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;  table-layout:fixed;"
+!colspan="2"|{{Item|Compost heap}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Peat|6}}<br>{{Item|Maggot|2}}
+|{{Item|Crop waste|8}}
+|}
+
+==Alchemy==
+Crop waste is decomposable to powder at the [[Alchemy mill]]. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] will produce one additional reagent.
+
+{| class="wikitable" style="width:35em;  table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Health powder|1}}
+|{{Item|Crop waste|1}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Buy Tier !! Base Cost !! Sell Tier !! Base Price
+|-
+|{{NPC|Farmer}} 
+|I 
+|{{Money|1}}
+|I 
+|N/A
+|-
+|{{NPC|Shepherd}} 
+|I 
+|N/A
+|I 
+|{{Money|1}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:decomposable items]]
+[[Category:fertilizer]]
+[[de:Ernteabfall]]
+[[fr:Déchet_Agricole]]
+[[pt-br:Resíduo de colheita]]

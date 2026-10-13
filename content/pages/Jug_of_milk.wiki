@@ -1,0 +1,53 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = jug_milk
+| study        = 
+| source       = [[Rosa]]
+| cost         = 10
+| stacksize    = 10
+}}
+'''{{PAGENAME}}''' is an ingredient used in cooking, it can be bought from [[Rosa]], the [[Shepherd]]'s wife, or aquired from refugee camp after finishing [[Tanner|Tanner's]] quest. For the main page on preparing food, see [[cooking]].
+ 
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|Use in inventory
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|5}}
+|{{Item|Bucket of milk|1}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pastry dough|4}}
+|{{Item|Flour|2}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Chicken egg|1}}
+|-
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pancakes|5}}
+|{{Item|Pastry dough|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Butter|1}}<br>{{Item|Fuel|10}}
+|-
+|{{Item|Omelette|3}}
+|{{Item|Chicken egg|3}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Fuel|5}}
+|-
+|{{Item|A bowl of pumpkin soup|4|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Pumpkin|2|animation}}<br>{{Item|Fuel|10}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+[[ru:Кувшин молока]]

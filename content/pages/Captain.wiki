@@ -1,0 +1,16 @@
+{{NPC Infobox
+| name     = Captain
+| image    = Captain.png
+| day      = 
+| location = [[The Dead Horse]]
+| vendor   = 
+| role     = Captain
+}}
+The Captain is an [[NPCs|NPC]].  Interacting with the Captain while he's in [[The Dead Horse]] will simply cause him to say "Arrr. Bad luck. Not today!".
+
+During the Teodoro's quest, should Keeper fail to protect the refugees, the captain's ship can be used to sail them away from King's wraith. 
+{{Navbox-NPCs}}
+
+[[Category:NPCs]]
+[[pt-br:Capitão]]
+[[fr:Capitaine]]

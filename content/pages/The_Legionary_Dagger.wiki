@@ -1,0 +1,19 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Krezvold]]
+| cost         = 
+}}
+
+{{PAGENAME}} is received from [[Krezvold]]. He says that he'd be happy to give it to you if you help him ruin [[Horadric]]'s mood. He wants you to get [[Ms. Charm]] to sing a song at the [[Talking Skull]] to make Horadric angry and jealous. 
+
+Go to the [[The Dead Horse]] on {{Day|Lust}} to speak with Ms. Charm. She'll agree to come sing at your tavern, but the first song will cost you {{money|2000}}, but you can haggle to get the price down to {{money|1000}}. Go back to Krezvold and tell him the news and he'll give you the {{PAGENAME}}.
+
+Krezvold will then ask you to help him find another expensive dagger, the [[Rare Dagger]], that he lost in the forest.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

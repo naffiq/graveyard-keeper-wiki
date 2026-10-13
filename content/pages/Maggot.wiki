@@ -1,0 +1,86 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|2}}
+| study        = {{Techpoint|Green|20}}
+| alchemy      = {{Item|Life solution}} {{Item|Life extract}}
+| source       = [[Farming|Compost]]
+| cost         = 
+| stacksize    = 30
+| type         = Insect
+| quest        = [[Lighthouse Keeper]]
+| nameinternal = maggot
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a byproduct of dutiful [[farming]] (composting). It can either be decomposed after study into reagents for use in [[alchemy]], used as a bait for [[fishing]], or - under duress - consumed for a relatively tiny amount of energy.
+
+==Recipe==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Compost heap}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Peat|6}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Item|Crop waste|8}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Life solution|fluid]] and [[Life extract|essence]]
+|}
+
+==Alchemy==
+{{PAGENAME}}s can be decomposed into a [[Life solution|solution]] or [[Life extract|extract]] with the [[hand mixer]] and either of the distillation cubes, respectively. However, the [[yellow flower]] is identical in regards to alchemy, making that the ideal choice as it's generally far more abundant and renewable. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+ 
+{| class = "wikitable" style = "width:35em; table-layout: fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Life solution|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Life extract|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Life extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+==Fishing==
+{{PAGENAME}}s can also be utilized while [[fishing]], as one of eight(8) available baits to choose from.
+*There are eight(8) susceptible fish; the [[Tilapia]], [[Perch]], [[Eel]], [[Bream]], [[Sardine]], [[Pike]], [[Carp]], and [[Salmon]].
+*The {{PAGENAME}} is practically a 'starter' bait; easy to collect, and most often having commonality with "No Bait".
+*The Sardine is generally considered the best commodity, given a {{PAGENAME}} bait.
+**There are ''better'' fish, though most can be caught using more cost-effective means.
+**Salmon is a good alternate, though restricted to the [[Sea]] location and {{Quality|silver}}Quality.
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:insects]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Larva]]

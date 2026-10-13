@@ -1,0 +1,44 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Smell of Faith]]
+|related    = [[Church]]
+|footprint  = 2x4
+|rotatable  = False
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a [[church]] workstation that provides a passive +1{{Church Rating}} Church Quality, which can be temporarily supplemented by applying one of two available consumables - incense.
+
+==Cost==
+{| class="wikitable" style="width:40em;
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A polished brick of stone|4}}<br>{{Item|Simple iron parts|4}}
+|{{Energy|-|10}}
+|Requires Tech:<br>[[Theology (Tech Tree)|Smell of Faith]]
+|}
+
+==Incenses==
+{| class = "wikitable" style="width:35em; table-layout:fixed; text-align:center;"
+!Item
+!Bonus
+!Duration
+|-
+|{{Item|Incense|1}}
+| +2{{Church Rating}}
+|4:30
+|-
+|{{Item|Incense II|1}}
+| +4{{Church Rating}}
+|6:00
+|}
+
+<br>
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+[[Category:Church workstations]]
+[[de:Räuchergefäß]]

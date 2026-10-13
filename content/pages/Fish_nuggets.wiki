@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|30}}; [[File:Unknown1 effect.png]]
+| nameinternal = meal:nuggets_fish
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 25
+| stacksize    = 20
+}}
+'''{{PAGENAME}}''' is a food item which restores {{Energy|+|30}} and applies the fast reflexes buff when consumed.  Since the items which can be used to craft {{lc:{{PAGENAME}}}} lack quality levels they can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].  {{PAGENAME}} can also be purchased from [[Horadric]] in [[The Dead Horse]].
+
+==Effect==
+On use, fish will apply the fast reflexes buff for a duration of 2 minutes. Giving the player additional time to hook a fish during fishing. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Unknown1 effect.png|link=Effects#Fast reflexes|Fast reflexes]]
+|You have additional time to hook a fish.
+|style="text-align:center"|2:00
+|[[Effects#Fast reflexes|Fast reflexes]]
+|}
+
+==Recipe==
+Obtained from [[Lighthouse Keeper]].
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Fish nuggets|1}}
+|{{Item|White fish fillet|1}}<br>{{Item|Oil|2}}<br>{{Item|Fuel|5}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

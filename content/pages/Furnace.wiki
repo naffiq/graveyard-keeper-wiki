@@ -1,0 +1,123 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Workyard]]
+|technology = [[Smithing (Tech Tree)#Iron|Iron]]
+|related    = [[Mining]]
+|footprint  = 7x5
+|rotatable  = Mirror
+}}
+The {{lc:{{PAGENAME}}}} is used to smelt ore into ingots and sand into glass. It requires fuel to operate; fuel is not consumed while idle - it is only used up when the workstation is in use, allowing the user to operate it as needed.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|4}}<br>{{Item|A piece of stone|14}}<br>{{Item|Simple iron parts|4}}
+|{{Energy|-|8}}
+|Required Tech: [[Smithing (Tech Tree)#Iron|Iron]]
+|}
+
+==Recipes==
+===Other===
+{| class = "wikitable"
+!colspan = "3" style = "width:35em; text-align:center;"|[[file:tab_other.png|link=|frameless]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|[[file:upgrade item.png|frameless|link=Furnace II]] [[Furnace II|Upgrade to Furnace II]]
+|{{Item|A piece of stone|6}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Pigskin paper|2}}
+|{{Energy|-|50}}
+|}
+
+===Fuel===
+{| class="wikitable"
+!colspan = "2" style = "width:30em; text-align:center;"|[[file:tab_fuel.png|link=|frameless]]
+|-
+!Fuel Produced
+!Materials Required
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|-
+|{{Item|Fuel|90}}
+|{{Item|Firewood|10}}
+|-
+|{{Item|Fuel|160}}
+|{{Item|Coal|10}}
+|}
+
+===Metal===
+{| class = "wikitable"
+!colspan = "5" style = "width:40em; text-align:center;"|[[file:tab_metal.png|link=|frameless]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Fuel
+!style="width:5em;"|Time
+!Notes
+|-
+|{{Item|Iron ingot|1}}
+|{{Item|Iron ore|1}}
+|{{Fuel|-|25}}
+|2:30
+|rowspan="3"|+{{Techpoint|red|1}}
+|-
+|*{{Item|Iron ingot|2}}
+|{{Item|Iron ore|2}}
+|{{Fuel|-|40}}
+|4:10
+|-
+|{{Item|Iron ingot|1}}
+|{{Item|Metal scrap|10}}
+|{{Fuel|-|15}}
+|0:40
+|-
+!colspan = "5"|* Requires [[file:Fireman Perk.png|32px|link=Perks#Fireman Perk]] [[Perks#Fireman Perk|Fireman Perk]]
+|}
+
+===Glassware===
+{|class="wikitable"
+!colspan="5" style="width:40em;text-align:center;"|[[file:tab glass.png|link=|frameless]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Fuel
+!style="width:5em;"|Time
+!Notes
+|-
+|{{Item|Glass|2}}
+|{{Item|River sand|2}}<br>{{Item|Water|1}}
+|{{Fuel|-|15}}
+|1:00
+| +{{Techpoint|red|1}}
+|-
+|{{Item|Glass|1}}
+|{{Item|Broken Glass|1}}
+|{{Fuel|-|15}}
+|0:30
+| +{{Techpoint|red|1}}
+|-
+|{{Item|Ceramic jug|10}}
+|{{Item|Ceramic bowls|10}}
+|{{Fuel|-|20}}
+|2:30
+| +{{Techpoint|red|1}}
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|Ceramic jug|1}}<br>{{Item|White powder|2}}
+|{{Fuel|-|20}}
+|2:30
+| +{{Techpoint|red|2}}
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]

@@ -1,0 +1,47 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = N/A
+
+| source       = [[Cooking table]]
+| cost         = 20
+| stacksize    = 30
+| type         = Food Resource
+| quest        = 
+| nameinternal = raw_meat_sliced
+}}
+{{PAGENAME}} is an ingredient used in [[cooking]] to create [[baked meat]].
+The recipe to make Raw Sliced Meat from 3x Frogs is unlocked when you get a Frog via fishing (strangely, it is NOT unlocked when you get a Frog by purchasing it from Clotho the Witch).
+
+==Recipe==
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!Materials Required
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Package of meat|1}}
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Frog|3}}
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Flesh|1}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Baked meat|2}}
+|{{Item|Raw sliced meat|1}}<br>{{Item|Fuel|10}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]

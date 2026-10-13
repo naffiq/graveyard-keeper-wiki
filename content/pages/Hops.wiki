@@ -1,0 +1,123 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Crop
+| nameinternal = hop_crop
+| study        = {{Techpoint|Green|40}}
+| alchemy      = {{Item|Slowing powder}},<br> {{Item|Slowing solution}}
+| source       = [[Farming]]
+| buy          = [[Miller|Miller (T II & T III)]]
+| sell         = [[Miller|Miller (T II & T III)]]
+| cost         = 40
+| stacksize    = 50
+}}
+[[File:Hops patch.gif|left|thumb|Hops growing in the vineyard.]]
+<b>{{PAGENAME}}</b> are a type of crop that is grown from [[hops seed]]s in the [[vineyard]]. Alternatively, they can be bought directly from the [[Miller]]. Hops are an improvable crop, meaning they have a variety of quality levels and can be improved upon with fertilizer. The quality of the hops will affect the quality of the products made from it. For more information, see [[farming]].
+
+==Quality Levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_hop_crop.png|quality = copper}}
+|{{Quality Sprite|image = i_hop_crop.png|quality = silver}}
+|{{Quality Sprite|image = i_hop_crop.png|quality = gold}}
+|} 
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Vine trellis}}
+|-
+!Item Produced
+!Materials Required
+!style = "width:5em;"|Time
+|-
+|{{Item|{{PAGENAME}}|?|animation}}<br>{{Item|Hops seed|?|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|Hops seed|4|animation}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|40}}
+|{{Item|Faith|4}}<br>{{Item|Science|4}}
+|{{Energy|-|1}}
+|Decomposes into:<br>[[Slowing powder|powder]] and [[Slowing solution|liquid]]
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Brewing stand}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|Water|50}}<br>{{Item|{{PAGENAME}}|3|animation}}<br>{{Item|Wheat|15}}
+|-
+|{{Item|A mug of mead|10|animation}}
+|{{Item|Water|50}}<br>{{Item|{{PAGENAME}}|3|animation}}<br>{{Item|Honey|1}}
+|}
+
+==Alchemy==
+Hops can be decomposed to solution and powder at the [[hand mixer]] and [[alchemy mill]], respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at each workstation.
+
+{| class="wikitable" style="width:35em; table-layout: fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Slowing solution|3}}
+|{{Item|{{PAGENAME}}|1|animation}}
+|-
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Slowing powder|4}}
+|{{Item|{{PAGENAME}}|1|animation}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Quality || Buy Tier !! Base Cost !! Sell Tier !! Base Price
+|-
+|rowspan="3"|{{NPC|Miller}} 
+|[[File:Bronze Star.png]]
+|II
+|{{Money|40}}
+|II
+|{{Money|28}}
+|-
+|[[File:Silver Star.png]]
+|III
+|{{Money|52}}
+|III
+|{{Money|35}}
+|-
+|[[File:Gold Star.png]]
+|III
+|{{Money|65}}
+|III
+|{{Money|44}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:decomposable items]]
+[[Category:Sellable]]
+[[de: Hopfen]]
+[[fr:Houblon]]

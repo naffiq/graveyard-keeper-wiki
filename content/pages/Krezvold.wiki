@@ -1,0 +1,280 @@
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = Blacksmith.png
+| day      = 
+| location = [[The Village]]
+| vendor   = Metal and Metalworking
+| role     = Blacksmith
+|money=600|income=10}}
+[[{{PAGENAME}}]] is the blacksmith of the [[village]]. He is located southeast of the [[The Dead Horse|tavern]]. He trades metal and metalworking products. He will refuse to speak with you until you complete a [[Quests|quest]] for [[Horadric]] and bring a letter to him.
+
+After you reach {{Happiness|10}} with him you can ask about [[Mining|ore deposits]] and he will tell you that he used to harvest most of his [[iron ore]] from the [[swamp]] before the [[stone bridge]] leading to it was broken.  Oddly, Krezvold’s house will say that you need to have 80{{Happiness}} to come in, but it is impossible to get Krezvold higher than 20.  
+
+When progressing through the DLC [[Stranger sins]], there is a possibility to receive [[Damask sword with gem]] from Krezvold as you walk out of [[Sweet Home]]. He will come to you and give you the sword in hurry saying that one of his clients asked him to melt it but he didn't and now a crime was committed in [[the Town]] using this same sword. 
+
+== Quests ==
+===Kill Slimes===
+After delivering [[Horadric|Horadric's]] letter to {{PAGENAME}} and receiving {{Happiness|10}} with {{PAGENAME}}, he will ask you to kill some [[slime|slimes]] at the back of his house. To do this he gives you a broken {{Item|rusty sword}}, {{Item|energy potion|2}}, and a {{Item|whetstone}}. You have to use the whetstone to repair the sword at the [[grindstone]] (next to his house) and use it to kill the slimes. Afterwards you need to bring the {{Item|green jelly}} back to {{PAGENAME}} and receive {{item|Simple iron parts|5}}. When this quest is completed you will have the ability to create [[green jelly (food)|green]] and [[red jelly]]. You will also be able to trade with {{PAGENAME}}.
+
+At {{Happiness|10}} you are able to ask him where to find metal ore. {{PAGENAME}} will tell you that you can find metal ore in the [[swamp]] that's located west, across the river. You also unlock the furnace recipe, you can create [[iron ingot]]s and you are able to gather [[iron ore]].
+
+==Trading==
+===Selling===
+*The cost of whetstones do not inflate.
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Whetstone}}
+|2
+|{{Money|1000}}
+|-
+|{{Item|Iron ingot}}
+|10
+|{{Money|80}}
+|-
+|{{Item|Simple iron parts}}
+|20
+|{{Money|60}}
+|-
+|{{Item|Nails}}
+|20
+|{{Money|27}}
+|-
+|{{Item|Coal}}
+|10
+|N/A
+|-
+|{{Item|Iron ore}}
+|10
+|N/A
+|-
+|{{Item|Firewood}}
+|2
+|N/A
+|-
+|{{Item|Rusty axe}}
+|1
+|{{Money|100}}
+|-
+|{{Item|Rusty pickaxe}}
+|1
+|{{Money|100}}
+|-
+|{{Item|Rusty shovel}}
+|1
+|{{Money|100}}
+|-
+|{{Item|Rusty sword}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Rusty hammer}}
+|1
+|{{Money|100}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Cauldron}}
+|1
+|{{Money|1000}}
+|-
+|{{Item|Iron chisel}}
+|3
+|{{Money|250}}
+|-
+|{{Item|Steel ingot}}
+|10
+|{{Money|220}}
+|-
+|{{Item|Complex iron parts}}
+|10
+|{{Money|120}}
+|-
+|{{Item|Graphite}}
+|10
+|N/A
+|-
+|{{Item|Axe I}}
+|1
+|{{Money|300}}
+|-
+|{{Item|Pickaxe I}}
+|1
+|{{Money|300}}
+|-
+|{{Item|Shovel I}}
+|1
+|{{Money|300}}
+|-
+|{{Item|Steel sword}}
+|1
+|{{Money|4000}}
+|-
+|{{Item|Iron hammer}}
+|2
+|{{Money|500}}
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Steel chisel||silver}}
+|3
+|{{Money|450}}
+|-
+|{{Item|Steel chisel||copper}}
+|3
+|{{Money|350}}
+|-
+|{{Item|Steel parts}}
+|10
+|{{Money|200}}
+|-
+|{{Item|Shovel II}}
+|1
+|{{Money|700}}
+|}
+|}
+
+===Purchasing===
+*Will not buy back the [[whetstone]], [[cauldron]], [[steel sword]], or any chisels.
+*The condition of tools will not affect price or subsequent cost. <i>(even 0%)</i>
+*Will not buy related oddities, such as [[metal scrap]] or [[bloody nails]].
+*Will not buy any weapons or armor, except for the [[rusty sword]].
+*Will not buy any high-tier tools, except for the [[shovel II]]. <i>(see [[Cory#Trading|Cory]] and [[Tress#Trading|Tress]])</i>
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+! Item
+! Base<br>Price
+! Weekly<br>use
+! Down<br>to
+! Max<br>inv
+|-
+|{{Item|Iron ingot}}
+|{{Money|57}}
+| 6 
+| 10
+|
+|-
+|{{Item|Simple iron parts}}
+|{{Money|44}}
+|12 
+|20
+|85
+|-
+|{{Item|Nails}}
+|{{Money|20}}
+| 12
+| 20
+|
+|-
+|{{Item|Coal}}
+|{{Money|14}}
+| 6 
+| 10
+|
+|-
+|{{Item|Iron ore}}
+|{{Money|10}}
+| 6 
+| 10
+|
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|
+|
+|
+|-
+|{{Item|Rusty axe}}
+|{{Money|75}}
+|
+|
+|
+|-
+|{{Item|Rusty pickaxe}}
+|{{Money|75}}
+|
+|
+|
+|-
+|{{Item|Rusty shovel}}
+|{{Money|75}}
+|
+|
+|
+|-
+|{{Item|Rusty sword}}
+|{{Money|375}}
+|
+|
+|
+|-
+|{{Item|Rusty hammer}}
+|{{Money|75}}
+|
+|
+|
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel ingot}}
+|{{Money|158}}
+|-
+|{{Item|Complex iron parts}}
+|{{Money|86}}
+|-
+|{{Item|Graphite}}
+|{{Money|30}}
+|-
+|{{Item|Axe I}}
+|{{Money|225}}
+|-
+|{{Item|Pickaxe I}}
+|{{Money|225}}
+|-
+|{{Item|Shovel I}}
+|{{Money|225}}
+|-
+|{{Item|Iron hammer}}
+|{{Money|306}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel parts}}
+|{{Money|143}}
+|-
+|{{Item|Shovel II}}
+|{{Money|525}}
+|}
+|}
+
+<br>
+[[ru:Крезвольд]]
+{{Navbox-NPCs}}
+[[Category:Vendors]]

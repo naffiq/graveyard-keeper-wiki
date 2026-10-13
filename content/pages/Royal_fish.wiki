@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|48}}/{{Energy|+|60}}/{{Energy|+|84}}
+| nameinternal = meal:bowl_pumpkin
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 20
+}}
+
+A food item which restores {{Energy||48-}} {{Energy||84}} when consumed. It can be made in the [[oven]] or purchased from the [[Merchant]]. The quality is dependent on the ingredients used as well as any [[perks]] or [[sermons]] that might be active. Higher quality meals have a larger restorative effect when consumed. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = royal_fish_item.png|quality = copper}}
+|{{Quality Sprite|image = royal_fish_item.png|quality = silver}}
+|{{Quality Sprite|image = royal_fish_item.png|quality = gold}}
+|-
+|{{Money|20}}
+|{{Money|25}}
+|{{Money|47}}
+|-
+|{{Energy|+|48}}
+|{{Energy|+|60}}
+|{{Energy|+|84}}
+|}
+
+==Recipe==
+Learned by using [[Recipe fish delicacies]], which can be purchased from [[Miss Chain]] in [[The Dead Horse]].
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2|animation}}
+|{{Item|Blue fish fillet|1|animation}}<br>{{Item|Honey|1|}}<br>{{Item|Fuel|5}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

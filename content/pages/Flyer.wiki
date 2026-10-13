@@ -1,0 +1,54 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| source       = [[Desk]], [[Desk II]], [[Printing press]], [[Printing press II]]
+| type         = Quest
+| stacksize    = 30
+| quest        = [[Inquisitor]], [[Merchant]]
+| nameinternal = flyer:flyer_bad
+}}
+<b>{{PAGENAME}}s</b> are a relatively generic quest item, used in a variety of applications, usually quest-related. The [[Inquisitor]] asks the player to provide 10x for a [[quest]]. They are also used for [[marketing campaign]]s and [[Talking Skull#Tavern Events|tavern events]]. Creating them requires the Business of Faith Technology from the [[Theology (Tech Tree)|Theology]] tree. 
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Desk}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Flyer|5}}<br>{{Techpoint|Blue|2}}
+|{{Item|Clean paper|1}}<br>{{Item|Pen and ink|1}} (50%)
+|{{Energy|-|20}}
+|-
+!colspan="3"|{{Item|Desk II}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Flyer|5}}<br>{{Techpoint|Blue|2}}
+|{{Item|Clean paper|1}}<br>{{Item|Pen and ink|1}} (50%)
+|{{Energy|-|15}}
+|-
+!colspan="3"|{{Item|Printing press}} / {{Item|Printing press II}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Flyer|10}}<br>{{Techpoint|Blue|2}}
+|{{Item|Clean paper|2}}<br>{{Item|Ink|1}}
+|{{Energy|-|10}}
+|}
+
+==Tips & Tricks==
+Regarding the mass-production of <b>{{lcfirst:{{PAGENAME}}}}s</b>, despite crafting them at a desk requiring [[feather]]s, and significantly more energy and time, the [[printing press]] is incredibly inefficient when it comes to [[ink]]. For every 10x {{lcfirst:{{PAGENAME}}}}s crafted, utilizing pen-and-inks will consume 1/3 of the ink that a printing press will, if not less (one may use <50% pen-and-inks). Thus, if one has a severe shortage of [[black paint]], avoid using the printing press, despite it being more efficient overall.
+
+<br>
+{{Navbox-Quest}}
+[[Category:Quest items]]
+[[de:Flugblatt]]
+[[es:Folletos]]
+[[pt-br:Panfleto]]
+[[ru:Листовка]]

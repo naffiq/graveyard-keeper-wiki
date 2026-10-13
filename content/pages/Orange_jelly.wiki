@@ -1,0 +1,61 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Mob Drop
+| nameinternal = 
+| study        = {{Techpoint|Red|10}}
+| alchemy      = {{Item|Toxic solution}} {{Item|Toxic extract}}
+| source       = [[Dungeon]]
+| cost         = 
+| quest        = 
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is a mob drop, obtained by killing [[Monsters|orange slimes]], found only within the [[dungeon]]. Its primary use is to serve as an alchemical material, able to be broken down into reagents once studied, alongside [[onion]]s and [[red mushroom]]s.
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Toxic solution|fluid]] and [[Toxic extract|essence]]
+|}
+
+==Alchemy==
+{{PAGENAME}} can be decomposed to [[toxic solution|solution]] and [[toxic extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+
+{|class="wikitable" style="Width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Toxic solution|2}}
+|{{Item|Orange jelly|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Toxic extract|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Toxic extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+But orange slime only exists in [[dungeon]], and dungeon won't respawn mobs. So the amount of player can obtain in a round of game is limited. So, since it can only be used to craft basic [[alchemy]] resource, it is more recommended to craft it as a [[Toxic solution]] rather than a [[Toxic extract]] ([[Onion]] is a better source).<br>
+{{Navbox-Mob_Drops}}
+[[Category:Mob drops]]

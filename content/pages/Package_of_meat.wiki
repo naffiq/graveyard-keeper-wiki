@@ -1,0 +1,42 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = packet_meat
+| study        = ?
+| source       = [[Cooking table]]
+| cost         = 90
+| stacksize    = 10
+| quest        = [[Horadric]]
+}}
+
+Required to complete [[Horadric]]'s quest, packages of meat give the player a means to "legitimately" sell human flesh to the townspeople. Alternatively, they can be un-bundled for [[raw sliced meat]].
+
+Note: the recipe is unlocked after talking to [[Horadric]] after obtaining the {{Item|Stamp}}. An option to Insert the Stamp then becomes available at the [[Cooking table]], and packages can then be made.
+
+==Recipe==
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Package of meat|1}}
+|{{Item|Flesh|1}}
+{{Item|Clean paper|1}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Package of meat|1}}
+|}
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+[[Category:quest items]]

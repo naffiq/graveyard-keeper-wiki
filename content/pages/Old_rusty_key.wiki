@@ -1,0 +1,13 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = i_key_rusty_1
+}}
+
+'''{{PAGENAME}}''' is a quest item from the [[Better Save Soul]] DLC. After unlocking the DLC, this item can be obtained during a new [[Gerry]] questline. This questline requires {{Item|A mug of beer|1|1}} and {{Item|River sand|1}} to unlock the '''{{PAGENAME}}''' item. (''Note: No other quality beer is acceptable.'')
+
+This item can be used to continue the [[Euric]] questline to unlock the [[Souls room]] next to the [[Morgue]].
+
+{{Navbox-BetterSaveSoulQuest}}
+[[Category:Better Save Soul]] [[Category:Better Save Soul quest items]]

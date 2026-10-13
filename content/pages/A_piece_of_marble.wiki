@@ -1,0 +1,105 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|30}}
+| source       = [[Stone cutter]], [[Stone cutter II]]
+| buy          = [[Cory|Cory (T II)]]
+| sell         = [[Cory|Cory (T II)]]
+| cost         = 87
+| stacksize    = 30
+| type         = Stone
+| quest        = 
+| nameinternal = marble_plate_1
+}}
+{{PAGENAME}} is a crafting resource that can be processed at either stone cutter from [[marble block]]s. They are primarily used to produce higher tier [[graveyard]] decorations.
+
+Marble sources can be found at [[Witch Hill]] or at the [[marble quarry]] in the north-west area of the [[map]] near the [[cabin in the woods]]. It's also possible to have them mined automatically by using a [[zombie marble quarry]] or to buy them from [[Cory]], the engineer, for quite a pretty penny.
+
+There is no separate [[stockpile]] for marble, and blocks are instead stored together with [[stone block]]s on the [[stone stockpile]].
+
+==Recipe==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Marble block|1}}<br>{{Item|Wood wedge|2}}
+|{{Energy|-|15}}
+|-
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Marble block|1}}<br>{{Item|Wood wedge|2}}
+|{{Energy|-|10}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Building==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|[[Old Graveyard]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Marble flagstones}}
+|{{Item|{{PAGENAME}}|4}}
+|N/A
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter}} / {{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|A polished brick of marble|1}}
+|{{Item|Iron chisel|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Marble grave fence|1}}
+|{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|15}}
+|-
+|{{Item|Marble cross|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|-
+|{{Item|Marble grave fence II|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|15}}
+|}
+
+<br>
+{{Navbox-Stone}}
+[[Category:stone items]]
+[[Category:mined items]]

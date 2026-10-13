@@ -1,0 +1,83 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|30}}/{{Energy|+|35}}/{{Energy|+|40}}; [[File:Rest effect.png]]
+| nameinternal = meal:soup_red_green:1
+| study        = 
+| source       = [[Cooking]]
+| cost         = 30
+}}
+
+A food item which restores {{Energy||30 -}} {{Energy||40}} and applies the deep sleep buff when consumed. It must be made in the [[oven]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_soup_red_green.png|quality = copper}}
+|{{Quality Sprite|image = i_soup_red_green.png|quality = silver}}
+|{{Quality Sprite|image = i_soup_red_green.png|quality = gold}}
+|-
+|{{Energy|+|30}}
+|{{Energy|+|35}}
+|{{Energy|+|40}}
+|-
+|{{Money|30}}
+|{{Money|35}}
+|{{Money|40}}
+|}
+
+==Effect==
+
+On use, cabbage soup will apply the deep sleep buff for a duration of 2 minutes. Allowing the player to regenerate more energy points during sleep. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Rest effect.png|link=Effects#Deep Sleep|Deep Sleep]]
+|Energy  regeneration during sleeping is increased.
+|style="text-align:center"|2:00
+|[[Effects#Deep Sleep|Deep Sleep]]
+|}
+
+==Recipes==
+{| class = "wikitable" style = "Width:30em;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Cabbage soup|4|animation}}
+|{{Item|Cabbage|2}}
+{{Item|Beet|1}}
+
+{{Item|Onion|1|animation}}
+
+{{Item|Fuel|40}}
+|}
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality || Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+|  N/A
+| align="center" | III 
+| {{Money|40}}
+|}
+
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

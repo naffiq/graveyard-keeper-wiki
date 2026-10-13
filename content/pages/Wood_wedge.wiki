@@ -1,0 +1,43 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Wood
+| nameinternal = spike_1
+| study        = {{Techpoint|Red|20}}
+| source       = [[Chopping spot]]
+| buy          = [[Tress|Tress (T I)]]
+| sell         = [[Tress|Tress (T I)]]
+| cost         = 3
+| stacksize    = 50
+}}
+{{PAGENAME}}s are used for clearing [[blockage]]s, are required to remove [[marble block]]s from the [[quarry]] by hand, and are used to break [[marble block]]s into [[a piece of marble|pieces of marble]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Chopping spot}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Wood wedge|10}}
+| {{Item|Wood billet|1}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]

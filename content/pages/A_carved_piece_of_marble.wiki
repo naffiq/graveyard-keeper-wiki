@@ -1,0 +1,117 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| cost         = 263
+| price        = 184
+| study        = {{Techpoint|Red|150}}
+| source       = [[Stone cutter II]]
+| buy          = [[Cory|Cory (T III)]]
+| sell         = [[Cory|Cory (T III)]]
+| type         = Stone
+| stacksize    = 30
+| quest        = [[Bishop]]
+| nameinternal = marble_plate_3:1
+}}
+<b>{{PAGENAME}}</b> is a refined crafting material that is used to make the highest tier of marble-work. It's one of the few items that require [[faith]] in order to craft, making them relatively precious. They are also complex, meaning they have a variety of quality levels.
+
+Regarding these varying qualities, {{Quality|copper}} carvings can be utilized within the [[church]], or bought and sold from the vendor [[Cory]], while the {{Quality|silver}} carvings are used in a variety of applications regarding the [[Graveyard]]. The {{Quality|gold}} carvings are only employed during a quest for the [[Bishop]] (and require the Mason perk to achieve); however, with the Game of Crones DLC, they are also used to craft higher-tier marble headstone sculptures.
+
+<!-- ==Quality Levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = copper}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = silver}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = gold}}
+|} -->
+
+==Recipe==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Faith|5}}
+|{{Energy|-|20}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em; text-align:center;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|150}}
+|style="text-align:left;"|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|15}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Marble cross II|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|{{PAGENAME}}|1|silver}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|30}}
+|-
+|{{Item|Marble plinth|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|{{PAGENAME}}|1|silver}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|30}}
+|-
+|{{Item|Marble sculpture|1}}
+|{{Item|{{PAGENAME}}|1|silver}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Faith|5}}
+|{{Energy|-|40}}
+|-
+|{{Item|Marble sculpture II|1}}
+|{{Item|{{PAGENAME}}|1|silver}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Faith|5}}
+|{{Energy|-|40}}
+|}
+
+==Building==
+{| class = "wikitable" style="width:40em; table-layout:fixed;"
+!colspan="2"|[[Church]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Stone church shrine}}
+|{{Item|Wooden beam|4}}<br>{{Item|{{PAGENAME}}|2|copper}}<br>{{Item|Complex iron parts|4}}
+|-
+!colspan="2"|[[Graveyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Marble columbarium}}
+|{{Item|A polished brick of marble|4}}<br>{{Item|{{PAGENAME}}|2|silver}}<br>{{Item|Porcelain funeral urn|12}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Quality || Buy Tier !! Base Cost !! Sell Tier !! Base Price
+|-
+|{{NPC|Cory}}
+|[[file:Bronze Star.png]]
+|III
+|{{Money|263}}
+|III
+|{{Money|184}}
+|}
+
+<br>
+{{Navbox-Stone}}
+[[Category:stone items]]

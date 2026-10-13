@@ -1,0 +1,137 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|20}}
+| alchemy      = 
+| source       = [[Furnace II]], [[Furnace III]]
+| buy          = None
+| sell         = None
+| cost         = 125
+| stacksize    = 30
+| type         = Glass Item
+| quest        = 
+| nameinternal = glass_1
+}}
+<b>{{PAGENAME}}</b> (formerly known as <b>glass cones</b>) are craft-able crafting resources, made in the [[furnace II]] onwards. They have a wide variety of applications, including [[alchemy]] workstations, along with several recipes that require glass containers.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Glass|2}}
+|1:30<br>{{Fuel|-|15}}<br>{{Techpoint|Red|1}}{{Techpoint|Blue|1}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Glass|2}}
+|1:00<br>{{Fuel|-|25}}<br>{{Techpoint|Red|1}}{{Techpoint|Blue|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Advanced conical flasks|3}}
+|{{Item|{{PAGENAME}}|3}}<br>{{Item|Water|1}}
+|2:30<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+||{{Item|Advanced conical flasks|3}}
+|{{Item|{{PAGENAME}}|3}}<br>{{Item|Water|1}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Ink|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|1}}<br>{{Item|Black paint|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Lye injection|5}}
+|{{Item|Alkali|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Dark injection|5}}
+|{{Item|Dark elixir|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Glue injection|5}}
+|{{Item|Glue|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Preservative injection|5}}
+|{{Item|Preservative|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Restore injection|5}}
+|{{Item|Balsamic solution|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Silver injection|5}}
+|{{Item|Silver elixir|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Gold injection|5}}
+|{{Item|Golden elixir|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|-
+|{{Item|Acid injection|5}}
+|{{Item|Acid|1}}<br>{{Item|Water|6}}<br>{{Item|{{PAGENAME}}|2}}
+|N/A
+|}
+
+==Building==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|[[file:alchemy lab workbench.png|link=alchemy lab]] [[Alchemy lab]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Study table}}
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|{{PAGENAME}}|3}}
+|-
+|{{Item|Zombie alchemy workbench}}
+|{{Item|Wooden plank|10}}<br>{{Item|Simple iron parts|6}}<br>{{Item|{{PAGENAME}}|4}}
+|}
+
+<br>
+{{Navbox-Glass}}
+[[Category:glass items]]
+[[ru:Колбы]]

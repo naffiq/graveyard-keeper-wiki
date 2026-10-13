@@ -1,0 +1,43 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Vineyard]]
+|technology = [[Farming and Nature (Tech Tree)|Grape farming]]
+|related    = [[Farming]]
+|footprint  = 3x3
+|rotatable  = False
+}}
+The '''{{lcfirst:{{PAGENAME}}}}''' is used to grow [[hops]] and [[grapes]].  How quickly things grow, the yield, and their quality is highly dependent on the fertilizers you use, any active [[sermon]]s, and your chosen [[perks]].  For more information see the page on [[farming]].
+
+==Cost==
+{| class="wikitable"
+!colspan=4|[[file:vineyard workbench.png|64px|link=vineyard workbench|Vineyard]] [[vineyard workbench|Vineyard]]
+|-
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Wooden stick|5}}
+|{{Energy|-|5}}
+|Requires: [[Farming and Nature (Tech Tree)|Grape farming]]
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Time
+|-
+|{{Item|Hops|?|animation}}<br>{{Item|Hops seed|?|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|Hops seed|4|animation}}
+|24:00
+|-
+|{{Item|Grapes|?|animation}}<br>{{Item|Grape seed|?|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|Grape seed|4|animation}}
+|36:00
+|}
+
+<br>
+{{Navbox-Vineyard}}

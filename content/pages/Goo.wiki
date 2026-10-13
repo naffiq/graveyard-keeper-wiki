@@ -1,0 +1,218 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.gif
+| source       = [[Alchemy]]
+| cost         = 
+| stacksize    = 100
+| study        = 
+| type         = Advanced alchemy resource
+| nameinternal = 
+}}
+{{PAGENAME}} is created when you fail an alchemical combination while using the [[Alchemy workbench (tier I)]] or the [[Alchemy workbench (tier II)]], where the player combines ingredients that do not equal any existing recipes.
+
+Before the [[versions|version 1.120 update]], goo was completely worthless. As of now, it's fun for those who want to experiment with alchemy on their own, and the goo can be recycled into their corresponding powders after you've collect four of them.  
+
+Also, it can be researched for a few [[Technologies|tech points]]. 
+__TOC__
+{{clear}}
+
+==Experimenting With Ingredients==
+If you randomly mix two (tier I) or three (tier II) basic resources on the alchemy workbenches, you will usually get goo, unless you luckily stumble onto a new recipe. 
+
+
+Don't be dissuaded from experimenting because you get goo! When a reaction creates goo, here's a little hint that can be used to steer you into a better recipe. When mixing powders and liquids: 
+
+E.g. if you get '''blood'''{{item|goo||variant=blood}} one of the ingredients may have to be replaced by {{item|blood}} instead of {{item|water}}.
+
+The advanced alchemy resources, like blood, alcohol, water, ash, etc. are the simplest to experiment with, as they don't come in any variants. An excellent result is when you get '''normal'''{{item|goo||variant=normal}} when mixing the second-tier alchemical agents. This means that there are no recipes with these two (or three) ingredients in this order. E.g.
+
+:{{item|water}} + {{item|alcohol}} -> '''normal'''{{item|goo||variant=normal}}
+
+means there are no recipes that use water in the first or alcohol in the second place on a tier I workbench.
+
+The basic resources, like powders, solutions, and extracts are more complicated, as an acceleration{{item|goo||variant=acceleration}} could mean that you have to use {{item|acceleration powder}}, {{item|acceleration solution}}, or {{item|acceleration extract}}. Which one is right? Well, you have to figure it out on your own.
+
+Now, to make things a little more complicated, you may get different variants of goo even when you mix the same two (or three) ingredients together. This is because more than one recipe is possible with the same ingredient(s). The resulting type of goo can refer to the first, the second, or the third ingredient used. A tier II workbench will yield two goo, so in this case, if you want to change your recipe, you have to keep one ingredient and change the two others accordingly.
+
+=== Example===
+Say you used a tier 1 workbench (with 2 ingredients): be sure to always use one or both your powder and solution of choice. Advanced ingredients can be used as well, though they are not in the following example:
+
+:{{item|acceleration powder}} + {{item|toxic solution}} -> '''slowing'''{{item|goo||variant=slowing}}
+
+Now try either of these:
+
+:{{item|acceleration powder}} + {{item|slowing solution}} -> {{item|energy elixir}} (first version)
+:{{item|slowing powder}} + {{item|toxic solution}} -> '''acceleration'''{{item|goo||variant=acceleration}}
+
+Leading to: 
+
+:{{item|slowing powder}} + {{item|acceleration solution}} -> {{item|energy elixir}} (second version)
+:{{item|acceleration powder}} + {{item|toxic solution}} -> '''slowing'''{{item|goo||variant=slowing}} (already tried)
+
+So, with only 4 tries, you discovered two different ways to create an energy elixir. That's quite fast, especially if you take into account that you've got (19*19=) 361 possibilities while mixing the 8 powders and solutions, not to mention the 11 advanced resources, together.
+
+==Usage==
+Don't throw away your goo, like you used to do before the update! 
+
+After researching the different types of goo on the [[study table]], and after gaining the corresponding scientist perk, you will discover that four of a kind can broken back down into the related powder or solution it was derived from. Depending on the equipment you use to break down the goo ([[Hand mixer|mixer]], [[Alchemy mill|mill]] or [[Distillation cube|distillery]]), it will change what type of resource ([[powder]], [[extract]] or [[solution]]) you get. 
+
+The goo created with advanced resources will yield only one possible type, meaning it's not possible to create blood powder or other such things.
+
+This can be used to turn quite common alchemical resources (like water) into rarer ones, which you are not (yet) able to obtain otherwise. Note that you have to use 8 ingredients on a tier 1 workbench to create 4 goo, which produce 2 other ingredients (scientist perk assumed). That's a loss of 75%, but it might be worth it if you need a special resource.
+
+==Variants==
+Here is an overview of all 20 goo variants, how they are researched, what can be made of them, and which machine has to be used:
+
+{| class="wikitable" style="text-align:center" 
+!Name
+! colspan="3" |Research
+!Product
+! style="width:10em;" |Machine
+|-
+|Acceleration {{item|goo||variant=Acceleration}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Acceleration extract}}<br>{{item|Acceleration powder}}<br>{{item|Acceleration solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Alcohol {{item|goo||variant=Alcohol}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|blue|1}}
+|{{item|Alcohol}}
+|[[Hand mixer]]
+|-
+|Ash {{item|goo||variant=Ash}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|red|1}}
+|{{item|Ash}}
+|[[Alchemy mill]]
+|-
+|Blood {{item|goo||variant=Blood}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|red|1}}
+|{{item|Blood}}
+|[[Hand mixer]]
+|-
+| Chaos {{item|goo||variant=Chaos}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|blue|1}}
+|{{item|Chaos extract}}<br>{{item|Chaos powder}}<br>{{item|Chaos solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Death {{item|goo||variant=Death}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|blue|1}}
+|{{item|Death extract}}<br>{{item|Death powder}}<br>{{item|Death solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Electric {{item|goo||variant=Electric}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|red|1}}
+|{{item|Electric powder}}
+|[[Alchemy mill]]
+|-
+|Gold {{item|goo||variant=Gold}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|blue|1}}
+|{{item|Gold powder}}
+|[[Alchemy mill]]
+|-
+|Graphite {{item|goo||variant=Graphite}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Graphite powder}}
+|[[Alchemy mill]]
+|-
+|Health {{item|goo||variant=Health}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Health extract}}<br>{{item|Health powder}}<br>{{item|Health solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Life {{item|goo||variant=Life}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|blue|1}}
+|{{item|Life extract}}<br>{{item|Life powder}}<br>{{item|Life solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Normal {{item|goo||variant=Normal}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|5}}
+|None<br>''Five techpoints is not a typo.''
+|Can be used as an ingredient in [[alchemy]] workbenches (tier I and II).
+|-
+|Oil {{item|goo||variant=Oil}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Oil}}
+|[[Hand mixer]]
+|-
+|Order {{item|goo||variant=Order}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Order extract}}<br>{{item|Order powder}}<br>{{item|Order solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Salt {{item|goo||variant=Salt}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|red|1}}
+|{{item|Salt}}
+|[[Alchemy mill]]
+|-
+|Silver {{item|goo||variant=Silver}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|blue|1}}
+|{{item|Silver powder}}
+|[[Alchemy mill]]
+|-
+|Slowing {{item|goo||variant=Slowing}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Slowing extract}}<br>{{item|Slowing powder}}<br>{{item|Slowing solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Toxic {{item|goo||variant=Toxic}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Toxic extract}}<br>{{item|Toxic powder}}<br>{{item|Toxic solution}}
+|[[Distillation cube]]<br>[[Alchemy mill]]<br>[[Hand mixer]]
+|-
+|Water {{item|goo||variant=Water}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|Water}}
+|[[Hand mixer]]
+|-
+|White {{item|goo||variant=White}}
+|{{item|science|1}}
+|5 {{energy}}
+|{{techpoint|green|1}}
+|{{item|White powder}}
+|[[Alchemy mill]]
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+
+[[Category:Alchemy]]
+[[pt-br:Gosma]]
+[[es:Pringue]]

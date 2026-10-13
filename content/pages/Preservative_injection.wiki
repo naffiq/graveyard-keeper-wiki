@@ -1,0 +1,47 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Embalming Injection
+| nameinternal = 
+| study        = N/A
+
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 5
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is used at the embalming table to halt body decay.  
+
+==Recipe==
+{| class="wikitable" style = "width:35em;"
+! colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Preservative|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+==Crafting==
+{| class = "wikitable"
+! colspan="3"|{{Item|Embalming table}}
+|-
+!style = "width:15em;|Item Produced
+!style = "width:15em;|Required Materials
+!Notes
+|-
+|{{Item|Corpse|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Corpse|1}}
+|Halts body decay
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Embalming injections]]
+
+[[Category:Alchemy]]
+[[es:Inyección conservadora]]
+[[pt-br:Injeção de conservante]]

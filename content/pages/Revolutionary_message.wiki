@@ -1,0 +1,71 @@
+
+Revolutionary messages 1, 2, and 3 are obtained from [[Donkey]], in the contraband box.
+
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | Revolutionary message 
+|-
+!Products
+!Materials required
+|-
+|{{Item|Red apple|5}}
+|-
+||[[Cookbook]]
+|{{Item|Pen and ink|2}}
+{{Item|Clean paper|10}}
+{{Item|Red wine|1}}
+|}
+
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | Revolutionary message 1
+|-
+!Products
+!Materials required
+|-
+|{{Item|Faith|5}}
+|-
+||{{Item|Aphorisms about the evils of money}}
+|{{Item|Pen and ink|1}}
+{{Item|Clean paper|1}}
+{{Item|Story|1}}
+|}
+
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | Revolutionary message 2
+|-
+!Products
+!Materials required
+|-
+||[[Magic Pumpkin]]
+|{{Item|Pumpkin|1}} talk to [[Clotho]]
+|-
+|{{Item|Battle horseshoes|1}}
+{{Item|Iron unicorn horns|1}}
+| Give [[Krezvold]] the [[Pile of components]] and some money.
+|}
+
+
+
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | Revolutionary message 3
+|-
+!Products
+!Materials required
+|-
+|Paint Cans
+|{{Item|Black paint|2}}
+{{Item|White paint|2}}
+|-
+|{{Item|Jelly of incredible power|5}}
+|{{Item|Green jelly|5}}
+{{Item|Flour|5}}
+|-
+|{{Item|Revolutionary donkey banner|1}}
+|{{Item|Silk|1}}
+{{Item|White paint|1}}
+|}
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]
+
+[[de:Revolutionäre Nachricht]]

@@ -1,0 +1,128 @@
+{{stub}}{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Kitchen 1.png 
+|location   = [[Refugee camp]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+The <b>{{PAGENAME}}</b> is a <i>[[Game of Crone]]s</i>-specific construct, located in the [[refugee camp]], just north of the garden. It crafts autonomously, presumably operated by the refugees - if not the [[cook]], as her presence isn't required in order to construct it or be operated. The required materials need to be stored in the [[storehouse]], and while the player cannot choose specifically which recipes are made, the recipes do not need to first be unlocked through [[Cookery (Tech Tree)|Cookery]].
+
+==Cost==
+{|class="wikitable" style="width:40em"
+|-
+!Icon
+!style="width:15em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|[[File:GoC Cooking table.png|center|80x80px]]
+|{{Item|Nails|12}}<br>{{Item|Flitch|6}}
+|{{Energy|-|30}}
+|
+|}
+
+==Recipes==
+{|class="wikitable" style="width:40em"
+! colspan="4" |Tier 1
+|-
+!Item Produced
+!Materials Required
+!style="width:4em;"|Time
+!Requirement
+|-
+|{{Item|Flour|1}}
+|{{Item|Wheat|1}}
+|0:04
+|
+|-
+|{{Item|Dough|4}}
+|{{Item|Flour|2}}<br>{{Item|Water|2}}
+|0:04
+|
+|-
+|{{Item|Grated carrot|1}}
+|{{Item|Carrot|1}}
+|0:10
+|
+|-
+|{{Item|Grated beets|1}}
+|{{Item|Beet|1}}
+|0:10
+|
+|-
+|{{Item|Mushroom patty|6}}
+|{{Item|Edible mushroom|6}}{{Item|Dough|2}}
+|?
+|Cooking Table II
+|-
+|{{Item|Vegetable patty|6}}
+|{{Item|Pumpkin|1|animation}}{{Item|Carrot|1}}
+
+{{Item|Dough|2}}
+|?
+|Cooking Table II?
+|-
+|{{Item|Vegetable salad|4|animation}}
+|{{Item|Onion|1|animation}}<br>{{Item|Beet|1}}<br>{{Item|Cabbage|1}}
+|0:15
+|Cooking Table II?
+|-
+|{{Item|Creamy vegetable soup|4|animation}}
+|{{Item|Carrot|1|}}<br>{{Item|Lentils|1|animation}}<br>{{Item|Pumpkin|1|animation}}
+|0:30
+|Cooking Table II?
+|-
+|{{Item|Lentil cutlets|4|animation}}
+|{{Item|Lentils|2|animation}}
+|0:30
+|Cooking Table II?
+|-
+|{{Item|Vegetable stew|4|animation}}
+|{{Item|Pumpkin|1|animation}}<br>{{Item|Beet|1}}<br>{{Item|Cabbage|2}}
+|1:00
+|Cooking Table II?
+|-
+|{{Item|Cream of mushroom soup|4}}
+|{{Item|Edible mushroom|6}}{{Item|Jug of milk|1}}
+|?
+|Cooking Table
+II
+|-
+|{{Item|Boiled egg|1}}
+|{{Item|Chicken egg|1}}
+|?
+|[[Tanner]]'s
+[[Fence supplies for farm|animal farm]]
+|-
+|{{Item|Pastry dough|4}}
+|{{Item|Flour|2}}<br>{{Item|Jug of milk|1}}<br>{{Item|Egg|1}}
+|0:04
+|[[Tanner]]'s
+[[Fence supplies for farm|animal farm]]
+|-
+|{{Item|Honey pudding|4}}
+|{{Item|Egg|2}}{{Item|Butter|1}}
+
+{{Item|Honey|2}}
+|
+|[[Tanner]]'s
+[[Fence supplies for farm|animal farm]]
+|-
+|2x Cheese Pie
+|1x Pastry dough
+1x Cheese
+|?
+|Tanners animal farm
+|-
+|1x Cheese
+|1x Jug of Milk
+|?
+|Tanners animal farm
+|}
+
+<br>
+{{Navbox-Refugee camp}}
+[[Category:Workstations]]
+[[Category:Refugee camp]]

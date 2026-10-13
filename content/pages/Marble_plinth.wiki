@@ -1,0 +1,43 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Grave Marker
+| nameinternal = 
+| study        = {{Techpoint|Blue|90}}
+| source       = [[Stone cutter II]]
+| quest        = 
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a grave decoration which provides +6 {{Grave Decor}} when placed on a [[gravesite]], after a [[corpse]] has been buried there. Installing or uninstalling any grave decoration costs {{Energy|5}}. Unlike lower-tier decorations, marble decor can ''not'' be recycled. For more information, see [[graveyard]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|silver}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|20}}<br>{{Techpoint|Red|5}} {{Techpoint|Blue|15}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Blue|90}}
+|{{Item|Faith|8}}<br>{{Item|Science|8}}
+|{{Energy|-|10}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Graves}}
+[[Category:Grave markers]]
+[[Category:Graveyard items]]

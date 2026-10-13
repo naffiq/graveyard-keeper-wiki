@@ -1,0 +1,509 @@
+<span style="font-size: 120%; color:red;">NOTE: The encoding of the save game file seems to have changed. It is no longer possible to do a "simple" edit like this one.'''</span>
+
+It is recommended to SAVE BACKUPS before changing anything if you break your save file.
+
+= Save Location =
+On Windows, your save files are stored in your user's App Data folder: C:\Users\%username%\AppData\LocalLow\Lazy Bear Games\Graveyard Keeper\
+
+On MacOS, your save files are stored in $home/Library/Application Support/unity.Lazy Bear Games.Graveyard Keeper. Some Mac devices (such as M1)  store it in `$home/Library/Application Support/Lazy Bear Games/Graveyard Keeper/`
+
+On Linux, your save files are stored in ~/.config/unity3d/Lazy Bear Games/Graveyard Keeper/ 
+
+Save games do not automatically sync between platforms when using Steam (as of version 1.1.24). However, if you manually copy files between platforms, they seem to work.
+
+= Editor =
+I use EditPad Lite 8.
+
+Go to Options. 
+
+Configure File Types and click on Unspecified file type and then Editor Options
+
+and select Wrap long lines at the edge of EditPad's window<br><br>
+<gallery>
+File:Editor setting 3.png|
+File:Editor setting 1.png|
+File:Editor setting 2.png|
+</gallery>
+<br><br>
+
+= Editing saves =
+The saves are the .dat Files since the files are so big Notepad++ has problems opening the files so i use EditPad.<br>When you open the File you need to find this section<br>
+Which contains your Tech Points, Quest progress, Perks, Quality of Church and Graveyard and other Stuff.<br>[[File:code.png|thumb|Savefile]]
+<br><br>
+
+== Section of a Savefile  ==
+{| class="wikitable"
+|
+
+<nowiki>:</nowiki>{"_res_type":["inventory_size","sanity","energy","_sloth","_wrath","_envy","_glut","_lust","_pride","speed","witch_hill_is_closed","rednecks_spawned",<br>"in_tutorial","do_not_show_wgo_qualities","not_available_throw_body","gone_out_from_house","dig_graved_skull","lock_tp","tiredness",<br>"skull_digged","go_to_talk_with_donkey_first_time","met_donkey","before_talk_with_donkey","cur_bodies_count","go_to_mortuary_after_skull",<br>"skull_talk_body","in_morgue","skull_talk_autopsi","lock_tp_param",<br>'''''"g"'''''[[File:Green Tech Symbol.png|frameless]],<br>"tp_to_morgue_locked","tp_from_morgue_only_with_body","skull_wait_in_cemetery","waiting_for_first_bureal","donkey_on_scene",<br>"prayed_this_week","met_bishop","church_level","take_tools_from_grave_chest","tut_build_wndw_not_shown","craft_tut","goto_tavern",<br>"do_spawn_rednecks","tools_from_grave_chest_taken","test_tavern","in_tavern","was_in_tavern","_rel_npc_blacksmith","sword_has_fixed",<br>'''''"r"'''''[[File:Red Tech Symbol.png|frameless]],<br>"cur_key_char","key_to_cellar","not_first_cellar_visit","everyday_cultist_come","graveyard_qual"[[File:Graveyard Rating Symbol.png|frameless]],"church_qual"[[File:Church Rating Symbol.png|frameless]],"confession_probability",<br>"p_t_beeswax","do_remove_rednecks","donkeys","temp_morgue_zone","inquisitor_waits_under_mountains","inquisitor_waits_under_mountains_2",<br>"met_inquisitor","on_witch_burning","need_to_remove_guards","huray_finished","_rel_npc_inquisitor","church_quality","graveyard_quality",<br>"_rel_npc_tavern owner","tired",<br>'''''"b"'''''[[File:Blue Tech Symbol.png|frameless]],<br>"p_collector","p_t_butterfly","p_t_moth","p_t_bee","p_beekeeper2","p_blacksmith","p_fireman","p_big_guy","add_armor","add_damage",<br>"p_engineer","p_t_gold_ore","p_t_silver_ore","p_axeman","p_t_pirit","p_t_sulfur","p_t_lifestone","p_woodworker","p_mason","p_miner",<br>"_rel_crafting_skull_3","met_cultist","thrown_bodies","fixed_morgue_throw","_rel_npc_bishop","cup_20_reached","body_min","body_max",<br>"p_preacher","first_time_preaching","first_sermon","p_t_old_books","p_naturalist","p_cardinal","p_journalist","p_writer","p_good_writer",<br>"_rel_npc_royal_box","saw_garden"],<br>
+"_res_v":[20.0,100.0,100.0,250.0,250.0,250.0,250.0,250.0,250.0,3.2994,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,
+0.0,<br>
+'''''2187.0'''''[[File:Green Tech Symbol.png|frameless]],<br>
+0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10.0,1.0,<br>
+'''''2088.0'''''[[File:Red Tech Symbol.png|frameless]],<br>
+5.0,1.0,1.0,1.0,5.0,5.0,0.10612,1.0,0.0,12.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,5.0,0.0,10.0,0.0,<br>
+'''''2781.0'''''[[File:Blue Tech Symbol.png|frameless]],<br>
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,10.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,<br>1.0,1.0,100.0,1.0],"_hp":1290.0,"_progress":0.0,"_money":9414.63,"_durability":1.0}
+|}
+if you type (:{"_res_type":)+[^}]+\} into the search bar and select Regex it should be the first one<br>
+everything after :{"_res_type": is the name of the number under "_res_v":<br>
+For Example "inventory_size" would be the first number after "_res_v": in this case 20.0<br><br>
+In this case lets say i want to change the number of the Green Tech Points[[File:Green Tech Symbol.png|frameless]]. To do this i would need to count everything that is in "", 
+{| class="wikitable"
+|"inventory_size","sanity","energy","_sloth","_wrath","_envy","_glut","_lust","_pride","speed","witch_hill_is_closed","rednecks_spawned",<br>"in_tutorial","do_not_show_wgo_qualities","not_available_throw_body","gone_out_from_house","dig_graved_skull","lock_tp","tiredness",<br>"skull_digged","go_to_talk_with_donkey_first_time","met_donkey","before_talk_with_donkey","cur_bodies_count","go_to_mortuary_after_skull",<br>"skull_talk_body","in_morgue","skull_talk_autopsi","lock_tp_param",<br>'''''"g"'''''[[File:Green Tech Symbol.png|frameless]],
+|}
+until i get to the one i want to change. In This Case "g", for the Green Tech Points. which would be 30
+now i would need to count the numbers after "_res_v": until i get to 30tens in this case 2187.0 which i could now change to wathever number i want.
+{| class="wikitable"
+|20.0,100.0,100.0,250.0,250.0,250.0,250.0,250.0,250.0,3.29284,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,
+0.0,<br>
+'''''2187.0'''''[[File:Green Tech Symbol.png|frameless]],
+|}<br><br>
+
+=== noteworthy parameters ===
+{| class="wikitable"
+!SLayer
+!Explantion
+!Notes
+|-
+|-
+|"inventory_size",
+|Size of your Inventory
+|even works with numbers where you dont have a 5 or 0 at the end
+|-
+|"_money":9414.63
+|Your Money
+|where .63{{Copper Coin}}, 14{{Silver Coin}} and everything over 99 {{Gold Coin}}
+|-
+|"church_qual",
+|Your Cross Rating[[File:Church Rating Symbol.png|frameless]]
+|999999999
+|-
+|"graveyard_qual",
+|your Skull Rating[[File:Graveyard Rating Symbol.png|frameless]]
+|999999999
+|}
+
+=== Tech Points ===
+{| class="wikitable"
+!SLayer
+!Explantion
+!Notes
+|-
+|"b",
+|Blue Tech Points[[File:Blue Tech Symbol.png|frameless]]
+|999999999
+|-
+|"r",
+|Red Tech Points[[File:Red Tech Symbol.png|frameless]]
+|999999999
+|-
+|"g",
+|Green Tech Points[[File:Green Tech Symbol.png|frameless]]
+|999999999
+|}
+
+=== Perks ===
+The Perks start with "p_<br>
+For Perks you need to change the Number to 1.0
+{| class="wikitable"
+!
+!colspan="6"|Perks
+|-
+|Icon
+|Name
+|Save Name
+|-
+|-
+| [[File:Preacher Perk.png|link=]]
+| Preacher
+| "p_preacher",
+|-
+| [[File:Curious Mind Perk.png|link=]]
+| Curious Mind
+| "p_magnifier",
+|-
+| [[File:Cardinal Perk.png|link=]]
+| Cardinal
+| "p_cardinal",
+|-
+| [[File:Farmer Perk.png|link=]]
+| Farmer
+| "p_farmer"
+|-
+| [[File:Axeman Perk.png|link=]]
+| Axeman
+| "p_axeman",
+|-
+| [[File:Blacksmith Perk.png|link=]]
+| Blacksmith
+| "p_blacksmith",
+|-
+| [[File:Fireman Perk.png|link=]]
+| Fireman
+| "p_fireman",
+|-
+| [[File:Big Guy Perk.png|link=]]
+| Big Guy
+| "p_big_guy",
+|-
+| [[File:Miner Perk.png|link=]]
+| Miner
+| "p_miner",
+|-
+| [[File:Carpenter Perk.png|link=]]
+| Carpenter
+| "p_woodworker",
+|-
+| [[File:Mason Perk.png|link=]]
+| Mason
+| "p_mason",
+|-
+| [[File:Journalist Perk.png|link=]]
+| Journalist
+| "p_journalist",
+|-
+| [[File:Writer Perk.png|link=]]
+| Writer
+| "p_writer",
+|-
+| [[File:Playwright Perk.png|link=]]
+| Playwright
+| "p_good_writer"
+|-
+| [[File:Beefriend Perk.png|link=]]
+| Beefriend
+| "p_beekeeper2",
+|-
+| [[File:i_p_butcher.png|link=]]
+| Butcher
+| "p_butcher"
+|-
+| [[File:i_p_collector.png|link=]]
+| Master gatherer
+| "p_collector"
+|-
+| [[File:Master Potter Perk.png|link=]]
+| Master potter
+| "p_master_potter"
+|-
+| [[File:i_p_cultist.png|link=]]
+| Cultist
+| "p_cultist"
+|-
+| [[File:i_p_doctor.png|link=]]
+| Surgeon
+| "p_doctor"
+|-
+| [[File:i_p_scientist.png|link=]]
+| Scientist
+| "p_scientist"
+|-
+| [[File:i_p_sword_master.png|link=]]
+| Sword master
+| "p_sword_master"
+|-
+| [[File:i_p_wine_master.png|link=]]
+| Wine master
+| "p_wine_master"
+|-
+| colspan=3 | unconfirmed
+|-
+| [[File:Naturalist Perk.png|link=]]
+| Naturalist (goes to curious mind)
+| "p_naturalist"
+|-
+| [[File:i_p_jeweler.png|link=]]
+| Jeweler
+| "p_jeweler"
+|-
+| [[File:i_p_blabla.png|link=]]
+| ?
+| "p_blabla"
+|-
+| [[File:i_p_brewer.png|link=]]
+| Brewer
+| "p_brewer"
+|-
+| [[File:i_p_cook.png|link=]]
+| Cook
+| "p_cook"
+|-
+| [[File:Natural Writer Perk.png|link=]]
+| Natural writer
+| "p_natural_writer"
+|-
+| [[File:i_p_skinner.png|link=]]
+| Skinner
+| "p_skinner"
+|-
+| [[File:i_p_wine_master2.png|link=]]
+| Wine master II
+| "p_wine_master2"
+|-
+| [[File:i_p_writer_thief.png|link=]]
+| plagiarist
+| "p_writer_thief"
+|-
+|}<br><br>
+
+=== NPC Relationship ===
+Starts with "_rel_npc_ <br>
+Number goes from 0.0 t0 100.0 <br>
+If it was never over 0 it doesnt save it.
+{| class="wikitable"
+!
+!colspan="6"|Npc
+|-
+|Icon
+|Name
+|Save Name
+|-
+|-
+|[[File:Blacksmith.png|frameless|80x80px]]
+|[[Blacksmith]]
+|"_rel_npc_blacksmith",
+|-
+|[[File:Inquisitor.png|frameless|80x80px]]
+|[[Inquisitor]]
+|"_rel_npc_inquisitor",
+|-
+|[[File:Horadric.png|frameless|80x80px]]
+|[[Horadric]]
+|"_rel_npc_tavern owner",
+|-
+|[[File:Episcot.png|frameless|80x80px]]
+|[[Bishop]]
+|"_rel_npc_bishop",
+|-
+|
+|Royal Box
+|"_rel_npc_royal_box",
+|-
+|[[File:Astrologer.png|frameless|80x80px]]
+|[[Astrologer]]
+|"_rel_npc_astrologer",
+|-
+|[[File:Shepherd.png|frameless|80x80px]]
+|[[Shepherd]]
+|"rel_npc_shepherd",
+|-
+|[[File:Cory.png|frameless|80x80px]]
+|[[Cory]]
+|"_rel_npc_carpenter",
+|-
+|[[File:Dig.png|frameless|80x80px]]
+|[[Dig]]
+|"_rel_npc_dig",
+|-
+|[[File:Farmersson.png|frameless|80x80px]]
+|[[Farmer's Son]]
+|"_rel_npc_farmers son",
+|-
+|[[File:Mrs. Chain.png|frameless|80x80px]]
+|[[Mrs. Chain]]
+|"_rel_npc_mrs chain",
+|-
+|[[File:Actor.png|frameless|80x80px]]
+|[[Actor]]
+|"_rel_npc_actor",
+|-
+|[[File:Wood cutter.png|frameless|80x80px]]
+|[[Woodcutter|Wood Cutter]]
+|"_rel_wood_cutter",
+|-
+|[[File:Tress.png|frameless|80x80px]]
+|[[Tress]]
+|"_rel_npc_engineer",
+|-
+|[[File:Miller.png|frameless|80x80px]]
+|[[Miller]]
+|"_rel_npc_miller",
+|-
+|[[File:Captain.png|frameless|80x80px]]
+|[[Captain]]
+|"_rel_npc_captain",
+|-
+|[[File:Farmers Daughter.png|frameless|80x80px]]
+|[[Farmers Daughter]]
+|"_rel_npc_farmers_daughter",
+|-
+|[[File:Potter.png|frameless|80x80px]]
+|[[Potter]]
+|"_rel_npc_potter",
+|-
+|[[File:Merchant.png|frameless|80x80px]]
+|[[Merchant]]
+|"_rel_npc_merchant",
+|-
+|[[File:Snake.png|frameless|80x80px]]
+|[[Cultist]]
+|"_rel_npc_cultist",
+|-
+|[[File:Lighthouse_Keeper_NPC.png|frameless|80x80px]]
+|[[Lighthouse Keeper]]
+|"_rel_npc_light_keeper",
+|-
+|[[File:Ms._Charm.png|frameless|80x80px]]
+|[[Actress]]
+|"_rel_npc_actress",
+|-
+|[[File:Rosa.png|frameless|80x80px]]
+|[[Rosa]]
+|"_rel_npc_shepherds_wife",
+|-
+|[[File:Farmer.png|frameless|80x80px]]
+|[[Farmer]]
+|"_rel_npc_farmer",
+|-
+|[[File:Clotho.png|frameless|80x80px]]
+|[[Witch]]
+|"_rel_npc_witch",
+|-
+|}
+<code>
+_rel_npc_tavern owner
+_rel_npc_bishop
+_rel_npc_astrologer
+_rel_npc_royal_box
+_rel_npc_shepherd
+_rel_npc_carpenter
+_rel_npc_dig
+_rel_npc_farmers son
+_rel_npc_mrs chain
+_rel_npc_actor
+_rel_wood_cutter
+_rel_npc_engineer
+_rel_npc_miller
+_rel_npc_captain
+_rel_npc_farmers_daughter
+_rel_npc_potter
+_rel_npc_merchant
+_rel_npc_inquisitor
+_rel_npc_cultist
+_rel_npc_light_keeper
+_rel_npc_actress
+_rel_npc_shepherds_wife
+_rel_npc_farmer
+_rel_npc_witch
+</code>
+
+=== Unlocked Crafts ===
+<code>"unlocked_crafts":[</code>
+<br>''best used before 0.676 or earlier, getting partially disabled''
+<br><small>''Omitted a lot of broken ones</small>''
+
+* Workyard
+** Jewelers Station <code>"mf_wood_builddesk:p:mf_jewelry_place",</code>
+*** Silver jewelry details <code>"jewelry_detail_silver",</code>
+*** Gold jewelry details <code>"jewelry_detail_gold",</code>
+*** Damask sword with gem <code>"sword_damask_gem",</code>
+** (Workyard) Chest <code>"mf_wood_builddesk:p:chest_place",</code>
+** Stonecutter I <s><code>"mf_wood_builddesk:p:mf_hammer_0_place",</code></s>
+*** Piece of marble (from slab) <code>"marble_plate_1",</code>
+*** Polished piece of marble <code>"marble_plate_2",</code>
+*** Carved piece of marble <code>"marble_plate_3",</code>
+<!--*** Marble repair <code>"repair_mrb",</code>-->
+** Stonecutter II <s><code>"mf_wood_builddesk:p:mf_hammer_1_place",</code></s>
+*** Piece of marble (from slab) <code>"marble_plate_1_2",</code>
+*** Polished piece of marble <code>"marble_plate_2_2",</code>
+*** Carved piece of marble <code>"marble_plate_3",</code>
+<!--*** Marble repair <code>"repair_mrb_2",</code>-->
+*** Marble Grave Fence <code>"grave_bot_mrb_1",</code>
+*** Marble Cross <code>"grave_top_mrb_cross_1",</code>
+*** Marble Grave Fence II <code>"grave_bot_mrb_2",</code>
+*** Marble Cross II <code>"grave_top_mrb_cross_2",</code>
+*** Marble Plinth <code>"grave_top_stella_mrb_1",</code>
+*** Marble Sculpture <code>"grave_top_sculpt_mrb_1",</code>
+*** Marble Sculpture II <code>"grave_top_sculpt_mrb_2",</code>
+*** Marble Sacrofag <code>"grave_top_sarcofag_mrb_1",</code>
+** Workbench for wood II <s><code>"mf_wood_builddesk:p:mf_workbench_2_place",</code></s>
+*** Carved wood <code>"carved_wood",</code>
+*** Magic wood plank <code>"wood_magic_1",</code>
+*** Steel sword <code>"sword_steel",</code>
+*** Steel armor <code>"armor_lamellar_2",</code>
+*** Steel sword with gem <code>"sword_steel_gem",</code>
+** Furnace II <s><code>"mf_wood_builddesk:p:mf_furnace_1_place",</code></s>
+*** Silver ingot <code>"ingot_silver",</code>
+*** Gold ingot <code>"ingot_gold",</code>
+** Furnace III <s><code>"mf_wood_builddesk:p:mf_furnace_2_place",</code></s>
+*** Silver ingot <code>"ingot_silver_2",</code>
+*** Gold ingot <code>"ingot_gold_2",</code>
+* Mortuary
+** Preparation place II <code>"morgue_builddesk:p:mf_preparation_2_place",</code>
+** Embalming table II <code>"morgue_builddesk:p:mf_balsamation_2_place",</code>
+** Double pallet <code>"morgue_builddesk:p:corpse_bed_big_place",</code>
+** Fridge pallet <code>"morgue_builddesk:p:corpse_fridge_place",</code>
+* Church
+** Confessional II <code>"church_builddesk:p:church_budka_2_place",</code>
+** Stone shrine <code>"church_builddesk:p:church_table_2_place",</code>
+** Candelabrum 3 <code>"church_builddesk:p:candelabrum_3",</code>
+** Incense burner II <code>"church_builddesk:p:c_obj_incense_2_place",</code>
+** Soft church bench <code>"church_builddesk:p:church_bench_2",</code>
+* Alchemy lab
+** Church workbench <s><code>"alchemy_builddesk:p:table_book_constr_place"</code></s>
+*** Red candle <code>"candle_6",</code>
+*** Incense II <code>"incense_2",</code>
+*** Embalming fluid <code>"embalm_2_0",</code>
+*** Embalming fluid <code>"embalm_0_1",</code>
+*** Embalming fluid <code>"embalm_50",</code>
+*** Embalming fluid <code>"embalm_-1_1",</code>
+*** Embalming fluid <code>"embalm_-2_2",</code>
+*** Embalming fluid <code>"embalm_stop",</code>
+** Distillation cube II <code>"alchemy_builddesk:p:mf_distcube_2_cuprum_place",</code>
+* Slightly broken stuff
+** Alchemy Tier I (alternate) <code>"alchemy_builddesk:p:mf_alchemy_craft_02_place",</code><br>''Strange single slot variant''
+** Wooden pray stand <code>"graveyard_builddesk:p:pray_stand_wd_place",</code>
+** Scarecrow <code>"garden_builddesk:p:scarecrow",</code>
+
+=== Unlocked Phrases===
+<code>"unlocked_phrases":[</code>
+''Jumping over alpha blocks''
+
+* Once you give the red fish fillet to the bishop:
+** <code>"@bishop_6d",</code>
+*** Item called <code>building_permission</code><br>''couldn't figure out how to unlock the mailbox to give you the option''
+* Once you give the merchant the hiccup grass:
+** <code>"@merchant_on_cure",</code>
+*** Item called <code>taste_booster:salt</code> to make <code>taste_booster:alchemy_1_spice</code> by Clotho's description.
+**** Optionally at <code>"black_list_of_phrases":[</code> <code>"Ñlotho_need_help",</code> to clear that talk option
+**** Next item in line (that was briefly in 0.677) <code>dinner:3</code> you need 5 of them
+* Once the merchant tells you to wait a week (which doesn't work):
+** <code>"@merchant_traide_license","@merchant_strategy",</code>
+*** Item called <code>merchant_traide_license</code><br>''there is more dialog but functionally is quite lacking as it is here''
+<!--"merchant_2a","@merchant_2b","@merchant_2e","merchant_2c","@merchant_new_trade","@merchant_forgive","@merchant_forgive_pay","@merchant_favore","@merchant_favore_done","@merchant_on_cure","@merchant_dinner","@merchant_traide_license","@merchant_strategy","@merchant_business","@merchant_70","merchant_2d"-->
+**** shortcut that should unlock <code>"_params":{"_res_type":[</code> (the first from start of file)<br>add new value <code>"key_to_storage"</code> (recommend end) <code>],"_res_v":[</code> add accompanied value <code>1.0</code> (opens storage\mortuary shortcut)
+
+== Community Fixes ==
+{{bug|M=yes|term=Mostly problems|caused by unlocking things in version 0.674}}<br>
+Find these strings and make sure they read like provided
+
+Black space where workyard expansion is supposed to be:<br>
+<code>
+{"gd_tag":"upgrade_player_buildzone_gd","enabled":true},{"gd_tag":"buildzone_player_before_upgrade","enabled":false},
+</code>
+
+The cursed west graveyard can't be build even when unlocked:<br>
+<code>
+{"gd_tag":"graveyard_buildzone_1_gd","enabled":false},{"gd_tag":"graveyard_buildzone_2_gd","enabled":true},
+</code>
+
+
+Missing stone polishing recipes:<br>
+<code>
+"mf_wood_builddesk:p:mf_hammer_1_place","stone_plate_2","stone_plate_3","stone_plate_1_2","stone_plate_2_2","stone_plate_2_3","stone_plate_2_4",
+</code>
+<br>
+Stonecutter II, polished stone with paste, carved fancy stone, polished stone with chisel, stone from stone block, polished stone with paste on SCII, polished stone with chisel on SCII
+
+Missing printing press upgrade:<br>
+<code>
+"alchemy_builddesk:p:mf_printing_press_2_place","mf_printing_press_1_to_2",
+</code>
+
+Writing desk II missing (but still bugged) paper glob:
+<code>
+"pail_wet_paper_2",
+</code>
+
+[[https://graveyardkeeper.gamepedia.com/Category:Wiki pages]]

@@ -1,0 +1,32 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|33}}
+| nameinternal = snack:pancakes
+| study        = 
+| source       = [[Cooking]]
+| cost         = 33
+}}
+
+A food item which restores {{Energy|+|33}} when consumed.  Since the items which can be used to craft {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Pancakes|5}}
+|{{Item|Butter|1}}
+{{Item|Jug of milk|1}}
+
+{{Item|Pastry dough|1}}
+
+{{Item|Fuel|10}}
+|}
+Recipe is learned by using [[Recipe sweet baking]], which can be purchased from [[Miss Chain]].{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]

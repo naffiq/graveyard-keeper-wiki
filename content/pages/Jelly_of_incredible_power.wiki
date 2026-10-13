@@ -1,0 +1,19 @@
+
+Source: [[Revolutionary message]] 3, obtained from [[Donkey]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!Products
+!Materials required
+|-
+|{{Item|Jelly of incredible power|1}}
+|{{Item|Green jelly|1}}
+{{Item|Flour|1}}
+|}
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]

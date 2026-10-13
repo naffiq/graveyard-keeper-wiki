@@ -1,0 +1,65 @@
+==Corpse symbols==
+These represent base Grave Rating. It can be increased with proper corpse care. Symbols include:
+
+{{White Skull}} These are positive skulls. You want as many as possible for a high rating. The quality of a grave cannot exceed the number of white skulls. Even if you have a nice gravestone and fence, a corpse with only a single white skull or only allows a +1 Grave Rating.
+
+{{Red Skull}} These are unwanted negative skulls. Each of these adds a -1 Grave Rating. A single red skull will subtract from any bonuses, regardless of number of white skulls and Grave Rating.
+
+{{Green Skull}} These appear over time as the corpse degrades and are like red skulls. Once these appear, you cannot remove them.
+
+==Corpses==
+Corpse percentage decreases gradually, once [[Donkey]] rings the delivery bell. If it falls to <90%, it will add a green skull to a corpse. Letting the corpse to degrade may result in more green skulls. If you cannot do an autopsy immediately, put the body on a pallet to prevent degradation. If a body needs significant processing, it may be wise to put the corpse on a pallet and sleep for full energy. Note that each pallet increases body capacity, increasing the rate of delivered corpses.
+
+==Corpse Disposal==
+Corpses can be disposed of by either throwing them into the river or burning them. Burning corpses will give you [[ash]], [[salt]] and a [[Burial certificate|Burial certificate,]] and can be done to the south of the [[Morgue]]. Corpses can be thrown into the river with no cost or noticeable consequence, but will not give you anything in return.
+
+It is a good idea to dispose of any corpse with a low amount of {{White Skull}}.
+
+==Corpse delivery==
+The [[Donkey]] continues delivering corpses if the number of corpses in the morgue is not full. Exhumed bodies do NOT count, so the [[Donkey]] still delivers while working on an exhumed body. Building morgue pallets increases body capacity. You can stop deliveries by placing a corpse in a grave, but DO NOT BURY IT. The corpse will stop decaying and is in-progress, so [[Donkey]] will stop delivering until burial. If you want the benefits of a pallet without increased intake, put a corpse in a grave without burial and you can manage corpses one at a time. If your body capacity is higher than 1, do this with an appropriate number of graves.
+
+==Autopsy==
+For good autopsies, know that each part you remove has a different effect on Corpse Rating. Below are effects:
+
+===Blood and fat===
+Each converts one red skull to a white skull when removed. Each corpse you autopsy should have blood and fat removed.
+
+===Skulls===
+It will add one skull to Corpse Rating when removed. This will be a red skull, so only do this if you can convert the red skull to white. You can do this to increase total Corpse Rating.
+
+===Skin===
+It converts a white skull to a red skull when removed. You do not want to do this unless you plan to toss the body and use it for crafting materials.
+
+===Bones and flesh===
+It decreases total number of skulls on your meter when removed, starting with white skulls. It is a gamble. Sometimes you can remove one of these without affecting Skull Rating, but there is a chance of removing a skull from the meter if removed.
+
+===Hearts, brains, and intestines=== 
+These are a gamble. It will remove 2 skulls from the meter, but it is possible for hearts, brains, and intestines to remove white OR red skulls from the meter when removed. There are three possible results from removing one of these:
+
+Remove: {{White Skull}}{{White Skull}}
+
+Remove: {{White Skull}}{{Red Skull}} 
+
+Remove: {{Red Skull}}{{Red Skull}} 
+
+The result of removing the heart, brain, or intestines is predetermined by corpse generation, so SAVE before processing a corpse. If you do not have a good autopsy, you can save and load and try removing a different part. With three parts and three possible results, there is one part assigned at random to each result, meaning that you can always get the desired result by removing something else.
+
+==Autopsy strategy==
+There are some corpses where you cannot guarantee perfection, but you can maximize chances of success. If you mess up or if the skull meter is too short, save and load to try again or toss it in the river. The autopsy sequence is different depending on number of red skulls on the meter. Sample strategies:
+
+{{Red Skull}} Remove Blood, then Skull, then Fat. This will increase your meter by 1 skull without any red skulls.
+
+{{Red Skull}}{{Red Skull}} Remove Blood and Fat. This will convert your red skulls and is an ideal situation for a corpse.
+
+{{Red Skull}}{{Red Skull}}{{Red Skull}} First remove the heart. If that removes two red skulls, you can remove the skull then blood and fat, for a perfect body. If removing the heart removes only one red skull, you can try again with the brain or intestines, or just remove the fat and blood. Remember you can save the game and try again. Alternatively dump the body in the river or cremate it.
+
+==Grave bonus==
+An open grave has a base rating of -2. This changes Corpse Rating if there is a buried corpse. A properly cared-for corpse will have a Grave Rating of zero when buried. Each grave decoration will add to the grave rating, but this cannot exceed the number of skulls on the corpse's meter. A top-tier stone gravestone comes at a cost of 1 stone and gives a +2 rating. A first-tier stone fence costs 2 stone and gives a +2 rating. Wooden grave markers require nails and makes them less ideal. Wooden fences only give a +1 bonus. Top-tier markers give bigger bonuses but require more technology. A basic grave should be a corpse with at least 4 white skulls (no red or green skulls), a stone gravestone and stone fence. This will give you a grave with a +4 rating. Note: If there is a corpse with a long meter or high freshness, it may give a +1 bonus.
+
+==Exhumation==
+Exhumation costs more than what you earn trading in a burial certificate ({{Money|175}}), but it allows you to fix bad autopsies (or via river disposal) and improve Grave Ratings.
+
+==Video guide==
+Autopsy Guide https://www.youtube.com/watch?v=brNg7Df4_vU&t=4s - GraffixG
+
+[[Category:Guides]]

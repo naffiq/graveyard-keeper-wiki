@@ -1,0 +1,51 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Cellar]]
+|technology = [[Farming and Nature (Tech Tree)|Digestion]]
+|related    = [[Farming]]
+|footprint  = 3x3
+|rotatable  = Mirror
+}}
+
+The {{lcfirst:{{PAGENAME}}}} is used to produce bottles of [[bottle of apple ferment|apple ferment]] and [[bottle of berry ferment|berry ferment]]. The blueprints for the {{lcfirst:{{PAGENAME}}}} will become accessible after unlocking [[Farming and Nature (Tech Tree)|Digestion]] in the Farming and nature technology tree.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|8}}
+{{Item|Simple iron parts|4}}
+|{{Energy|-|7}}
+|Requires: Digestion
+|}
+
+==Recipes==
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Time
+!Notes
+|-
+|{{Item|Bottle of apple ferment|10|animation}}
+|{{Item|Pail of apple juice|2}}
+| 4:00
+|{{Item|Bottle of apple ferment}} Restores {{Energy|+|15}}
+|-
+|{{Item|Bottle of berry ferment|10|animation}}
+|{{Item|Pail of berry juice|2}}
+| 4:00
+|{{Item|Bottle of berry ferment}} Restores {{Energy|+|20}}
+|}
+
+{{Navbox-Cellar}}
+[[Category:Workstations]]
+
+[[Category:Cellar workstations]]
+[[Category:Image requested]]

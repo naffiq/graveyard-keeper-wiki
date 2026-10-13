@@ -1,0 +1,24 @@
+Bags are items that extends the graveyard keeper's inventory.
+The player can put items into a bag by shift clicking the bag while in the inventory (not while interacting with another inventory as it would put the bag into this other inventory). When collecting items from the ground or retrieving items from another inventory, the game will first fill the bag with already one item of the type before putting the rest into the main inventory. Each bag has a unique inventory, two universal bags is an effective inventory increase of 16 slots (plus 18 minus 2 for the bags themselves).
+{| class="article-table"
+|+ Bag Summary
+! Bag !! Size !! Limitations
+|-
+| Builder's bag || 16 || 
+|-
+| Food bag || 16 || 
+|-
+| Potion bag || 16 || 
+|-
+| Tool bag || 9 || 
+|-
+| Farmer's bag || 9 || 
+|-
+| Fisherman's bag || 9 || 
+|-
+| Alchemist's bag || 9 || 
+|-
+| Universal bag || 9 || None
+|}
+
+[[Category:Graveyard Keeper]]

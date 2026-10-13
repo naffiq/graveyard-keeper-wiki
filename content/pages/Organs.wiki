@@ -1,0 +1,14 @@
+{{Item Infobox 
+| name         = Organs
+| image        = Organs item.png
+| type         = Bodypart
+| nameinternal = Organs:Organs_1
+| study        = 
+| alchemy      = 
+| source       = None
+| cost         = 
+| quest        =  
+}}
+Not obtainable.
+
+{{Navbox-Bodyparts}}

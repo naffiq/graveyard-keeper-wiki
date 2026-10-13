@@ -1,0 +1,118 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Alchemy_Lab]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|The beginning of alchemy]]
+|related    = [[Alchemy]]
+|footprint  = 6x3
+|rotatable  = mirror
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to blend many substances into solutions, usually for use in [[alchemy]].  A substance cannot be processed in the {{lcfirst:{{PAGENAME}}}} until it has been researched at the [[study table]] afterward it will list its decomposition products and anything which lists a fluid as one of its decomposition products can be processed in the {{lcfirst:{{PAGENAME}}}}.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|8}}
+|{{Energy|-|8}}
+|Requires: The beginning of alchemy.
+|}
+
+==Recipes==
+{| class = "wikitable"
+!colspan="3"|Elements
+|-
+!style="width:15em;"|Item Produced
+!style="width:15em;"|Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Acceleration solution|4}}
+|{{Item|Honey|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Acceleration solution|2}}
+|{{Item|Blue jelly|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Chaos solution|2}}
+|{{Item|Moth|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Chaos solution|1}}
+|{{Item|Bat wing|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Death solution|2}}
+|{{Item|Dark brain|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Death solution|2}}
+|{{Item|Black jelly|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Health solution|3}}
+|{{Item|Carrot|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Health solution|2}}
+|{{Item|Hiccup grass|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Health solution|2}}
+|{{Item|Cabbage|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Life solution|2}}
+|{{Item|Brain|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Life solution|1}}
+|{{Item|Maggot|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Life solution|1}}
+|{{Item|Yellow flower|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Order solution|3}}
+|{{Item|Bee|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Order solution|2}}
+|{{Item|Green jelly|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Order solution|1}}
+|{{Item|White flower|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Slowing solution|4}}
+|{{Item|Beeswax|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Slowing solution|3}}
+|{{Item|Hops|1|animation}}
+|{{Energy|-|5}}
+|-
+|{{Item|Slowing solution|1}}
+|{{Item|Fat|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Toxic solution|2}}
+|{{Item|Orange jelly|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Toxic solution|1}}
+|{{Item|Red mushroom|1}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]

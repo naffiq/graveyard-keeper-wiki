@@ -1,0 +1,145 @@
+This [[Technologies|technology tree]] deals with the production of knowledge and science. The early stages of the tree involve the basics of paper making and ink but later levels change how you can use stories to create more complex written resources for use in higher tier sermons and crafting.
+
+It is unlocked by reaching {{Graveyard Rating}} 5, talking to the [[Bishop]] and reopening the [[church]].
+
+{| class="wikitable" style="text-align:center" 
+! Technology
+! Prerequisite tech
+! Cost
+! colspan="2" | Unlocks
+|- id="Research"
+| rowspan="3" | Research
+| rowspan="3" | None
+| rowspan="3" | Speak with [[Bishop]] and re-open the [[church]]
+| [[File:Study table item.png|64px|link=Study table]]
+| style="text-align:left" | Blueprint: [[Study table]]
+|-
+| [[File:Ruined book item.png|64px|link=Ruined book]]
+| style="text-align:left" | Gathering: [[Ruined book|Old books]]
+|-
+| [[File:Curious Mind Perk.png|link=Perks#Curious Mind Perk]]
+| style="text-align:left" | Perk: [[Perks#Curious Mind Perk|Curious Mind]]
+|- id="Journalist"
+| Journalist
+| Research
+| {{Techpoint|green|10}} {{Techpoint|blue|5}}<hr>Speak with [[Ms. Charm]]
+| [[File:Journalist Perk.png|link=Perks#Journalist Perk]]
+| style="text-align:left" | Perk: [[Perks#Journalist Perk|Journalist]]
+|- id="Writing"
+| rowspan="3" | Writing
+| rowspan="3" | Research
+| rowspan="3" | {{Techpoint|red|5}} {{Techpoint|blue|5}}
+| [[File:Desk item.png|64px|link=Desk]]
+| style="text-align:left" | Blueprint: [[Desk]]
+|-
+| [[File:Notes item.png|64px|link=Notes]]
+| style="text-align:left" | Create: [[Notes]]
+|-
+| [[File:Chapter item.png|64px|link=Chapter]]
+| style="text-align:left" | Create: [[Chapter]]
+|- id="Inventing Stories"
+| Inventing Stories
+| Writing
+| {{Techpoint|blue|25}}
+| [[File:Story item.png|64px|link=Story]]
+| style="text-align:left" | Create: [[Story]]
+|- id="Random text generator"
+| Random text generator
+| Inventing Stories
+| Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|green|15}} {{Techpoint|blue|20}}
+| [[File:Random text generator item.png|64px|link=Random text generator]]
+| style="text-align:left" | Blueprint: [[Random text generator]]
+|- id="Writing Tricks"
+| rowspan="2" | Writing Tricks
+| rowspan="2" | Inventing Stories
+| rowspan="2" | {{Techpoint|red|10}} {{Techpoint|blue|40}}
+| [[File:Prayer for imagination item.png|64px|link=Prayer for imagination]]
+| style="text-align:left" | Create: [[Prayer for imagination]]
+|-
+| [[File:Writer Perk.png|link=Perks#Writer Perk]]
+| style="text-align:left" | Perk: [[Perks#Writer Perk|Writer]]
+|- id="Books"
+| rowspan="3" | Books
+| rowspan="3" | Writing
+| rowspan="3" | {{Techpoint|red|50}} {{Techpoint|blue|10}}
+| [[File:Softcover item.png|64px|link=Softcover]]
+| style="text-align:left" | Create: [[Softcover]]
+|-
+| [[File:Hard cover item.png|64px|link=Hard cover]]
+| style="text-align:left" | Create: [[Hard cover]]
+|-
+| [[File:Gold book item.png|64px|link=Book]]
+| style="text-align:left" | Create: [[Book]]
+|- id="Playwright"
+| Playwright
+| Books
+| {{Techpoint|blue|150}}
+| [[File:Playwright Perk.png|link=Perks#Playwright Perk]]
+| style="text-align:left" | Perk: [[Perks#Playwright Perk|Playwright]]
+|- id="Paper Crafting"
+| rowspan="3" | Paper Crafting
+| rowspan="3" | Research
+| rowspan="3" | {{Techpoint|red|10}}
+| [[File:Church workbench item.png|64px|link=Church workbench]]
+| style="text-align:left" | Blueprint: [[Church workbench]]
+|-
+| [[File:Pigskin paper item.png|64px|link=Pigskin paper]]
+| style="text-align:left" | Create: [[Pigskin paper]]
+|-
+| [[File:Clean paper item.png|64px|link=Clean paper]]
+| style="text-align:left" | Create: [[Clean paper]]
+|- id="Writing Supplies"
+| rowspan="3" | Writing Supplies
+| rowspan="3" | Paper Crafting
+| rowspan="3" | {{Techpoint|red|10}}{{Techpoint|green|5}} {{Techpoint|blue|5}}
+| [[File:Scrollshelf item.png|64px|link=Scrollshelf]]
+| style="text-align:left" | Blueprint: [[Scrollshelf]]
+|-
+| [[File:Ink item.png|64px|link=Ink]]
+| style="text-align:left" | Create: [[Ink]]
+|-
+| [[File:Pen and ink item.png|64px|link=Pen and ink]]
+| style="text-align:left" | Create: [[Pen and ink]]
+|- id="Writer's Inspiration"
+| rowspan="2" | Writer's Inspiration
+| rowspan="2" | Writing Supplies
+| rowspan="2" | {{Techpoint|red|100}} {{Techpoint|blue|20}}
+| [[File:Bookshelf item.png|64px|link=Bookshelf]]
+| style="text-align:left" | Blueprint: [[Bookshelf]]
+|-
+| [[File:Desk II item.png|64px|link=Desk II]]
+| style="text-align:left" | Blueprint: [[Desk II]]
+|- id="Paper Production"
+| rowspan="3" | Paper Production
+| rowspan="3" | Writer's Inspiration
+| rowspan="3" | {{Techpoint|red|50}}{{Techpoint|green|20}}
+| [[File:Paper press item.png|64px|link=Paper press]]
+| style="text-align:left" | Blueprint: [[Paper press]]
+|-
+| [[File:Clean paper item.png|64px|link=Clean paper]]
+| style="text-align:left" | Create: [[Clean paper]]
+|-
+| [[File:Paper glop item.png|64px|link=Paper glop]]
+| style="text-align:left" | Create: [[Paper glop]]
+|- id="A Simple Printing Press"
+| rowspan="2" | A Simple Printing Press
+| rowspan="2" | Paper Production
+| rowspan="2" | {{Techpoint|red|100}} {{Techpoint|blue|10}}
+| [[File:Printing press item.png|64px|link=Printing press]]
+| style="text-align:left" | Blueprint: [[Printing press]]
+|-
+| [[File:Flyer item.png|64px|link=Flyer]]
+| style="text-align:left" | Create: [[Flyer]]
+|- id="Complex Printing Press"
+| Complex Printing Press
+| A Simple Printing Press
+| {{Techpoint|red|100}} {{Techpoint|blue|50}}
+| [[File:Printing press II item.png|64px|link=Printing press II]]
+| style="text-align:left" | Blueprint: [[Printing press II]]
+|}
+
+{{Navbox-Technology}}
+[[Category:Technologies]]
+
+[[pt-br: Escrita de livros (Árvore de Tecnologias)]]
+[[es:Escritura de libros]]

@@ -1,0 +1,228 @@
+{{NPC Infobox|name={{PAGENAME}}|image={{PAGENAME}}.png|location=[[Refugee camp]]|vendor=Graveyard items|money=1000|levelcostIII={{Happiness||100}}|levelcostII={{Happiness||70}}}}
+
+The '''Undertaker''' is part of the [[Game of Crone]] DLC. She arrives at the [[Refugee camp]] after you built and filled the third tent. Her questline will be available the next day.
+
+==Quests==
+First, she asks you to make a few new tools ({{Item|Iron chisel|5}}, {{Item|Wood wedge|10}}) for her because she left them in the Town. Finishing this quest unlocks trading tier I. 
+
+Next, she'll ask you to build a [[Undertaker's workplace|workplace]] for her at the [[Refugee camp|camp]]. Finishing this quest unlocks trading tier II. 
+
+To enable her to make better quality gravestones, she asks you to bring {{Item|steel chisel|5|gold}}. Finishing this quest unlocks trading tier III and she'll give you {{Item|Recipe advanced gravestones}}, {{Item|Recipe advanced gravestones II}}. 
+
+==Trades==
+{|
+|- style="vertical-align:top;"
+|+'''<big>Selling</big>'''
+|
+{| class="wikitable"
+! colspan="4" |Tier I
+|-
+!Tiem
+!Tech
+!Qty
+!Base Cost
+|-
+|{{Item|Recipe advanced gravestones}}
+|[[Theology (Tech Tree)|Advanced gravestones]]
+|1
+|{{Money|500}}
+|-
+|{{Item|Gravestone III}}
+|
+|1
+|{{Money|200}}
+|-
+|{{Item|Stone plinth}}
+|
+|1
+|{{Money|180}}
+|-
+|{{Item|Stone cross II}}
+|
+|1
+|{{Money|180}}
+|-
+|{{Item|Stone cross}}
+|
+|1
+|{{Money|120}}
+|-
+|{{Item|Gravestone II}}
+|
+|1
+|{{Money|120}}
+|-
+|{{Item|Gravestone}}
+|
+|1
+|{{Money|70}}
+|-
+|{{Item|Wooden cross}}
+|
+|1
+|{{Money|70}}
+|-
+|{{Item|Wooden marker}}
+|
+|1
+|{{Money|30}}
+|-
+|{{Item|Stone grave fence IV}}
+|
+|1
+|{{Money|400}}
+|-
+|{{Item|Stone grave fence III}}
+|
+|1
+|{{Money|300}}
+|-
+|{{Item|Stone grave fence II}}
+|
+|1
+|{{Money|150}}
+|-
+|{{Item|Stone grave fence}}
+|
+|1
+|{{Money|80}}
+|-
+|{{Item|Wooden grave fence}}
+|
+|1
+|{{Money|30}}
+|}
+|
+{| class="wikitable"
+! colspan="4" |Tier II
+|-
+!Tiem
+!Tech
+!Qty
+!Base Cost
+|-
+|{{Item|Recipe stone statues}}
+|[[Theology (Tech Tree)|Recipe stone statues]]
+|1
+|{{Money|1200}}
+|-
+|{{Item|Recipe advanced gravestones II}}
+|[[Theology (Tech Tree)|Advanced gravestones II]]
+|1
+|{{Money|1000}}
+|-
+|{{Item|Marble plinth}}
+|
+|1
+|{{Money|800}}
+|-
+|{{Item|Stone sculpture IV}}
+|
+|1
+|{{Money|780}}
+|-
+|{{Item|Marble cross II}}
+|
+|1
+|{{Money|750}}
+|-
+|{{Item|Marble cross}}
+|
+|1
+|{{Money|570}}
+|-
+|{{Item|Stone sculpture III}}
+|
+|1
+|{{Money|550}}
+|-
+|{{Item|Marble gravestone III}}
+|
+|1
+|{{Money|520}}
+|-
+|{{Item|Stone sculpture}}
+|
+|1
+|{{Money|500}}
+|-
+|{{Item|Stone sculpture II}}
+|
+|1
+|{{Money|500}}
+|-
+|{{Item|Marble grave fence II}}
+|
+|1
+|{{Money|700}}
+|-
+|{{Item|Marble grave fence III}}
+|
+|1
+|{{Money|520}}
+|-
+|{{Item|Marble grave fence}}
+|
+|1
+|{{Money|500}}
+|-
+|{{Item|Stone grave fence V}}
+|
+|1
+|{{Money|500}}
+|}
+|
+{| class="wikitable"
+! colspan="4" |Tier III
+|-
+!Tiem
+!Tech
+!Qty
+!Base Cost
+|-
+|{{Item|Recipe marble fences}}
+|[[Theology (Tech Tree)|Recipe marble fences]]
+|1
+|{{Money|2800}}
+|-
+|{{Item|Recipe marble statues}}
+|[[Theology (Tech Tree)|Recipe marble statues]]
+|1
+|{{Money|2500}}
+|-
+|{{Item|Marble sculpture IV}}
+|
+|1
+|{{Money|1600}}
+|-
+|{{Item|Marble sculpture}}
+|
+|1
+|{{Money|1300}}
+|-
+|{{Item|Marble sculpture II}}
+|
+|1
+|{{Money|1300}}
+|-
+|{{Item|Marble sculpture III}}
+|
+|1
+|{{Money|1200}}
+|-
+|{{Item|Marble grave fence V}}
+|
+|1
+|{{Money|800}}
+|-
+|{{Item|Marble grave fence IV}}
+|
+|1
+|{{Money|560}}
+|}
+|}
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Refugee camp]]
+[[Category:Vendors]]
+[[Category:Game of Crone]]

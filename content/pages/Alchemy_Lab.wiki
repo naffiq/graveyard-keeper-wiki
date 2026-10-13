@@ -1,0 +1,340 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = alchemy lab.png
+| exits     = [[Morgue]], [[Church]], [[Cellar]], [[Dungeon]]
+| buildable = True
+| NPCs      = 
+}}
+
+The alchemy lab is located in the basement of the [[church]]. This is where you craft prayers, books, and alchemy equipment.
+
+See [[alchemy]] and [[sermons]] for more information.
+
+__TOC__
+{{clear}}
+
+== Location ==
+[[file:alchemy lab.png|left|500px|A part of the alchemy lab]]
+The alchemy lab is quite a vast area of multiple rooms below the [[church]], consisting of several logically unconnected areas, which allow workstation placement.
+
+The picture shows the northern part with the initial furnishing, with (from left to right) some graphics on the walls, the [[study table]], more graphics, a [[trunk]] and the workbench to build all the other stations, as well as the staircase leading up into the [[church]].
+
+Further south is more room for building, and then a corridor, allowing access to the [[morgue]]. To the east a corridor leads, if you turn the first corridor north, through the [[sacrifice zone]] into the [[dungeon]], or, if you take the second corridor north, to the [[cellar]] and up to [[Sweet Home|your home]]. If you keep going east, the corridor leads onwards to the [[trade office]] and [[village]].
+
+To be able to use those corridors, you have to clear out the [[blockage|rubble]] there first.
+{{clear}}
+
+== Trunk ==
+[[File:Trunk infobox.png|200px|left|link=trunk|Two trunks]]
+The laboratory comes already furnished with one [[trunk]], that even contains a few of alchemical components. It is '''not''' possible to build an additional one, but you may build [[alchemy rack]]s, [[Bookshelf|bookshelves]] or [[Scrollshelf|scrollshelves]] to [[storage|store]] your stuff.
+{{clear}}
+
+== Study Table ==
+The alchemy laboratory starts out with a [[study table]] already installed (though the initial location is not ideal). Most items in the game can be studied for a large number of red, green, or blue tech points. Each type of item can be studied only once.
+
+The [[File:Science effect.png|Circumspect|link=effects]] [[effects|circumspect effect]] from eating a {{item|cake}} or a {{item|grape pie}} can be used to increase the yield by adding {{techpoint|blue|1}} to the gain from studying each item.
+
+The study table requires both {{item|Faith}} and {{item|Science}} to operate. Faith can be obtained by holding a [[sermon]] in the [[church]], from [[confessional]]s, or from operating the [[buffet tent]]. Science can be obtained from decomposing {{item|clean paper}}, {{item|notes}}, {{item|chapter}}s or {{Item|Book||animation}}s and {{Item|Lens}} in the study table.
+
+After studying an object, its description might say it is decomposable into a solution, powder, or extract. This refers to the alchemy apparatus that needs to be used to process it.
+
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+|[[File:Study table item.png|link=study table|64px]]
+|Used to study the world around you.
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Conical flasks|3}}
+|Available from the beginning
+|5x4 (preplaced)
+4x4 (built by player)
+|}
+
+== Alchemy Workbench (Tier I) ==
+See the [[alchemy workbench (tier I)]] page for a list of known crafting recipes. 
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+|[[file:Alchemy workbench (tier I) item.png|link=Alchemy workbench (tier I)|64px]]
+|Used to mix potions using two ingredients.
+|{{Item|Wooden plank|6}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Advanced conical flasks|2}}
+|[[Anatomy and Alchemy (Tech Tree)|The Beginning of Alchemy]]
+|5x4
+|}
+
+==Alchemy Workbench (Tier II) ==
+See the [[alchemy workbench (tier II)]] page for a list of known crafting recipes. 
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+|[[file:Alchemy workbench (tier II) item.png|link=Alchemy workbench (tier II)|64px]]
+|Used to mix potions using three ingredients.
+|{{Item|Jointing|6}}<br>{{Item|Steel parts|2}}<br>{{Item|Advanced conical flasks|3}}
+|[[Anatomy and Alchemy (Tech Tree)|Advanced Alchemy]]
+|5x4
+|}
+
+== Hand Mixer ==
+A [[hand mixer]] decomposes suitable materials into solutions for use in [[alchemy]]. To be used with the hand mixer a material must first be studied at the [[study table]] and have a [[solution]] as a decomposition product.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+||[[file:Hand mixer item.png|link=Hand mixer|64px]]
+|Used to mix things into solutions.
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|8}}
+|[[Anatomy and Alchemy (Tech Tree)|The Beginning of Alchemy]]
+|6x3
+|}
+
+==Alchemy Mill ==
+An [[alchemy mill]] decomposes suitable materials into powders for use in [[alchemy]]. To be used with the alchemy mill a material must first be studied at the [[study table]] and have a [[powder]] as a decomposition product.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+||[[file:Alchemy mill item.png|link=Alchemy mill|64px]]
+|Used to grind things into powders.
+|{{Item|A polished brick of stone|2}}<br>{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}
+|[[Anatomy and Alchemy (Tech Tree)|The Beginning of Alchemy]]
+|6x4
+|}
+
+== Distillation Cube ==
+A [[distillation cube]] decomposes suitable materials into extracts for use in [[alchemy]]. To be used with the distillation cube, a material must first be studied at the [[study table]] and have an [[extract]] as a decomposition product. Unlike the hand mixer or alchemy mill, processing an extract proceeds automatically, but only one batch at a time.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+||[[file:Distillation cube item.png|link=Distillation cube|64px]]
+|Distills the extracts of things.
+|{{Item|A piece of stone|20}}<br>{{Item|Complex iron parts|8}}
+|[[Anatomy and Alchemy (Tech Tree)|Advanced Alchemy]]
+|4x3
+|}
+
+== Distillation Cube II ==
+A [[distillation cube II]] decomposes suitable materials into extracts for use in [[alchemy]]. To be used with the distillation cube II, a material must first be studied at the [[study table]] and have an [[extract]] as a decomposition product. Using the distillation cube II yields more material than tier I and is considerably faster. Unlike the hand mixer or alchemy mill, processing an extract proceeds automatically, but only one batch at a time.
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+|[[file:Distillation cube II item.png|link=Distillation cube II|64px]]
+| Distills the extracts of things.
+|{{Item|A piece of stone|30}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Steel parts|4}}
+|[[Anatomy and Alchemy (Tech Tree)#alchemy|Distillate]]
+|4x3
+|}
+
+== Church Workbench ==
+A [[church workbench]] is used to make many different products. These include fertilizer, paper glop, [[ink]] and [[pen and ink]], paper (pigskin and clean paper), books (softcover and hardcover), rope, candles, incense, and embalming injections.
+
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;| Description
+!style="width:17.5em;"| Materials Required
+!style="width:10em;"| Technology
+!Size
+|-
+| [[File:Church workbench item.png|link=Church workbench|64px]]
+| Used to make various [[church]] related products . 
+|{{Item|Flitch|9}}<br>{{Item|Nails|10}}<br>{{Item|Complex iron parts|4}}
+| [[Anatomy and Alchemy (Tech Tree)#Embalming Liquids|Embalming Liquids]]<hr>[[Book Writing (Tech Tree)#Paper Crafting|Paper Crafting]]
+|5x3
+|}
+
+== Alchemy Rack ==
+[[File:Alchemy rack.gif|left|200px|link=alchemy rack]]
+The alchemy rack is an alchemy-themed decorative [[storage]] structure.
+
+Like other decorative storage, it changes appearance as it gets more full.
+{{clear}}
+
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+|[[File:Alchemy rack item.png|link=alchemy rack|64px]]
+| Decorative [[storage]] for 25 items.
+|{{Item|Flitch|12}}<br>{{Item|Nails|10}}<br>{{Item|Wooden beam|4}}
+|[[Anatomy and Alchemy (Tech Tree)|Alchemy Storage]]
+|4x2
+|}
+
+== Desk ==
+A [[desk]] is used to write various kinds of things.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+|[[File:Desk item.png|link=Desk|64px]]
+| A place to write. 
+(notes, chapters, books, flyers, stories, and sermons).
+|{{Item|Flitch|8}}<br>{{Item|Nails|8}}<br>
+|[[Book Writing (Tech Tree)|Writing]]
+|4x3
+|}
+
+==Desk II ==
+A [[desk II]] is used to write various kinds of things. It is claimed to take less energy, and produce higher quality results.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Technology
+!Size
+|-
+|[[File:Desk II item.png|link=Desk II|64px]]
+| A better place to write.
+(notes, chapters, books, flyers, stories, and sermons).
+|{{Item|Wooden plank|6}}<br>{{Item|Nails|12}}<br>{{Item|Lens|1}}
+|[[Book Writing (Tech Tree)#Writer's Inspiration|Writer's Inspiration]]
+|4x3
+|}
+
+== Scrollshelf ==
+[[File:Bookshelf and Scrollshelf Sprites.png|thumb|The scrollshelf (left) and bookshelf (right).|link=Scrollshelf|left]]
+{{clear}}
+
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:Scrollshelf item.png|link=Scrollshelf|64px]]
+| General storage chest for up to 25 items.
+| {{Item|Flitch|8}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|12}}
+| [[Book Writing (Tech Tree)|Writing Supplies]]
+|6x2
+|}
+
+== Bookshelf ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:Bookshelf item.png|link=Bookshelf|64px]]
+| General storage chest for up to 25 items.
+| {{Item|Flitch|8}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|12}}
+| [[Book Writing (Tech Tree)#Writer's Inspiration|Writer's Inspiration]]
+|6x3
+|}
+
+== Printing Press ==
+A [[printing press]] is used to make [[flyer]]s.
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:Printing press item.png|link=Printing press|64px]]
+| Used to print the same thing many times.
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|12}}
+| [[Book Writing (Tech Tree)|Simple printing press]]
+|4x5
+|}
+
+== Printing Press II ==
+A [[printing press II]] is used to make [[flyer]]s. It is claimed to take less energy or time.
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:Printing press II item.png|link=Printing press II|64px]]
+| Used to print the same thing many times<br>and better than before.
+| {{Item|Wooden plank|10}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|18}}
+| [[Book Writing (Tech Tree)|Complex printing press]]
+|4x5
+|}
+
+== Random Text Generator ==
+A [[random text generator]] is used by {{item|zombie}}s to make {{item|techbook}}s and {{item|story||animation}}.
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:random text generator item.png|link=random text generator|64px]]
+| Used by zombies to write.
+| {{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Pen and ink|1}}
+| [[Book Writing (Tech Tree)|Random text generator]]
+|2x3
+|}
+
+== Zombie Alchemy Decomposer ==
+A [[zombie alchemy decomposer]] is used by {{item|zombie}}s to produce alchemical ingredients.
+
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:zombie alchemy decomposer item.png|link=zombie alchemy decomposer|64px]]
+| Used by zombies to produce<br>alchemical ingredients.
+| {{Item|A polished brick of stone|2}}<br>{{Item|Wooden plank|10}}<br>{{Item|Simple iron parts|6}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]]
+|7x5
+|}
+
+== Zombie Alchemy Workbench ==
+A [[zombie alchemy workbench]] is used by {{item|zombie}}s to produce alchemical elixirs.
+
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Technology
+!Size
+|-
+| [[File:zombie alchemy workbench item.png|link=zombie alchemy workbench|64px]]
+| Used by zombies to produce<br>alchemical elixirs.
+| {{Item|Wooden plank|10}}<br>{{Item|Simple iron parts|6}}<br>{{Item|Conical flasks|4}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]]
+|6x3
+|}
+
+{{Navbox-Alchemy lab}}
+{{Navbox-Locations}}

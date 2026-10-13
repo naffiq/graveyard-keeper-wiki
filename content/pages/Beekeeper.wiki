@@ -1,0 +1,61 @@
+{{NPC Infobox
+| name         = Beekeeper
+| nameinternal = npc_beekeeper
+| image        = Beekeeper.png
+| location     = The [[Village]]
+| vendor       = Apiary products
+| role         = Beekeeper
+| money        = 180
+| income       = 6
+}}
+The {{PAGENAME}} is located northwest of The Village close to the wheat farm selling apiary products. From the [[Dead Horse]], head west and then north towards the [[Woodcutter]], and their house will be the second to the left, opposite of [[Rosa]].
+
+As the [[bee]]s drop rate from wild hives is fairly low and {{Item|bee|10}} are needed to start a {{Item|Bee hive}} of your own, one may need to purchase some bees from this vendor at some point.
+
+==Trading==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Quantity
+!Base Price
+!Daily Restock Rate
+|-
+|{{Item|Beeswax}}
+|19
+|{{Money|30}}
+|2 if stock >= 7, otherwise 3
+|-
+|{{Item|Honey}}
+|18
+|{{Money|30}}
+|2 if stock >= 8, otherwise 3
+|-
+|{{Item|Bee}}
+[[de:Imker]]
+[[fr:l'apiculteur]]
+[[pt-br:Apicultor]]
+[[ru:Пчеловод]]
+|20
+|{{Money|20}}
+|2 if stock >= 9, otherwise 3
+|}
+
+
+===Purchasing===
+{| class = "wikitable"
+!Item
+!Base price
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+
+<!-- other languages -->
+|}

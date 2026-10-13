@@ -1,0 +1,13 @@
+=Key Features=
+[[Graveyard Keeper]] is a game with many features that the eponymous Keeper can partake in, and the most prominent of those are listed here.
+*[[Technologies]]. To progress through the game, you must go through the technology tree, unlocking [[Perks]] and recipes to increase efficiency and profit.
+*[[Farming]]. Farming is a pillar that allows you to make food to restore energy, and grow crops to make food for quests and profit.
+* [[The Graveyard]]. The graveyard itself is, naturally, a big part of the game. Increasing your graveyard rating will allow you to make more money from [[Sermon|Sermons]], which is a main source of revenue.
+*[[Alchemy]]. Alchemy allows you to make potions to temporarily increase attributes, and make ingredients for quests.
+*[[Church|The Church]]. As a Graveyard Keeper, you are also a preacher, using Sermons to gain benefits and money, as well as upgrading the church to get more [[Faith]].
+*[[Corpse]]s are naturally a big part of the game. You can [[Embalming table|Embalm]] them and [[12-Skull Corpse Preparation]] prepare them, to ensure that only the best bodies get in your very exclusive graveyard,
+There are also many more minor features that nevertheless feature in the game, such as [[Fishing]], reanimating [[Zombie]]s, [[Crematorium|Cremation]], and the many quests provided by [[NPCs]] and other characters.
+
+=DLC Key Features=
+In [[Stranger sins]], a major feature added is [[Talking Skull|Tavern management ]], allowing you to host events and sell alcohol at your very own tavern
+In the [[Game of Crone]] DLC, you aid a struggling [[Refugee camp]], and build it into a fortified settlement, unlocking new recipes, perks, and vendors.

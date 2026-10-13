@@ -1,0 +1,41 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Souls room]]
+|technology = [[Spiritualism (Tech Tree)|Updated equipment]]
+|related    = [[Soul extractor]]
+|footprint  = 
+|rotatable  = False
+}}
+The '''{{PAGENAME}}''' is a workbench introduced with the [[Better Save Soul|Better Save Soul DLC]], that may be built in the [[Souls room]] after you unlock the [[Spiritualism (Tech Tree)|Updated equipment]] technology. The {{PAGENAME}} allows you to use a {{Item|Corpse}} to extract its {{Item|Harmed soul}} for farther healing.<br>
+When the [[Harmed soul]] stays in a [[corpse]] for too long, it will eventually die and leave a [[Sin Shard]] behind. If this happens the [[corpse]] no longer can be used in a {{PAGENAME}}.
+
+== Upgrade ==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Hemp rope|4}}<br/>{{Item|Complex iron parts|4}}<br/>{{Item|Skin|2}}
+|style="text-align:center" |{{energy|-|15}}
+|Adds {{Souls Room Capacity|20}}
+Upgrades from [[Soul extractor]].
+|}
+
+==Recipes==
+To use the extractor, you place a body in it and click on the "Extractor soul" button in the crafting window. The craft is automatic and takes time. It can only be used once per [[corpse]]. With this process the extracted soul takes some damage baseg on the Soul extractor tier.
+
+{| class = "wikitable"
+!Item Produced
+!Materials Required
+!Notes
+|-
+|{{Item|Harmed soul|1}}
+|{{Item|Corpse|1}}
+|Possible damage: 5-15%<br>The {{Item|Corpse}} is not consumed.
+|}
+
+{{Navbox-Souls room}}
+[[Category:Souls room workstations]]

@@ -1,0 +1,152 @@
+{{NPC Infobox
+| name     = Cory
+| image    = Cory.png
+| location = [[Village|The Village]]
+| role     = Engineer
+| vendor   = Stone and Stonework
+| money    = 500
+| income   = 10
+| nameinternal = npc_engineer
+}}
+{{PAGENAME}} the engineer is found in the far northwestern part of [[Village|The Village]] and north of the [[Beekeeper]]. During the day, he is outside and sells stones and stone products to you. At night he goes inside and is unavailable without {{Happiness}}80.
+He's the brother of [[Tress]], the carpenter.
+
+
+==Trading==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|A piece of stone}}
+|24
+|{{Money|30}}
+|-
+|{{Item|Firewood}}
+|2
+|N/A
+|-
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|A carved piece of stone}}
+|14
+|{{Money|175}}
+|-
+|{{Item|A polished brick of stone}}
+|18
+|{{Money|89}}
+|-
+|{{Item|A piece of marble}}
+|10
+|{{Money|87}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Steel chisel||gold}}
+|2
+|N/A
+|-
+|{{Item|A carved piece of marble||copper}}
+|7
+|{{Money|263}}
+|-
+|{{Item|A polished brick of marble}}
+|9
+|{{Money|167}}
+|-
+|{{Item|Pickaxe II}}
+|1
+|N/A
+|}
+|}
+
+===Buying from player ===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Weekly<br>use
+|-
+|{{Item|A piece of stone}}
+|{{Money|22}}
+|12 down to 26
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|6 down to 2
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+!Weekly<br>use
+|-
+|{{Item|A carved piece of stone}}
+|{{Money|127}}
+|
+|-
+|{{Item|A polished brick of stone}}
+|{{Money|65}}
+|
+|-
+|{{Item|A piece of marble}}
+|{{Money|62}}
+|
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+!Weekly<br>use
+|-
+|{{Item|Steel chisel||gold}}
+|{{Money|245}}
+|
+|-
+|{{Item|A carved piece of marble||copper}}
+|{{Money|184}}
+|
+|-
+|{{Item|A polished brick of marble}}
+|{{Money|119}}
+|
+|-
+|{{Item|Pickaxe II}}
+|{{Money|525}}
+|
+|}
+|}
+
+Max in his inventory (Won't accept to buy once reached):
+* [[A piece of stone]]  80
+
+==Stranger Sins==
+===Quests===
+Cory and [[Tress]] need to help you build your [[Tavern]] after buying the land from [[Horadric]] for {{Money|3000}}. Speaking to Cory he will tell you they need to build a barn first. You can choose to either pay him ({{Money|20000}}) or supply him the materials (12 {{Item|Simple iron parts}}, 12 {{Item|Wooden plank}}, 12 {{Item|Nails}} and {{Money|5000}}) to finish working on the barn and get to building your [[Tavern]]. Go to sleep to let the brothers finish the [[Tavern]] for you. You'll receive the [[Achievements|Talking Skull]] achievement.
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+
+[[pt-br:Cory]]

@@ -1,0 +1,39 @@
+{{Location Infobox
+|name = {{PAGENAME}}
+|image = Trade Office.png
+|buildable = True
+|exits = [[Village]]
+}}
+
+
+The [[{{PAGENAME}}]] is located south of the [[The Dead Horse|tavern]]. The entrance is behind the [[merchant]] who visits on {{day|Gluttony}}. The merchant will visit at sunset to take {{Item|crates}} from the pallets.
+
+The entrance from the [[village]] and the hatch from the [[cellar]] are both closed, until you complete the [[merchant|merchant's]] [[quest]] "Trade License".
+
+==Workbench==
+Here, you are able to build [[pallet|crate pallets]] and [[marketing campaign|marketing campaigns]]. You need to run a {{item|marketing campaign}} first, to gain the {{Item|Fame|1}} for each {{Item|crate pallet}} you want to build (up to 10 are possible). You can put {{Item|crates}} on [[pallet|crate pallets]] to sell them.
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Crate pallet item.png|80px|link=crates]]
+|{{Item|Flitch|6}} <br> {{Item|Fame|1}}
+|none
+|It's possible to build up to 10 [[pallet|crate pallets]].
+|-
+|style="text-align:center"|[[file:marketing campaign item.png|80px|link=marketing campaign]]
+|{{Item|Flyer|10}}
+|
+|Each [[marketing campaign|campaign]] adds {{Item|Fame|1}}.
+|}
+
+==Trade Report==
+[[File:Trade Report.png|x300px|Trade report|left]]
+The trade report details the [[money]] you've earned selling your crates of produce. Silver-star, gold-star, and trade goods crates always sell for the same prices, regardless of what produce is packaged for sale. Though the Merchant states that Fame will increase the prices that the crates will be sold for, they have a hard limit and increasing Fame provides no benefits. In the later patches (last checked on 27/03/2025) the price of crates has been increased from the get-go, with silver-star crates going for 10s 75c, gold-star for 16s 50c and boxes of goods for 15s each.
+{{clear}}
+
+{{Navbox-Locations}}
+
+[[de:Lager]]

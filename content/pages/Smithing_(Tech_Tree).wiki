@@ -1,0 +1,219 @@
+This [[Technologies|technology tree]] deals with the processing of iron and sand into metal parts, tools and glass. Unlocked by asking the [[blacksmith]] where to find iron ore.
+
+{| class="wikitable" style="text-align:center" 
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="Iron"
+| rowspan="3" |Iron
+| rowspan="3" |None
+| rowspan="3" |Talk to the [[blacksmith]]
+|[[File:Furnace item.png|64px|link=Furnace]]
+|style="text-align:left" | Blueprint: [[Furnace]]
+|-
+|[[File:Iron ingot item.png|64px|link=Iron ingot]]
+|style="text-align:left" |Create: [[Iron ingot]]
+|-
+|[[File:Iron ore item.png|64px|link=Iron ore]]
+|style="text-align:left" |Gathering: [[Iron ore|Swamp iron]]
+|- id="Primitive Forging"
+| rowspan="3" |Primitive Forging
+| rowspan="3" |Iron
+| rowspan="3" |{{Techpoint|red|10}}
+|[[File:Wooden anvil item.png|64px|link=Wooden anvil]]
+|style="text-align:left" |Blueprint: [[Wooden anvil]]
+|-
+|[[File:Nails item.png|64px|link=Nails]]
+|style="text-align:left" |Create: [[Nails]]
+|-
+|[[File:Simple iron parts item.png|64px|link=Simple iron parts]]
+|style="text-align:left" |Create: [[Simple iron parts]]
+|- id="Tools"
+| rowspan="3" |Tools
+| rowspan="3" |Primitive Forging
+| rowspan="3" |{{Techpoint|red|20}}
+|[[File:Shovel I item.png|64px|link=Shovel I]]
+|style="text-align:left" |Create: [[Shovel I]]
+|-
+|[[File:Pickaxe I item.png|64px|link=Pickaxe I]]
+|style="text-align:left" |Create: [[Pickaxe I]]
+|-
+|[[File:Axe I item.png|64px|link=Axe I]]
+|style="text-align:left" |Create:[[Axe I]]
+|- id="Advanced Forging"
+| rowspan="3" |Advanced Forging
+| rowspan="3" |Primitive Forging
+| rowspan="3" |{{Techpoint|red|40}} {{Techpoint|green|5}}
+|[[File:Anvil item.png|64px|link=Anvil]]
+|style="text-align:left" |Blueprint: [[Anvil]]
+|-
+|[[File:Complex iron parts item.png|64px|link=Complex iron parts]]
+|style="text-align:left" |Create: [[Complex iron parts]]
+|-
+|[[File:Iron chisel item.png|64px|link=Iron chisel]]
+|style="text-align:left"|Create: [[Iron chisel]]
+|- id="Inborn Blacksmith"
+| rowspan="1" |Inborn Blacksmith
+| rowspan="1" |Advanced Forging
+| rowspan="1" |{{Techpoint|red|20}} {{Techpoint|blue|30}}
+|[[File:Blacksmith Perk.png|link=Perks#Blacksmith Perk]]
+|style="text-align:left"|Perk: [[Perks#Blacksmith Perk|Blacksmith]]
+|- id="Weapons"
+| rowspan="2" |Weapons
+| rowspan="2" |Advanced Forging
+| rowspan="2" |{{Techpoint|red|55}} {{Techpoint|green|25}}
+|[[File:Sword item.png|64px|link=Sword]]
+|style="text-align:left" |Create: [[Sword]]
+|-
+|[[File:Iron armor item.png|64px|link=Iron armor]]
+|style="text-align:left" |Create: [[Iron armor]]
+|- id="Martial Skills"
+| rowspan="3" |Martial Skills
+| rowspan="3" |Weapons
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|blue|75}}
+|[[File:Prayer for retribution item.png|64px|link=Prayer for retribution]]
+|style="text-align:left"|Create: [[Prayer for retribution]]
+|-
+|[[File:Prayer for protection item.png|64px|link=Prayer for protection]]
+|style="text-align:left"|Create: [[Prayer for protection]]
+|-
+|[[File:Big Guy Perk.png|link=Perks#Big Guy Perk]]
+|style="text-align:left"|Perk: [[Perks#Big Guy Perk|Big Guy]]
+|- id="Steel"
+| rowspan="3" |Steel
+| rowspan="3" |Advanced Forging +<br>Advanced Smelting
+| rowspan="3" |{{Techpoint|red|100}} {{Techpoint|green|50}} {{Techpoint|blue|10}}
+|[[File:Anvil II item.png|64px|link=Anvil II]]
+|style="text-align:left"|Blueprint: [[Anvil II]]
+|-
+|[[File:Steel chisel item.png|64px|link=Steel chisel]]
+|style="text-align:left" |Create: [[Steel chisel]]
+|-
+|[[File:Iron hammer item.png|64px|link=Iron hammer]]
+|style="text-align:left"|Create: [[Iron hammer]]
+|- id="Steel Weapons"
+| rowspan="2" |Steel Weapons
+| rowspan="2" |Steel
+| rowspan="2" |{{Techpoint|red|100}} {{Techpoint|green|20}} {{Techpoint|blue|10}}
+|[[File:Steel sword item.png|64px|link=Steel sword]]
+|style="text-align:left" |Create: [[Steel sword]]
+|-
+|[[File:Steel armor item.png|64px|link=Steel armor]]
+|style="text-align:left" |Create: [[Steel armor]]
+|- id="Skilled Casting"
+| rowspan="2" |Skilled Casting
+| rowspan="2" |Steel Weapons
+| rowspan="2" |{{Techpoint|red|300}} {{Techpoint|green|50}} {{Techpoint|blue|50}}
+|[[File:Steel sword with gem item.png|64px|link=Steel sword with gem]]
+|style="text-align:left" |Create: [[Steel sword with gem]]
+|-
+|[[File:Damask sword with gem item.png|64px|link=Damask sword with gem]]
+|style="text-align:left" |Create: [[Damask sword with gem]]
+|- id="Sword Master"
+| Sword Master
+| Steel Weapons
+| {{Techpoint|red|50}} {{Techpoint|blue|100}}
+|[[File:Sword Master Perk.png|link=Perks#Sword Master Perk]]
+|style="text-align:left"|Perk: [[Perks#Sword Master Perk|Sword Master]]
+|- id="Engineer"
+| rowspan="3" |Engineer
+| rowspan="3" |Steel
+| rowspan="3" |{{Techpoint|red|50}} {{Techpoint|blue|100}}
+|[[File:Prayer for excellence item.png|64px|link=Prayer for excellence]]
+|style="text-align:left"|Create: [[Prayer for excellence]]
+|-
+|[[File:Water pump item.png|64px|link=Water pump]]
+|style="text-align:left"|Blueprint: [[Water pump]]
+|-
+|[[File:Engineer Perk.png|link=Perks#Engineer Perk]]
+|style="text-align:left"|Perk: [[Perks#Engineer Perk|Engineer]]
+|- id="Steel Tools"
+| rowspan="3" |Steel Tools
+| rowspan="3" |Steel
+| rowspan="3" |{{Techpoint|red|100}}
+|[[File:Axe II item.png|64px|link=Axe II]]
+|style="text-align:left"|Create: [[Axe II]]
+|-
+|[[File:Shovel II item.png|64px|link=Shovel II]]
+|style="text-align:left"|Create: [[Shovel II]]
+|-
+|[[File:Pickaxe II item.png|64px|link=Pickaxe II]]
+|style="text-align:left"|Create: [[Pickaxe II]]
+|- id="Advanced Smelting"
+| rowspan="2" |Advanced Smelting
+| rowspan="2" |Primitive Forging
+| rowspan="2" |{{Techpoint|red|50}} {{Techpoint|green|20}} {{Techpoint|blue|10}}
+|[[File:Furnace II item.png|64px|link=Furnace II]]
+|style="text-align:left"|Blueprint: [[Furnace II]]
+|-
+|[[File:Steel ingot item.png|64px|link=Steel ingot]]
+|style="text-align:left"|Create: [[Steel ingot]]
+|- id="Rules of Burning"
+| rowspan="3" |Rules of Burning
+| rowspan="3" |Advanced Smelting
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|50}} {{Techpoint|blue|30}}
+|[[File:Lantern network item.png|64px|link=Lantern network]]
+|style="text-align:left"|Blueprint: [[Lantern network]]
+|-
+|[[File:Place for lantern item.png|64px|link=Place for lantern]]
+|style="text-align:left"|Blueprint: [[Place for lantern]]
+|-
+|[[File:Fireman Perk.png|link=Perks#Fireman Perk]]
+|style="text-align:left"|Perk: [[Perks#Fireman Perk|Fireman]]
+|- id="Iron Castings"
+| rowspan="2" |Iron Castings
+| rowspan="2" |Advanced Smelting
+| rowspan="2" |{{Techpoint|red|200}} {{Techpoint|green|50}} {{Techpoint|blue|20}}
+|[[File:Furnace III item.png|64px|link=Furnace III]]
+|style="text-align:left"|Blueprint: [[Furnace III]]
+|-
+|[[File:Steel parts item.png|64px|link=Steel parts]]
+|style="text-align:left"|Create: [[Steel parts]]
+|- id="Jeweler"
+| rowspan="2" |Jeweler
+| rowspan="2" |Iron Castings
+| rowspan="2" |{{Techpoint|red|100}} {{Techpoint|green|50}} {{Techpoint|blue|20}}
+|[[File:Silver ingot item.png|64px|link=Silver ingot]]
+|style="text-align:left"|Create: [[Silver ingot]]
+|-
+|[[File:Gold ingot item.png|64px|link=Gold ingot]]
+|style="text-align:left"|Create: [[Gold ingot]]
+|- id="Precious Little Things"
+| rowspan="3" |Precious Little Things
+| rowspan="3" |Jeweler
+| rowspan="3" |{{Techpoint|red|150}} {{Techpoint|blue|50}}
+|[[File:Jewelry table item.png|64px|link=Jewelry table]]
+|style="text-align:left"|Blueprint: [[Jewelry table]]
+|-
+|[[File:Gold jewelry details item.png|64px|link=Gold jewelry details]]
+|style="text-align:left"|Create: [[Gold jewelry details]]
+|-
+|[[File:Jewelry item.png|64px|link=Jewelry]]
+|style="text-align:left"|Create: [[Jewelry]]
+|- id="Glass"
+|Glass
+|Iron
+|{{Techpoint|red|10}} {{Techpoint|green|10}}
+|[[File:Glass item.png|64px|link=Glass]]
+|style="text-align:left"|Create: [[Glass]]
+|- id="Glass-blower"
+|Glass-blower
+|Glass
+|{{Techpoint|red|30}} {{Techpoint|green|10}} {{Techpoint|blue|10}}
+|[[File:Conical flasks item.png|64px|link=Conical flasks]]
+|style="text-align:left"|Create: [[Conical flasks]]
+|- id="Glass-blower II"
+| rowspan="2" |Glass-blower II
+| rowspan="2" |Glass-blower
+| rowspan="2" |{{Techpoint|red|50}} {{Techpoint|green|10}} {{Techpoint|blue|30}}
+|[[File:Advanced conical flasks item.png|64px|link=Advanced conical flasks]]
+|style="text-align:left"|Create: [[Advanced conical flasks]]
+|-
+|[[File:Lens item.png|64px|link=Lens]]
+|style="text-align:left"|Create: [[Lens]]
+|}
+
+{{Navbox-Technology}}
+[[Category:Technologies]]
+[[pt-br:Metalurgia (Árvore de Tecnologias)]]

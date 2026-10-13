@@ -1,0 +1,11 @@
+{{stub}}
+
+The symbol for happiness or reputation is displayed with {{Happiness}}. For interactions to be available with [[NPCs]], e.g. trading, asking favors, or entering houses, different reputation levels are needed. Reputation can be earned by completing [[quests]].
+
+==Effect on base price==
+[[Items]] have a base price. Each [[Vendors|vendor]] charges based on your {{Happiness}} level with them, amount of previous trading, and item demand. You are able to sell items above or below base price in relation to these factors. 
+
+One exception is the {{Item|burial certificate}} at a set price of {{Money|150}}.
+
+[[pt-br:Reputação]]
+[[ru:Репутация]]

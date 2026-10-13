@@ -1,0 +1,99 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| source       = [[Cooking table]], [[Lighthouse Keeper]]
+| cost         = 100
+| stacksize    = 30
+| type         = Food Resource
+| quest        = 
+| nameinternal = fillet_fish_blue
+}}
+<b>{{PAGENAME}}s</b> are a [[cooking]] resource used in various [[Fishing|fish]]-related recipes. It can either be crafted at the cooking table or purchased from the [[Lighthouse Keeper]].
+
+As of the official release of the game, the copper-quality blue-fish-fillets are not available, as none of the fish that provide these fillets will ever spawn with a copper-quality.
+
+==Quality Levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image=i_fillet_fish_blue.png|quality=copper}}
+|{{Quality Sprite|image=i_fillet_fish_blue.png|quality=silver}}
+|{{Quality Sprite|image=i_fillet_fish_blue.png|quality=gold}}
+|-
+|N/A
+|{{Money|100}}
+|{{Money|200}}
+|}
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|2|animation}}
+|{{Item|Sturgeon|1|animation}}
+|{{Energy|-|8}}
+|-
+|{{Item|{{PAGENAME}}|3|animation}}
+|{{Item|Salmon|1|animation}}
+|{{Energy|-|9}}
+|-
+|{{Item|{{PAGENAME}}|1|gold}}
+|{{Item|Carp|1|gold}}
+|rowspan="3"|{{Energy|-|10}}
+|-
+|{{Item|{{PAGENAME}}|4|gold}}<br>{{Item|Gold nugget|1}}
+|{{Item|Gold crucian|1|gold}}
+|-
+|{{Item|{{PAGENAME}}|4|gold}}
+|{{Item|Goldfish|1|gold}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Royal fish|2|animation}}
+|{{Item|Honey|1}}<br>{{Item|{{PAGENAME}}|1|animation}}
+|0:50<br>{{Fuel|-|5}}
+|-
+!colspan="3"|{{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Baked kebab|6|animation|variant=pumpkin}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Pumpkin|2|animation}}
+|0:45<br>{{Fuel|-|25}}
+|-
+|{{Item|Baked kebab|6|animation|variant=onion}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Onion|2|animation}}
+|0:55<br>{{Fuel|-|20}}
+|-
+|{{Item|Baked kebab|6|animation|variant=mushroom}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Edible mushroom|5}}
+|1:10<br>{{Fuel|-|20}}
+|}
+
+==See Also==
+*{{Item|White fish fillet}}
+*{{Item|Quality fish fillet}}
+
+
+[[de:Blaues Fischfilet]]
+[[pt-br:Filé de peixe azul]]
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]

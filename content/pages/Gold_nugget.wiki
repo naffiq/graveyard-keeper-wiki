@@ -1,0 +1,87 @@
+__NOTOC__{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = i_nugget_gold.png
+| type         = Secondary Ore
+| nameinternal = nugget_gold
+| study        = {{Techpoint|Green|20}} 
+| alchemy      = {{Item|Gold powder}}
+| source       = [[Mining]]
+| cost         = 
+| stacksize    = 10
+| quest        = 
+}}
+<b>{{PAGENAME}}s</b> are a fairly rare resource that can be obtained through a variety of methods. With the [[Smithing (Tech Tree)#Jeweler|Jeweler]] technology, they can be processed into [[Gold ingot]]s at a [[Furnace II]] or [[Furnace III]]. Once a single nugget has been [[Study table|studied]], nuggets can be broken down into a [[Gold powder]] for use in [[alchemy]].
+
+==Sources==
+*While exploring the [[dungeon]], you may come across:
+**gold ore veins, requiring a pickaxe to mine, each yielding 8 nuggets, or 9 if the [[Perks#Jeweler Perk|Jeweler perk]] is unlocked. There are 4 veins in total, found on levels 6, 9, 14 and 15.
+**[[Monsters#Golems|Golden Golems]] on level 15. There are 4 golems, dropping 2-5 nuggets each.
+*By [[mining]] and processing [[iron ore]] after opening the [[Building (Tech Tree)#Precious Metals|Precious Metals]] technology:
+**mining iron ore blocks from the [[Mining#Iron Deposit|Iron Deposit]], located in the north-west corner of the map, near the [[Quarry]]. Low chance, approximately 10% per block with the [[Perks#Miner Perk|Miner perk]] (tested on PC version 1.407).
+**processing these blocks into ore at a stone cutter. Very low chance, approximately 1% per block, for both [[Stone cutter]] and [[Stone cutter II]] (tested on PC version 1.407).
+*By processing the [[gold crucian]] fish at the [[cooking table]]. While catching them can be difficult, each fish yields 1 nugget.
+*From the [[Moneylender]] in the [[Refugee camp]] for {{Money|2200}} (with the ''[[Game of Crone]]'' DLC).
+
+It is '''not''' possible to find any precious metals in the [[Mining#Bog Ore|bog iron deposits]].
+
+If you have difficulties finding gold nuggets, consider buying their derivatives instead:
+*the [[Merchant]] sells [[Gold jewelry details]];
+*the [[Moneylender]], available with the ''[[Game of Crone]]'' DLC, sells [[Gold jewelry details]], [[Gold ingot]]s and [[Gold powder]].
+
+For example, lots of Gold jewelry details are required to make a full set of top-tier candelabras: [[Candelabra III]] and [[Wall candelabra III]]. It might be easier to buy the details than to gather the nuggets needed to craft them.
+
+==Study==
+{| class="wikitable" style="width:40em"
+! colspan="4" |{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Gold powder|powder]].
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Gold powder|4}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Gold ingot|1}}
+|{{Item|{{PAGENAME}}|2}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Gold ingot|1}}
+|{{Item|{{PAGENAME}}|2}}
+|1:30<br>{{Fuel|-|20}}
+|}
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+[[Category:secondary ore]]
+
+[[pt-br:Pepita de ouro]]

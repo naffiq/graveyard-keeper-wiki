@@ -1,0 +1,55 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = Felling site.png
+| size      = 
+| exits     = [[Forest near the river]]
+| buildable = True
+| NPCs      = 
+}}
+
+The felling site (aka the Saw Mill) is located near the path leading through the eastern half of the [[forest near the river]]. First, you just find a sign there. After unlocking [[Building (Tech Tree)|Zombie Woodcutting]], you are able to build a single, but complex sawmill.
+
+With at least one {{item|zombie}} installed here, it provides an infinite {{item|log}} supply.
+{{clear}}
+
+== Building Sign ==
+Here is, where you first set up the sawmill.
+
+[[file:felling site.png|300px|This is how it looks before you build the sawmill: just a sign under a big tree]]
+
+{| class="wikitable"
+!style="width:17.5em;"|Blueprint
+!style="width:17.5em;"|Required Materials
+!Notes
+|-
+|[[File:Start building sawmill item.png|80x80px|link=Start building sawmill]] [[Start building sawmill]]
+|{{Item|Flitch|12}} <br> {{Item|Nails|4}} <br> {{Item|Axe I|1}}
+|Requires [[Building (Tech Tree)|Zombie Woodcutting]]
+|}
+
+[[file:Sawmill.png|300px|The sawmill with a zombie worker.]]
+
+== Huge Tree ==
+The sawmill includes a huge tree (upper left corner). This is where you may put a {{item|zombie}} to work, which keeps on cutting down trees, until the [[timber stockpile]] overflows with {{item|log}}s. This sign [[file:work blocked.png|work blocked]] on the logs means, that the stockpile is full and the work is blocked until some storage space is freed up.
+
+== Timber Stockpile ==
+[[file:timber stockpile infobox.gif|150px|left|link=timber stockpile]]
+The sawmill comes already complete with the [[timber stockpile|stockpile]] (bottom middle). It has a capacity of {{item|log|9}}. You can deposit or remove logs manually here. The {{item|zombie}} also deposits its cut down logs there.
+{{clear}}
+
+== Porter Station ==
+[[file:porter station image.gif|150px|left|link=porter station with zombie on the road or back home]]
+[[file:porter station 4.png|300px|link=porter station|Only logs can be transported|right]]
+A [[porter station]] is also included in the sawmill (bottom right corner). It's used for {{item|log}}s only. If you assign a {{item|zombie}} here, it hauls the logs back to the [[timber stockpile]] of your [[workyard]]. If both stockpiles are full, it hauls the log to and from without dropping it 
+{{clear}}
+
+==Unemploying==
+[[file:porter station image 1.png|150px|link=zombie|The zombie is on the road|left]][[file:porter station image 2.png|150px|link=zombie|The zombie is back home|right]]
+If you want to get the porter [[zombie]] off its work, you can deselect the logs and wait until it's back to the station. It enters there and waits for further commands. You can then hit "E" to get it off the station.
+
+The other possibility is to intercept the porter zombie, stand in its way, and talk to it by hitting "E". In this case, the porter drops all the logs it is currently hauling around.
+
+To get rid of the woodcutter, stand right behind it and hit "E".
+{{clear}}
+
+{{Navbox-Locations}}

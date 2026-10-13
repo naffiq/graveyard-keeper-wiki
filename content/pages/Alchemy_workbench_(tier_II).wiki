@@ -1,0 +1,143 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Alchemy_workbench2.png
+|location   = [[Alchemy_Lab]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Advanced alchemy]]
+|related    = [[Alchemy]]
+|footprint  = 5x4
+|rotatable  = True
+}}
+The '''{{lcfirst:{{PAGENAME}}}}''' is one of the most difficult [[work station]]s in the game to build and allows you to combine three ingredients, usually one powder, one solution, and one extract, into a final product. Though some more advanced alchemical ingredients can be used in multiple categories.  Through these combinations it's possible to create new products, though most combinations will yield only useless [[goo]].  The tier II alchemy workbench is not considered a direct upgrade to the [[alchemy workbench (tier I)]] as they share none of the same recipes. As such it is likely you will require both. 
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Jointing|6}}<br>{{Item|Steel parts|2}}<br>{{Item|Advanced conical flasks|3}}
+|{{energy|-|10}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)|Advanced alchemy]].
+|}
+
+==Recipes==
+
+Note: recipes should be entered left to right in the order they appear.
+
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|Glue|1}}
+|{{Item|Health powder|1}}<br>{{Item|Life solution|1}}<br>{{Item|Chaos extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Preservative|1}}
+|{{Item|Life powder|1}}<br>{{Item|Slowing solution|1}}<br>{{Item|Slowing extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Preservative|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|Life solution|1}}<br>{{Item|Slowing extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Speed potion|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Blood|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Digestion potion|1}}
+|{{Item|Health powder|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Acceleration extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Restoring potion|1}}
+|{{Item|Order powder|1}}<br>{{Item|Health solution|1}}<br>{{Item|Health extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Protection potion|1}}
+|{{Item|Order powder|1}}<br>{{Item|Slowing solution|1}}<br>{{Item|Slowing extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Flavor enhancer|1}}
+|{{Item|Ash|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Life extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Acid|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Toxic extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Aromatizer|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Alcohol|1}}<br>{{Item|Life extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Alkali|1}}
+|{{Item|Life powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|Blood|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Tanning agent|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|Order extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Balsamic solution|1}}
+|{{Item|Chaos powder|1}}<br>{{Item|Water|1}}<br>{{Item|Death extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Rage potion|1}}
+|{{Item|Chaos powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|Toxic extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Berserk potion|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|Death extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Golden elixir|1}}
+|{{Item|Gold powder|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Chaos extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Golden elixir|1}}
+|{{Item|Gold powder|1}}<br>{{Item|Order solution|1}}<br>{{Item|Health extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Silver elixir|1}}
+|{{Item|Silver powder|1}}<br>{{Item|Order solution|1}}<br>{{Item|Life extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Silver elixir|1}}
+|{{Item|Silver powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Order extract|1}}
+|{{energy|-|10}}
+|
+|-
+|{{Item|Memory tincture|1}}
+|{{Item|Memory powder|1}}<br>{{Item|Silver powder|1}}<br>{{Item|Gold powder|1}}
+|{{energy|-|10}}
+|[[Game of Crone]] DLC
+|}
+
+'''Utility Recipes'''
+[[File:Fórmulas úteis.png|thumb]]
+
+
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]

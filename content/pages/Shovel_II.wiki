@@ -1,0 +1,55 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = shovel_2
+| study        = {{Techpoint|red|100}}
+| source       = [[Anvil II]]
+| buy          = [[Krezvold|Krezvold (T III)]]
+| sell         = [[Krezvold|Krezvold (T III)]]
+| efficiency   = 150%
+| energy       = {{Energy|-|1}}
+| cost         = 700
+| stacksize    = 1
+}}
+The {{lcfirst:{{PAGENAME}}}} is equipped in the {{Icon|shovel}} slot and is used when digging [[Gravesite|gravesites]], clearing bushes and debris, and harvesting [[river sand]] and [[clay]].  The {{lcfirst:{{PAGENAME}}}} can be forged at the [[anvil II]] by the player but is also available for sale by the [[Blacksmith]] among their Tier III trades.
+
+Efficiency reflects how much progress toward a task each use of a tool provides. An efficiency of 100% would be full speed, 200% would be double speed, and 50% would be half speed. The {{lcfirst:{{PAGENAME}}}} is 150% efficient.
+
+Energy usage reflects how much energy each action consumes. The {{lcfirst:{{PAGENAME}}}} consumes {{Energy||1}} per swing.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|100}}.
+
+== Recipe ==
+{| class = "wikitable"
+!colspan = "2"|{{Item|Anvil II}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|100}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|15}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]
+[[es:Pala II]]

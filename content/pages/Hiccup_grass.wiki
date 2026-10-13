@@ -1,0 +1,53 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = hiccup_grass
+| study        = {{Techpoint|Green}}
+| alchemy      = {{Item|Health solution}}
+| source       = [[Swamp]]
+| quest        = [[Merchant]]
+}}
+Hiccup grass is a forageable plant that grows naturally in the [[swamp]] area west of the [[graveyard]]. You need to repair the [[stone bridge]] in order to access it and then you can repair the [[swamp bridge]] from the west side for much easier access. You give this to the [[merchant]] to cure him from his hiccups. 
+
+==Quest==
+
+===Hiccup Cure===
+The [[merchant]] is suffering from hiccups. After trying to scare the hiccups out of him, he gives you a quest to find {{Item|Hiccup grass|1}} growing in the [[swamp]], west of the [[church]] across the [[stone bridge]], which you have to repair. Return to the [[merchant]] for 10 {{Happiness}}.
+
+==Study==
+{| class = "wikitable" style="width:40em;"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Decomposes into:<br>[[Health solution|fluid]]
+|}
+
+==Alchemy==
+Hiccup grass is decomposable into [[Health solution|solution]] with the [[hand mixer]]. Having unlocked the [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent.
+ 
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Health solution|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Capim-soluço]]

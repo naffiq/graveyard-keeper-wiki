@@ -1,0 +1,30 @@
+{{Stub}}
+[[File:The Dead Horse .jpg|right|thumb|640x640px]]
+
+{{PAGENAME}} tavern is located in the center of [[Village|the village]]. The innkeeper is called [[Horadric]]. He is always available for trading.
+
+==NPCs==
+The following [[NPCs]] are found at the inn:
+
+{| class="wikitable"
+!NPC
+!Notes
+|-
+|[[Horadric]]
+|innkeeper
+|-
+|[[Ms. Charm]]
+|actress, only appears on {{Day|Lust}}
+|-
+|[[Vagner]]
+|poet
+|-
+|[[Captain]]
+|
+|-
+|[[Miss Chain]]
+|innkeeper's wife
+|-
+|}
+
+{{Navbox-Locations}}

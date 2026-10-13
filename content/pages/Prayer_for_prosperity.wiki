@@ -1,0 +1,57 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| source       = [[Church workbench]]
+| cost         = 75
+}}
+
+A prayer which creates {{Item|Blessing of commerce}}, used to directly improve vendor tiers. It can be crafted at the [[Desk]] or [[Desk II]]. The quality is dependent on the ingredients and for the sermon to be successful the church needs a rating of 10{{Church Rating}}/20{{Church Rating}}/30{{Church Rating}}.
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Prayer_for_Prosperity_Sermon.png|quality = copper}}
+|{{Quality Sprite|image = Prayer_for_Prosperity_Sermon.png|quality = silver}}
+|{{Quality Sprite|image = Prayer_for_Prosperity_Sermon.png|quality = gold}}
+|-
+|{{Church Rating}}10
+|{{Church Rating}}20
+|{{Church Rating}}30
+|-
+|{{Silver Coin}}1 (+25%)
+|{{Silver Coin}}2 (+25%)
+|{{Silver Coin}}3 (+25%)
+|-
+|[[Faith]] (x1) (+25%)
+|[[Faith]] (x2) (+25%)
+|[[Faith]] (x3) (+25%)
+|-
+|{{Item|Blessing of commerce|1}}
+|{{Item|Blessing of commerce|2}}
+|{{Item|Blessing of commerce|3}}
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Desk}}, {{Item|Desk II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|rowspan = "2"|	{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Chapter|1|animation}}
+{{Item|Faith|5|}}
+
+{{Energy||10}}
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+
+[[Category:Writing]]
+[[Category:Sermons]]

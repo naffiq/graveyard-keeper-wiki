@@ -1,0 +1,36 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|18}}
+| study        = N/A
+| alchemy      = 
+| source       = [[Pail of berry juice]]
+| cost         = 
+| stacksize    = 20
+| type         = Food; Beverage
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b>, not to be confused with the [[cooking]] ingredient <i>[[berry juice]]</i>, is a consumable product, able to restore a relatively small amount of energy. Similar to other bottles of juice, it is a by-product of a [[Berry|fruit]] without the additional step of fermentation.
+
+==Recipe==
+{| class="wikitable" style = "table-layout:fixed; width:35em;"
+! colspan="2" |Use in Inventory
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|5}}
+|{{Item|Pail of berry juice|1}}
+|}
+
+==See Also==
+*{{Item|Bottle of berry ferment}}
+*{{Item|Bottle of apple juice}}
+*{{Item|Bottle of grape juice}}
+
+<br>
+{{Navbox-Food}}
+[[Category:Food]]
+[[Category:beverages]]
+[[Category:consumable items]]

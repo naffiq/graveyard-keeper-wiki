@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| source       = [[Alchemy]]
+| cost         = 
+| quest        =  
+}}
+
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]] and is used to make higher tier [[Farming#Fertilizer|fertilizer]].
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Ash|1}}
+{{Item|Toxic solution|1}}
+
+{{Item|Life extract|1}}
+|}
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Church workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Quality fertilizer II|10}}
+|{{Item|Flavor enhancer|2}}
+{{Item|Peat|10}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[es:Potenciador de sabor]]
+[[pt-br:Intensificador de sabor]]

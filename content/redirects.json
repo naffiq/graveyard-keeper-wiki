@@ -1,0 +1,934 @@
+{
+"Actor": [
+"Vagner",
+null
+],
+"Actress": [
+"Ms. Charm",
+null
+],
+"Alchemical Mill": [
+"Alchemy mill",
+null
+],
+"Alchemical mill": [
+"Alchemy mill",
+null
+],
+"Alchemy Laboratory": [
+"Alchemy Lab",
+null
+],
+"Alchemy lab": [
+"Alchemy Lab",
+null
+],
+"Aphorism": [
+"Aphorisms about the evils of money",
+null
+],
+"Aphorisms": [
+"Aphorisms about the evils of money",
+null
+],
+"Apiary": [
+"Beekeeping",
+"Bee Garden"
+],
+"Appetite potion": [
+"Digestion potion",
+null
+],
+"Apple": [
+"Red apple",
+null
+],
+"Armor potion": [
+"Protection potion",
+null
+],
+"Autopsy": [
+"Preparation place",
+null
+],
+"Autopsy table": [
+"Preparation place",
+null
+],
+"Barn cellar": [
+"Cellar",
+null
+],
+"Beehive": [
+"Bee hive",
+null
+],
+"Beet Seed": [
+"Beet seed",
+null
+],
+"Beet seeds": [
+"Beet seed",
+null
+],
+"Beets": [
+"Beet",
+null
+],
+"Blacksmith": [
+"Krezvold",
+null
+],
+"Blue Paint": [
+"Blue paint",
+null
+],
+"Blue jar": [
+"Lye injection",
+null
+],
+"Bonfire": [
+"Cooking",
+"Bonfire"
+],
+"Book (b)": [
+"Techbook",
+null
+],
+"Book (g)": [
+"Techbook",
+null
+],
+"Book (r)": [
+"Techbook",
+null
+],
+"Book Writing": [
+"Book Writing (Tech Tree)",
+null
+],
+"Bottle of Berry Juice": [
+"Bottle of berry juice",
+null
+],
+"Bowl": [
+"Ceramic bowls",
+null
+],
+"Brewing": [
+"Brewing stand",
+null
+],
+"Buffet Tent": [
+"Buffet tent",
+null
+],
+"Build Stone Fence": [
+"Build stone fence",
+null
+],
+"Cabbage Seed": [
+"Cabbage seed",
+null
+],
+"Cabbage seeds": [
+"Cabbage seed",
+null
+],
+"Candelabra": [
+"Candelabra I",
+null
+],
+"Candle (1)": [
+"Candle",
+null
+],
+"Candle (3)": [
+"Candle",
+null
+],
+"Candle (4)": [
+"Candle",
+null
+],
+"Candle (6)": [
+"Candle",
+null
+],
+"Carrot Seed": [
+"Carrot seed",
+null
+],
+"Carrot seeds": [
+"Carrot seed",
+null
+],
+"Carved Wood": [
+"Carved wood",
+null
+],
+"Category:Alchemy Products": [
+"Category:Alchemy products",
+null
+],
+"Category:Witch Hill workstations": [
+"Category:Witch hill workstations",
+null
+],
+"Cathedral": [
+"Church",
+null
+],
+"Ceramic Bowls": [
+"Ceramic bowls",
+null
+],
+"Chandelier": [
+"Candelabra I",
+null
+],
+"Chandelier II": [
+"Candelabra II",
+null
+],
+"Clear the path": [
+"Blockage",
+null
+],
+"Clear the path (alchemy lab)": [
+"Blockage",
+null
+],
+"Clear the path (morgue)": [
+"Blockage",
+null
+],
+"Coal Deposit": [
+"Mining",
+"Coal Deposit"
+],
+"Coal deposit": [
+"Mining",
+"Coal Deposit"
+],
+"Communion Cookies": [
+"Communion cookie",
+null
+],
+"Complex glass cones": [
+"Advanced conical flasks",
+null
+],
+"Confessional II": [
+"Confessional",
+null
+],
+"Cooking table": [
+"Cooking",
+"Cooking Table"
+],
+"Corpse hatch": [
+"Morgue",
+"Corpse Hatch"
+],
+"Corpses": [
+"Corpse",
+null
+],
+"Crafting Stations": [
+"Work Stations",
+null
+],
+"Crate": [
+"Crates",
+null
+],
+"Crate pallet": [
+"Pallet",
+null
+],
+"Cultist": [
+"Snake",
+null
+],
+"Dairy Trader": [
+"Rosa",
+null
+],
+"Damage potion": [
+"Rage potion",
+null
+],
+"Dead Horse": [
+"The Dead Horse",
+null
+],
+"Diamond": [
+"Faceted diamond",
+null
+],
+"Double pallet": [
+"Pallet",
+null
+],
+"Egg": [
+"Chicken egg",
+null
+],
+"Eight Tips to Improve Your Graveyard.": [
+"Eight Tips to Improve Your Graveyard",
+null
+],
+"Elixir": [
+"Alchemy",
+"Alchemy Workbench (Tier I)"
+],
+"Embalming table II": [
+"Embalming table",
+null
+],
+"Episcop": [
+"Bishop",
+null
+],
+"Extract": [
+"Alchemy",
+null
+],
+"Fame": [
+"Marketing campaign",
+null
+],
+"Farm": [
+"Farming",
+"Kitchen Garden"
+],
+"Fence Supplies For Garden": [
+"Fence supplies For Garden",
+null
+],
+"Fertilizer": [
+"Farming",
+"Fertilizer"
+],
+"Fish": [
+"Fishing",
+null
+],
+"Food": [
+"Items",
+"Food"
+],
+"Footbridge": [
+"River",
+"Small Island"
+],
+"Forest": [
+"Forest near the river",
+null
+],
+"Fresh Egg Basket": [
+"Fresh egg basket",
+null
+],
+"Fridge pallet": [
+"Pallet",
+null
+],
+"Garden": [
+"Farming",
+null
+],
+"Ghost": [
+"Yorick",
+null
+],
+"Glass cones": [
+"Conical flasks",
+null
+],
+"Gold": [
+"Gold ingot",
+null
+],
+"Gold Crucian": [
+"Gold crucian",
+null
+],
+"Gold Nugget": [
+"Gold nugget",
+null
+],
+"Gold crate": [
+"Crates",
+null
+],
+"Gold ore": [
+"Gold nugget",
+null
+],
+"Golden injection": [
+"Gold injection",
+null
+],
+"Good fisherman": [
+"Effects",
+null
+],
+"Goods crate": [
+"Crates",
+null
+],
+"Grape Seed": [
+"Grape seed",
+null
+],
+"Grape juice": [
+"Bottle of grape juice",
+null
+],
+"Grave place": [
+"Gravesite",
+null
+],
+"Graves": [
+"The Graveyard",
+null
+],
+"Graveyard": [
+"The Graveyard",
+null
+],
+"Graveyard Influence": [
+"The Graveyard",
+null
+],
+"Graveyard Rating": [
+"The Graveyard",
+"Graveyard Rating"
+],
+"Graveyard rating": [
+"The Graveyard",
+"Graveyard Rating"
+],
+"Great book (b)": [
+"Techbook",
+null
+],
+"Great book (g)": [
+"Techbook",
+null
+],
+"Great book (r)": [
+"Techbook",
+null
+],
+"Green plus": [
+"Balsamic solution",
+null
+],
+"Gypsy baron": [
+"Gypsy Baron",
+null
+],
+"Hemp Seed": [
+"Hemp seed",
+null
+],
+"Hemp seeds": [
+"Hemp seed",
+null
+],
+"Home Sweet Home": [
+"Sweet Home",
+null
+],
+"Hops Seed": [
+"Hops seed",
+null
+],
+"How to play guide of Graveyard Keeper": [
+"Guides & Tutorials",
+null
+],
+"Ice Axe": [
+"Ice axe",
+null
+],
+"Infusion of fly agaric": [
+"Infusion",
+null
+],
+"Iron Ore Deposit": [
+"Mining",
+"Iron Deposit"
+],
+"Iron ore deposit": [
+"Mining",
+"Iron Deposit"
+],
+"Key features": [
+"Graveyard Keeper",
+"Key features"
+],
+"Kitchen Garden": [
+"Farming",
+"Kitchen Garden"
+],
+"Kitchen garden": [
+"Farming",
+"Kitchen Garden"
+],
+"Lentil Seeds": [
+"Lentil seed",
+null
+],
+"Lentils Seed": [
+"Lentil seed",
+null
+],
+"Lentils seed": [
+"Lentil seed",
+null
+],
+"Lifestone": [
+"Limestone",
+null
+],
+"Lighthouse keeper": [
+"Lighthouse Keeper",
+null
+],
+"Logger": [
+"Woodcutter",
+null
+],
+"Long heal potion": [
+"Restoring potion",
+null
+],
+"Lumberjack": [
+"Woodcutter",
+null
+],
+"Main Page": [
+"Graveyard Keeper Wiki",
+null
+],
+"Map": [
+"Locations",
+null
+],
+"Marble": [
+"A piece of marble",
+null
+],
+"Marble deposit": [
+"Mining",
+"Marble Deposit"
+],
+"Marquis Teodoro Jr": [
+"Marquis Teodoro Jr.",
+null
+],
+"Miss charm": [
+"Ms. Charm",
+null
+],
+"Money": [
+"Currency",
+null
+],
+"Monster": [
+"Monsters",
+null
+],
+"Mortuary": [
+"Morgue",
+null
+],
+"Mortuary desk": [
+"Morgue",
+"Workbench"
+],
+"Mrs. Chain": [
+"Miss Chain",
+null
+],
+"Mrs. Charm": [
+"Ms. Charm",
+null
+],
+"NPC": [
+"NPCs",
+null
+],
+"NPC Infobox": [
+"Template:NPC Infobox",
+null
+],
+"Npcs": [
+"NPCs",
+null
+],
+"Old Graveyard": [
+"The Graveyard",
+null
+],
+"Onion Seed": [
+"Onion seed",
+null
+],
+"Onion seeds": [
+"Onion seed",
+null
+],
+"Onions": [
+"Onion",
+null
+],
+"Orchard": [
+"Farming",
+"Orchard"
+],
+"Ore cutter": [
+"Iron ore stockpile",
+null
+],
+"Oven": [
+"Cooking",
+"Oven"
+],
+"Packing Table": [
+"Packing table",
+null
+],
+"Paper": [
+"Clean paper",
+null
+],
+"Pen": [
+"Feather",
+null
+],
+"Perk": [
+"Perks",
+null
+],
+"Piece of Stone": [
+"A piece of stone",
+null
+],
+"Piece of stone": [
+"A piece of stone",
+null
+],
+"Poet": [
+"Vagner",
+null
+],
+"Polished brick of stone": [
+"A polished brick of stone",
+null
+],
+"Potion": [
+"Alchemy",
+"Alchemy Workbench (Tier I)"
+],
+"Potter": [
+"Adam",
+null
+],
+"Potters wheel": [
+"Potter's wheel",
+null
+],
+"Powder": [
+"Alchemy",
+null
+],
+"Prayer": [
+"Sermon",
+null
+],
+"Professional oven": [
+"Cooking",
+"Professional Oven"
+],
+"Pumpkin Seed": [
+"Pumpkin seed",
+null
+],
+"Pumpkin Seeds": [
+"Pumpkin seed",
+null
+],
+"Pumpkins": [
+"Pumpkin",
+null
+],
+"Quarry": [
+"Cabin in the woods",
+null
+],
+"Quest": [
+"Quests",
+null
+],
+"Recipe": [
+"Cookery (Tech Tree)",
+null
+],
+"Red paint": [
+"Red Paint",
+null
+],
+"Release date": [
+"Graveyard Keeper",
+null
+],
+"River Sand": [
+"River sand",
+null
+],
+"Royal services": [
+"The Graveyard",
+"Royal Services"
+],
+"Sacrifice zone": [
+"Sacrifice Zone",
+null
+],
+"Sand": [
+"River sand",
+null
+],
+"Saw": [
+"Circular saw",
+null
+],
+"Sawmill": [
+"Felling site",
+null
+],
+"Scroll of teleportation": [
+"Scroll of Teleportation",
+null
+],
+"Sealight Lighthouse": [
+"Lighthouse",
+null
+],
+"Seed oil (drop)": [
+"Oil",
+null
+],
+"Sermons": [
+"Sermon",
+null
+],
+"Shepard": [
+"Shepherd",
+null
+],
+"Silver Crucian": [
+"Silver crucian",
+null
+],
+"Silver crate": [
+"Crates",
+null
+],
+"Silver ore": [
+"Silver nugget",
+null
+],
+"Solution": [
+"Alchemy",
+null
+],
+"Start building sawmill": [
+"Felling site",
+null
+],
+"Statuette": [
+"Statuette of the Ancient God",
+null
+],
+"Stone Deposit": [
+"Mining",
+"Stone Deposit"
+],
+"Stone Quarry": [
+"Mining",
+"Stone Quarry"
+],
+"Stone deposit": [
+"Mining",
+"Stone Deposit"
+],
+"Stone quarry": [
+"Mining",
+"Stone Quarry"
+],
+"Super mushroom": [
+"Red mushroom",
+null
+],
+"Swamp": [
+"The Swamp",
+null
+],
+"System requirements": [
+"Graveyard Keeper",
+null
+],
+"Tavern": [
+"Talking Skull",
+null
+],
+"Tavern event": [
+"Talking Skull",
+"Tavern Events"
+],
+"Techbook 2": [
+"Techbook",
+null
+],
+"Technology": [
+"Technologies",
+null
+],
+"Teleport stones": [
+"Teleportstone",
+null
+],
+"The Church": [
+"Church",
+null
+],
+"Theology": [
+"Theology (Tech Tree)",
+null
+],
+"Time": [
+"Days",
+null
+],
+"Town": [
+"The Town",
+null
+],
+"Townsfolk": [
+"NPCs",
+null
+],
+"Trade office": [
+"Trade Office",
+null
+],
+"Universal Bag": [
+"Universal bag",
+null
+],
+"Vampire's Jaw": [
+"Vampire's jaw",
+null
+],
+"Vampires jaw": [
+"Vampire's jaw",
+null
+],
+"Vendor": [
+"Vendors",
+null
+],
+"Version": [
+"Versions",
+null
+],
+"Village": [
+"The Village",
+null
+],
+"Village pond": [
+"Village Pond",
+null
+],
+"Vineyard": [
+"Farming",
+"Vineyard"
+],
+"Waterfall": [
+"River",
+"Waterfall"
+],
+"Wheat Seed": [
+"Wheat seed",
+null
+],
+"Wheat farm": [
+"Wheat Farm",
+null
+],
+"Wheat seeds": [
+"Wheat seed",
+null
+],
+"Wine": [
+"Red wine",
+null
+],
+"Winemaking barrel": [
+"Wine making barrel",
+null
+],
+"Witch": [
+"Clotho",
+null
+],
+"Witchers eye": [
+"Witcher's Eye",
+null
+],
+"Wooden wedge": [
+"Wood wedge",
+null
+],
+"Work station": [
+"Work Stations",
+null
+],
+"Workbench for wood": [
+"Carpenter's workbench",
+null
+],
+"Workbench for wood II": [
+"Carpenter's workbench II",
+null
+],
+"World Map": [
+"Locations",
+null
+],
+"Yellow electro powder": [
+"Electric powder",
+null
+],
+"Yellow jar": [
+"Acid injection",
+null
+],
+"Yellow powder": [
+"Life powder",
+null
+],
+"Zombie Brewery": [
+"Zombie-brewery",
+null
+],
+"Zombie stone quarry: left": [
+"Zombie stone quarry",
+null
+]
+}

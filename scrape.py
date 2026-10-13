@@ -15,13 +15,15 @@ import json
 import os
 import re
 import shutil
-
-import recipes as recipe_parser
 import sys
+import threading
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
+
+import recipes as recipe_parser
 
 BASE = "https://graveyardkeeper.fandom.com"
 API = BASE + "/api.php"
@@ -31,8 +33,19 @@ SPRITE_SHEET = ("https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/
                 "6/6c/ItemSprite.png/revision/latest")
 
 
-def http_get(url, retries=5):
+_cooldown = {}  # host -> monotonic time until which all threads hold off
+_cooldown_lock = threading.Lock()
+
+
+def http_get(url, retries=8):
+    """GET with retries. A 429/503 pauses every thread hitting that host
+    (honouring Retry-After), since Fandom rate-limits per client, not per request."""
+    host = urllib.parse.urlparse(url).netloc
     for attempt in range(retries):
+        with _cooldown_lock:
+            pause = _cooldown.get(host, 0) - time.monotonic()
+        if pause > 0:
+            time.sleep(pause)
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=60) as r:
@@ -40,7 +53,13 @@ def http_get(url, retries=5):
         except Exception as e:
             if attempt == retries - 1:
                 raise
-            wait = 2 ** attempt
+            wait = min(120, 5 * 2 ** attempt)
+            if isinstance(e, urllib.error.HTTPError) and e.code in (429, 503):
+                retry_after = e.headers.get("Retry-After", "")
+                if retry_after.isdigit():
+                    wait = max(wait, int(retry_after))
+                with _cooldown_lock:
+                    _cooldown[host] = max(_cooldown.get(host, 0), time.monotonic() + wait)
             print(f"  retry {url[:90]} in {wait}s ({e})", file=sys.stderr)
             time.sleep(wait)
 
@@ -143,11 +162,87 @@ class Archiver:
         self.redirects = {}   # title -> (target, fragment)
         self.images = {}      # remote url -> local relative path (from wiki/)
         self.full_images = {} # image path key -> best local path
+        self.failed = []
         self.recipes = []
         self.products = set()
         self.page_products = {}  # page title -> craftable things described on it
 
     # ---------- fetching ----------
+    # ---------- incremental updates ----------
+    def invalidate_changed(self, state_path):
+        """Drop cached copies of pages edited on the wiki since the last run.
+
+        Uses list=recentchanges (kept by MediaWiki for ~90 days). Edits to
+        templates/modules change how every page renders, so they invalidate
+        the whole parse cache; wikitext of untouched pages stays valid.
+        Returns the run start time to record as the next starting point.
+        """
+        now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        try:
+            with open(state_path) as f:
+                since = json.load(f)["updated"]
+        except (OSError, ValueError, KeyError):
+            print("no previous state: full cache is used as-is")
+            return now
+        changed, templates = set(), False
+        params = dict(action="query", list="recentchanges", rcend=since, rclimit="max",
+                      rcprop="title|timestamp", rcnamespace="0|10|14|828", rctype="edit|new|log")
+        while True:
+            data = api(**params)
+            for rc in data["query"]["recentchanges"]:
+                if rc["ns"] in (10, 828):
+                    templates = True
+                else:
+                    changed.add(rc["title"])
+            if "continue" not in data:
+                break
+            params.update(data["continue"])
+        print(f"since {since}: {len(changed)} pages changed, templates changed: {templates}")
+        wt_path = os.path.join(self.cache, "wikitext.json")
+        if os.path.exists(wt_path) and changed:
+            with open(wt_path) as f:
+                wikitext = json.load(f)
+            for t in changed:
+                wikitext.pop(t, None)
+            with open(wt_path, "w") as f:
+                json.dump(wikitext, f)
+        for name in os.listdir(self.cache):
+            if name in ("meta.json", "wikitext.json"):
+                continue
+            title_hashes = {hashlib.md5(t.encode()).hexdigest() + ".json" for t in changed}
+            if templates or name in title_hashes:
+                os.remove(os.path.join(self.cache, name))
+        return now
+
+    def export_content(self, content_dir, updated):
+        """Versionable snapshot: one wikitext file per page + parsed recipes."""
+        pages_dir = os.path.join(content_dir, "pages")
+        os.makedirs(pages_dir, exist_ok=True)
+        keep = set()
+        for title in sorted(self.pages):
+            if title not in self.wikitext:
+                continue
+            name = page_file(title)[:-len(".html")] + ".wiki"
+            keep.add(name.lower())
+            text = self.wikitext[title]
+            path = os.path.join(pages_dir, name)
+            try:
+                with open(path) as f:
+                    if f.read() == text:
+                        continue
+            except OSError:
+                pass
+            write_text(path, text)
+        for name in os.listdir(pages_dir):
+            if name.lower() not in keep:
+                os.remove(os.path.join(pages_dir, name))
+        with open(os.path.join(content_dir, "recipes.json"), "w") as f:
+            f.write("[\n" + ",\n".join(json.dumps(r, ensure_ascii=False) for r in self.recipes) + "\n]\n")
+        with open(os.path.join(content_dir, "redirects.json"), "w") as f:
+            json.dump(dict(sorted(self.redirects.items())), f, ensure_ascii=False, indent=0)
+        with open(os.path.join(content_dir, "state.json"), "w") as f:
+            json.dump({"updated": updated, "pages": len(self.pages), "recipes": len(self.recipes)}, f, indent=1)
+
     def collect_titles(self):
         titles, redirect_titles = [], []
         for ns in NAMESPACES:
@@ -164,8 +259,13 @@ class Archiver:
         if os.path.exists(path) and not self.refresh:
             with open(path) as f:
                 return title, json.load(f)
-        data = api(action="parse", page=title, prop="text|displaytitle|categories",
-                   disableeditsection=1, redirects=1)
+        try:
+            data = api(action="parse", page=title, prop="text|displaytitle|categories",
+                       disableeditsection=1, redirects=1)
+        except Exception as e:  # rate limit outlasted the retries; try next run
+            print(f"  ! {title}: {e}", file=sys.stderr)
+            self.failed.append(title)
+            return title, None
         if "error" in data:
             print(f"  ! {title}: {data['error'].get('info')}", file=sys.stderr)
             return title, None
@@ -183,6 +283,11 @@ class Archiver:
                     self.pages[title] = result
                 if done % 50 == 0 or done == len(titles):
                     print(f"  pages {done}/{len(titles)}")
+        if self.failed:
+            # Stop before building: a snapshot missing pages would record them
+            # as deleted. Everything fetched so far stays in the cache.
+            sys.exit(f"{len(self.failed)} pages could not be fetched (rate limited?); "
+                     "cached progress is kept, run again to continue")
 
     def drop_case_duplicates(self):
         """Drop junk twins of pages whose titles differ only by letter case.
@@ -232,6 +337,8 @@ class Archiver:
                 if p.get("revisions"):
                     self.wikitext[p["title"]] = p["revisions"][0]["slots"]["main"]["content"]
             print(f"  wikitext {min(i + 50, len(missing))}/{len(missing)}")
+            with open(path, "w") as f:  # save per batch so a failed run keeps progress
+                json.dump(self.wikitext, f)
         with open(path, "w") as f:
             json.dump(self.wikitext, f)
 
@@ -567,7 +674,10 @@ Unofficial offline copy, not affiliated with Fandom or the game's developers.</p
 </main>
 </body></html>""")
 
-    def run(self):
+    def run(self, content_dir=None):
+        updated = None
+        if content_dir:
+            updated = self.invalidate_changed(os.path.join(content_dir, "state.json"))
         titles = self.collect_titles()
         self.fetch_all(titles)
         self.fetch_wikitext(titles)
@@ -592,6 +702,8 @@ Unofficial offline copy, not affiliated with Fandom or the game's developers.</p
             shutil.copy(os.path.join(here, name), os.path.join(self.out, name))
         shutil.copytree(os.path.join(here, "icons"), os.path.join(self.out, "icons"), dirs_exist_ok=True)
         self.write_pwa_files()
+        if content_dir:
+            self.export_content(content_dir, updated)
         print(f"done → {os.path.join(self.out, 'index.html')}")
 
 
@@ -600,5 +712,8 @@ if __name__ == "__main__":
     ap.add_argument("--out", default="site")
     ap.add_argument("--workers", type=int, default=6)
     ap.add_argument("--refresh", action="store_true")
+    ap.add_argument("--content", metavar="DIR",
+                    help="incremental mode: refetch pages changed since DIR/state.json "
+                         "and write a versionable wikitext snapshot to DIR")
     a = ap.parse_args()
-    Archiver(a.out, a.workers, a.refresh).run()
+    Archiver(a.out, a.workers, a.refresh).run(a.content)

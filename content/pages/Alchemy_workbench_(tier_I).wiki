@@ -1,0 +1,155 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Alchemy_workbench1.png
+|location   = [[Alchemy Lab]]
+|technology = [[Anatomy and Alchemy (Tech Tree)#Alchemy|The beginning of alchemy]]
+|related    = 
+|footprint  = 5x4
+|rotatable  = True
+}}
+The {{lcfirst:{{PAGENAME}}}} allows you to combine two ingredients. Through these combinations it's possible to create new products, though most combinations will yield only [[goo]]. In order to get access to the technology required to pursue alchemy you must agree to help [[Clotho]] recover her memory.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|6}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Advanced conical flasks|2}}
+|{{Energy|-|10}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)#The Beginning of Alchemy|The Beginning of Alchemy]]
+|}
+
+==Recipes==
+Note: recipes should be entered left to right in the order they appear. The left slot contains powders and the right slot contains solutions.
+
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:17.5em;"| Notes
+|-
+|rowspan="3"|{{Item|Black paint|1}}
+|{{Item|Graphite powder|1}}<br>{{Item|Water|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Ash|1}}<br>{{Item|Oil|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Death powder|1}}<br>{{Item|Water|1}}
+|{{Energy|-|5}}
+|
+|-
+|rowspan="3"|{{Item|White paint|1}}
+|{{Item|White powder|1}}<br>{{Item|Oil|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Alcohol|1}}<br>{{Item|Slowing solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Electric powder|1}}<br>{{Item|Water|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Freshener|1}}
+|{{Item|Oil|1}}<br>{{Item|Order solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Energy potion|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Acceleration solution|1}}
+|{{Energy|-|5}}
+|Effect on use {{Energy|+|50}}
+|-
+|{{Item|Spices|1}}
+|{{Item|Salt|1}}<br>{{Item|Health solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|rowspan="2"|{{Item|Energy elixir|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Slowing solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Slowing powder|1}}<br>{{Item|Acceleration solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Dark elixir|1}}
+|{{Item|Death powder|1}}<br>{{Item|Blood|1}}
+|{{Energy|-|5}}
+|
+|-
+|rowspan="2"|{{Item|Heal potion|1}}
+|{{Item|Health powder|1}}<br>{{Item|Chaos solution|1}}
+|{{Energy|-|5}}
+|Effect on use {{Health|+|50}}
+|-
+|{{Item|Life powder|1}}<br>{{Item|Health solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Growth enhancer|1}}
+|{{Item|Ash|1}}<br>{{Item|Life solution|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Zombie juice|1}}
+|{{Item|Health powder|1}}<br>{{Item|Blood|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Brown Paint|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Blue Paint|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Dark Green Paint|1}}
+|{{Item|Health powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Green Paint|1}}
+|{{Item|Order powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Dark Violet Paint|1}}
+|{{Item|Death powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Violet Paint|1}}
+|{{Item|Chaos powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Red Paint|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Yellow Paint|1}}
+|{{Item|Life powder|1}}<br>{{Item|Oil|1|}}
+|{{Energy|-|5}}
+|
+|}
+
+==Printable card==
+[[File:Alchemy Workbench Tier 1 Printable Card.jpg|left|thumb]]
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]

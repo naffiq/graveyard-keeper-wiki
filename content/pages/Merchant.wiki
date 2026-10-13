@@ -1,0 +1,249 @@
+{{NPC Infobox
+| name     = Merchant
+| image    = Merchant.png
+| day      = {{Day|Gluttony}}
+| location = [[Trade office]] south of the tavern
+| vendor   = Valuable items
+| role     = Merchant
+}}
+The Merchant arrives fittingly every week on {{Day|Gluttony}} and enjoys decadent food. He will purchase from you almost any {{Quality|Gold}} dish. His real name is Lawrence. He is the brother of the [[Bishop]].
+
+== Quests ==
+===Buy or Farm===
+
+After talking to [[Horadric]] about a vegetable garden south of the keeper's house he will tell you that it is abandoned and that he sold it to the merchant. He asks you to speak to the merchant first, but you are able to do it anyway after using the {{item|Garden certificate}}.
+
+After meeting the merchant he tells you that you can use the land if you are able to successfully grow vegetables.
+
+First he demands, {{Money|100000}}.
+
+If you refuse once, {{Money|50000}}.
+
+If you refuse twice, you will be able to ask him for a barter. If you don't accept it though you'll have to buy the garden for {{Money|100000}} and make it nice again. After an apology, he'll trade with you again, and lower the price to a final {{Money|10000}}. You'll still be able to work the garden without paying the money, but you need to pay to advance the questline. Paying him any amount of money skips the first harvest quest.
+
+If you accept the barter, he gives you a quest to bring him your first harvest of {{item|Carrot|12}}, {{item|Cabbage|12}}, and {{item|Beet|12}} to get a {{Item|Story|1|copper}}.
+
+===Repay Loan===
+When you repay the {{Money|1000}} loan, you gain 10 {{Happiness}} and {{Item|Story|1|copper}}.
+
+===Hiccup Cure===
+The merchant is suffering from hiccups. After trying to scare the hiccups out of him, he gives you a quest to find {{Item|Hiccup grass|1}} growing in the [[swamp]], west of the [[church]] across the [[stone bridge]] which you have to repair. Return to the merchant for 10 {{Happiness}} and a {{Item|Story|1|copper}}.
+
+===No Taste===
+After you bring him some {{Item|Hiccup grass}} it cures his hiccups but also leaves him unable to taste anything due to a curse. He requests that you speak to [[Clotho]] about a cure.
+
+After some back-and-forth about professional courtesy to the other witch who cursed him, [[Clotho]] relents and tells you the recipe for her cure: {{Item|Salt}} and {{Item|health solution}}. These two ingredients used together will create {{Item|spices}}. It is possible to create spices without talking to her first.
+
+Bring the spices to the merchant for another 10 {{happiness}}. You can not give him the spices without first talking to [[Clotho]].
+
+=== Trade license ===
+Next you need a {{item|trade license}}, which can be bought from the [[royal services]] next to the [[church]]. To be able to buy it, you need to buy the "Righful Citizen" status for {{Money|300}} in advance. The {{item|trade license}} costs {{Money|5000}}.  
+
+Once you bring your license to the merchant, he will open up the [[trade office]] and ask you to bring a crate of goods each {{Day|Gluttony}} for him to sell. These {{item|crate}}s are made in the [[crate factory]] (in older versions, the [[packing table]]).
+
+=== Royal Dinner ===
+Next task is making 5x {{Quality|Gold}} {{Item|Dinner||gold}} for him to present them before the king.
+
+=== After 60 ===
+You need to complete the two tasks related to the [[trade office]] (getting enough fame and selling 7 crates), that should give you at least 70 {{Happiness}} to unlock the next step. You ask him how the royal dinner was, and he said it was great, and that even though now they got some support from the royal council as a whole, the head of the council needs some more convincing. More specifically, [[Ms. Charm]]'s convincing.
+
+===Promoting your business===
+You want to try and use [[Ms. Charm]] to make your veggie-selling business grow. You need at least 40 {{Happiness}} with her for that, and you need to make her a piece of [[jewelry]]. After doing this, besides getting {{item|fame|1}} for the [[trade office]], she will start selling {{item|jewelry}} and {{item|perfume}}.
+
+===Big Ceremony===
+The merchant tells you that all went well, but he wants to attend a big ceremony as keeper of the king's kitchen and needs your help for that. After the [[Inquisitor]] turned you down, you can ask the merchant to join your feast in the cathedral. He agrees and hands you an {{item|Accepted invitation}} to show to the [[bishop]].
+
+===Salty Fork===
+Ask him for the {{item|Salty fork}}. He'll only give it to you if you reached 100 {{happiness}} with him.
+
+== Loan ==
+If you ask him about [[Items#Seeds|seeds]] he'll offer you a loan of {{Money|500}} with 100% interest. If you decline it first, you can always get it via talking about your deal and then about the loan. It is not timed but you have to pay back {{Money|1000}}.
+
+==Trades==
+''Note: as of [[Versions|v1.3]], the merchant no longer sells or buys [[faceted diamond]]s. He may still have them in his inventory within game-instances that began prior to v1.3 - this is likely an oversight. As of v1.4, the merchant should sell and buy diamonds again, though there have been reports that this is not entirely consistent.''
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{|class="wikitable" style="width:23em;"
+|+ <big>Tier I</big>
+!Item
+!style="width:2em;"|Qty
+!style="width:5em;"|Base Cost
+|-
+|{{Item|Gold jewelry details}}
+|5
+|{{Money|5000}}
+|-
+|{{Item|Silver ingot}}
+|2
+|N/A
+|}<br>
+{|class="wikitable" style="width:23em;"
+|+ <big>Tier II</big>
+!Item
+!style="width:2em;"|Qty
+!style="width:5em;"|Base Cost
+|-
+|{{Item|Silk}}
+|18
+|{{Money|100}}
+|-
+|{{Item|Grape seed||silver}}
+|8
+|{{Money|55}}
+|-
+|{{Item|Royal fish||silver}}
+|5
+|{{Money|55}}
+|-
+|{{Item|Grape seed||copper}}
+|8
+|{{Money|40}}
+|}
+|
+{|class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Red wine||gold}}
+|4
+|N/A
+|-
+|{{Item|Grape pie||gold}}
+|16
+|N/A
+|-
+|{{Item|Cake||gold}}
+|16
+|N/A
+|-
+|{{Item|Grape seed||gold}}
+|8
+|{{Money|70}}
+|-
+|{{Item|Royal fish||gold}}
+|5
+|{{Money|70}}
+|-
+|{{Item|Pumpkin soup||gold}}
+|14
+|N/A
+|-
+|{{Item|Vegetable soup||gold}}
+|14
+|N/A
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}}
+|14
+|N/A
+|-
+|{{Item|Burger||gold}}
+|14
+|N/A
+|-
+|{{Item|Cabbage soup||gold}}
+|14
+|N/A
+|-
+|{{Item|A bowl of lentils||gold}}
+|18
+|N/A
+|-
+|{{Item|Onion rings||gold}}
+|10
+|{{Money|14}}
+|-
+|{{Item|Toasts with onions||gold}}
+|20
+|N/A
+|}
+|}
+
+===Buying===
+{|
+|- style="vertical-align:top;"
+|
+{|class="wikitable" style="width:23em;"
+|+ <big>Tier I</big>
+!Item
+!style="width:6em;"|Base Price
+|-
+|{{Item|Gold jewelry details}}
+|{{Money|3423}}
+|-
+|{{Item|Silver ingot||}}
+|{{Money|1225}}
+|}<br>
+{|class="wikitable" style="width:23em;"
+|+ <big>Tier II</big>
+!Item
+!style="width:6em;"|Base Price
+|-
+|{{Item|Silk}}
+|{{Money|73}}
+|-
+|{{Item|Grape seed||silver}}
+|{{Money|39}}
+|-
+|{{Item|Royal fish||silver}}
+|{{Money|38}}
+|-
+|{{Item|Grape seed||copper}}
+|{{Money|28}}
+|}
+|
+{|class="wikitable" style="width:21em;"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Red wine||gold}}
+|{{Money|168}}
+|-
+|{{Item|Grape pie||gold}}
+|{{Money|91}}
+|-
+|{{Item|Cake||gold}}
+|{{Money|69}}
+|-
+|{{Item|Grape seed||gold}}
+|{{Money|50}}
+|-
+|{{Item|Royal fish||gold}}
+|{{Money|48}}
+|-
+|{{Item|Pumpkin soup||gold}}
+|{{Money|44}}
+|-
+|{{Item|Vegetable soup||gold}}
+|{{Money|40}}
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}}
+|{{Money|36}}
+|-
+|{{Item|Burger||gold}}
+|{{Money|29}}
+|-
+|{{Item|Cabbage soup||gold}}
+|{{Money|29}}
+|-
+|{{Item|A bowl of lentils||gold}}
+|{{Money|22}}
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|14}}
+|-
+|{{Item|Toasts with onions||gold}}
+|{{Money|15}}
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[de:Kaufmann]]
+[[pt-br:Comerciante]]
+[[pl:Kupiec]]

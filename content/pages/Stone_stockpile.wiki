@@ -1,0 +1,39 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} infobox.gif
+|location   = [[Workyard]], [[Cabin in the woods]]
+|technology = The concept of stone
+|related    = [[Storage]]
+|footprint  = 5X4
+|rotatable  = No
+}}
+The stone stockpile is a construct used to store [[stone block]]s and [[marble block]]s. It's required in order to later process these blocks at the [[stone cutter]] or [[stone cutter II]] into [[A piece of stone|stone pieces]] and [[A piece of marble|marble pieces]], respectively.
+
+It's important, as {{item|zombie}}s can deliver blocks there. Either they mine them, or they transport them from one stockpile to another.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Stone Stockpile Icon.png]]
+|{{Item|Flitch|8}}<br>{{Item|Nails|8}}
+|
+|
+|}
+
+== Note ==
+*Only 6 blocks of stone or marble can be stored in a stockpile at a time. 
+
+==See Also==
+*[[Timber stockpile]]
+*[[Iron ore stockpile]]
+
+<br>
+{{Navbox-Cabin and Workyard}}
+[[Category:Workstations]]
+
+[[Category:Cabin in the woods workstations]]
+[[Category:Workyard workstations]]

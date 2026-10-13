@@ -1,0 +1,33 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Alchemy lab]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Alchemy storage]]
+|related    = [[Storage]]
+|footprint  = 4 x 2
+|rotatable  = No
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to store items and has 25 slots of capacity. All items stored in a location will be accessible to all workstations in that area automatically and can be reviewed by opening the player inventory when in the area. For more information see [[storage]].
+
+Horizontal and vertical : 4 x 2
+
+Rotation : No
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|10}}<br>{{Item|Wooden beam|4}}
+|{{Energy|-|18}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)|Alchemy storage]]
+|}
+
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+
+[[Category:Alchemy lab workstations]]
+[[Category:Storage]]

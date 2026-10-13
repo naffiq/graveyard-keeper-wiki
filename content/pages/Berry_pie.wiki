@@ -1,0 +1,35 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Dessert
+| consume      = {{Energy|+|35}}
+| nameinternal = dessert:pie_1
+| study        = 
+| source       = [[Cooking]]
+| cost         = 35
+}}
+
+A food item which restores {{Energy|+|35}} when consumed.  Since all the items which can be used to craft {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+Cannot be sold.
+
+A single Berry Pie is required for a [[Smiler]] side quest.
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Berry pie|2}}
+|{{Item|Pastry dough|1}}
+{{Item|Berry juice|1}}
+
+{{Item|Fuel|10}}
+|}
+The recipe is learned by using [[Recipe pies]], which can be purchased from [[Miss Chain]].{{Navbox-Food}}
+[[Category:food]]
+[[Category:desserts]]
+[[Category:consumable items]]

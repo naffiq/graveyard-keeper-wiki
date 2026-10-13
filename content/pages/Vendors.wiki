@@ -1,0 +1,1110 @@
+{| style="width:60%; text-align:center;"
+|[[File:Horadric.png|frameless]]
+[[Horadric]]
+|[[File:Beekeeper.png|frameless]]
+[[Beekeeper]]
+|[[File:Rosa.png|frameless]]
+[[Rosa]]
+|[[File:TressF.png|frameless]]
+[[Tress]]
+|-
+|[[File:Merchant.png|frameless]]
+[[Merchant]]
+|[[File:Potter.png|frameless]]
+[[Adam]]
+|[[File:Blacksmith.png|frameless]]
+[[Krezvold]]
+|[[File:Dig.png|frameless]]
+[[Dig]]
+|-
+|[[File:Fresh Egg Basket.png|frameless]]
+[[Fresh Egg Basket]]
+|[[File:Shepherd.png|frameless]]
+[[Shepherd]]
+|[[File:CoryF.png|frameless]]
+[[Cory]]
+|[[File:Miller.png|frameless]]
+[[Miller]]
+|-
+|[[File:Lighthouse Keeper NPC.png|frameless]]
+[[Lighthouse Keeper]]
+|[[File:Farmer.png|frameless]]
+[[Farmer]]
+|[[File:Episcot.png|frameless]]
+[[Bishop]]
+|[[File:Astrologer.png|frameless]]
+[[Astrologer]]
+|-
+|[[File:Ms. Charm.png|frameless]]
+
+[[Ms. Charm]]
+|[[File:Clotho.png|frameless]]
+[[Clotho]]
+|[[File:Mrs. Chain.png|frameless]]
+
+[[Miss Chain]]
+|[[File:Actor.png|frameless]]
+
+[[Vagner]]
+|}
+
+== Trades ==
+Vendor can trade only goods from his inventory. Some of them can be only bought, only sold or both bought and sold. 
+
+== Money ==
+There are three things which alter vendor's money:
+
+* Trading with Keeper
+* Daily, vendor specific constant profit
+* Daily trading with the global market
+
+Constant profit and trading with the global market happens at the end of every day.
+
+== Trading with global market ==
+At the end of every day game simulates vendors interaction with the global market. They buy deficient and sell surplus goods, it is defined by good's base quantity. 
+
+Vendor will trade with the global market if good's quantity is not within +-5% of base quantity. Example: Farmer's flour base quantity is 100, he will trade flour with the global market if flour quantity is less than 95 or more than 105.
+
+Vendor will sell to the global market if good's quantity is greater than base quantity + 5%. He will sell 5% of good's quantity rounded up with a maximum limit (limit seems to be 25% of the base quantity rounded up). Example: 
+
+* Farmer has 104 flours, he will not sell flour to the the global market.
+* Farmer has 153 flours, he will sell 8 flours to the the global market.
+* Farmer has 162 flours, he will sell 9 flours to the the global market.
+*Farmer has 500 flours, he will sell 25 (limit) flours to the the global market.
+*Farmer has 800 flours, he will sell 25 (limit) flours to the the global market.
+
+Similar with buying from the global market.
+
+== Optimal Trading with vendor ==
+Due to the nature of vendor's interactions with the global market daily demand for specific good will vary. It will vary even more with longer time periods. However, it is possible to calculate minimum daily demand and use it for calculations for longer time periods. Example: Farmer's flour base quantity is 100, daily demand for flour will be 5% rounded up, it is 5 flours per day.
+==Purchasing==
+===[[Horadric]]===
+*Will not buy back the Teleportstone.
+*Will not buy any [[A mug of mead|mead]] or gold-quality [[A mug of beer|beer]], despite an apparent interest.
+*The price of Burial Certificates will not deflate.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|{{Item|Burial certificate}}
+|{{Money|150}}
+|-
+|{{Item|Package of meat}}
+|{{Money|64}}
+|-
+|{{Item|Grape pie||copper}}
+|{{Money|58}}
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|26}}
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|22}}
+|-
+|{{Item|Baked salmon||copper}}
+|{{Money|22}}
+|-
+|{{Item|Fish nuggets||copper}}
+|{{Money|18}}
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|{{Money|18}}
+|-
+|{{Item|A bowl of lentils||copper}}
+|{{Money|14}}
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|{{Money|14}}
+|-
+|{{Item|Omelette||copper}}
+|{{Money|14}}
+|-
+|{{Item|Fish soup||copper}}
+|{{Money|14}}
+|-
+|{{Item|Beet slices}}
+|{{Money|11}}
+|-
+|{{Item|Carrot cutlet}}
+|{{Money|9}}
+|-
+|{{Item|bread}}
+|{{Money|8}}
+|-
+|{{Item|Onion rings||copper}}
+|{{Money|8}}
+|-
+|{{Item|Firewood}}
+|{{Money|4}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Red wine||silver}}
+|{{Money|139}}
+|-
+|{{Item|Red wine||copper}}
+|{{Money|104}}
+|-
+|{{Item|Grape pie||silver}}
+|{{Money|73}}
+|-
+|{{Item|Baked salmon||silver}}
+|{{Money|28}}
+|-
+|{{Item|Croissant}}
+|{{Money|18}}
+|-
+|{{Item|Muffin}}
+|{{Money|14}}
+|-
+|{{Item|Onion rings||silver}}
+|{{Money|11}}
+|-
+|{{Item|Toasts with onions||silver}}
+|{{Money|12}}
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|14}}
+|}
+|}
+
+<br>
+===[[Beekeeper]]===
+{| class = "wikitable"
+!Item
+!Base price
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|}
+
+<br>
+===[[Tress]]===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|-
+|{{Item|Wood repair kit}}
+|{{Money|17}}
+|-
+|{{Item|Wood billet}}
+|{{Money|8}}
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|-
+|{{Item|Flitch}}
+|{{Money|4}}
+|-
+|{{Item|Wood wedge}}
+|{{Money|2}}
+|-
+|{{Item|Wooden stick}}
+|{{Money|1}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Wooden beam}}
+|{{Money|39}}
+|-
+|{{Item|Wooden plank}}
+|{{Money|7}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel chisel||gold}}
+|{{Money|245}}
+|-
+|{{Item|Jointing}}
+|{{Money|47}}
+|-
+|{{Item|Carved wood||copper}}
+|{{Money|34}}
+|-
+|{{Item|Axe II}}
+|{{Money|525}}
+|}
+|}
+
+<br>
+
+===[[Merchant]]===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Base Price
+!Consumed<br>per week
+!Tier
+|-
+|{{Item|Gold jewelry details}}
+|{{Money|3423}}
+|?
+|I
+|-
+|{{Item|Silver ingot||}}
+|{{Money|1225}}
+|6
+|I
+|-
+|{{Item|Grape seed||silver}}
+|{{Money|39}}
+|10
+|II
+|-
+|{{Item|Royal fish||silver}}
+|{{Money|38}}
+|9
+|II
+|-
+|{{Item|Grape seed||copper}}
+|{{Money|28}}
+|10
+|II
+|-
+|{{Item|Faceted diamond}}
+|{{Money|1837}}
+|?
+|III
+|-
+|{{Item|Red wine||gold}}
+|{{Money|168}}
+|6
+|III
+|-
+|{{Item|Grape pie||gold}}
+|{{Money|91}}
+|12
+|III
+|-
+|{{Item|Silk}}
+|{{Money|70}}
+|?
+|III
+|-
+|{{Item|Cake||gold}}
+|{{Money|69}}
+|12
+|III
+|-
+|{{Item|Grape seed||gold}}
+|{{Money|50}}
+|10
+|III
+|}
+|
+{| class="wikitable"
+!Item
+!Base Price
+!Consumed<br>per week
+!Tier
+|-
+|{{Item|Royal fish||gold}}
+|{{Money|48}}
+|9
+|III
+|-
+|{{Item|Baked salmon||gold}}
+|{{Money|43}}
+|11
+|III
+|-
+|{{Item|Pumpkin soup||gold}}
+|{{Money|44}}
+|12
+|III
+|-
+|{{Item|Vegetable soup||gold}}
+|{{Money|40}}
+|12
+|III
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}}
+|{{Money|36}}
+|12
+|III
+|-
+|{{Item|Burger||gold}}
+|{{Money|29}}
+|12
+|III
+|-
+|{{Item|Cabbage soup||gold}}
+|{{Money|29}}
+|12
+|III
+|-
+|{{Item|A bowl of lentils||gold}}
+|{{Money|22}}
+|12
+|III
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|14}}
+|11
+|III
+|-
+|{{Item|Toasts with onions||gold}}
+|{{Money|15}}
+|12
+|III
+|}
+|}
+===[[Krezvold]]===
+*Will not buy back the [[whetstone]], [[cauldron]], [[steel sword]], or any chisels.
+*The condition of tools will not affect price or subsequent cost. <i>(even 0%)</i>
+*Will not buy related oddities, such as [[metal scrap]] or [[bloody nails]].
+*Will not buy any weapons or armor, except for the [[rusty sword]].
+*Will not buy any high-tier tools, except for the [[shovel II]]. <i>(see [[Cory#Trading|Cory]] and [[Tress#Trading|Tress]])</i>
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|{{Item|Iron ingot}}
+|{{Money|57}}
+|-
+|{{Item|Simple iron parts}}
+|{{Money|44}}
+|-
+|{{Item|Nails}}
+|{{Money|20}}
+|-
+|{{Item|Coal}}
+|{{Money|14}}
+|-
+|{{Item|Iron ore}}
+|{{Money|10}}
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|-
+|{{Item|Rusty axe}}
+|{{Money|75}}
+|-
+|{{Item|Rusty pickaxe}}
+|{{Money|75}}
+|-
+|{{Item|Rusty shovel}}
+|{{Money|75}}
+|-
+|{{Item|Rusty sword}}
+|{{Money|375}}
+|-
+|{{Item|Rusty hammer}}
+|{{Money|75}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel ingot}}
+|{{Money|158}}
+|-
+|{{Item|Complex iron parts}}
+|{{Money|86}}
+|-
+|{{Item|Graphite}}
+|{{Money|30}}
+|-
+|{{Item|Axe I}}
+|{{Money|225}}
+|-
+|{{Item|Pickaxe I}}
+|{{Money|225}}
+|-
+|{{Item|Shovel I}}
+|{{Money|225}}
+|-
+|{{Item|Iron hammer}}
+|{{Money|306}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel parts}}
+|{{Money|143}}
+|-
+|{{Item|Shovel II}}
+|{{Money|525}}
+|}
+|}
+
+<br>
+===[[Dig]]===
+{| class="wikitable"
+!Item
+!Base Cost
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|}
+===[[Fresh egg basket]]===
+{| class = "wikitable"
+!Item
+!Base Price
+|-
+|{{Item|Feather}}
+|{{Money|14}}
+|}
+
+<br>
+===[[Shepherd]]===
+*Will not buy back [[peat]].
+*After selling 149 units of [[Crop waste]], it devalues to 0.
+*Will not buy related oddities, such as [[maggot]]s or processed [[Farming#Fertilizer|fertilizer]].
+
+{| class="wikitable" style="text-align:center"
+!Item
+!Base Price
+|-
+|{{Item|Crop waste}}
+|{{Money|1}}
+|}
+
+<br>
+===[[Cory]]===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|{{Item|A piece of stone}}
+|{{Money|21}}
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|A carved piece of stone}}
+|{{Money|127}}
+|-
+|{{Item|A polished brick of stone}}
+|{{Money|65}}
+|-
+|{{Item|A piece of marble}}
+|{{Money|62}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel chisel||gold}}
+|{{Money|245}}
+|-
+|{{Item|A carved piece of marble||copper}}
+|{{Money|184}}
+|-
+|{{Item|A polished brick of marble}}
+|{{Money|119}}
+|-
+|{{Item|Pickaxe II}}
+|{{Money|525}}
+|}
+|}
+
+<br>
+===[[Miller]]===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Flour}}
+|{{Money|9}}
+|6 down to 104
+|-
+|{{Item|Firewood}}
+|{{Money|5}}
+|
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Hops||copper}}
+|{{Money|28}}
+|
+|-
+|{{Item|Hops seed||copper}}
+|{{Money|25}}
+|
+|-
+|{{Item|Wheat}}
+|{{Money|8}}
+|
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Hops||gold}}
+|{{Money|44}}
+|
+|-
+|{{Item|Hops seed||gold}}
+|{{Money|43}}
+|
+|-
+|{{Item|Hops||silver}}
+|{{Money|35}}
+|
+|-
+|{{Item|Hops seed||silver}}
+|{{Money|33}}
+|
+|}
+|}
+
+<br>
+===[[Lighthouse Keeper]]===
+*Will not buy back either lure, any fish fillets, or the [[Excellent fishing rod|excellent rod]].
+*Will not buy any insect-bait, despite having an apparent interest in both the [[moth]] and [[maggot]].
+*Selling crucians is ill-advised, as the precious metals gained from processing them are much more valuable.
+*Selling [[goldfish]] is particularly profitable, as odds are to catch one fish per two lures; net profit of {{Money|2750}} plus 19x [[tuna]].
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable sortable"
+|+ <big>Tier I</big>
+!Item
+!Price (-) {{Quality|None}}
+|-
+|{{Item|Simple fishing rod}}
+|{{Money|150}}
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|-
+|{{Item|Frog}}
+|{{Money|4}}
+|-
+|{{Item|Gudgeon|}}
+|{{Money|5}}
+|-
+|{{Item|Anchovy|}}
+|{{Money|14}}
+|-
+|{{Item|Tilapia|}}
+|{{Money|17}}
+|-
+|{{Item|Perch|}}
+|{{Money|22}}
+|-
+|{{Item|Eel|}}
+|{{Money|28}}
+|}
+|
+{| class="wikitable sortable"
+|+ <big>Tier II</big>
+!Item
+!Price{{Quality|Copper}}
+!Price{{Quality|Silver}}
+|-
+|{{Item|Good fishing rod}}
+|{{Money|225}}
+|
+|-
+|{{Item|Bream}}
+|{{Money|40}}
+|{{Money|58}}
+|-
+|{{Item|Sardine}}
+|{{Money|79}}
+|{{Money|98}}
+|-
+|{{Item|Tuna}}
+|{{Money|83}}
+|{{Money|101}}
+|-
+|{{Item|Silver crucian}}
+|{{Money|98}}
+|{{Money|199}}
+|-
+|{{Item|Pike}}
+|{{Money|140}}
+|{{Money|288}}
+|-
+|{{Item|Salmon}}
+|N/A
+|{{Money|110}}
+|-
+|{{Item|Sturgeon}}
+|N/A
+|{{Money|184}}
+|}
+|
+{| class="wikitable sortable"
+|+ <big>Tier III</big>
+!Item
+!Price{{Quality|Gold}}
+|-
+|{{Item|Salmon}}
+|{{Money|269}}
+|-
+|{{Item|Sturgeon}}
+|{{Money|306}}
+|-
+|{{Item|Carp}}
+|{{Money|184}}
+|-
+|{{Item|Gold crucian}}
+|{{Money|919}}
+|-
+|{{Item|Goldfish}}
+|{{Money|3750}}
+|}
+|}
+
+<br>
+===[[Farmer]]===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed<br>per Week
+|-
+|{{Item|Beet}}
+|{{Money|11}}
+| 6 down to 10
+|-
+|{{Item|Cabbage}}
+|{{Money|8}}
+| 6 down to 31
+|-
+|{{Item|Carrot}}
+|{{Money|8}}
+| 6 down to 31
+|-
+|{{Item|Flour}}
+|{{Money|9}}
+| 6 down to 104
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+| 
+|}
+|}
+
+
+<br>
+
+===[[Bishop]]===
+*Will not buy back their inventory, except at Tier III.
+*Will not buy related oddities, such as paper products, [[beeswax]], or [[hemp rope]].
+*Selling most sermons is ill-advised, as the requisite materials can be sold for more elsewhere. <i>(see [[Astrologer#Trading|Astrologer]])</i>
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|{{Item|Bread}}
+|{{Money|8}}
+|-
+|{{Item|Combo prayer||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for imagination||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for protection||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for repose||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for excellence||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for retribution||copper}}
+|{{Money|112}}
+|-
+|{{Item|Casual prayer}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for faith||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for donations||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for shoots and roots||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for repentance||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for prosperity||copper}}
+|{{Money|75}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Combo prayer||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for imagination||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for protection||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for repose||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for excellence||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for retribution||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for faith||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for donations||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for shoots and roots||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for repentance||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for prosperity||silver}}
+|{{Money|150}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Candle (4)}}
+|{{Money|260}}
+|-
+|{{Item|Candle (6)}}
+|{{Money|325}}
+|-
+|{{Item|Incense II}}
+|{{Money|268}}
+|-
+|{{Item|Combo prayer||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for imagination||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for protection||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for repose||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for excellence||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for retribution||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for faith||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for donations||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for shoots and roots||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for repentance||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for prosperity||gold}}
+|{{Money|225}}
+|}
+|}
+
+<br>
+===[[Astrologer]]===
+{|style="text-align:left;"
+|
+{| class = "wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+| align="center" |Pen and ink
+|{{Money|250}}
+|Unknown
+|-
+|Softcover (not Purchasing)
+|{{Money|200}}
+|Unknown
+|-
+|Ink (not Purchasing)
+|{{Money|150}}
+|Unknown
+|-
+|Clean paper (not Purchasing)
+|{{Money|100}}
+|Unknown
+|-
+|Feather
+|{{Money|20}}
+|Unknown
+|}
+|
+{| class = "wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Book|variant=silver||Silver}}
+|{{Money|1326}}
+|5+, down to 1
+|-
+|Hard Cover (not Purchasing)
+|{{Money|700}}
+|Unknown
+|-
+|Chapter (not Purchasing)
+|{{Money|300}}
+|Unknown
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Cost
+!Consumed<br>per week
+|-
+|{{Item|Book|variant=gold||Gold}}
+|{{Money|2652}}
+|5+, down to 1
+|}
+|}
+
+
+<br>
+===[[Ms. Charm]]===
+*Selling jewelry is ill-advised, unless the player is certain they no longer need [[faceted diamond]]s.
+::{{*}}Purchasing the requisite materials results in a net loss. <i>(see [[Merchant#Trading|Merchant]])</i> 
+*Despite being able to buy perfume, she is the only known source. <i>([[Church workbench]] bug?)</i>
+::{{*}}It also has no known application, other than a previous quest of hers.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Base Price
+|-
+|{{Item|Jewelry}}
+|{{Money|6847}}
+|-
+|{{Item|Perfume}}
+|{{Money|1027}}
+|}
+
+<br>
+===[[Clotho]]===
+{| class = "wikitable"
+!Item
+!Base price
+|-
+|{{Item|Speed potion}}
+|{{Money|68}}
+|}
+{{Navbox-NPCs}}
+[[Category:Topics]]
+[[pt-br:Vendedores]]
+
+
+== Selling ==
+
+===Farmer===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Beet}}
+|10
+|{{Money|16}}
+|-
+|{{Item|Cabbage}}
+|30
+|{{Money|10}}
+|-
+|{{Item|Carrot}}
+|30
+|{{Money|10}}
+|-
+|{{Item|Crop waste}}
+|50
+|{{Money|1}}
+|-
+|{{Item|Beet seed}}
+|8
+|{{Money|12}}
+|-
+|{{Item|Flour}}
+|100
+|{{Money|12}}
+|-
+|{{Item|Cabbage seed}}
+|29
+|{{Money|9}}
+|-
+|{{Item|Carrot seed}}
+|29
+|{{Money|9}}
+|-
+|{{Item|Wheat seed}}
+|29
+|{{Money|9}}
+|-
+|{{Item|Firewood}}
+|2
+|N/A
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Lentils||silver}}
+|5
+|{{Money|26}}
+|-
+|{{Item|Pumpkin||copper}}
+|10
+|{{Money|22}}
+|-
+|{{Item|Lentils||copper}}
+|10
+|{{Money|18}}
+|-
+|{{Item|Onion||silver}}
+|5
+|{{Money|24}}
+|-
+|{{Item|Lentil seed||silver}}
+|8
+|{{Money|19}}
+|-
+|{{Item|Onion seed||silver}}
+|8
+|{{Money|18}}
+|-
+|{{Item|Onion||copper}}
+|10
+|{{Money|16}}
+|-
+|{{Item|Pumpkin seed||copper}}
+|8
+|{{Money|16}}
+|-
+|{{Item|Lentil seed||copper}}
+|8
+|{{Money|13}}
+|-
+|{{Item|Onion seed||copper}}
+|8
+|{{Money|12}}
+|-
+|{{Item|Wheat}}
+|10
+|{{Money|10}}
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Pumpkin||silver}}
+|5
+|{{Money|33}}
+|-
+|{{Item|Pumpkin seed||silver}}
+|8
+|{{Money|24}}
+|}
+|}

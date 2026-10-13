@@ -1,0 +1,93 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Green|10}}
+
+| source       = [[Dig]], [[Church workbench]]; [[Hemp]]
+| cost         =10 
+| stacksize    = 30
+| type         = Misc
+| quest        = 
+| nameinternal = hemp_rope
+}}
+<b>{{PAGENAME}}</b> is a craft-able crafting material, primarily used for [[candle]] production. It can either be purchased from [[Dig]] or produced in the [[Alchemy Lab|alchemy lab]] underneath the [[church]].
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|5}}
+|{{Item|Hemp|4}}
+|0:02<br>{{Energy|-|5}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Anvil}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost 
+|-
+|{{Item|Sword}}
+|{{Item|Iron ingot|1}}<br>{{Item|Complex iron parts|4}}<br>{{Item|{{PAGENAME}}|2}}
+|0:10<br>{{Energy|-|30}}
+|-
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost 
+|-
+|{{Item|Sword}}
+|{{Item|Iron ingot|1}}<br>{{Item|Complex iron parts|4}}<br>{{Item|{{PAGENAME}}|2}}
+|0:05<br>{{Energy|-|20}}
+|-
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost 
+|-
+|{{Item|Candle (1)|4}}
+|{{Item|Fat|2}}<br>{{Item|Beeswax|2}}<br>{{Item|{{PAGENAME}}|1}}
+|0:04<br>{{Energy|-|5}}
+|-
+|{{Item|Candle (4)|4}}
+|{{Item|Beeswax|4}}<br>{{Item|White paint|2}}<br>{{Item|{{PAGENAME}}|1}}
+|0:04<br>{{Energy|-|6}}
+|}
+
+==Building==
+*work in progress*
+{|class="wikitable" style="width:35em;"
+!colspan="3"|Building Recipes
+|-
+! colspan = "3" |[[Witch Hill]]
+|-
+|style="text-align:center"|[[file:Buffet_tent item.png|80x80px]][[Buffet tent]]
+|{{Item|{{PAGENAME}}|5}}<br>{{Item|Wooden plank|15}}<br>{{Item|Nails|20}}
+|{{Energy|-|20}}
+|}
+
+<br>
+{{Navbox-Misc}}

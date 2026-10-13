@@ -1,0 +1,29 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| type         = Tool
+| nameinternal = ice_axe
+| quest       = [[Donkey]]
+| efficiency   = 200%
+| energy       = {{Energy|-|1}}
+| stacksize    = 1
+}}
+
+<b>{{PAGENAME}}</b> was introduced in [[Game of Crone]] DLC. It is rewarded upon completing the revolution quest line with [[Donkey]].
+
+The {{lcfirst:{{PAGENAME}}}} equips to the {{Icon|pickaxe}} slot and is used when [[mining]].
+
+Efficiency represents how much progress toward an operation each swing of the axe provides.  A 100% efficiency would cause something to progress at the normal rate while 200% would mean it progressed at twice that rate.  The {{lcfirst:{{PAGENAME}}}} has an efficiency of 200%.
+
+Energy usage represents how much energy each operation consumes. The {{lcfirst:{{PAGENAME}}}} requires only {{Energy|-|1}} per swing.
+
+The Ice axe is also the only pickax that is indestructible, making all other pickaxes redundant.
+
+==Trivia==
+The Ice axe and its flavour text are a reference to [https://en.wikipedia.org/wiki/Leon_Trotsky Leon Trotsky], who was notoriously assassinated with an ice axe as a traitor to the [https://en.wikipedia.org/wiki/Soviet_Union Soviet Union].
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]

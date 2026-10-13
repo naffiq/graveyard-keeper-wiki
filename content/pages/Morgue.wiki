@@ -1,0 +1,254 @@
+{{Location Infobox
+| name      = Morgue
+| image     = Morgue Infobox.png
+| size      = 
+| exits     = [[Alchemy Lab]], [[Workyard]], [[Souls room]]
+| buildable = True
+| NPCs      = [[Gerry]]
+}}
+The morgue is one of the first important areas you see in the game. You process bodies here. Regardless of whether you toss [[corpse]]s in the [[river]], [[Crematorium|burn them]], or bury them in a [[Graves|grave]], it is recommended that you process their body in the morgue first. The morgue is where you can find [[Gerry]]. It's also here, where you can create and alter [[zombie]]s to take over parts of your tiresome workload.
+
+== Deliveries and Capacity ==
+[[File:Delivery 1.png|x176px|Corpse delivery, the donkey has something to announce|link=donkey]] 
+[[File:Delivery 2.png|x176px|Corpse delivery including something else on the road|link=donkey]]
+[[File:Delivery 3.png|x176px|The donkey's carrot box has to be filled|link=donkey]]
+
+The [[file:donkey.png|50px|link=donkey]] [[donkey]] delivers a {{item|corpse}} daily as long as the number of bodies you have unfinished does not exceed the capacity {{Morgue Capacity}}. It is dropped on the road in front of the morgue. After reopening the [[church]], you'll have to put {{item|carrot|5}} per {{item|corpse}} into the donkey's box (must be built first) to "pay" for the deliveries.
+
+Bodies count against this capacity {{Morgue Capacity}} '''even when outside''' the morgue. Once a body is [[Graveyard|buried]], [[Crematorium|cremated]], or tossed in the [[river]], it does no longer count against {{Morgue Capacity}}. Once made into a {{item|zombie}} on a [[resurrection table]], the body also doesn't count any more, even when it '''occupies a work station'''.
+
+Corpses inside the morgue will decay slower than corpses outside. A corpse on a [[pallet]] will decay slower than those left on the floor. See [[corpse]]s for more information.
+
+== Corpse Hatch ==
+[[File:Corpse hatch 1.png|x176px|Corpse hatch unfixed, outside and inside|left]]
+The corpse hatch allows [[corpse]]s to be dropped directly into the morgue where they will decay slower. The benefit of repairing the hatch is slight so it is often not worth it to repair until later.
+{{clear}}
+
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:corpse hatch item.png|80px|Fix corpse hatch]] Fix corpse hatch
+|{{Item|A piece of stone|2}}
+{{Item|Simple iron parts|4}}
+|
+|Repair must be done <b>twice</b>. Both inside the morgue and outside.
+|}
+
+[[File:Corpse hatch 2.png|x176px|Corpse hatch fixed, outside and inside|left]]
+After fixing the hatch, the [[donkey]] delivers the [[corpse]] directly into the morgue. It will appear directly in front of the hatch. Unfortunately, there is no means to store it automatically onto a [[pallet]] to halt its decay completely. At least, the decay is slowed down that way.
+{{clear}}
+
+== Workbench ==
+[[File:Mortuary desk 1.png|x176px|Mortuary desk unrepaired]] 
+[[File:Mortuary desk 2.png|x176px|Mortuary desk repaired]]
+ 
+The workbench, called "mortuary desk", has to be repaired first, before using it. After learning the appropriate [[Anatomy and Alchemy (Tech Tree)|techniques]], you can put up a lot of different workstations here:
+{| class="wikitable"
+! colspan="4" |[[file:mortuary workbench.png|link=Mortuary desk]] [[Mortuary desk]]
+|-
+!style="width:17.5em;"|Blueprint
+!style="width:17.5em;"|Required Materials
+!Size
+!Notes
+|-
+|[[File:Repair desk item.png|80x80px|Repair the desk]] Repair mortuary desk
+|{{Item|Flitch|2}}<br>{{Item|Simple iron parts|2}}
+|
+|This must be done first.
+|-
+|[[File:Preparation place item.png|80x80px|link=Preparation place]] [[Preparation place]]
+|{{Item|Flitch|12}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|8}}
+|5x4
+|Requires [[Anatomy and Alchemy (Tech Tree)|First slice]]<br>Adds 1{{Morgue Capacity}}
+|-
+|[[File:Preparation place II item.png|80x80px|link=Preparation place II]] [[Preparation place II]]
+|{{Item|Wooden plank|6}}<br>{{Item|Steel parts|4}}<br>{{Item|Nails|6}}
+|5x4
+|Requires [[Anatomy and Alchemy (Tech Tree)|Anatomy II]]<br>Adds 1{{Morgue Capacity}}
+|-
+|[[File:Embalming table item.png|80x80px|link=Embalming table]] [[Embalming table]]
+|{{Item|Wooden plank|8}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|6}}
+|4x4
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming]]<br>Adds 1{{Morgue Capacity}}
+|-
+|[[File:Embalming table II item.png|80x80px|link=Embalming table II]] [[Embalming table II]]
+|{{Item|Wooden plank|10}}<br>{{Item|Steel parts|4}}<br>{{Item|Advanced conical flasks|4}}
+|4x4
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming II]]<br>Adds 1{{Morgue Capacity}}
+|-
+|[[File:Pallet item.png|80x80px|link=Pallet]] [[Pallet]]
+|{{Item|Flitch|6}}<br>{{Item|Nails|4}}
+|4x3
+(rotatable)
+|Requires [[Anatomy and Alchemy (Tech Tree)|First slice]]<br>Adds 1{{Morgue Capacity}}
+|-
+|[[File:Double pallet item.png|80x80px|link=Double pallet]] [[Double pallet]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|10}}
+|4x3
+(rotatable)
+|Requires [[Anatomy and Alchemy (Tech Tree)|Anatomy II]]<br>Adds 2{{Morgue Capacity}}
+|-
+|[[File:Fridge pallet item.png|80x80px|link=Fridge pallet]] [[Fridge pallet]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|12}}<br>{{Item|Complex iron parts|5}}
+|4x3
+(rotatable)
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming II]]<br>Adds 2{{Morgue Capacity}}
+|-
+|[[File:Mortuary rack item.png|80x80px|link=Mortuary rack]] [[Mortuary rack]]
+|{{Item|Flitch|8}}<br>{{Item|Nails|6}}<br>{{Item|Wooden beam|2}}
+|4x2
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming]]<br>Decorative [[storage]] for 25 items.
+|-
+|[[File:Resurrection table item.png|80px|link=Resurrection table]] [[Resurrection table]]
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|4}}
+|5x4
+|Requires [[Anatomy and Alchemy (Tech Tree)|Second chance]]<br>Produce [[zombie]]s here.
+|}
+
+== Autopsies ==
+[[File:Preparation place.gif|x200px|left|link=preparation place]]
+<sup>(Possible Bug Warning: Corpses that spawned in the graveyard at the start of game may not acknowledge organs or parts put into them, effectively 'eating' the parts with no benefit. Parts can still be removed as normal. If you exhume a corpse with 100% freshness from the right/east side of the graveyard, be wary of trying to improve it via autopsy)</sup>
+
+Use the preparation place to remove or insert body parts from corpses or zombies. Each organ has a different effect on {{Red Skull}} and {{White Skull}} of a body and are required for crafting ingredients and completing quests. Corpse rating impacts {{Graveyard Rating}}. For each {{Skull|Red}} a corpse has, its {{Graveyard Rating}} will be reduced by one and a grave's max rating is limited by the number of {{White Skull}} a corpse has.  A grave cannot have a higher {{Graveyard Rating}} than the number of {{White Skull}} of a buried corpse. For the full article on how corpse rating works, see [[corpse]]s. Here is a table of each part that can be removed/inserted and its effects as shown by the [[Anatomy and Alchemy (Tech Tree)|cultist perk]]:{{clear}}<!-- Please see talk page. -->
+{| class="wikitable"
+!colspan="4"|{{item|Preparation place}} {{item|Preparation place II}}
+|-
+! rowspan="2" | Body Part
+! colspan="2" |Effect on corpse ratings upon removal
+! rowspan="2" | Technology
+|-
+!{{White Skull}}
+!{{Red Skull}}
+|-
+|{{Item|Flesh}}
+| -{{White Skull}}
+|No effect
+| [[Anatomy_and_Alchemy_(Tech_Tree)|First Slice]]
+|-
+|{{Item|Blood}}
+| +{{White Skull}}
+| -{{Red Skull}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Softspares]]
+|-
+|{{Item|Fat}}
+| +{{White Skull}}
+| -{{Red Skull}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Softspares]]
+|-
+|{{Item|Bone}}
+|No effect
+|No effect
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Hardspares]]
+|-
+|{{Item|Skin}}
+| -{{White Skull}}
+| +{{Red Skull}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Hardspares]]
+|-
+|{{Item|Skull}}
+|No effect
+| +{{Red Skull}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Hardspares]]
+|-
+|{{Item|Brain}}
+| rowspan="3" |Randomly between 
++{{White Skull}}{{White Skull}}{{White Skull}} to -{{White Skull}}{{White Skull}}{{White Skull}}
+| rowspan="3" |Randomly between
+
++{{Red Skull}}{{Red Skull}}{{Red Skull}} to -{{Red Skull}}{{Red Skull}}{{Red Skull}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Important Parts]]
+|-
+|{{Item|Heart}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Important Parts]]
+|-
+|{{Item|Intestine}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Important Parts]]
+|-
+|{{Item|Dark brain}}
+| -{{Skull|White}}
+| -{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Dark Bodies]]
+|-
+|{{Item|Dark heart}}
+| -{{Skull|White}}
+| -{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Dark Bodies]]
+|-
+|{{Item|Dark intestine}}
+| -{{Skull|White}}
+| -{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Dark Bodies]] 
+|-
+|[[File:SurgeonMistake.png|24x24px]] Surgeon's Mistake 
+| -{{White Skull}}
+| +{{Red Skull}}
+| None 
+|}
+
+
+<!-- Please see talk page.  -->
+The number of skulls on a corpse is a combination of the number of the skulls on all its parts, as can be seen once [[Inquisitor]]'s quest line advances far enough and the cultist perk is taken.
+
+All skull variation comes from the [[Anatomy_and_Alchemy_(Tech_Tree)|Important Parts]], [[Brain]], [[Heart]] and [[Intestine]]. However the generation of those is not as simple as the table makes it out to be. And in fact varies based on the stage of the game. For example, during the [[Inquisitor]]'s questline you will start finding +{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}, +{{White Skull}} important parts which would be dark important parts when his quest line is progressed further.
+
+Once you have a good preparation table and the surgeon perk it should be possible to start cherry-picking important parts, either by remembering their effects and sorting them into separate storages, or, preferably, by utilising the cultist perk.
+
+You can noticeably unburden your embalming efforts by collecting the better parts and making "frankencorpses" with them. A corpse with best possible variable parts in all 3 slots and both [[Blood]] and [[Fat]] removed will be only 1 {{White Skull}} away from 12. Though considering that best parts are rare it is probably best to compromise.
+
+Also since zombies ignore all {{Skull|Red}}, it's a good idea to keep parts with both skull counts high for use on zombies.
+
+There is one exception to the regular corpse rules. The body of an ex-graveyard keeper found after excavating the archeology machine in the [[Talking Skull Cellar]] has two brains, and no blood or fat.
+
+== Embalming ==
+[[File:Embalming table.gif|x200px|left|link=Embalming table]] A corpse or zombie can be placed on the table and injected with embalming fluid to change its properties. A body may only be injected with each kind of liquid once.
+{{clear}}
+
+{| class="wikitable"
+! colspan="3" |{{item|Embalming table}} {{item|Embalming table II}}
+|-
+!Name
+!Effects
+!Technology
+|-
+|{{Item|Lye injection}}
+| +{{Red Skull}}, +{{White Skull}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids]]
+|-
+|{{Item|Acid injection}}
+| -{{Red Skull}}, -{{White Skull}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids]]
+|-
+|{{Item|Glue injection}}
+| +{{White Skull}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids II]]
+|-
+|{{Item|Preservative injection}}
+|Halts body decay
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids II]]
+|-
+|{{Item|Restore injection}}
+|Reduces body decay by 50 %
+| [[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids II]]
+|-
+|{{Item|Dark injection}}
+| +{{Red Skull}}{{Red Skull}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids III]]
+|-
+|{{Item|Silver injection}}
+| -{{Red Skull}}, +{{White Skull}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids III]]
+|-
+|{{Item|Gold injection}}
+| -{{Red Skull}}{{Red Skull}}, +{{White Skull}}{{White Skull}}
+|[[Anatomy_and_Alchemy_(Tech_Tree)|Embalming Liquids III]]
+|}
+
+== Resurrection ==
+[[File:Resurrection table image.png|x200px|left|link=Resurrection table]] A {{item|corpse}} can be placed on the [[Resurrection table]] to make a {{item|zombie}} from it. You need first to talk to [[Gunter]] in order to be able to build the table. To revive one, you'll need {{item|faith|10}}, {{item|zombie juice|1}}, and - of course - the {{item|corpse}}.
+
+{{Navbox-Locations}}
+[[de:Leichenhalle]]
+[[pt-br:Necrotério]]

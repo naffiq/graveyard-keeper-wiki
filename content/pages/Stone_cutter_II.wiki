@@ -1,0 +1,280 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Workyard]]
+|technology = [[Building (Tech Tree)|Stone carving]]
+|related    = [[Mining]]
+|footprint  = 6x5
+|rotatable  = True (Mirror)
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</B> is an upgraded variant of the [[stone cutter]] workstation. It can produce the same items as the stone cutter, some of which at an {{Energy}} discount, while containing more complex recipes.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|5}}<br>{{Item|Flitch|8}}<br>{{Item|Nails|18}}
+|
+|Required Tech:<br>Stone carving
+|}
+
+==Recipes==
+===Stone Decor===
+{| class="wikitable"
+!colspan="4" style="text-align:center;"|[[file:tab stone gravestone.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Gravestone|1}}
+|{{Item|A piece of stone|2}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}2 to the grave.
+{{Techpoint|red|5}}
+|-
+|{{Item|Stone grave fence|1}}
+|{{Item|A piece of stone|2}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}2 to the grave.
+{{Techpoint|red|2}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone cross|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|20}}
+|Adds {{Grave Decor}}3 to the grave.
+{{Techpoint|red|5}} {{Techpoint|blue|5}}
+|-
+|{{Item|Gravestone II|1}}
+|{{Item|A piece of stone|3}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}3 to the grave.
+{{Techpoint|red|5}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone grave fence II|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}3 to the grave.
+{{Techpoint|red|2}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone cross II|1}}
+|{{Item|A polished brick of stone|3}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|Adds {{Grave Decor}}4 to the grave.
+{{Techpoint|red|5}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone plinth|1}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|Adds {{Grave Decor}}4 to the grave.
+{{Techpoint|red|5}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone sculpture|1}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|40}}
+|Adds {{Grave Decor}}5 to the grave.
+{{Techpoint|red|5}}{{Techpoint|blue|10}}
+|-
+|{{Item|Stone sculpture II|1}}
+|{{Item|A carved piece of stone|2}}
+|{{Energy|-|40}}
+|Adds {{Grave Decor}}5 to the grave.
+{{Techpoint|red|5}}{{Techpoint|blue|10}}
+|}
+
+===Marble Decor===
+{| class="wikitable"
+!colspan="4" style="text-align:center;"|[[file:tab stone gravestone.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|Marble grave fence|1}}
+|{{Item|A piece of marble|2}}
+|{{Energy|-|15}}
+|Adds {{Grave Decor}}4 to the grave.
+Gives {{Techpoint|red|5}}
+|-
+|{{Item|Marble cross|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|Adds {{Grave Decor}}5 to the grave.
+Gives {{Techpoint|red|5}}
+|-
+|{{Item|Marble grave fence II|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}
+|{{Energy|-|15}}
+|Adds {{Grave Decor}}5 to the grave.
+Gives {{Techpoint|red|5}}
+|-
+|{{Item|Marble cross II|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|30}}
+|Adds {{Grave Decor}}6 to the grave.
+Gives {{Techpoint|red|5}}
+|-
+|{{Item|Marble plinth|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|30}}
+|Adds {{Grave Decor}}6 to the grave.
+Gives {{Techpoint|red|5}} + {{Techpoint|blue|5}}
+|-
+|{{Item|Marble sculpture|1}}
+|{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}<br>{{Item|faith|5}}
+|{{Energy|-|40}}
+|Adds {{Grave Decor}}7 to the grave.
+Gives {{Techpoint|red|5}} + {{Techpoint|blue|15}}
+|-
+|{{Item|Marble sculpture II|1}}
+|{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Faith|5}}
+|{{Energy|-|40}}
+|Adds {{Grave Decor}}7 to the grave.
+Gives {{Techpoint|red|5}} + {{Techpoint|blue|15}}
+|}
+
+===Metal===
+{| class = "wikitable"
+!colspan="4" style="text-align:center;"|[[file:tab_metal.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Iron ore|5}}
+|{{Item|Iron block|1}}
+|{{Energy|-|10}}
+|
+|}
+
+===Stone===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_stone.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|A piece of stone|6}}
+|{{Item|Stone block|1}}
+|{{Energy|-|15}}
+|Each crafts gives {{Techpoint|red|3}} {{Techpoint|green|1}} <hr>
+[[file:Mason Perk.png|40px]][[Perks|Mason:]] {{Item|A piece of stone|+2}}
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Polishing paste|1}}<br>{{Item|A piece of stone|1}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Iron chisel|1}}<br>{{Item|A piece of stone|1}}
+|{{Energy|-|10}}
+|Each crafts gives {{Techpoint|red|3}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|A piece of marble|3}}
+|{{Item|Marble block|1}}<br>{{Item|Wood wedge|3}}
+|{{Energy|-|10}}
+|Each crafts gives {{Techpoint|red|2}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|A carved piece of stone|2}}
+|{{Item|Iron chisel|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Faith|3}}
+|{{Energy|-|15}}
+|Each crafts gives {{Techpoint|red|2}} {{Techpoint|green|1}} 
+|-
+|{{Item|A polished brick of marble|1}}
+|{{Item|Iron chisel|1}}<br>{{Item|A piece of marble|1}}
+|{{Energy|-|10}}
+|Each crafts gives {{Techpoint|red|2}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|A carved piece of marble|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Faith|5}}
+|{{Energy|-|20}}
+|Base downgrade: {{quality|copper}} -1.0 <hr>
+[[file:Engineer Perk.png|40px]][[Perks|Engineer:]] {{quality|copper}} +0.3
+<br />[[file:Mason Perk.png|40px]][[Perks|Mason:]] {{quality|copper}} +0.5
+<br />Each crafts gives {{Techpoint|red|3}} {{Techpoint|green|1}} {{Techpoint|blue|2}}
+|-
+|{{Item|Stone repair kit|4}}
+|{{Item|A piece of stone|1}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Clay|1}}
+|{{Energy|-|8}}
+|
+|-
+|{{Item|Marble repair kit|4}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Clay|1}}
+|{{Energy|-|10}}
+|
+|}
+
+===Other===
+Recycling [[The Graveyard#Graves|grave decorations]] made of stone.
+ 
+{| class="wikitable"
+!colspan="4" style="text-align:center;"|[[file:tab other.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|A piece of stone|1}}
+|{{Item|Gravestone|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A piece of stone|1}}
+|{{Item|Stone grave fence|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A polished brick of stone|1}}<br>{{Item|Complex iron parts|1}}
+|{{Item|Stone cross|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A piece of stone|1}}
+|{{Item|Gravestone II|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Stone grave fence II|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A polished brick of stone|1}}<br>{{Item|Complex iron parts|1}}
+|{{Item|Stone cross II|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Stone plinth|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|1}}
+|{{Item|Stone sculpture|1}} (recycled)
+|{{energy|-|10}}
+|
+|-
+|{{Item|A carved piece of stone|1}}
+|{{Item|Stone sculpture II|1}} (recycled)
+|{{energy|-|10}}
+|
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]
+[[Category:Image requested]]
+
+[[pt-br:Cortador de Pedra II]]

@@ -1,0 +1,36 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Alchemy Lab]]
+|technology = [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]]
+|related    = [[Alchemy]]
+|footprint  = 7x5
+|rotatable  = mirror
+}}
+A {{Item|Zombie}} crafting station can be built in the [[alchemy lab]] after you unlocked [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]].
+
+Here, [[zombie]]s can produce all kinds of alchemical [[Alchemy#Elements|substances]] (extracts, powders and solutions), and [[Alchemy#Other Ingredients|other ingredients]]. The recipes have to be discovered first. This zombie station also functions as a library for alchemy ingredient decomposition, as it saves all before performed decomposition processes as recipes.
+
+'''Note:''' You can't work at this station on your own, you can just order the substances and the zombie has to prepare them. It's possible to order several substances at once in a task queue.
+
+Horizontal and vertical : 7 X 5
+
+Rotation : Mirror
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A polished brick of stone|2}}<br>
+{{Item|Wooden plank|10}}<br>
+{{Item|Simple iron parts|6}}
+|{{Energy|-|10}}
+|Requires: [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]].
+|}
+
+{{Navbox-Alchemy lab}}

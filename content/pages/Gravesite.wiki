@@ -1,0 +1,313 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Gravesite.png
+|location   = [[Graveyard]], [[Wheat Farm]], [[Burned House]]
+|technology = 
+|related    = [[Graveyard]], [[Corpse]]
+|footprint  = 3X3
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} is where you'll bury [[corpse]]s.  All you must do to designate an area as a grave place is select it as an option at the [[graveyard]] blueprint desk.  Digging out a grave will use durability on your shovel.  Each grave can take two decorations, one grave fence and one grave marker and each decoration will effect the {{Graveyard Rating}} of the graveyard as a whole. 
+
+The number of positive modifiers to {{Graveyard Rating}} a grave can benefit from is based on the number of {{Skull|Red}} and {{Skull|White}} on the [[corpse]] buried there.  A grave's positive score cannot exceed the number of {{Skull|white}}, any modifiers added beyond that point will have no effect. Modifiers can be gained through decorations but also from the [[corpse]]s themselves, attempting to remove a {{Skull|red}} when none are available will cause a [[corpse]] to gain an intrinsic +1{{Graveyard Rating}}.   For more information on corpse rating see [[corpse]] and for more information on preparing corpses see the [[morgue]] location page.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Grave place item.png|80x80px|link=]]
+
+|Dig with shovel
+|
+|No technologies required.
+|}
+
+==Decorations==
+=== Markers ===
+{| class="wikitable"
+|-
+!Item
+!Quality Provided
+!Technology required
+! {{Techpoint|red}}{{Techpoint|green}}{{Techpoint|blue}} Production
+!Learn
+|-
+|{{Item|Wooden marker}}
+|<center>+1 {{Grave Decor}}</center>
+|Graveplate
+|{{Techpoint|red|3}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Wooden cross}}
+|<center>+2 {{Grave Decor}}</center>
+|Simple Gravestone
+|{{Techpoint|red|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Gravestone}}
+|<center>+2 {{Grave Decor}}</center>
+|Simple Gravestone
+|{{Techpoint|red|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone cross}}
+|<center>+3 {{Grave Decor}}</center>
+|Stone Gravestone
+|{{Techpoint|red|5}}{{Techpoint|blue|3}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Gravestone II}}
+|<center>+3 {{Grave Decor}}</center>
+|Stone Gravestone
+|{{Techpoint|red|5}}{{Techpoint|blue|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone cross II}}
+|<center>+4 {{Grave Decor}}</center>
+|Carved Gravestones
+|{{Techpoint|red|5}}{{Techpoint|blue|3}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Gravestone III}}
+|<center>+4 {{Grave Decor}}</center>
+|Advanced Gravestones
+|{{Techpoint|red|10}}{{Techpoint|blue|5}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Stone plinth}}
+|<center>+4 {{Grave Decor}}</center>
+|Carved Gravestones
+|{{Techpoint|red|5}}{{Techpoint|blue|3}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone sculpture}}
+|<center>+5 {{Grave Decor}}</center>
+|Grave Monuments
+|{{Techpoint|red|5}}{{Techpoint|blue|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone sculpture II}}
+|<center>+5 {{Grave Decor}}</center>
+|Grave Monuments
+|{{Techpoint|red|5}}{{Techpoint|blue|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone sculpture III}}
+|<center>+6 {{Grave Decor}}</center>
+|Stone statues
+|{{Techpoint|red|10}}{{Techpoint|blue|15}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Stone sculpture IV}}
+|<center>+7 {{Grave Decor}}</center>
+|Stone statues
+|{{Techpoint|red|15}}{{Techpoint|blue|15}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|[[File:Stone Sculpture V.png|frameless|36x36px]] [[Stone sculpture V]]
+|<center>+10 {{Grave Decor}}</center>
+|Stone Gravestones
+|{{Techpoint|red|15}}{{Techpoint|blue|15}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|[[File:Stone Sculpture VI.png|frameless|36x36px]] [[Stone sculpture VI]]
+|<center>+12 {{Grave Decor}}</center>
+|Stone Gravestones
+|{{Techpoint|red|17}}{{Techpoint|blue|15}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|{{Item|Marble cross}}
+|<center>+5 {{Grave Decor}}</center>
+|Marble Gravestones
+|{{Techpoint|red|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble cross II}}
+|<center>+6 {{Grave Decor}}</center>
+|Carved Marble Gravestones
+|{{Techpoint|red|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble gravestone III}}
+|<center>+6 {{Grave Decor}}</center>
+|Advanced Gravestones II
+|{{Techpoint|red|10}}{{Techpoint|blue|6}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Marble plinth}}
+|<center>+6 {{Grave Decor}}</center>
+|Carved Marble Gravestones
+|{{Techpoint|red|5}}{{Techpoint|blue|10}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble sculpture}}
+|<center>+7 {{Grave Decor}}</center>
+|Crypts
+|{{Techpoint|red|5}}{{Techpoint|blue|10}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble sculpture II}}
+|<center>+7 {{Grave Decor}}</center>
+| Crypts
+|{{Techpoint|red|5}}{{Techpoint|blue|10}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble sculpture III}}
+|<center>+8 {{Grave Decor}}</center>
+|Marble statues
+|{{Techpoint|red|10}}{{Techpoint|blue|15}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Marble sculpture IV}}
+|<center>+9 {{Grave Decor}}</center>
+|Marble statues
+|{{Techpoint|red|15}}{{Techpoint|blue|15}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|[[File:Marble sculpture V.png|frameless|36x36px]] [[Marble sculpture V]]
+|<center>+13 {{Grave Decor}}</center>
+|Marble Gravestones
+|{{Techpoint|red|15}}{{Techpoint|blue|15}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|[[File:Marble sculpture VI.png|frameless|36x36px]] [[Marble sculpture VI]]
+|<center>+15 {{Grave Decor}}</center>
+|Marble Gravestones
+|{{Techpoint|red|17}}{{Techpoint|blue|15}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|}
+
+===Fences===
+{| class="wikitable"
+|-
+!Item
+!Quality Provided
+!Technology required
+!Producing gives {{Techpoint|red}}{{Techpoint|green}}{{Techpoint|blue}}
+!Learn
+|-
+|{{Item|Wooden grave fence}}
+|<center>+1 {{Grave Decor}}</center>
+|Simple Gravestone
+|{{Techpoint|red|2}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone grave fence}}
+|<center>+2 {{Grave Decor}}</center>
+|Stone Gravestone
+|{{Techpoint|red|2}}{{Techpoint|blue|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone grave fence II}}
+|<center>+3 {{Grave Decor}}</center>
+|Carved Gravestones
+|{{Techpoint|red|5}}{{Techpoint|blue|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Stone grave fence III}}
+|<center>+3 {{Grave Decor}}</center>
+|Advanced Gravestones
+|{{Techpoint|red|5}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Stone grave fence IV}}
+|<center>+4 {{Grave Decor}}</center>
+|Advanced Gravestones
+|{{Techpoint|red|5}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Stone grave fence V}}
+|<center>+5 {{Grave Decor}}</center>
+|Advanced Gravestones II
+|{{Techpoint|red|5}}{{Techpoint|blue|2}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|[[File:Stone Grave Fence VI.png|frameless|30x30px]] [[Stone grave fence VI]]
+|<center>+6 {{Grave Decor}}</center>
+|Stone grave fence
+|{{Techpoint|red|5}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|[[File:Stone Grave Fence VII.png|frameless|30x30px]] [[Stone grave fence VII]]
+|<center>+7 {{Grave Decor}}</center>
+|Stone grave fence
+|{{Techpoint|red|10}}{{Techpoint|blue|5}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|[[File:Stone Grave Fence VIII.png|frameless|30x30px]] [[Stone grave fence VIII]]
+|<center>+8 {{Grave Decor}}</center>
+|Stone grave fence
+|{{Techpoint|red|15}}{{Techpoint|blue|10}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|{{Item|Marble grave fence}}
+|<center>+4 {{Grave Decor}}</center>
+|Marble Gravestones
+|{{Techpoint|red|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble grave fence II}}
+|<center>+5 {{Grave Decor}}</center>
+| Carved Marble Gravestones
+|{{Techpoint|red|5}}
+|[[Theology (Tech Tree)]]
+|-
+|{{Item|Marble grave fence III}}
+|<center>+5 {{Grave Decor}}</center>
+|Advanced Gravestones II
+|{{Techpoint|red|5}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Marble grave fence IV}}
+|<center>+6 {{Grave Decor}}</center>
+|Marble Fence
+|{{Techpoint|red|5}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|{{Item|Marble grave fence V}}
+|<center>+7 {{Grave Decor}}</center>
+|Marble Fence
+|{{Techpoint|red|5}}{{Techpoint|blue|2}}
+|[[Undertaker]] from [[Refugee camp]]
+([[Game of Crone]] DLC)
+|-
+|[[File:Marble grave fence VI.png|frameless|30x30px]] [[Marble grave fence VI]]
+|<center>+9 {{Grave Decor}}</center>
+|Marble  grave fence
+|{{Techpoint|red|7}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|[[File:Marble grave fence VII.png|frameless|30x30px]] [[Marble grave fence VII]]
+|<center>+10 {{Grave Decor}}</center>
+|Marble grave fence
+|{{Techpoint|red|10}}{{Techpoint|blue|5}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|[[File:Marble grave fence VIII.png|frameless|30x30px]] [[Marble grave fence VIII]]
+|<center>+11 {{Grave Decor}}</center>
+|Marble grave fence
+|{{Techpoint|red|20}}{{Techpoint|blue|15}}
+|[[Spiritualism (Tech Tree)]]
+|-
+|}
+
+
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+
+[[Category:Graveyard workstations]]

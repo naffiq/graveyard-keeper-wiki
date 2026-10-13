@@ -1,0 +1,13 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Unimplemented
+| nameinternal = 
+| study        = 
+| source       = 
+| cost         = 999999
+}}
+{{PAGENAME}} is currently not obtainable. But it is produced by the donkey one time after opening the church, and can be shoveled for 15 carrot seeds. Stepping on top makes you slightly faster and makes you start sliding a little.
+
+{{Navbox-Misc}}
+[[Category:Unobtainable]]

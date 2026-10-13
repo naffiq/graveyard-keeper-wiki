@@ -1,0 +1,15 @@
+{{stub}}
+{{NPC Infobox
+|image = {{PAGENAME}}.png
+|name  = {{PAGENAME}}
+|role = Inquisitor
+}}
+
+'''{{PAGENAME}}''' is an NPC from the [[Game of Crone]] DLC critical to the ending. She is an inquisitor searching for [[Marquis Teodoro Jr.]] and the other residents of the [[Refugee camp]]. The Keeper first meets her the day after he talks to [[Master Alaric]] about his secret, when she greets him upon waking up and sprays perfume all over [[Sweet Home]] before asking about the refugees. She then vanishes in a flash of pink light.
+
+== Quests ==
+Beatrice will ask you to help her raise an army of ghouls by creating [[Emulsion of death]] for her. This decision affects the fate of the refugee camp.
+
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Game of Crone]]

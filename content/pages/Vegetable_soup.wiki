@@ -1,0 +1,86 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|35}}/{{Energy|+|45}}/{{Energy|+|55}}; [[File:Rest effect.png]]
+| nameinternal = meal:soup_yellow_green:1
+| study        = 
+| alchemy      = 
+| source       = [[Cooking]]
+| cost         = 35
+}}
+
+A food item which restores energy and applies the deep sleep buff when consumed . It must be made in the [[oven]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_soup_yellow_green.png|quality = copper}}
+|{{Quality Sprite|image = i_soup_yellow_green.png|quality = silver}}
+|{{Quality Sprite|image = i_soup_yellow_green.png|quality = gold}}
+|-
+|{{Energy|+|35}}
+|{{Energy|+|45}}
+|{{Energy|+|55}}
+|-
+|{{Money|35}}
+|{{Money|45}}
+|{{Money|55}}
+|}
+
+==Effect==
+
+On use, vegetable soup will apply the deep sleep buff for a duration of 2 minutes. Allowing the player to regenerate more energy points during sleep.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Rest effect.png|link=Effects#Deep Sleep|Deep Sleep]]
+|Energy  regeneration during sleeping is increased.
+|style="text-align:center"|2:00
+|[[Effects#Deep Sleep|Deep Sleep]]
+|}
+
+==Recipes==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Vegetable soup|4|animation}}
+|{{Item|Cabbage|2}}
+{{Item|Carrot|2}}
+
+{{Item|Pumpkin|2|animation}}
+
+{{Item|Fuel|30}}
+|}
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality || Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+|  N/A
+| align="center" | III 
+| {{Money|55}}
+|}
+
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]
+[[de:Gemüsesuppe]]

@@ -1,0 +1,14 @@
+Curtains are a quest item from the [[Woodcutter]] after running into him at [[The Dead Horse]] and noticing him holding a [[Golden apple]]. He offers to trade it to you for 24 x [[Roof tile]] and 4 x {{PAGENAME}} for his... yurt?
+
+== Recipe ==
+{| class = "wikitable" style = "width:35em; table-layout: fixed;"
+! colspan = "2" | {{Item|Church workbench}}
+|-
+! style="width:17.5em;"|Item Produced
+! style="width:17.5em;"|Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Silk|1}}<br>{{Item|White paint|1}}<br>{{Item|Acceleration powder|2}}
+|}
+
+{{stub}}

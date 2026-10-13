@@ -1,0 +1,74 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Workyard]]
+|technology = [[Smithing (Tech Tree)|Primitive Forging]]
+|related    = 
+|footprint  = 3X3
+|rotatable  = False
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is used to forge ingots into usable parts and equipment, better anvils make operations require less energy and allow for the crafting of better equipment.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wood billet|2}}<br>{{Item|Simple iron parts|2}}
+|N/A
+|Required Tech:<br>[[Smithing (Tech Tree)|Primitive Forging]]
+|}
+
+==Recipes==
+===Metal===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab_metal.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:6em;"|Notes
+|-
+|{{Item|Nails|8}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|15}}
+|[[File:Blacksmith Perk.png|32x32px|link=Perks#Blacksmith Perk]] +3<br>+{{Techpoint|red|1}}
+|-
+|{{Item|Simple iron parts|4}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|15}}
+|[[File:Blacksmith Perk.png|32x32px|link=Perks|Blacksmith Perk]] +1<br>+{{Techpoint|red|1}}
+|}
+
+===Tools===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab_tools.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Axe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|20}}
+|rowspan="3"|Energy Consumption: {{Energy|-|1}}<br>Tool efficiency: 100%<br>+{{Techpoint|red|5}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|20}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|20}}
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]
+
+[[pt-br:Bigorna de madeira]]

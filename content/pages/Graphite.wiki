@@ -1,0 +1,93 @@
+{{Item Infobox 
+| name         = Graphite
+| image        = i_graphite.png
+| type         = Resource
+| nameinternal = graphite
+| study        = {{Techpoint|Green|20}} 
+| alchemy      = {{Item|Graphite powder}}
+| source       = [[Furnace II]], [[Furnace III]]
+| cost         = 40
+
+| stacksize    = 30
+| quest        =  
+}}
+<b>{{PAGENAME}}</b> is a crafting resource smelted at [[Furnace II]] or [[Furnace III]] by processing [[coal]]. It is primarily used in the production of [[Steel ingot|steel]], though can also be ground into a [[Graphite powder|powder]] for alchemical use once studied. To unlock this you must research Precious Metals under the Building tech tree.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Coal|5}}
+|0:50<br>{{Fuel|-|10}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Coal|5}}
+|0:30<br>{{Fuel|-|10}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Graphite powder|powder]]
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Steel ingot|2}}
+|{{Item|Iron ingot|2}}<br>{{Item|{{PAGENAME}}|1}}
+|3:30<br>{{Fuel|-|45}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Steel ingot|2}}
+|{{Item|Iron ingot|2}}<br>{{Item|{{PAGENAME}}|1}}
+|3:00<br>{{Fuel|-|25}}
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Required Materials
+|-
+|{{Item|Graphite powder|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Misc}}
+[[Category:mined items]]
+[[Category:secondary ore]]
+
+[[pt-br:Grafite]]

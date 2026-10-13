@@ -1,0 +1,18 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| nameinternal = 
+| study        = 
+| source       = 
+|quest=[[Woodcutter]]}}
+Recipe is unlocked at the [[Furnace III]] when the Woodcutter requests 24x Roof tiles and 4x [[Curtains]] in exchange for a [[Golden apple]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Furnace III}}
+|-
+|12 x Ceramic Bowls
+|{{Item|{{PAGENAME}}|12}}
+|}
+
+{{Navbox-Misc}}

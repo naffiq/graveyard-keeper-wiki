@@ -1,0 +1,28 @@
+{{stub}}
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Well.png
+|location   = [[Workyard]], [[The Village]], [[Quarry]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+
+There are currently 3 Wells in the game located at the [[Workyard]], [[The Village]] and the [[Quarry]]. As of now, players cannot construct wells themselves, except as a one-time quest in the [[Refugee camp]].
+
+==Usage==
+
+{| class = "wikitable" style="text-align:center"; 
+! Item Produced
+! Energy
+|-
+|{{Item|Bucket of clear water|1}}
+|{{Energy|-|4}}
+|-}
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]

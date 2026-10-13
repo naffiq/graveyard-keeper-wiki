@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Snake]]
+| cost         = 
+}}
+
+This is an item required to open the [[portal]] for the gravekeeper to return home, it is held by [[Snake]] and is given to the player when they complete his final quest.
+
+{{Navbox-Quest}}
+[[Category:quest items]]

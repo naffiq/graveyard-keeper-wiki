@@ -1,0 +1,47 @@
+{{Item Infobox 
+| name         = Black paint
+| image        = Black paint item.png
+| study        = 
+| source       = [[Alchemy]]
+| stacksize    = 30
+| type         = Alchemy Product
+| cost         = 
+| quest        = 
+| nameinternal = black_paint
+}}
+
+Black Paint is produced through [[Alchemy]] at the [[Alchemy_Lab#Alchemy_Workbench_.28Tier_I.29|Alchemy Workbench (Tier I)]] and is used in the production of [[ink]]. 
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Graphite powder|1}}<br>{{Item|Water|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Ash|1}}<br>{{Item|Oil|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Death powder|1}}<br>{{Item|Water|1}}
+|}
+
+== Crafting ==
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Church workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Ink|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Conical flasks|1}}<br>{{Item|Water|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[de:Schwarze Farbe]]
+[[pt-br:Tinta preta]]
+[[Category:Alchemy]]

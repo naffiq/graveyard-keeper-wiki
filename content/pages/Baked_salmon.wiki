@@ -1,0 +1,63 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|36}}/{{Energy|+|48}}/{{Energy|+|70}}
+| nameinternal = meal:baked_salmon
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 30
+}}
+
+A food item which restores energy when consumed.  It can be made in the [[oven]] or purchased from [[Horadric]] in [[The Dead Horse]].  The quality is dependent on the ingredients used as well as any [[perks]] or [[sermons]] that might be active.  Higher quality meals have a larger restorative effect when consumed.  For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_baked_salmon.png|quality = copper}}
+|{{Quality Sprite|image = i_baked_salmon.png|quality = silver}}
+|{{Quality Sprite|image = i_baked_salmon.png|quality = gold}}
+|-
+|{{Money|30}}
+|{{Money|40}}
+|{{Money|50}}
+|-
+|{{Energy|+|36}}
+|{{Energy|+|48}}
+|{{Energy|+|70}}
+|}
+
+==Recipe==
+The recipe could be obtained from [[Miss Chain]] ([[Recipe fish delicacies]]).
+{| class="wikitable" style="width:100%; max-width:30em; table-layout: fixed;"
+! colspan="2" |{{Item|Oven}}
+|-
+! style="width:17.5em;" | Item Produced
+! style="width:17.5em;" | Materials Required
+|-
+| rowspan="2" |{{Item|{{PAGENAME}}|3|animation}}
+|{{Item|Quality fish fillet|1|animation}}
+{{Item|Cabbage|1|}}
+
+{{Item|Fuel|5}}
+|}
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality || Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+|  N/A
+| align="center" | III 
+| {{Money|60}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

@@ -1,0 +1,37 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = [[Writing]]
+| nameinternal = 
+| study        = N/A
+| source       = Ruined Bookcases
+| cost         = 
+}}
+'''{{PAGENAME}}s''' can be found by breaking down ruined bookcases, found in the church basement and deeper levels of the [[dungeon]]. Their only known function is to be processed into [[clean paper]] at either a [[desk]] or [[random text generator]].
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|Clean paper|2}}
+|{{Item|Ruined book|1}}<br>{{Item|River sand|1}}
+|{{Techpoint|Red|1}}  {{Techpoint|Blue|1}}
+|-
+!colspan="3"|{{Item|Random text generator}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Notes
+|-
+|{{Item|Clean paper|2}}
+|{{Item|Ruined book|1}}<br>{{Item|River sand|1}}
+|0:25 @40%<hr>1:40 @10%
+|}
+
+<br>
+{{Navbox-Misc}}
+[[Category:writing]]

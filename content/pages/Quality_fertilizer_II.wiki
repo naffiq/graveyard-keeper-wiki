@@ -1,0 +1,64 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Quality fertilizer II item.png
+| type         = Fertilizer
+| nameinternal = sack_star_gold
+| study        = {{Techpoint|Green|50}}
+| stacksize    = 100
+| source       = [[Church workbench]], [[Organ Workbench|Organ workbench]]
+| buy          = None
+| sell         = None
+}}
+'''{{PAGENAME}}''' is produced at the [[Church workbench]] by combining the basic fertilizer [[peat]] with two [[flavor enhancer]], the latter requiring advanced [[alchemy]]. Like all fertilizers, a single unit may be applied to a single farming plot - either an [[empty garden bed]], [[garden bed with sticks]], or [[vine trellis]] - in order to provide a benefit to the subsequently planted crop.
+
+The benefit of a "Quality" fertilizer - note the star icon - is an overall improvement to a crop's yield. In regards to {{PAGENAME}} specifically, the given crop's return on average will be improved significantly. With basic crops, the produce will be increased by 6 and the seeds will be increased by 3. With quality crops, the produce and seeds will be increased by 2, as well as guaranteeing 2 upgraded produce and seeds. If the crop itself is already gold-quality, this benefit will simply be added to the return, or 4 extra produce and seeds total. For additional information regarding the effects and use of fertilizer, see [[farming]].
+
+==Recipe==
+{|class="wikitable"
+!colspan="4"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Peat|10}}<br>{{Item|Flavor enhancer|2}}
+|{{Energy|-|15}}
+|
+|-
+!colspan="4"|{{Item|Organ Workbench}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Peat|10}}<br>{{Item|Ash|3}}<br>{{Item|Sin Shard|4}}
+|{{Energy|-|15}}
+|[[Better Save Soul]] DLC
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:fertilizer]]
+[[de:Spitzendünger II]]
+[[fr:Engrais de Qualité II]]
+[[pt-br:Fertilizante de qualidade II]]

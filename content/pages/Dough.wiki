@@ -1,0 +1,53 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = dough
+| study        = 
+| source       = [[Cooking]]
+| cost         = 1
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is an ingredient used in cooking, able to be crafted at the [[cooking table]]. For the main page on preparing food, see [[cooking]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Flour|2}}<br>{{Item|Water|3}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Bread|2}}
+|{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Toasts with onions|3|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|onion|1|animation}}
+|-
+|{{Item|Lasagna|3|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Lentils|1|animation}}<br>{{Item|Cabbage|1}}
+|-
+|{{Item|Pasta|3|copper}}
+|{{Item|{{PAGENAME}}|3}}<br>{{Item|Cheese|1}}
+|-
+|{{Item|Muffin|4}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Honey|1}}
+|-
+|{{Item|Croissant|4}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Honey|1}}<br>{{Item|Chicken egg|1}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]

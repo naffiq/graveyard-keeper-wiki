@@ -1,0 +1,50 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Dessert
+| consume      = {{Energy|+|55}}; [[File:Science effect.png]]
+| nameinternal = 
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+}}
+
+A food item which restores {{Energy|+|55}} and applies the [[effects|circumspect buff]] when consumed.  All food items were given an initial {{Energy}} value equal to their base cost which makes cake an exceptionally good food for energy. Since all the items which can be used to craft {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+==Effect==
+
+On use, a honey cake will apply the circumspect buff for a duration of 2 minutes, which will give additional {{Techpoint|Blue}} when studying new items at the [[study table]]. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Science effect.png]]
+|You get extra points when studying new items.
+|style="text-align:center"|2:00
+|Circumspect
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Honey cake|1}}
+|{{Item|Pastry dough|1}}<br>
+{{Item|Honey|1}}<br>
+{{Item|Fuel|25}}
+|}
+
+
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:desserts]]
+[[Category:consumable items]]
+[[Category:effect items]]

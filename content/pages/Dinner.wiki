@@ -1,0 +1,222 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = N/A
+| alchemy      = 
+| source       = [[Cooking]]
+| buy          = None
+| sell         = None
+| cost         = 
+| stacksize    = 10
+| type         = Miscellaneous; Quest
+| quest        = [[Merchant]]; Royal Dinner
+| nameinternal = 
+}}
+'''{{PAGENAME}}''' is a craftable quest item, by using various processed consumables, created through [[cooking]]. The recipe is unlocked while progressing through the [[Merchant]]'s quest-line. Despite being able to create various qualities, they're only useful by delivering '''5x'''{{Quality|gold}} to the Merchant upon request; they cannot otherwise be sold, consumed, or used in any way.
+
+==Quality==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_dinner.png|quality = copper}}
+|{{Quality Sprite|image = i_dinner.png|quality = silver}}
+|{{Quality Sprite|image = i_dinner.png|quality = gold}}
+|} 
+
+==Recipe==
+The {{lc:{{PAGENAME}}}} is a complex craftable, with a base increase of 30% towards quality chance. The required three items, roughly categorized into snacks, meals, and desserts, may impart additional bonuses of their own. These consumable items without any quality will not impart a bonus, while copper, silver, and gold qualities will increase the overall chance by a further 33%, 67%, or 100% respectively, per item.
+
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Cost
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|1x [[File:tab snack.png|link=]]Snack<br>1x [[File:tab meal.png|link=]]Meal<br>1x [[File:tab dessert.png|link=]]Dessert
+|0:05<br>{{Energy|-|5}}
+|}
+
+===Snacks===
+{| class = "wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; width:35em;"
+|+ [[File:tab snack.png|link=]]
+!Item
+!Quality
+![[Cookery (Tech Tree)|Cookery]]
+|-
+|{{Item|Fried egg}}
+|0
+|Egg Dishes<br>Interact with [[Fresh egg basket|Egg Basket]].
+|-
+|{{Item|Bread}}
+|0
+|-
+|{{Item|Onion rings||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|Beer Snacks<br>Bring an [[onion]] to [[Horadric]].
+|-
+|{{Item|Baked apple}}
+|0
+|[[Recipe simple and tasty|Simple and Tasty]]<br>Found in the [[cellar]].
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|33
+|Vegetable Dishes<br>Ask [[Farmer]] about crops.
+|-
+|{{Item|Baked mushrooms}}
+|0
+|[[Recipe simple and tasty|Simple and Tasty]]<br>Found in the [[cellar]].
+|-
+|{{Item|Pancakes||silver}}
+|67
+|[[Recipe sweet baking|Sweet Baking]]<br>Purchased from [[Miss Chain]].
+|-
+|{{Item|Sandwich||copper}}
+|33
+|-
+|{{Item|Toasts with onions||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|Beer Snacks<br>Bring an [[onion]] to [[Horadric]].
+|}
+
+===Meals===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; width:35em;"
+|+
+[[file:tab meal.png|link=]]‎ 
+!Item
+!Quality
+![[Cookery (Tech Tree)|Cookery]]
+|-
+|{{Item|Omelette||copper}}
+|33
+|Egg Dishes<br>Interact with [[Fresh egg basket|Egg Basket]].
+|-
+|{{Item|Fish nuggets}}
+|0
+|-
+|{{Item|Beet slices}}
+|0
+|Vegetable Dishes<br>Ask [[Farmer]] about crops.
+|-
+|{{Item|Carrot cutlet}}
+|0
+|Vegetable Dishes<br>Ask [[Farmer]] about crops.
+|-
+|{{Item|A bowl of lentils||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|A bowl of pumpkin soup||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Baked fish}}
+|0
+|-
+|{{Item|Baked salmon||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Royal fish||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Fish soup||copper}}
+|33
+|-
+|{{Item|Baked kebab||animation|variant=pumpkin}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Baked kebab||animation|variant=onion}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Baked kebab||animation|variant=mushroom}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Baked meat}}
+|0
+|-
+|{{Item|Baked pumpkin||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Burger||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Lasagna||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|Good Carbs<br>Give the [[Woodcutter]] an [[Axe I|axe]].
+|-
+|{{Item|Pasta||copper}}
+|33
+|Good Carbs<br>Give the [[Woodcutter]] an [[Axe I|axe]].
+|-
+|{{Item|Cabbage soup||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Pumpkin soup||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|-
+|{{Item|Vegetable soup||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|}
+
+===Desserts===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; width:35em;"
+|+ [[file:tab dessert.png|link=]]‎
+
+
+|-
+!Item
+!Quality
+![[Cookery (Tech Tree)|Cookery]]
+|-
+|{{Item|Green jelly (food)}}
+|0
+|Jelly<br>Kill [[Green jelly|slimes]] for [[Krezvold]].
+|-
+|{{Item|Red jelly}}
+|0
+|Jelly<br>Kill [[Green jelly|slimes]] for [[Krezvold]].
+|-
+|{{Item|Muffin}}
+|0
+|[[Recipe sweet baking|Sweet Baking]]<br>Purchased from [[Miss Chain]].
+|-
+|{{Item|Croissant}}
+|0
+|[[Recipe sweet baking|Sweet Baking]]<br>Purchased from [[Miss Chain]].
+|-
+|{{Item|Cake||gold}}
+|100
+|Cake+<br>Give [[honey]] to [[Dig]].
+|-
+|{{Item|Berry pie||copper}}
+|33
+|[[Recipe pies|Pies]]<br>Purchased from [[Miss Chain]].
+|-
+|{{Item|Grape pie||animation}}
+|{{Quality|copper}}33<hr>{{Quality|silver}}67<hr>{{Quality|gold}}100
+|[[Recipe pies|Pies]]<br>Purchased from [[Miss Chain]]. 
+|}
+
+==Tips & Tricks==
+Including the base increase of 30%, a {{Quality|gold}}{{PAGENAME}} can be crafted at 97% chance utilizing one silver and two gold quality items. With this in mind:
+*Choices in snacks are limited to {{Quality|silver}}/{{Quality|gold}} [[Onion rings]] and [[Toasts with onions]], or {{Quality|silver}} [[Pancakes]]
+:{{*}}Pancakes would require the rare and expensive resource [[butter]].
+:{{*}}The onion dishes simply require a silver or gold [[onion]]. (They are also remarkably cheap to buy)
+*Choices in meals are vast, usually requiring a {{Quality|silver}}/{{Quality|gold}} vegetable or fish fillet.
+:{{*}}The [[baked pumpkin]] or [[baked salmon]] are generally thought to be the easiest to obtain.
+::{{*}}However, these do require the purchase of expensive recipes from [[Miss Chain]].
+:{{*}}The [[burger]], while being the most complex, is the most likely to be readily available.
+::{{*}}The recipe will be unlocked, it has a unique beneficial effect, and is also used during another quest-line.
+::{{*}}It not only requires a high-quality [[onion]], but the energy-intensive [[bread]] and [[baked meat]] as well.
+
+{{*}}[[Cabbage soup|Cabbage Soup]] is the easiest to make since Onions are used in Snacks and the other ingredients are easy to obtain
+
+*Choices in desserts are limited to {{Quality|gold}} [[Cake]] or {{Quality|silver}}/{{Quality|gold}} [[Grape pie]].
+:{{*}}Cake requires multiple ingredients, all of which are relatively inexpensive and easy to obtain.
+:{{*}}Grape pie requires some silver or gold [[grapes]], likely already obtainable by this stage of the game.
+In conclusion, to make a gold Dinner, it is recommended to use :  {{Quality|silver}} [[Toasts with onions]] -  {{Quality|gold}}[[Cabbage soup|Cabbage Soup]] - {{Quality|silver}} [[Grape pie]].<br>{{Navbox-Quest}}
+[[Category:quest items]]
+
+[[de:Abendessen]]

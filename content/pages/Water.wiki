@@ -1,0 +1,200 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = N/A
+| alchemy      = 
+| source       = [[Bucket of clear water]]
+| cost         = 
+| stacksize    = 50
+| type         = Advanced alchemy resource
+| quest        = 
+| nameinternal = water
+}}
+<b>{{PAGENAME}}</b> is a crafting material, obtained by clicking on a [[bucket of clear water]] in your inventory and selecting <i><b>Use</b></i>. It is used in a variety of crafting recipes, in addition to [[alchemy]] where-in it can be used in place of a powder, solution, or extract, with the [[alchemy workbench (tier I)]] and [[alchemy workbench (tier II)]].
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|Use in inventory
+|-
+!Item Produced
+!Required Materials
+|-
+|{{Item|{{PAGENAME}}|20}}
+|{{Item|Bucket of clear water|1}}
+|}
+
+==Cooking==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Dough|4}}
+|{{Item|Flour|2}}<br>{{Item|{{PAGENAME}}|3}}
+|0:04<br>{{Energy|-|4}}
+|-
+|{{Item|Nails|1}}
+|{{Item|Bloody nails|1}}<br>{{Item|River sand|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:02<br>{{Energy|-|2}}
+|-
+!colspan="3"|{{Item|Oven}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|A bowl of lentils|2|animation}}
+|{{Item|{{PAGENAME}}|1|}}<br>{{Item|Lentils|1|animation}}
+|0:35<br>{{Fuel|-|10}}
+|-
+|{{Item|Fish soup|4}}
+|{{Item|White fish fillet|4}}<br>{{Item|Carrot|2|}}<br>{{Item|{{PAGENAME}}|5|}}
+|2:00<br>{{Fuel|-|10}}
+|-
+!colspan="3"|{{Item|Brewing stand}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|{{PAGENAME}}|50}}<br>{{Item|Hops|3|animation}}<br>{{Item|Wheat|15}}
+|2:00<br>{{Fuel|-|15}}
+|-
+|{{Item|A mug of mead|10|animation}}
+|{{Item|{{PAGENAME}}|50}}<br>{{Item|Hops|3|animation}}<br>{{Item|Honey|1}}
+|1:30<br>{{Fuel|-|10}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Potters wheel}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Ceramic bowls|3}}
+|{{Item|Clay|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:06<br>{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|1}}
+|{{Item|River sand|2}}<br>{{Item|{{PAGENAME}}|1}}
+|1:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|2}}
+|{{Item|River sand|4}}<br>{{Item|{{PAGENAME}}|2}}
+|1:00<br>{{Fuel|-|30}}
+|-
+|{{Item|Advanced conical flasks|2}}
+|{{Item|Conical flasks|3}}<br>{{Item|{{PAGENAME}}|1}}
+|2:30<br>{{Fuel|-|29}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|3}}
+|{{Item|River sand|6}}<br>{{Item|{{PAGENAME}}|2}}
+|1:00<br>{{Fuel|-|50}}
+|-
+|{{Item|Advanced conical flasks|2}}
+|{{Item|Conical flasks|3}}<br>{{Item|{{PAGENAME}}|1}}
+|2:00<br>{{Fuel|-|30}}
+|}
+
+==Alchemy==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Black paint|1}}
+|{{Item|Death powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|0:05<br>{{Energy|-|5}}
+|-
+|{{Item|Black paint|1}}
+|{{Item|Graphite powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|0:05<br>{{Energy|-|5}}
+|-
+|{{Item|White paint|1}}
+|{{Item|Yellow electro powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|0:05<br>{{Energy|-|5}}
+|-
+!colspan="3"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Balsamic solution|1}}
+|{{Item|Chaos powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Death extract|1}}
+|0:10<br>{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Cost
+|-
+|{{Item|Lye injection|4}}
+|{{Item|Alkali|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Acid injection|4}}
+|{{Item|Acid|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Glue injection|4}}
+|{{Item|Glue|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Restore injection|4}}
+|{{Item|Balsamic solution|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Preservative injection|4}}
+|{{Item|Preservative|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Dark injection|4}}
+|{{Item|Dark elixir|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Gold injection|4}}
+|{{Item|Golden elixir|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|-
+|{{Item|Silver injection|4}}
+|{{Item|Silver elixir|1}}<br>{{Item|{{PAGENAME}}|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+
+[[Category:Alchemy]]
+
+[[de:Wasser]]
+[[fr:Eau]]
+[[pt-br:Água]]

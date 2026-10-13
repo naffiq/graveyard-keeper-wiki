@@ -1,0 +1,109 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Writing Resource
+| nameinternal = paper_clean
+| study        = 
+| source       = [[Astrologer]], [[Church workbench]], [[Paper press]]
+| cost         = 100
+| stacksize    = 50
+| quest        = [[Vagner]]
+}}
+<b>{{PAGENAME}}</b> can be obtained in multiple ways and is the basis of all written works. It can be crafted from [[pigskin paper]] at the [[church workbench]], which is itself easily made with [[skin]], or it can be made from [[paper glop]] in a paper press.  Additionally it can be purchased from the [[Astrologer]] on {{Day|sloth}}.  Paper is one of the items requested by [[Vagner]], the actor and is necessary to write [[flyer]]s for the [[Inquisitor]].  Paper is also very useful for converting into [[science]] for the purposes of performing research at the [[study table]].
+
+==Recipe==
+{| class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Pigskin paper|1}}
+|-
+!colspan="2"|{{Item|Desk}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Ruined book|1}}<br>{{Item|River sand|1}}
+|-
+!colspan="2"|{{Item|Paper press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|30}}
+|{{Item|Paper glop|2}}<br>{{Item|White paint|1}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Desk}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Story|1|animation}}<br>{{Item|Pen and ink|1}} (10%)
+|-
+|{{Item|Flyer|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Pen and ink|1}} (50%)
+|-
+!colspan="2"|{{Item|Printing press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Flyer|10}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Ink|1}}
+|-
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Package of meat|1}}
+|{{Item|Flesh|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Study table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Science|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Organ Workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Story|1|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Sin Shard|2}}<br>{{Item|Faith|5}}
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|{{PAGENAME}}|3}}<br>{{Item|Sin Shard|2}}<br>{{Item|Story|1|animation}}
+|}
+
+==Building==
+{| class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|[[Cabin in the woods]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Porter station}}
+|{{Item|Flitch|8}}<br>{{Item|Nails|4}}<br>{{Item|{{PAGENAME}}|2}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]
+
+[[de:Leeres Papier]]
+[[ru:Чистая бумага]]
+[[pt-br:Papel vazio]]
+[[es:Papel en blanco]]

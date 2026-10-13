@@ -1,0 +1,30 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Writing Resource
+| nameinternal = ink_pen
+| study        = 
+| alchemy      = 
+| source       = [[Fresh egg basket]], [[Astrologer]]
+| cost         = 20
+| quest        = 
+}}
+Feathers cannot be crafted and must be purchased from the [[Astrologer]], or the [[fresh egg basket]]. 
+
+== Crafting ==
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Church workbench}}
+|-
+!Products
+!Materials required
+|-
+|{{Item|Pen and ink|3}}
+|{{Item|Feather|3}}
+{{Item|Ink|1}}
+|}
+
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]
+[[de:Feder]]
+[[pt-br:Pena]]

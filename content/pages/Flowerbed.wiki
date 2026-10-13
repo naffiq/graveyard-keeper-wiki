@@ -1,0 +1,38 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Graveyard]]
+|technology = None
+|footprint  = 2X2
+|rotatable  = False
+}}
+
+<!-- Put page content here -->
+Gives a static +2 {{Graveyard Rating}} when built.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"| Quality provided
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=]]
+|{{Item|A piece of stone|2}}
+{{Item|Peat|1}}
+
+{{Item|Red flower|2}}
+|
+| +2 {{Graveyard Rating}}
+|No technologies required.
+|}
+
+== Note ==
+
+There are 9 designated spaces to place flowerbeds (including graveyard extension). Flowerbeds share the same 9 slots with the lantern and prayer stations.
+
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+
+[[Category:Graveyard workstations]]

@@ -1,0 +1,35 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Grave Fence
+| nameinternal = 
+| study        = 
+| source       = [[Stone cutter II]]
+| quest        = 
+}}
+
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a grave decoration which provides +7 {{Grave Decor}} when placed on a [[grave place]] after a [[corpse]] has been buried there. The number of positive modifiers to {{Graveyard Rating}} a grave can benefit from is based on the number of {{Skull|Red}} and {{Skull|White}}.  A grave's positive score cannot exceed the number of {{Skull|white}} on the corpse buried there, any decorations added beyond that point will have no effect.  For more information on the types of graves and their effects see the [[Graveyard]]'s location page. 
+
+Installing or uninstalling a grave decoration will take 5-10{{Energy}}.  Only with the [[Game of Crone]] DLC.
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+! colspan="2" |{{Item|Stone cutter II}}
+|-
+! style="width:17.5em;" |Item Produced
+! style="width:17.5em;" |Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|A piece of marble|2}}
+{{Item|A polished brick of marble|2}}
+|}
+
+==Study==
+
+impossible
+
+
+{{Navbox-Graves}}
+[[Category:Grave fences]]
+
+[[Category:Graveyard items]]

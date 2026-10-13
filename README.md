@@ -53,3 +53,14 @@ original. Game assets belong to Lazy Bear Games / tinyBuild. This is an unoffici
 ```sh
 python3 scrape.py && ./deploy.sh
 ```
+
+## Automatic updates & versioning
+
+`.github/workflows/update-wiki.yml` runs weekly, Mondays 04:00 UTC (and on demand from the Actions tab):
+
+1. `python3 scrape.py --content content` — asks the wiki's `recentchanges` API what was edited
+   since `content/state.json`, refetches only those pages (template edits re-render everything),
+   downloads new images; API responses and images persist in the Actions cache.
+2. Commits `content/` — one `.wiki` file per page plus `recipes.json` — so `git log content/`
+   is the wiki's history and `git diff` shows exactly what changed between snapshots.
+3. On `main`, redeploys GitHub Pages if anything changed.

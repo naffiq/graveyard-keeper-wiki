@@ -1,0 +1,42 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = i powder graphite.png
+| study        = 
+| source       =  Graphite, Alchemy mill
+| cost         = 
+| stacksize    = 30
+| type         = Advanced alchemy resource
+| nameinternal = powder_graphite
+}}
+
+{{PAGENAME}} is produced by grinding [[graphite]] in the [[alchemy mill]]. It can be mixed with [[water]] to produce [[black paint]].
+
+Note: You must study [[graphite]] at the [[study table]] before you can grind it at the [[alchemy mill]].
+
+==Recipe==
+{| class = "wikitable" style = "width:35em; table-layout: fixed;"
+! colspan = "2" | {{Item|Alchemy mill}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|graphite|1}}
+|}
+
+== Crafting ==
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Black paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Pó de grafite]]
+[[es:Polvo de grafito]]

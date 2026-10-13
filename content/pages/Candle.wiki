@@ -1,0 +1,96 @@
+{{Item Infobox 
+| name         = Candle
+| image        = candle item.png
+| type         = Church Item
+| nameinternal = candle_#
+| study        = 
+| alchemy      = 
+| source       = [[Church workbench]], [[Bishop]]
+| cost         = 
+| quest        = 
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}s</b> are [[church]]-related consumables, able to be used in any of the available [[candelabra]]s, in order to provide a temporary increase in {{Church Rating}} Church Quality. There are multiple types of candles, each providing a bonus; the more expensive or complex the candle, the greater the bonus. As higher-tier candelabras each have more candle slots, one would need enough candles of a single type in order to activate the given candelabra.
+
+==Quality Level==
+{| class = "wikitable" style="width:35em; table-layout:fixed; text-align:center;"
+!Item
+!Bonus
+!Duration
+!Notes
+|-
+|{{Item|Candle (1)}}
+| +1{{Church Rating}} (Each)
+|3:00
+|Required Tech:<br>[[Theology_(Tech_Tree)|Light of Faith]]
+|-
+|{{Item|Candle (3)}}
+| +2{{Church Rating}} (Each)
+|4:30
+|Required Tech:<br>[[Theology_(Tech_Tree)|Light of Faith]]
+|-
+|{{Item|Candle (4)}}
+| +3{{Church Rating}} (Each)
+|6:00
+|Required Tech:<br>[[Theology_(Tech_Tree)|Illumination of Faith]]
+|-
+|{{Item|Candle (6)}}
+|colspan="2" | As of [[Versions|version 1.405]],<br>this variant cannot be utilized.
+|Cannot be crafted or used.
+|}
+
+==Recipes== 
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Candle (1)|4}}
+|{{Item|Fat|2}}<br>{{Item|Beeswax|2}}<br>{{Item|Hemp rope|1}}
+|-
+|{{Item|Candle (3)|4}}
+|{{Item|Fat|2}}<br>{{Item|Beeswax|2}}<br>{{Item|White paint|3}}
+|-
+|{{Item|Candle (4)|4}}
+|{{Item|Beeswax|4}}<br>{{Item|White paint|2}}<br>{{Item|Hemp rope|1}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+! NPC !! Quality !! Buy Tier !! Base Cost !! Qty !! Sell Tier !! Base Price !! Consumption
+|-
+|rowspan="4"|{{NPC|Bishop}}
+|{{Item|Candle (1)}}
+|I
+|{{Money|100}}
+|20x
+|colspan="3"|N/A
+|-
+|{{Item|Candle (3)}}
+|II
+|{{Money|150}}
+|10x
+|colspan="3"|N/A
+|-
+|{{Item|Candle (4)}}
+|III
+|{{Money|400}}
+|3x
+|III
+|{{Money|260}}
+|6x per week
+|-
+|{{Item|Candle (6)}}
+|III
+|{{Money|500}}
+|3x
+|III
+|{{Money|325}}
+|6x per week
+|}
+
+<br>
+{{Navbox-Church}}
+[[Category:church items]]
+[[pt-br:Vela]]

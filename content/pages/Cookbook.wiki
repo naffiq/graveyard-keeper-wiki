@@ -1,0 +1,28 @@
+{{stub}}{{Item Infobox|image=Cookbook.png|name=Cookbook|type=Questitem|source=[[Donkey]], [[Desk]]}}
+"50 Ways to cook ratatouille with vegetables and cats"
+
+==Recipe==
+Run to meet the [[Donkey]] when he arrives with a new body. You'll obtain the Cookbook recipe and some new tasks. The contraband box allows you to send the Cookbook 
+
+{| class="wikitable" style="width:35em;"
+! colspan="2" |{{Item|Desk}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Pen and ink|2}}<br>{{Item|Clean paper|10}}<br>{{Item|Red wine|1|animation}}
+|-
+! colspan="2" |{{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Pen and ink|2}}<br>{{Item|Clean paper|10}}<br>{{Item|Red wine|1|animation}}
+|-
+|}
+
+{{Navbox-GameofCroneQuest}}
+[[de:Kochbuch]]
+[[Category:Game of Crone]]

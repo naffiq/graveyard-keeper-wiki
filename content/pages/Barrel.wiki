@@ -1,0 +1,25 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}} 
+|image      = {{PAGENAME}}_Portal.png
+|location   = [[Witch Hill]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = False
+}}
+
+Part of the Portal related to the main quest.
+{| class="wikitable"
+![[Blueprints]]
+![[Items]]
+|-
+|[[File:Barrel item.png|center|80x80px]]
+|{{Item|Golden angle|1}}<br>
+{{Item|Endless notebook|1}}<br>
+{{Item|Necklace|1}}
+|}
+{{Navbox-Witch hill}}
+[[Category:Workstations]]
+
+[[Category:Witch hill workstations]]
+[[de:Lauf]]

@@ -1,0 +1,36 @@
+{{Stub}}
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Sacrifice zone]]
+|technology = [[Snake]] quest line
+|related    = [[Dungeon]]
+|footprint  = 
+|rotatable  = 
+}}
+Provides +1{{Pentagram}}.
+
+There are two special slots for this in sacrifice zone
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Skull|1}}
+{{Item|Wooden beam|2}}
+
+{{Item|Pumpkin|1|silver}}
+|
+|Requires: ?
+|}
+
+
+
+{{Navbox-Dungeon}}
+[[Category:Workstations]]
+
+[[Category:Sacrifice zone workstations]]

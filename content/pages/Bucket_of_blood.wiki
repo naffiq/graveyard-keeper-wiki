@@ -1,0 +1,26 @@
+{{Item Infobox 
+| name         = Bucket of blood
+| image        = Bucket of blood item.png
+| type         = Quest item
+| nameinternal = pail_blood
+| source       = [[Dungeon]], [[Church workbench]]
+| cost         = 0
+| quest        = [[Snake]] [[Master Alaric]]
+}}
+'''{{PAGENAME}}''' is a quest item, obtained from a chest in level 5 of the [[Dungeon]] as part of a quest for [[Snake]]. {{PAGENAME}} can also be crafted at the [[Church workbench]].
+
+It can be used to give blood to the [[Master Alaric|Vampire]].
+
+There is no other use for this item other than as a quest item. It cannot be used to collect the contents of the bucket, unlike the other bucket items.
+
+== Recipe==
+{| class = "wikitable" style = "width:53%; table-layout: fixed;"
+! colspan = "2" | {{Item|Church workbench}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Flitch|3}}<br>{{Item|Blood|10}}
+|}
+
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

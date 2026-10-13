@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest Item
+| nameinternal = 
+| study        = 
+| source       = 
+| cost         = 
+}}
+{{PAGENAME}} is a reward for [[Ms. Charm]]s final quest. It is one of the six key quest items required to activate [[Portal]]. 
+
+After you discuss the Necklace with [[Koukol]], the player considers that the Necklace may never be found. Talk to [[Ms. Charm]] to continue the quest line.
+
+{{Navbox-Misc}}
+[[Category:quest items]]

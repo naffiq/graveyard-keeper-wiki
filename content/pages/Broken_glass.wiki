@@ -1,0 +1,51 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = 
+| source       = [[Souls room]]
+| buy          = None
+| sell         = None
+| cost         = 
+| stacksize    = 
+| type         = Glass Item
+| quest        = 
+| nameinternal = broken_glass
+}}
+'''{{PAGENAME}}''' is a byproduct of breaking down old broken bottles in the [[Souls room]]. Each bottle gives 3-5x {{PAGENAME}}, making it to max out at 27x obtainable {{PAGENAME}}.
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|1}}
+|{{Item|{{PAGENAME}}|1}}
+|0:30<br>{{Fuel|-|15}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|1}}
+|{{Item|{{PAGENAME}}|1}}
+|0:30<br>{{Fuel|-|10}}
+|-
+! colspan="3" |{{Item|Furnace III}} (Not available for ver. 1.405)
+|-
+!Item Produced
+!Materials Required
+!Cost
+|-
+|{{Item|Glass|1}}
+|{{Item|{{PAGENAME}}|1}}
+|0:30<br>{{Fuel|-|8}}
+|}
+
+{{Navbox-Glass}}
+[[Category:Better Save Soul]]
+[[Category:glass items]]

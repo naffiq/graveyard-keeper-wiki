@@ -1,0 +1,50 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = egg_chicken
+| study        = 
+| source       = [[Fresh egg basket]]
+| cost         = 10
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is an ingredient used in cooking, the primary source of which is the [[Fresh egg basket]]. Once you have acquired the animal farm in the [[Game of Crone]] DLC, eggs can be found in the [[Refugee camp|refugee camp]] storehouse. The GoC Simple Snacks tech unlock also adds the [[Boiled egg|boiled egg]] recipe to the oven. For the main page on preparing food, see [[cooking]].
+
+==Crafting==
+{|class="wikitable" style="Width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Pastry dough|4}}
+|{{Item|Flour|2}}<br>{{Item|Jug of milk|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Oven}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Fried egg|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Omelette|3}}
+|{{Item|{{PAGENAME}}|3}}<br>{{Item|Jug of milk|1}}
+|-
+|{{Item|Croissant|4}}
+|{{Item|Dough|1}}<br>{{Item|Honey|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Mysterious sauce|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Seed oil|1}}<br>{{Item|Salt|1}}
+|-
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]

@@ -1,0 +1,115 @@
+With the addition of the [[Better Save Soul]] DLC, you can modify your organs to have more {{White Skull}} and {{Red Skull}} by using the [[Organ Workbench]] at the [[Souls room]] to up to +3 of each. I don't quite know whether you need [[Game of Crone]] as well or not, since the dynamic organs (organ can have random {{White Skull}} and {{Red Skull}} amounts) come during [[Game of Crone]] DLC release. Modifying body parts made making 26 {{White Skull}} {{Item|Corpse}} possible and easier but it requires a decent amount of Sin Shards to modify a part. Sin shards can be obtained by healing [[Harmed soul]] with [[Soul healer]].  I recommend to craft "Prayer for Souls thorough Cleansing" at [[Organ Workbench]] and use it during [[Sermon]] as it increase the number of shards you get from healing a soul by 2 times. 
+
+= TLDR; =
+
+# Modify body part(s) to get 21 {{White Skull}} {{Item|Corpse}} with [[Organ Workbench]] at [[Souls room]]
+# Make sure to have 0 {{Red Skull}} or 2 {{Red Skull}} {{Item|Corpse}} before embalming. If the {{Item|Corpse}} has {{Item|Brain}}, {{Item|Heart}}, or {{Item|Intestine}} which will make the overall {{Red Skull}} becomes minus, remove it and add it after embalming. 0 or 2 {{Red Skull}} is the amount you want before embalming. 
+#If your corpse have 0 {{Red Skull}} do {{Item|Dark injection}} before doing other embalming
+# Embalm the {{Item|Corpse}} with {{Item|Lye injection}}, {{Item|Glue injection}}, {{Item|Silver injection}}, and {{Item|Gold injection}} respectively to add 5 {{White Skull}}
+#Voila, enjoy your 26 {{White Skull}} {{Item|Corpse}}
+ The 0 and 2 {{Red Skull}} only applies if you want to make perfect corpse, if you want to make it for zombies you can have as many as {{Red Skull}} as you want since zombies won't be affected by the red skull. You still need to make sure it doesn't has minus {{Red Skull}} as the embalming process needs at least 2 {{Red Skull}} to use the {{Item|Gold injection}} since {{Item|Silver injection}} already get {{Red Skull}} it needed from {{Item|Lye injection}}.
+
+=Detailed Version=
+==Key Point: 21 {{White Skull}} {{Item|Corpse}} with +{{Red Skull}}{{Red Skull}} or 0 {{Red Skull}}==
+
+To understand how to make 26 {{White Skull}} easily let's look at this table below to see what stats each body parts has.
+{| class="wikitable"
+!Body parts
+!Stats
+|-
+|{{Item|Flesh}}
+| - {{Skull|White}}
+|-
+|{{Item|Blood}}
+| - {{Skull|Red}} + {{Skull|White}}
+|-
+|{{Item|Fat}}
+| - {{Skull|Red}} + {{Skull|White}}
+|-
+|{{Item|Bone}}
+|No change. 
+|-
+|{{Item|Skin}}
+| + {{Skull|Red}} - {{Skull|White}}
+|-
+|{{Item|Skull}}
+
+| + {{Skull|Red}}
+|-
+|{{Item|Brain}}
+| -2 to +3 {{Skull|Red}} and -1 to +3 {{Skull|White}}
+|-
+|{{Item|Heart}}
+| -2 to +3 {{Skull|Red}} and -1 to +3 {{Skull|White}}
+|-
+|{{Item|Intestine}}
+| -2 to +3 {{Skull|Red}} and -1 to +3 {{Skull|White}}
+|}
+
+After looking at the body parts table above, notice that {{Item|Blood}} and {{Item|Fat}} both remove {{Red Skull}} but {{Item|Skin}} and {{Item|Skull}} both add {{Red Skull}} which means with all parts intact without {{Item|Brain}}, {{Item|Heart}}, and {{Item|Intestine}}, the amounts of {{Red Skull}} you have on the {{Item|Corpse}} is 0. Apart from {{Item|Bone}} and {{Item|Skull}}, body parts can be modified to have more {{Red Skull}} and {{White Skull}} allowing you to have 21 {{White Skull}} in a {{Item|Corpse}} (7 body parts with + {{White Skull}}{{White Skull}}{{White Skull}} each). At this point you need to make sure the amount of {{Red Skull}} after you put all body parts in the {{Item|Corpse}} are only + {{Red Skull}}{{Red Skull}} or 0, otherwise you won't be able to make the 26 {{White Skull}} {{Item|Corpse}}. If the {{Item|Corpse}} has {{Item|Brain}}, {{Item|Heart}}, or {{Item|Intestine}} which make make the overall {{Red Skull}} becomes minus, removes it and add it after embalming. 0 or 2 {{Red Skull}} is the amount you want before embalming.
+
+The amount of {{Item|Sin Shard}} needed for each body parts to make it + {{White Skull}}{{White Skull}}{{White Skull}} can be seen on this table below.
+{| class="wikitable"
+!Body parts
+
+!Sin shards per {{White Skull}} 
+!Total sin shards
+|-
+|{{Item|Flesh}}
+|3+4
+|7
+|-
+|{{Item|Blood}}
+|2+2+3+4
+|11
+|-
+|{{Item|Fat}}
+
+|2+2+3+4
+|11
+|-
+|{{Item|Skin}}
+|3+4
+|7
+|--
+|Total
+| colspan="2" |36
+|}
+
+Since {{Item|Brain}}, {{Item|Heart}}, and {{Item|Intestine}} could drop with up to + {{White Skull}}{{White Skull}}{{White Skull}}, you could save up {{Item|Sin Shard}} you use by using those instead of modifying those parts. Although, if your overall {{Red Skull}} stats becomes minus with it you need to remove it first before embalming the {{Item|Corpse}}, otherwise you won't have {{Red Skull}} needed for the process. Again, you need to make sure the amount of {{Red Skull}} after you put body parts with/out {{Item|Brain}}, {{Item|Heart}}, and {{Item|Intestine}} in the {{Item|Corpse}} are only + {{Red Skull}}{{Red Skull}} or 0, otherwise you won't be able to make the 26 {{White Skull}} {{Item|Corpse}}.
+
+==Key Point: Add +{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}} and removes {{Red Skull}}{{Red Skull}} if necessary==
+
+To achieve the 26 {{White Skull}} {{Item|Corpse}} you would need to embalm the {{Item|Corpse}}. The embalming process will add + {{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}} and removes {{Red Skull}}{{Red Skull}} (if exist) from the {{Item|Corpse}}. To be able to understand what embalming can do, let's look at this table below.
+{| class="wikitable"
+!Embalming type
+!Changes made
+|-
+|{{Item|Lye injection}}
+| + {{Skull|Red}} + {{Skull|White}}
+|-
+|{{Item|Acid injection}}
+| - {{Skull|Red}} - {{Skull|White}}
+|-
+|{{Item|Glue injection}}
+
+| + {{Skull|White}}
+|-
+|{{Item|Restore injection}}
+|Halves body decay.
+|-
+|{{Item|Preservative injection}}
+|Halts body decay.
+|-
+|{{Item|Dark injection}}
+| + {{Skull|Red}} {{Skull|Red}}
+|-
+|{{Item|Silver injection}}
+| - {{Skull|Red}} + {{Skull|White}}
+|-
+|{{Item|Gold injection}}
+| - {{Skull|Red}} {{Skull|Red}}   + {{Skull|White}} {{Skull|White}}
+|}
+
+After looking at the table, notice that {{Item|Silver injection}} and {{Item|Gold injection}} could give you + {{White Skull}}{{White Skull}}{{White Skull}} to your {{Item|Corpse}} but it need + {{Red Skull}}{{Red Skull}}{{Red Skull}} to use it. Since {{Item|Lye injection}} give + {{Red Skull}} already, all you need now is + {{Red Skull}}{{Red Skull}} from  any body parts or embalm the {{Item|Corpse}} with {{Item|Dark injection}}. Since {{Item|Silver injection}} and {{Item|Gold injection}} need {{Red Skull}} to be present before applying it, you need to remove {{Item|Brain}}, {{Item|Heart}}, or {{Item|Intestine}} which has - {{Red Skull}} stats in them. And voila after embalming the corpse with {{Item|Lye injection}}, {{Item|Glue injection}}, {{Item|Silver injection}}, and {{Item|Gold injection}} (plus {{Item|Dark injection}} if necessary) you'll end up with 26{{White Skull}} {{Item|Corpse}}
+[[Category:Guides]]

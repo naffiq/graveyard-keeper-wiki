@@ -1,0 +1,31 @@
+ Note: At the moment, individual quest pages won't work due to quests not having proper names. For now quests should be described in the respective NPC page.
+
+After delivering [[Horadric]]'s letter to the blacksmith [[Krezvold]] he will ask you to kill some [[Slime|Slimes]]. To do this he gives you a broken [[rusty sword]], two [[Energy potion|Energy potions]], and a [[whetstone]]. You are meant to use the whetstone to repair the sword and then kill the Slimes with it.  Afterward you need only bring the [[green jelly]] back to the [[Blacksmith]].  Only after you complete this Quest will you be able to trade with the blacksmith.
+
+{| class = "wikitable"
+! style = "width:15em;" colspan = "2" |Requirements
+|-
+|{{Item|Letter to the blacksmith|1}}
+|Obtained from [[Horadric]] upon first meeting him.
+|-
+|{{Item|Green jelly|2}}
+|Obtained by killing the two slime's north of the blacksmith.
+|-
+|style = "Display:none;" |
+|style = "Display:none;" |
+|-
+! style = "width:15em;" colspan = "2" |Rewards
+|-
+|10x {{Happiness}} with [[Krezvold]].
+|Also gives you the ability to trade with [[Krezvold]].
+|-
+|{{Item|Whetstone|1}}
+|
+|-
+|{{Item|Rusty sword|1}}
+|Has no durability.
+|-
+|{{Item|Energy potion|2}}
+|
+|}
+[[Category:Quest]]

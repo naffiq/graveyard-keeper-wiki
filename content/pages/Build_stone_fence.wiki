@@ -1,0 +1,34 @@
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = stone fence image.png
+|location   = [[Graveyard]]
+|technology = Graveyard Enchancement
+|footprint  = 
+|rotatable  = False
+}}
+
+<!-- Put page content here -->
+
+
+Improves the look of the fence surrounding the graveyard. Gives a static +20 {{Graveyard Rating}} when built.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A polished brick of stone|24}}
+{{Item|A carved piece of stone|2}}
+
+{{Item|Complex iron parts|12}}
+|0{{Energy}}
+|
+|}
+
+{{Navbox-Graveyard}}
+[[de:Steinumrandung bauen]]

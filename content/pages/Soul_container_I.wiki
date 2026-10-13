@@ -1,0 +1,35 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Souls room]]
+|technology = [[Spiritualism (Tech Tree)|Beginner healer]]
+|related    = 
+|footprint  = 3x4
+|rotatable  = False
+}}
+The '''{{PAGENAME}}''' is a workbench introduced with the [[Better Save Soul|Better Save Soul DLC]], that may be built in the [[Souls room]] after you unlock the [[Spiritualism (Tech Tree)|Beginner healer]] technology. The {{PAGENAME}} allows you to store up to 2 souls for later usage, but keep in mind the souls will decay slowly even in this container. Decay rate is around 12% per day . Higher tier containers appear to have slower decay rate , ~ 4% for tier II container (as of version 1.404 , just on one observation ; not precise measurement).
+
+To use one of these containers first, you have to build a frame first [{{PAGENAME}} (Base)], then fill it up by finishing the build with extra materials [{{PAGENAME}} (Finish)]. There are only 3 spots in the [[Souls room]] where this container can be built.
+
+''Note: When a soul stays in the container for too long, it will eventually die and leave a [[Sin Shard]] behind.''
+
+== Cost ==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]<br>(base)
+|{{Item|Simple iron parts|2}}<br/>{{Item|Nails|4}}<br/>{{Item|Flitch|4}}
+|style="text-align:center" |{{energy|-|7}}
+|Not usable, but gives the ability to finish the build.
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]<br>(finish)
+|{{Item|A piece of stone|4}}<br/>{{Item|Sin Shard|2}}<br/>{{Item|Flitch|2}}
+|style="text-align:center" |{{energy|-|5}}
+|Adds {{Souls Room Capacity|10}}<br>Can store up to 2 souls (or 2 stacks of [[Sin Shard]]s), but the souls will decay slowly!
+|}
+
+{{Navbox-Souls room}}
+[[Category:Souls room workstations]]

@@ -1,0 +1,50 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Embalming Injection
+| nameinternal = 
+| study        = N/A
+
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 5
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is used at the [[embalming table]] to add one {{Skull|white}}. 
+
+It requires [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Embalming Liquids II]] to craft.
+
+== Recipe ==
+{| class="wikitable" style = "width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Glue|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+== Crafting ==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Embalming table}}
+|-
+!Item Produced
+!Required Materials
+!style"width:5em;"|Notes
+|-
+|{{Item|Corpse|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Corpse|1}}
+| +{{Skull|white}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Embalming injections]]
+
+[[Category:Alchemy]]
+
+[[pt-br:Injeção de cola]]
+[[es:Inyección de pegamento]]

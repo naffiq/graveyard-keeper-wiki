@@ -1,0 +1,277 @@
+The cookery tab slowly unlocks as you discover the necessary ingredients for making dishes. For recipes see [[cooking]]. This [[Technologies|tech tree]] is unlocked by making your [[Achievements|first slice]].
+
+{|class="wikitable" style="text-align:left"
+!style="width:8em;"|Technology
+!style="width:17em;"|Requirements
+!style="width:16em;"|Unlocked Recipes
+|-
+|Simple and Tasty
+|Take (and use) the [[Recipe simple and tasty]] from the [[Cellar]] trunk.
+|{{Item|Baked mushrooms}}<br>{{Item|Baked apple}}
+|-
+|Sweet Baking (Pastries)
+|Purchase from [[Miss Chain]] for {{Money|200}}.
+|{{Item|Pancakes}}<br>{{Item|Croissant}}<br>{{Item|Muffin}}
+|-
+|Pies
+|Purchase from [[Miss Chain]] for {{Money|100}}.
+|{{Item|Berry pie}}<br>{{Item|Grape pie}}
+|-
+|Cake
+|Deliver {{Item|Honey|5}} to [[Dig]].
+|{{Item|Cake}}
+|-
+|Vegetable Dishes
+|Ask the [[farmer]] about growing crops.
+|{{Item|Carrot cutlet}}<br>{{Item|A bowl of sauerkraut}}<br>{{Item|Beet slices}}
+|-
+|Soups
+|Deliver a {{Item|Pumpkin||silver}} to [[Clotho]].
+|{{Item|Cabbage soup}}<br>{{Item|Pumpkin soup}}<br>{{Item|Vegetable soup}}
+|-
+|Tasty and Healthy
+|Purchase from [[Miss Chain]] for {{Money|540}}.
+|{{Item|A bowl of pumpkin soup}}<br>{{Item|Baked pumpkin}}<br>{{Item|A bowl of lentils}}
+|-
+|Jelly
+|Unlocked through the tutorial after completing the [[Krezvold#Quests|the blacksmiths quest]].
+|{{Item|Green jelly (food)}}<br>{{Item|Red jelly}}
+|-
+|Egg Dishes
+|Interact with the [[fresh egg basket]].
+|{{Item|Omelette}}<br>{{Item|Fried egg}}
+|-
+|Meat Fiesta
+|Unlocked through the tutorial making your [[Achievements|first slice]].
+|{{Item|Burger}}<br>{{Item|Sandwich}}<br>{{Item|Baked meat}}
+|-
+|Bread
+|Return to the graveyard after heading to the village for the first time.
+|{{Item|Dough}}<br>{{Item|Pastry dough}}<br>{{Item|Bread}}
+|-
+|Good Carbs
+|Deliver an {{Item|Axe I}} to the [[woodcutter]]. 
+|{{Item|Lasagna}}<br>{{Item|Pasta}}
+|-
+|Beer Snacks
+|Talk to [[Horadric]] after obtaining an {{Item|Onion||copper}} at some point.
+|{{Item|Onion rings}}<br>{{Item|Toasts with onions}}
+|-
+|Fish Dishes
+|Ask the [[lighthouse keeper]] about cooking fish.
+|{{Item|Baked fish}}<br>{{Item|Fish soup}}<br>{{Item|Fish nuggets}}
+|-
+|Kebab
+|Deliver {{Item|Quality fish fillet|4|silver}} to the [[Gypsy baron]].
+|{{Item|Baked kebab||animation|variant=pumpkin}} (pumpkin)<br>{{Item|Baked kebab||animation|variant=onion}} (onion)<br>{{Item|Baked kebab||animation|variant=mushroom}} (mushroom)
+|-
+|Fish Delicacies
+|Purchase from [[Miss Chain]] for {{Money|830}}.
+|{{Item|Baked salmon}}<br>{{Item|Royal fish}}
+|-
+|Nectar of the Gods
+|Deliver {{Item|A mug of beer||gold}} to [[Horadric]].
+|{{Item|A mug of mead}}
+|-
+| rowspan="3" |Simple snacks
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="3" | Purchase from [[Cook]] for {{Money|100}}.
+|{{Item|Grated carrot}}
+|-
+|{{Item|Grated beets}}
+|-
+|{{Item|Boiled egg}}
+|-
+| rowspan="3" | Vegetable set
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="3" |Purchase from [[Cook]] for 
+{{Money|300}}. 
+|{{Item|Vegetable salad||animation}}
+|-
+|{{Item|Vegetable stew||animation}}
+|-
+|{{Item|Creamy vegetable soup||animation}}
+|-
+| rowspan="3" | Milk processing
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="3" |Purchase from [[Cook]] for 
+{{Money|250}}.
+|{{Item|Cheese}}
+|-
+|{{Item|Butter}}
+|-
+|{{Item|Cream of mushroom soup}}
+|-
+| rowspan="3" |In Lentil We Trust
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="3" |Purchase from [[Cook]] for 
+{{Money|350}}.
+|{{Item|Lentil porridge||animation}}
+|-
+|{{Item|Fancy lentil soup||animation}}
+|-
+|{{Item|Lentil cutlets||animation}}
+|-
+| rowspan="3" | Patties
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="3" |Purchase from [[Cook]] for 
+{{Money|750}}. 
+|{{Item|Vegetable patty||animation}}
+|-
+|{{Item|Mushroom patty}}
+|-
+|{{Item|Cheese patty}}
+|-
+| rowspan="3" |Jelly Desserts
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="3" |Purchase  from [[Cook]] for 
+{{Money|800}}. 
+|{{Item|Panna cotta}}
+|-
+|{{Item|Honey pudding}}
+|-
+|{{Item|Berry pudding}}
+|-
+| rowspan="2" |Cheese Dishes
+''([[Game of Crone|Game of Crone DLC]])''
+| rowspan="2" |Purchase from [[Cook]] for 
+
+{{Money|650}}.
+<br />
+|{{Item|Cheese cake}}
+|-
+|{{Item|Cheese pie}}
+|-
+| Honey Cake
+''([[Game of Crone|Game of Crone DLC]])''
+|Talk with [[Cook]] after building the two bee hives for her in the [[refugee camp]]
+<br />
+|{{Item|Honey cake}}
+|}
+
+
+Since cooking recipes are hidden and not connected with a research path this table might help to know which one is missing. The positions are the same as in the ingame cookery tech tree tab.
+
+{| class="wikitable" style="text-align:center"
+!style="width:10em;"|1st column
+!style="width:10em;"|2nd column
+!style="width:10em;"|3rd column
+!style="width:10em;"|4th column
+!style="width:10em;"|5th column
+|-
+
+<!-- 1st row-->
+|Simple and Tasty
+<br>
+[[Image:Baked_mushrooms_item.png|link=Baked_mushrooms]] [[Image:Baked_apple_item.png|link=Baked_apple]]
+<br />
+|Pastries
+<br>
+[[Image:Pancakes_item.png|link=Pancakes]] [[Image:Croissant_item.png|link=Croissant]] [[Image:Muffin_item.png|link=Muffin]]
+<br />
+|Pies
+<br>
+[[Image:Berry_pie_item.png|link=Berry_pie]] [[Image:Grape_pie_item.png|link=Grape_pie]]
+<br />
+|Cake
+<br>
+[[Image:Cake_item.png|link=Cake]]
+<br />
+|In Lentil We Trust
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Lentil_porridge_item.png|link=Lentil_porridge|34px]] [[Image:Fancy_lentil_soup_item.png|link=Fancy_lentil_soup|34px]] [[Image:Lentil_cutlets_item.png|link=Lentil_cutlets|34px]]
+|-
+
+<!-- 2nd row-->
+|Vegetable Dishes
+<br>
+[[Image:Carrot_cutlet_item.png|link=Carrot_cutlet]] [[Image:A_bowl_of_sauerkraut_item.png|link=A_bowl_of_sauerkraut]] [[Image:Beet_slices_item.png|link=Beet_slices]]
+<br />
+|Soup
+<br>
+[[Image:Cabbage_soup_item.png|link=Cabbage_soup]] [[Image:Pumpkin_soup_item.png|link=Pumpkin_soup]] [[Image:Vegetable_soup_item.png|link=Vegetable_soup]]
+<br />
+|Tasty and Healthy
+<br>
+[[Image:A_bowl_of_pumpkin_soup_item.png|link=A_bowl_of_pumpkin_soup]] [[Image:Baked_pumpkin_item.png|link=Baked_pumpkin]] [[Image:A_bowl_of_lentils_item.png|link=A_bowl_of_lentils]]
+<br />
+|Simple snacks
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Grated_carrot_item.png|link=Grated_carrot|34px]] [[Image:Grated_beets_item.png|link=Grated_beets|34px]] [[Image:Boiled_egg_item.png|link=Boiled_egg|34px]]
+<br />
+|Patties
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Vegetable_patty_item.png|link=Vegetable_patty|34px]] [[Image:Mushroom_patty_item.png|link=Mushroom_patty|34px]] [[Image:Cheese_patty_item.png|link=Cheese_patty|34px]]
+|-
+
+<!-- 3rd row-->
+|Jelly
+<br>
+[[Image:Green_jelly_(food)_item.png|link=Green_jelly_(food)]] [[Image:Red_jelly_item.png|link=Red_jelly]]
+<br />
+|Egg Dishes
+<br>
+[[Image:Omelette_item.png|link=Omelette]] [[Image:Fried_egg_item.png|link=Fried_egg]]
+<br />
+|Meat Fiesta
+<br>
+[[Image:Burger_item.png|link=Burger]] [[Image:Sandwich_item.png|link=Sandwich]] [[Image:Baked_meat_item.png|link=Baked_meat]]
+<br />
+|Nectar of the Gods
+<br>
+[[Image:A_mug_of_mead_item.png|link=A_mug_of_mead]]
+<br />
+|Cheese dishes
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Cheese_cake_item.png|link=Cheese_cake|34px]] [[Image:Cheese_pie_item.png|link=Cheese_pie|34px]]
+|-
+
+<!-- 4th row-->
+|Bread
+<br>
+[[Image:Dough_item.png|link=Dough|34px]] [[Image:Pastry_dough_item.png|link=Pastry_dough|34px]] [[Image:Bread_item.png|link=Bread]]
+<br />
+|Good Carbs
+<br>
+[[Image:Lasagna_item.png|link=Lasagna]] [[Image:Pasta_item.png|link=Pasta]]
+<br />
+|Beer Snacks
+<br>
+[[Image:Onion_rings_item.png|link=Onion_rings]] [[Image:Toasts_with_onions_item.png|link=Toasts_with_onions]]
+<br />
+|Vegetable set
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Vegetable_salad_item.png|link=Vegetable_salad|34px]] [[Image:Vegetable_stew_item.png|link=Vegetable_stew|34px]] [[Image:Creamy_vegetable_soup_item.png|link=Creamy_vegetable_soup|34px]]
+<br />
+|Jelly desserts
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Panna_cotta_item.png|link=Panna_cotta|34px]] [[Image:Honey_pudding_item.png|link=Honey_pudding|34px]] [[Image:Berry_pudding_item.png|link=Berry_pudding|34px]]
+|-
+
+<!-- 5th row-->
+|Fish Dishes
+<br>
+[[Image:Baked_fish_item.png|link=Baked_fish]] [[Image:Fish_soup_item.png|link=Fish_soup]] [[Image:Fish_nuggets_item.png|link=Fish_nuggets]]
+<br />
+|Kebab
+<br>
+[[Image:Baked_kebab_pumpkin.png|link=Baked_kebab|34px]] [[Image:Baked_kebab_onion_item.png|link=Baked_kebab|34px]] [[Image:Baked_kebab_mushroom_item.png|link=Baked_kebab|34px]]
+<br />
+|Fish Delicacies
+<br>
+[[Image:Baked_salmon_item.png|link=Baked_salmon]] [[Image:Royal_fish_item.png|link=Royal_fish]]
+<br />
+|Milk processing
+''([[Game of Crone|GoC DLC]])''
+<br>[[Image:Cheese_item.png|link=Cheese]] [[Image:Butter_item.png|link=Butter]] [[Image:Cream_of_mushroom_soup_item.png|link=Cream_of_mushroom_soup|34px]]
+<br />
+|Honey cake
+''([[Game of Crone|GoC DLC]])''
+<br>
+[[Image:Honey_cake_item.png|link=Honey_cake|34px]]
+|}
+
+<br>
+{{Navbox-Technology}}
+[[Category:Technologies]]
+[[es:Cocina]]

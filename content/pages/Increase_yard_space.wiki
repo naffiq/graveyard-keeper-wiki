@@ -1,0 +1,31 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Increase yard space.png
+|location   = [[Workyard]]
+|technology = 
+|related    = [[Workyard]]
+}}
+Allows you to expand [[Workyard|work yard]] to the east, clearing out a piece of swampland for construction.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:i_b_scale.png|80x80px]]
+
+|{{Item|Complex iron parts|10}}
+{{Item|Wooden plank|8}}
+
+{{Item|Nails|4}}
+|
+|
+|}
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]

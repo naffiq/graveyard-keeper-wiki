@@ -1,0 +1,91 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Dessert
+| consume      = {{Energy|+|80}}/{{Energy|+|90}}/{{Energy|+|100}}; [[file:Science effect.png|link=Effects#Circumspect|Circumspect]]
+| nameinternal = dessert:pie_2
+| study        = 
+| source       = [[Cooking]]
+| cost         = 80
+}}
+
+A food item which restores between {{Energy||80 -}} {{Energy||100}} and applies the circumspect buff when consumed. It must be made in the [[oven]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_pie_2.png|quality = copper}}
+|{{Quality Sprite|image = i_pie_2.png|quality = silver}}
+|{{Quality Sprite|image = i_pie_2.png|quality = gold}}
+|-
+|{{Money|80}}
+|{{Money|100}}
+|{{Money|125}}
+|-
+|{{Energy|+|80}}
+|{{Energy|+|90}}
+|{{Energy|+|100}}
+|}
+
+==Effect==
+
+On use, a grape pie will apply the circumspect buff for a duration of 2 minutes, which will give additional {{Techpoint|Blue}} when studying new items at the [[study table]] . For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Science effect.png|link=Effects#Circumspect|Circumspect]]
+|You get extra points when studying new items.
+|style="text-align:center"|2:00
+|[[Effects#Circumspect|Circumspect]]
+|}
+
+==Recipe==
+{| class = "wikitable" style = "Width:30em;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|2|animation}}
+|{{Item|Pastry dough|1}}
+{{Item|Grapes|1|animation}}
+
+{{Item|Fuel|10}}
+|-
+! colspan = "2" | {{Item|Professional Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|10|animation}}
+|{{Item|Pastry dough|5}}
+{{Item|Grapes|5|animation}}
+
+{{Item|Fuel|20}}
+|}
+The recipe is learned by using [[Recipe pies]], which can be purchased from [[Miss Chain]].
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality !! Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+| N/A
+| align="center" | III 
+| {{Money|125}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:desserts]]
+[[Category:consumable items]]

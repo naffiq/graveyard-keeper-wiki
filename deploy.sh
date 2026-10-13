@@ -5,7 +5,7 @@ cd "$(dirname "$0")"
 tmp=$(mktemp -d)
 rsync -a --delete --exclude _cache site/ "$tmp/"
 touch "$tmp/.nojekyll"
-remote=$(git remote get-url origin)
+remote=${DEPLOY_REMOTE:-$(git remote get-url origin)}
 cd "$tmp"
 git init -q -b gh-pages
 git add -A

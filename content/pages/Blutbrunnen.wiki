@@ -1,0 +1,14 @@
+ This page is a German version of [[Blood fountain]].
+<br/>
+Der Blutbrunnen ist ein Objekt, welches im Kellerabschnitt Opferbereich angefertigt werden kann. Nachdem man [https://graveyardkeeper.fandom.com/de/wiki/Schlange?so=search Schlange] das Necronomicon gebracht hat, fordert er den Spieler auf, zwei dieser Brunnen für ein Ritual herzustellen.
+
+[[File:Bild_2023-01-27_120106127.png|100px]]
+
+==Kosten==
+* [https://graveyardkeeper.fandom.com/de/wiki/Ein_polierter_Stein 5x polierter Stein]
+* [https://graveyardkeeper.fandom.com/de/wiki/Politurpaste 5x Politurpaste]
+* [https://graveyardkeeper.fandom.com/de/wiki/Steinreparaturwerkzeug 1x Steinreparaturwerkzeug]
+
+Nachdem man den Blutbrunnen gebaut hat, muss man ihn noch mit [https://graveyardkeeper.fandom.com/de/wiki/Blut?so=search 10x Blut] füllen. Ohne das Blut bringt er 2 Qualitätspunkte für den Opferbereich ein. Danach steigen seine Qualitätspunkte auf 5.
+
+[[File:Bild_2023-01-27_121233705.png|100px]]

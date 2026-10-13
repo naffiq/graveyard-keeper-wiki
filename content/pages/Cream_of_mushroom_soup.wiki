@@ -1,0 +1,47 @@
+{{Item Infobox 
+|name         ={{PAGENAME}}
+|image        ={{PAGENAME}} item.png
+|type         =Meal
+|consume      ={{Energy|+|13}}; [[File:Protection effect.png]]
+|nameinternal =meal:cream_of_mushroom_soup
+|study        = 
+|source       =[[Cooking]]
+|cost         = 
+|stacksize    =20
+}}
+A food item which restores {{Energy||13}} and applies the 'Tough Mood' buff when consumed. It must be made in the [[cooking_table|cooking table]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+===Effect===
+On use, this {{lc:{{PAGENAME}}}} will apply the 'Tough Mood' buff for a duration of 2 minutes, increasing the player's defense by 4 points. Quality level does not have an impact. For a list of all available buffs and their benefits, see [[effects]].
+
+{| class="wikitable" style="width:40em; text-align:center;"
+!Icon
+!Description
+!Duration
+!Notes
+|-
+|[[File:Protection effect.png|link=Effects#Tough Mood|Tough Mood]]
+|Incoming damage is reduced.
+|2:00
+|[[Effects#Tough Mood|Tough Mood]]
+|}
+
+==Recipes==
+
+{| class = "wikitable" style = "Width:30em;"
+! colspan = "2" | {{Item|oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Edible mushroom|6}}
+{{Item|Jug of milk|1}}<br>
+{{Item|Fuel|15}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

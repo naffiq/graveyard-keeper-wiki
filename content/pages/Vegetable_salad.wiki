@@ -1,0 +1,66 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|12}}/{{Energy|+|14}}/{{Energy|+|16}}; [[File:Rest_effect.png]]
+| nameinternal = 
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+| stacksize    = 20
+}}
+
+A food item which restores {{Energy||12 -}} {{Energy||16}} and applies the deep sleep buff when consumed. It must be made in the [[cooking_table|cooking table]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Vegetable_salad_item.png|quality = copper}}
+|{{Quality Sprite|image = Vegetable_salad_item.png|quality = silver}}
+|{{Quality Sprite|image = Vegetable_salad_item.png|quality = gold}}
+|-
+|{{Energy|+|12}}
+|{{Energy|+|14}}
+|{{Energy|+|16}}
+|}
+
+==Effect==
+
+On use, a Vegetable Salad will apply the deep sleep buff for a duration of 2 minutes. Allowing the player to regenerate more energy points during sleep. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Rest effect.png]]
+|Energy  regeneration during sleeping is increased.
+|style="text-align:center"|2:00
+|Deep sleep
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "Width:30em;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|4|animation}}
+|{{Item|Onion|1|animation}}<br>
+{{Item|Beet|1}}<br>
+{{Item|Cabbage|1}}
+|}
+
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

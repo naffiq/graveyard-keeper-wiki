@@ -1,0 +1,88 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Writing Resource
+| nameinternal = skroll_skin_pig
+| study        = {{Techpoint|Red|10}}{{Techpoint|Green|10}}
+| alchemy      = 
+| source       = [[Church workbench]]
+| cost         = 
+| stacksize    = 50
+| quest        = 
+}}
+'''{{PAGENAME}}''' is a crafting material, the result of processing animal hide, at the [[church workbench]]. It's often used as an in-universe replacement for leather, being one source for [[clean paper]], the only source of [[softcover]]s, and is required in the construction of the [[furnace II]].
+
+== Recipe ==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Skin|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Bat wing|5}}
+|{{Energy|-|5}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|10}}<br>{{Techpoint|Green|10}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Clean paper|4}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Softcover|1}}
+|{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|10}}
+|}
+
+==Building==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|[[Workyard]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|[[file:upgrade item.png|frameless|link=furnace II]][[Furnace]] Upgrade
+|{{Item|A piece of stone|6}}<br>{{Item|Complex iron parts|2}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|50}}
+|-
+|{{Item|Furnace II}}
+|{{Item|A piece of stone|20}}<br>{{Item|Complex iron parts|8}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|8}}
+|-
+|{{Item|Furnace III}}
+|{{Item|A piece of stone|20}}<br>{{Item|Complex iron parts|10}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|8}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]

@@ -1,0 +1,27 @@
+{{Stub}}
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Souls room]]
+|technology = None
+|related    = 
+|footprint  = 
+|rotatable  = False
+}}
+The '''{{PAGENAME}}''' is a workbench introduced with the [[Better Save Soul|Better Save Soul DLC]], that may be built in the [[Souls room]] after the [[Soul healer]] is repaired. The {{PAGENAME}} allows you to convert [[Healed soul]]s to Souls' gratitude ({{Souls Room Capacity}}) points.<br>
+The number of points generated from this is based on the soul condition. These points ({{Techpoint|soul}}) can be used to remote craft or to unlock new technologies.
+== Fix ==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:Repair.png|64px|link={{PAGENAME}}]]
+|{{Item|Simple iron parts|5}}<br/>{{Item|Nails|4}}<br>{{Item|Polishing paste|1}}
+|style="text-align:center" |{{energy|-|15}}
+|Available after [[Soul healer]] is repaired
+|}
+
+{{Navbox-Souls room}}
+[[Category:Souls room workstations]]

@@ -1,0 +1,54 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Grave Marker
+| nameinternal = 
+| source       = [[Stone cutter II]]
+| study        = {{Techpoint|Blue|50}}
+| quest        = 
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a grave decoration which provides +5 {{Grave Decor}} when placed on a [[gravesite]], after a [[corpse]] has been buried there. Installing or uninstalling any grave decoration costs {{Energy|5}}. Excess stone decor may be recycled at a [[Stone cutter II|stone cutter]], generating ~50% of its materials. For more information, see [[graveyard]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|A carved piece of stone|2}}
+|{{Energy|-|20}}<br>{{Techpoint|Red|5}} {{Techpoint|Blue|10}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Blue|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable<br>(via alchemy)
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|A carved piece of stone|1}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Graves}}
+[[Category:Grave markers]]
+[[Category:Graveyard items]]

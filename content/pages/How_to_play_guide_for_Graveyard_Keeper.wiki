@@ -1,0 +1,43 @@
+{{Stub}}
+This page will serve as a basic '''how to play guide for ''{{Gamename}}'''''. While there is very little information available at this time, we urge you to check back often, as new information is being added all the time! Feel free to edit this guide with any tips, tricks, and suggestions.
+
+==Basic gameplay==
+
+==Controls==
+Esc - Pause
+
+W - Up
+
+S - Down
+
+A - Left
+
+D - Right
+
+E - Interact
+
+F - Work
+
+Space - Attack with sword
+
+Tab - Game menu
+
+I - Inventory
+
+T - Technologies
+
+R - rotate
+
+N - Known NPCs
+
+M - Map
+
+1-4 - Quickslots 1-4
+
+==Tips and tricks==
+
+==See also==
+* [[Release date]]
+* [[System requirements]]
+
+[[Category:Guides]]

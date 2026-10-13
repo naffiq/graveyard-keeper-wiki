@@ -1,0 +1,542 @@
+__NOTOC__
+[[https://graveyardkeeper.gamepedia.com/Category:Guides]]
+The achievements and the tasks required to complete them will be organized into different sections based on the context in which they can be completed - '''there will be spoilers, particularly in the Questlines section, so beware!'''
+
+==Starting Out==
+{| class="wikitable
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+|[[File:First slice.jpg|frameless]]
+|First slice
+|While performing an [[Autopsy]] on a corpse for the first time during the tutorial, you are tasked with surgically removing {{Item|Flesh|}}.
+|-
+|-
+
+|[[File:Novice gravedigger.jpg|frameless]]
+|Novice gravedigger
+|Bury your first body. Accomplished during the tutorial portion of the game.
+|-
+|-
+
+
+|[[File:Sweetheart Bishop.jpg|frameless]]
+|Sweetheart Bishop
+|Meet the [[Bishop]], who you find during the tutorial portion at the start of the game.
+|-
+|-
+
+
+|[[File:Shady Snake.jpg|frameless]]
+|Shady Snake
+|Meet [[Snake]]. When you first enter your cellar, a cutscene will play that shows Snake standing at the gate to the dungeon area. In order to reach him, you'll need to clear out the [[blockage]], which costs {{Item|Wood wedge|10}}, {{Item|Wooden plank|2}}, and {{Item|Simple iron parts|4}}.
+|-
+|-
+
+
+|[[File:Holy Inquisition.jpg|frameless]]
+|Holy Inquisition
+|Meet the [[Inquisitor]]. You can find him at Witch Hill during the day on {{Day|Wrath}}.
+|-
+|-
+
+
+|[[File:Charm itself.jpg|frameless]]
+|Charm itself
+|Meet Ms. Charm. She performs at [[The Dead Horse]] during the day on {{Day|Lust}}.
+|-
+|-
+
+
+|[[File:Wealthy merchant.jpg|frameless]]
+|Wealthy merchant
+|Meet the [[Merchant]]. He stands in front of the barn just southwest of [[The Dead Horse]] during the day on {{Day|Gluttony}}.
+|-
+|-
+
+
+|[[File:Old Astrologer.jpg|frameless]]
+|Old Astrologer
+|Meet the [[Astrologer]]. He can be found far east of the [[Village]] in front of the [[Lighthouse]] on {{Day|Sloth}}.
+|-
+|-
+
+
+|[[File:Bridge builder.jpg|frameless]]
+|Bridge builder
+|Fix the bridge along the road west of the [[Graveyard]]. It'll cost {{Item|Wooden plank|1}}, {{Item|Flitch|4}}, and {{Item|Nails|8}}.
+|-
+|-
+
+|}
+
+==Graveyard==
+
+{| class="wikitable"
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+
+|[[File:Advanced gravedigger.jpg|frameless]]
+|Advanced gravedigger
+|Bury 10 bodies. Cremations do not count.
+|-
+|-
+
+
+|[[File:Shovel master.jpg|frameless]]
+|Shovel master
+|Bury 50 bodies. Cremations do not count. Exhuming bodies and reusing graves does count.
+|-
+|-
+
+
+|[[File:Stone fence.jpg|frameless]]
+|Stone fence
+|Build the stone fence around the graveyard. At some point during the [[Bishop]]'s questline, you will unlock the recipe to upgrade the fence at the [[Graveyard]] blueprint table. It costs {{Item|A polished brick of stone|24}}, {{Item|A carved piece of stone|2}}, and {{Item|Complex iron parts|12}}.
+|-
+|-
+
+|}
+
+==Questlines==
+'''This section contains spoilers.'''
+{| class="wikitable mw-collapsible mw-collapsed"
+! Icon
+! Name
+! Description
+|-
+|-
+
+
+|[[File:A perfect gift.jpg|frameless]]
+|A perfect gift
+|During the [[Astrologer]]'s questline, he will ask you to retrieve a {{Item|Skull}}. This can be obtained by extracting it from a corpse.
+|-
+|-
+
+
+|[[File:Summon a chicken.jpg|frameless]]
+|Summon a chicken
+|After providing [[Snake]] with {{Item|Bloody nails|5}} from [[Monsters#Iron_Maiden|Iron Maidens]] and {{Item|Bucket of blood|1}} from the chest at the end of [[Dungeon]] level 5, he will perform the ritual unsuccessfully, instead summoning a chicken.
+|-
+|-
+
+
+|[[File:A book with funny pictures.jpg|frameless]]
+|A book with funny pictures
+|After [[Snake]] fails the summoning ritual, he will ask you to get the [[Necronomicon]]. Speak to the [[Astrologer]], who will send you to the [[Lighthouse Keeper]] beside him. Exchange 5 [[Maggot|Maggots]] for the [[Necronomicon]], then return to [[Snake]].
+|-
+|-
+
+
+|[[File:His house.jpg|frameless]]
+|His house
+|During the [[bishop]]'s questline, after giving him the {{Item|Ceramic bowls|20}}, he will ask that you improve the [[graveyard]] to 30 {{Graveyard Rating}} and the [[church]] to 20 {{Church Rating}}. You will also then need to bring him {{Item|Quality fish fillet|4}} (basic quality works fine) and purchase a {{Item|Building permission}} from [[royal services]] for {{Money|2000}}. Be aware that after upgrading the church, you will also need to have the rightful citizen title in order to continue holding [[sermon]]s. Speak to the [[bishop]] once you have the {{Item|Building permission}} to get this achievement.
+|-
+|-
+
+
+|[[File:Even here.jpg|frameless]]
+|Even here
+|Fix the [[Garden]]. Interact with the broken blueprint desk to start a quest to gain rights to the property. Speak with [[Horadric]] and he will grant you the {{Item|Garden certificate}}, which can then be turned in back at the blueprint desk.
+|-
+|-
+
+
+|[[File:Graveyard Veggies.jpg|frameless]]
+|Graveyard Veggies
+|After obtaining the {{Item|Garden certificate}}, bringing the [[merchant]] {{Item|Carrot|12}}, {{Item|Cabbage|12}}, and {{Item|Beet|12}}, paying back the {{Money|1000}} loan (if you accepted it),  fetching him {{Item|Hiccup grass|1}}, and giving him {{Item|Spices}} (made from {{Item|Salt}} and {{Item|Health solution}}, you will need to make {{Item|Dinner|5|Gold}}.
+
+The simplest combination for the dinners ### Someone please edit this; Onion rings gold (from Tavern/Horadric) and fish filet (gold (from merchant) ~DutchEmerald ###  is {{Item|Cake}}, {{Item|Onion rings||Gold}},and the easiest/highest quality entree you can get your hands on. Sleeping before crafting each {{Item|Dinner}} will allow you to reset your game if the dinner comes out as {{Quality|Silver}}. Continue until you have all five, then bring those and a {{item|trade license}} (bought from [[royal services]] for {{Money|5000}}) to the [[merchant]] to unlock this achievement.
+|-
+|-
+
+
+|[[File:Perfume.jpg|frameless]]
+|Perfume
+|Give {{Item|Perfume}} to [[Ms. Charm]]. During [[Ms. Charm]]'s questline, she will ask you to obtain {{Item|Perfume}} from [[Miss Chain]], who requests that you bring {{Item|Basket of food}} to [[Clotho]], the witch in the [[Swamp]]. She also requests that you bring back {{Item|Frog|12}}, which you can fish up in the [[Swamp]] or purchase from [[Clotho]]. After giving [[Miss Chain]] the frogs, she will give you the {{Item|Perfume}}. Turning this in with [[Ms. Charm]] will earn you this achievement.
+|-
+|-
+
+
+|[[File:Night watch.jpg|frameless]]
+|Night watch
+|Get the [[Inquisitor]] to 60 {{Happiness}}.
+|-
+|-
+
+
+|[[File:Simple but stylish.jpg|frameless]]
+|Simple but stylish
+|Decorate the Dark Shrine to 20 {{Pentagram}} using the [[Dark design desk]]. This will require a significant number of resources, as every decoration is mandatory.<br>Total resources required:<br>{{Item|Skull|24}}<br>{{Item|Wooden beam|8}}, {{Item|Pumpkin|4|Silver}}<br>{{Item|A polished brick of stone|10}}<br>{{Item|Polishing paste|10}}<br>{{Item|Stone repair kit|2}}<br>{{Item|Blood|20}} (for filling the [[Blood fountain|Blood fountains]]).
+|-
+|-
+
+
+|[[File:Dream dinner.jpg|frameless]]
+|Dream dinner
+|Made as part of the achievement "Graveyard Veggies" during the [[Merchant]] questline.
+|-
+|-
+
+
+|[[File:On every shelf.jpg|frameless]]
+|On every shelf
+|Raise the trade company's Fame to 5. This can be accomplished by turning in {{Item|Flyer|10}} for 1 Fame, which can be repeated indefinitely, and my getting [[Ms. Charm]] to advertise your business.
+|-
+|-
+
+
+|[[File:Not a hot dog.jpg|frameless]]
+|Not a hot dog
+|Serve {{Item|Burger|5|Gold}} and {{Item|A mug of beer|10|Gold}} at a witch burning. The {{Item|Burger||Gold}} will require {{Item|Onion||Gold}}, and the {{Item|A mug of beer||Gold}} will require {{Item|Hops||Gold}} among the rest of the ingredients. These can be grown by taking their respective {{Quality|Silver}} seeds and using {{Item|Quality fertilizer II}}. Turn these in at the repaired tent at [[Witch Hill]] and be sure to serve them on {{Day|Wrath}} during the day.
+|-
+|-
+
+
+|[[File:The Mill.jpg|frameless]]
+|The Mill
+|During [[Ms. Charm]]'s questline, she will ask you to get permission to bring Alisa to the king's palace. Speak to the [[Farmer]], who will refuse. His son will then tell you that if you repair the windmill, you'll be able to convince the [[Farmer]] to grant his permission. Speak to the [[Miller]], who will give you instructions for repairing the mill, but the calculations need to be translated. Bring the instructions to the [[Astrologer]] ({{Happiness|60}} needed for this topic), and he will give you {{Item|Paper with calculations}}. Return to the mill with {{Item|Complex iron parts|5}}, {{Item|Wooden plank|6}}, and the {{Item|Paper with calculations}} to earn this achievement.
+|-
+|-
+
+
+|[[File:Side quest.jpg|frameless]]
+|Side quest
+|During [[Snake]]'s questline, he will inform you that a Vampire hunter is looking for him. Meet [[Snake]] just south of the Vineyard on Witch Hill with {{Item|Wooden plank|1}}. Time will fast forward for a bit, and you will need to push the boulder to crush the hunter. After [[Snake]] leaves, mine the boulder to obtain a corpse and the medallion that will later unlock [[Dungeon]] floors 11-15.
+|-
+|-
+
+
+|[[File:Match 3.jpg|frameless]]
+|Match 3
+|Collect three dark organs. Dark organ extraction is unlocked when the [[Inquisitor]] asks you to obtain some for him to prove to the king that the witch burning must continue. All future corpses will now have a moderate chance to have either a {{Item|Dark heart}}, {{Item|Dark intestine}}, or {{Item|Dark brain}}. You will need one of each to give to the [[Inquisitor]]. Interestingly, the image for the achievement suggests that lungs would have originally been an important part, but were removed in favor of intestines.
+|-
+|-
+
+
+|[[File:He trusted you....jpg|frameless]]
+|He trusted you...
+| '''HIGHLY MISSABLE!''' When the [[Inquisitor]] asks you about any other proof of witchcraft, you will have the option to either bring up [[Snake]]'s ritual or [[Gerry]], the talking skull. To get this achievement, you need to select the option that sells out [[Gerry]] first, but the [[Inquisitor]] will dismiss this option. '''Choosing the ritual option first will prevent you from choosing the second option, forcing you to either reload the last save or replay the game!'''
+|-
+|-
+
+
+|[[File:A father and a son.jpg|frameless]]
+|A father and a son
+|Complete the final task of [[Snake]]'s ritual by giving him a {{Item|Dark heart}}. He will then perform the ritual for the last time, bringing his and the [[Inquisitor]]'s questlines to a close.
+|-
+|-
+
+
+|[[File:Ideal song.jpg|frameless]]
+|Ideal song
+|During [[Ms. Charm]]'s questline, you will ask [[Vagner]] for a song to give to [[Ms. Charm]]. He asks you for {{Item|Infusion}}, which can be made by distilling {{Item|Booze|1}} and {{Item|Red mushroom|3}}. After giving [[Vagner]] the [[Infusion]], return the next day to find a note from [[Vagner]]. At night, head to the cliffs just north of the beach where a cutscene will play, in which you receive the Ideal song and earn the achievement.
+|-
+|-
+
+
+|[[File:His mansion.jpg|frameless]]
+|His mansion
+|To upgrade the [[Church]] to a Cathedral, you will need 200 {{Graveyard Rating}} and 50 {{Church Rating}}. You will also be asked to carve {{Item|A carved piece of marble|3|Gold}}, which will require {{Item|Iron chisel||Gold}}, or {{Item|Iron chisel||Silver}} with technology boosts.
+|-
+|-
+
+
+|[[File:Two brothers.jpg|frameless]]
+|Two brothers
+|After upgrading the [[Church]] and finishing the [[Merchant]] questline up to the point where the [[Merchant]] needs to attend a ceremony for his new position, try to get the {{Item|Accepted invitation}} from the [[Inquisitor]], who will refuse. Then talk to the [[Merchant]], who will agree to go. On {{Day|Pride}}, provide the [[Bishop]] with Aristocrat papers ({{Money|120000}} from [[Royal services]]) and the {{Item|Accepted invitation}}. Then speak to him again to initiate a cutscene, after which you will have this achievement.
+|-
+|-
+
+
+|[[File:Best seller.jpg|frameless]]
+|Best seller
+|During the [[Ms. Charm]] and [[Astrologer]] combined questline, you will need to provide the [[Astrologer]] with a {{Item|Book|variant=silver||Silver}}. These can be made by combining a {{Item|Hard cover}} and a {{Item|Chapter}}, the quality depending on your available technology boosts. You will likely need at least {{Item|Hard cover||Silver}} and {{Item|Chapter||Silver}}. After giving the [[Astrologer]] the {{Item|Book|variant=silver||Silver}}, you will need to talk to him again the following week, where he will ask you now for a {{Item|Book|variant=gold||Gold}}. This will most likely need {{Item|Hard cover||Gold}} and {{Item|Chapter||Gold}}, as well as some luck to ensure that the book actually comes out {{Quality|Gold}} (use the sleep/save trick and reload the game if you get stuck with a {{Quality|Silver}}. Turning in the completed {{Item|Book|variant=gold||Gold}} will earn you this achievement. (It should be noted that in the latest build of the game, if you give the Astrologer the [[Research Obsidian]] paper instead of a {{Item|Book|variant=silver||Silver}}, he will ''not'' request a {{Item|Book|variant=gold||Gold}} the next time you meet with him. Instead, he'll ask for the [[Aristocrat papers]], essentially skipping the step. This will make this achievement impossible to earn unless you reload a saved-game.)
+|-
+|-
+
+
+|[[File:Prodigal father.jpg|frameless]]
+|Prodigal father
+|After providing the [[Astrologer]] with the {{Item|Book|variant=gold||Gold}} and waiting a week, you will be able to begin the excavation from his dialog. A cutscene will play and at the end you will have this achievement.
+|-
+|-
+
+
+|[[File:Back home.jpg|frameless]]
+|Back home
+|Upon completing the questlines required for "A father and a son", "Two brothers", and "Prodigal father", you will have the 6 items required to open the [[portal]] at [[Witch Hill]] (the Salty Fork, the Mirror of Pride, the Endless Notebook, the Eternal Burning Coal, the Golden Angle, and the Necklace). Craft the parts in front of the [[portal]] and a cutscene will play, after which you will earn this achievement.
+|-
+|[[File:5faba2ac0dae54ae1a0e7dbbeb8f6bace469eff2.jpg|frameless]]
+|Exterminate
+|ATTENTION: Really highly missable! It also requires the DCL: Game of Crone.
+All the ambushes have been cleared out. The Terminator and Rambo would have been proud.
+
+After swamp-scene you get attacked by a golem. Go and find the other 3 ones on following locations: 
+
+* South of the house near the quarry
+* Near the inquisitor's burned-down house 
+* Near the trees south of the gypsy baron (North of talking skull)
+
+If you build the watchtower, you are rip. In other words, if you complete the watchtower before killing all of them, then you will have to reload or replay to get the others.
+|-
+|-
+
+|}
+
+==Crafting, Cooking, Farming==
+
+{| class="wikitable"
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+|[[File:Marble.jpg|frameless]]
+|Marble
+|The [[Marble quarry]] can be found after repairing the bridge over the river and removing the blockage at the end of the road to the north. Repairing it requires {{Item|Flitch|16}}, {{Item|Simple iron parts|4}}, and {{Item|Nails|7}}. If you run out of energy while building, you can enter the cabin and sleep to recover.
+|-
+|-
+
+
+|[[File:Sashimi master.jpg|frameless]]
+|Sashimi master
+|Remove {{Item|Flesh|30}} from corpses. Slicing the meat isn't needed for this achievement, just the extraction.
+|-
+|-
+
+
+|[[File:Winemaker.jpg|frameless]]
+|Winemaker
+|Can be made by turning {{Item|Grapes|30|Gold}} (grown using the [[Vineyard]] and {{Item|Grape seed||Silver}} with {{Item|Quality fertilizer II}} or simply using {{Item|Grape seed||Gold}}) into {{Item|Pail of grape juice|2|Gold}}, then fermenting in the Wine barrel. If you do not have the perk to improve the quality of your wines, you will have a 50% chance of ending up with {{Item|Red wine||Silver}} instead, so save beforehand or make extras.
+|-
+|-
+
+
+|[[File:Golden pumpkin.jpg|frameless]]
+|Golden pumpkin
+|{{Item|Pumpkin||Gold}} can be grown by combining {{Item|Pumpkin seed||Silver}} with {{Item|Quality fertilizer II}} or by planting {{Item|Pumpkin seed||Gold}}. Harvesting the resulting {{Item|Pumpkin||Gold}} will unlock this achievement.
+|-
+|-
+
+
+|[[File:Kitchen boy.jpg|frameless]]
+|Kitchen boy
+|Cook 10 different items from the [[Cooking]] list. If you find you're short on things to cook, be sure to purchase the recipes from [[Miss Chain]].
+|-
+|-
+
+
+|[[File:Cook.jpg|frameless]]
+|Cook
+|Cook 20 different items from the [[Cooking]] list. If you find you're short on things to cook, be sure to purchase the recipes from [[Miss Chain]].
+|-
+|-
+
+
+|[[File:Chef.jpg|frameless]]
+|Chef
+|Cook 30 different items from the [[Cooking]] list. If you find you're short on things to cook, be sure to purchase the recipes from [[Miss Chain]].
+|-
+|-
+
+
+|[[File:Apprentice.jpg|frameless]]
+|Apprentice
+|Discover 5 alchemy recipes by combining [[Alchemy]] ingredients from either the [[Alchemy workbench (tier I)]] list or the [[Alchemy workbench (tier II)]] list. Alternate recipes for the same component do not count.
+|-
+|-
+
+
+|[[File:Alchemist.jpg|frameless]]
+|Alchemist
+|Discover 10 alchemy recipes by combining [[Alchemy]] ingredients from either the [[Alchemy workbench (tier I)]] list or the [[Alchemy workbench (tier II)]] list. Alternate recipes for the same component do not count.
+|-
+|-
+
+
+|[[File:Master alchemist.jpg|frameless]]
+|Master alchemist
+|Discover 20 alchemy recipes by combining [[Alchemy]] ingredients from either the [[Alchemy workbench (tier I)]] list or the [[Alchemy workbench (tier II)]] list. Alternate recipes for the same component do not count.
+|-
+|-
+
+|}
+
+==Fishing==
+
+{| class="wikitable"
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+
+|[[File:A fish a day!.jpg|frameless]]
+|A fish a day!
+|Can be simply obtained by discovering all [[Fishing#Fish|fishes]] in each fishing spot. Fish discovered in multiple locations only count once, and be sure to upgrade your fishing rod.
+|-
+|-
+
+
+|[[File:Fish collector.jpg|frameless]]
+|Fish collector
+|Can be simply obtained by discovering all [[Fishing#Fish|fishes]] in each fishing spot. Fish discovered in multiple locations only count once, and be sure to upgrade your fishing rod.
+|-
+|-
+
+
+|[[File:Ichthyologist.jpg|frameless]]
+|Ichthyologist
+|Can be simply obtained by discovering all [[Fishing#Fish|fishes]] in each fishing spot. Fish discovered in multiple locations only count once, and be sure to upgrade your fishing rod.
+|-
+|-
+
+
+|[[File:Gold fish.jpg|frameless]]
+|Gold fish
+|Catch a {{Item|Goldfish}}. They can be caught in the Sea fishing spot. You will need to cast at the furthest range with an {{Item|Excellent fishing rod}} and a {{Item|Lure with a gem}}. The goldfish has a 5% chance of being hooked at night, and a 2% chance during the day, so be sure to bring extra lures and focus on fishing during the night.
+|-
+|-
+
+
+|[[File:Brutal fisherman.jpg|frameless]]
+|Brutal fisherman
+|Catch 200 fish. A lot of progress for this achievement can be made after achieving "A fish a day," "Fish collector," "Ichthyologist," and "Gold fish." For the rest, pick a convenient fishing spot and go for the nearest cast with no bait. It will take a while, but should be relatively mindless.
+|-
+|-
+
+|}
+
+==Points==
+
+{| class="wikitable"
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+
+|[[File:Just red points.jpg|frameless]]
+|Just red points
+|Collect 1000 red points. These are obtained from activities such as smithing, woodworking, and studying related materials and tools. You can also purchase {{Item|Book (r)}} for {{Money|200}} and {{Item|Great book (r)}} for {{Money|400}} from the [[Astrologer]].
+|-
+|-
+
+
+|[[File:Just green points.jpg|frameless]]
+|Just green points
+|Collect 1000 green points. These are obtained from activities such as farming, gathering, and studying related materials. You can also purchase {{Item|Book (g)}} for {{Money|300}} and {{Item|Great book (g)}} for {{Money|600}} from the [[Astrologer]].
+|-
+|-
+
+
+|[[File:Just blue points.jpg|frameless]]
+|Just blue points
+|Collect 1000 blue points. These are obtained from activities such as writing stories/notes/chapters/books, crafting grave decorations, crafting alchemy components, and studying related materials. You can also purchase {{Item|Book (b)}} for {{Money|500}} and {{Item|Great book (b)}} for {{Money|1000}} from the [[Astrologer]].
+|-
+|-
+
+
+|[[File:More red points!.jpg|frameless]]
+|More red points!
+|Collect 3000 red points. These are obtained from activities such as smithing, woodworking, and studying related materials and tools. You can also purchase {{Item|Book (r)}} for {{Money|200}} and {{Item|Great book (r)}} for {{Money|400}} from the [[Astrologer]].
+|-
+|-
+
+
+|[[File:More green points!.jpg|frameless]]
+|More green points!
+|Collect 3000 green points. These are obtained from activities such as farming, gathering, and studying related materials. You can also purchase {{Item|Book (g)}} for {{Money|300}} and {{Item|Great book (g)}} for {{Money|600}} from the [[Astrologer]].
+|-
+|-
+
+
+|[[File:More blue points!.jpg|frameless]]
+|More blue points!
+|Collect 3000 blue points. These are obtained from activities such as writing stories/notes/chapters/books, crafting grave decorations, crafting alchemy components, and studying related materials. You can also purchase {{Item|Book (b)}} for {{Money|500}} and {{Item|Great book (b)}} for {{Money|1000}} from the [[Astrologer]].
+|-
+|-
+
+|}
+
+==Dungeon==
+'''This section contain spoiler!'''
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+|[[File:Not far from the ground.jpg|frameless]]
+|Not far from the ground
+|Clear the 5th floor of the [[Dungeon]]. This achievement can be achieved while following [[Snake]]'s questline. You can limit resources spent dungeon crawling by going in without any healing or energy consumables, and just return after dying (monsters that you kill will not respawn, so you can chip away at your dungeon progress).
+|-
+|-
+
+|[[File:Scary dungeon depths.jpg|frameless]]
+|Scary dungeon depths
+|Clear the 10th floor of the [[Dungeon]]. This achievement can be achieved while following [[Snake]]'s questline. You can limit resources spent dungeon crawling by going in without any healing or energy consumables, and just return after dying (monsters that you kill will not respawn, so you can chip away at your dungeon progress).
+|-
+|-
+
+|[[File:Nothing underneath.jpg|frameless]]
+|Nothing underneath
+|Clear the 15th floor of the [[Dungeon]]. This achievement can be achieved while following [[Snake]]'s questline (unless you purchased {{Item|Golden apple}} from [[Clotho]]), and floors 11-15 can only be unlocked with a medallion dropped by the Vampire hunter during [[Snake]]'s questline. You can limit resources spent dungeon crawling by going in without any healing or energy consumables, and just return after dying (monsters that you kill will not respawn, so you can chip away at your dungeon progress).
+|-
+|-
+
+|}
+
+==Miscellaneous==
+
+{| class="wikitable"
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+
+|[[File:MacPlayer.jpg|frameless]]
+|MacPlayer
+|Die 10 times. The easiest way to die repeatedly is to be killed by enemies in the [[Dungeon]]. Another way is to discard your armor and follow the path past the [[Apiary]], where you will be attacked by Bats from evening until midnight.
+|-
+|-
+
+
+|[[File:Tastes like home.jpg|frameless]]
+|Tastes like home
+|Either buy {{Item|Fish nuggets}} from [[Horadric]] for {{Money|25}} or cook them in the [[Oven]] with {{Item|White fish fillet|1}}, {{Item|Oil|2}}, and {{Item|Fuel|5}}. Eat them to unlock this achievement.
+|-
+|-
+
+
+|[[File:Health care.jpg|frameless]]
+|Health care
+|Drink {{Item|Heal potion|50}}. It does not matter if you craft them or purchase them.
+|-
+|-
+
+|}
+
+[[Category:Guides]]

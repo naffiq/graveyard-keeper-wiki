@@ -1,0 +1,25 @@
+''<span lang="eshelp" dir="ltr">Italic</span> text''{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = 
+| cost         = 
+}}
+
+This item unlocks the tenth [[vision]] of the ancient machine in the [[Talking Skull Cellar]].
+
+Talk to the [[Lighthouse Keeper|Lighthouse Keeper,]] the [[Graveyard Keeper]] will ask him to sell him the amulet and blatantly reveal his plans of asking [[Snake]] to steal it after he refuses to sell it. Go and see [[Snake]]. If you have 90 friendship, he will agree to help you if you organise Rat Races in your Tavern. You'll need x18 [[Wooden plank|Wooden Plank]], x36 [[Nails]] and 4 [[Advanced conical flasks|Advanced Conical Flasks]] to craft a Rat Race Table.
+
+Crafting the table will allow you to start Rat Races events. You'll need x10 Flyers', x5 Faith and 2 Reputation Star. Return to Snake afterwards and receive the Ancient Amulet.
+This is a item required for the Stranger Sins quest.
+
+In the vision, we see a refugee camp near the infinite wood tree where [[Clotho]] talkes to Bella. Suddenly a man approaches and tells them, that the villages has been destroyed and the villagers has been either murdered or imprissoned. Bella stays calm, but Clotho wants to fight. Suddenly [[Horadric]] appears and drags his father [[Dig]] who is wounded. Horadric begs Clotho to cure his fathers wounds but she wants an explanation for Horadrics change of hearts and he tells, he loves [[Miss Chain]], who's imprissoned and walk away. Clotho then speaks to Dig, who should protect the golden apples but ate two of them and hid the other three. Clotho tells him, she will cure his wounds, when he writes the [[Necronomicon]] to kill the infidels.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Амулет Древнего бога]]
+[[Category:Stranger Sins]]

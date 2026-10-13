@@ -1,0 +1,228 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = Church upgrades.gif
+| exits     = [[Alchemy Lab]], [[Graveyard]]
+| buildable = True
+| NPCs      = [[Bishop]]
+}}
+The church can be found in the [[graveyard]], but access to it is blocked off until you become a [[Perks|preacher]]. The church starts with a base 3 {{Church Rating}} rating and in the beginning, the [[Sermon|casual prayer]] you are given for free will be the only one you can perform reliably. Holding sermons in the church once each {{Day|Pride}} is the main method of collecting  {{item|Faith}}, a necessary resource for [[Study table|study]], [[Crafting Stations|crafting]], and [[Zombie|zombies]], as well as a source of [[money]]. 
+
+You can eventually craft [[Sermon|sermons]] that offer [[Effects|buffs and perks]] beyond the small amount of faith and money the starter sermon offers.
+
+== Church upgrade ==
+The church can be opened and upgraded twice by talking to the [[Bishop]] at {{Day|Pride}} and following his [[Quests|questline]]. For each step, you'll need to meet a minimum {{Graveyard Rating}} and {{Church Rating}} in addition to turning in items. For more details see [[Bishop]].
+
+'''Note:''' Be careful not to complete the interaction with the [[Bishop]] to upgrade your church before you can afford the appropriate [[The Graveyard#Royal Services|papers]]. Otherwise you won't be able to perform sermons. With a decent big church of 50 {{Church Rating}} and a good graveyard with about 200 {{Graveyard Rating}}, you can earn {{Money|3000}} to {{Money|4000}} each {{Day|Pride}} by using a {{quality|gold}} quality sermon.
+
+{| class="wikitable"
+!Church Size
+!Rating needed
+!Items needed
+|-
+|Church (first access)
+|5 {{Graveyard Rating}}
+|none
+|-
+|Big Church
+|30 {{Graveyard Rating}} and 20 {{Church Rating}}
+|{{*}}{{item|building permission}} (upgrade)<br>
+{{*}}{{item|rightful citizen papers}} (preach)
+|-
+|Cathedral
+|200 {{Graveyard Rating}} and 50 {{Church Rating}}
+|{{*}}{{item|A carved piece of marble|3|gold}}<br>(must be {{quality|gold}}) (upgrade)
+
+* [[Aristocrat papers|Aristocrat Papers]]<br>
+<!--{{*}}{{item|aristocrat papers}} (preach)<sup>(Potentialy bug.)</sup><br>
+{{*}}{{item|accepted invitation}} (preach)<sup>(Potentialy bug.)</sup>-->
+|}
+
+== Sermon ==
+<blockquote>For the main article see [[sermon]].</blockquote>Every week on {{Day|Pride}} you'll be able to perform a sermon in the church.  The number of parishioners attending this sermon and the amount of {{Item|Faith}} they provide you with is largely dependent on your church rating {{Church Rating}}, the type of sermon you perform and the quality of it. Each 5 {{Church Rating}} provides 1 [[Faith]], each {{Church Rating}} after that provides a 20% chance to gain one additional faith.
+
+The amount of [[money]] you collect in the [[donation box]] is determined by the graveyard rating {{Graveyard Rating}} with a bonus from {{Church Rating}}, and also by the type and quality of the sermon performed.
+
+You need the {{item|rightful citizen papers}} to perform a sermon at the big church. 
+While you do '''not''' need {{item|aristocrat papers}} to perform a sermon in the cathedral, they are required to further the [[Bishop]] questline.
+
+== Workstations ==
+Church rating {{Church Rating}} is increased by making use of the various pieces of furniture and equipment which can be built in the church itself.
+
+List of furniture which provides a bonus to church rating:
+{| class="wikitable"
+!Improvement
+!Rating
+!style = "width:14em;"|Cost
+!Notes
+!Size
+|-
+|{{Item|Soul Receiver|||64px}}
+|None
+|{{item|Simple iron parts|3}}<br>{{item|Conical flasks|1}}<br>{{item|Wooden plank|1}}<br>
+|Only available with the [[Better Save Soul]] DLC, after unlocking the [[Spiritualism_(Tech_Tree)|Useful equipment]] technology.
+
+2 spots available. (This shares the spots with the [[Chest]])
+|2x2
+|-
+|{{Item|Chest|||64px}}
+|None
+|{{item|Flitch|4}}<br>{{item|Nails|4}}<br>{{item|Simple iron parts|2}}
+|2 spots available. Can be accessed from the lectern to perform the [[Sermon]]. (Shares the spot with the Soul receiver)
+|2x2 (rotatable)
+|-
+|{{Item|Wooden church shrine|||64px}}
+|5 {{Church Rating}}
+|{{item|Wooden beam|4}}<br>{{item|Wooden plank|4}}<br>{{item|Simple iron parts|4}}
+|
+|3x4 or 4x3
+|-
+
+|{{Item|Stone church shrine|||64px}}
+|8 {{Church Rating}}
+|{{Item|Wooden beam|4}}<br>{{Item|A carved piece of marble|2|copper}}<br>{{Item|Complex iron parts|4}}
+|
+|3x4 or 4x3
+|-
+|{{Item|Candelabra I|||64px}}
+|1 {{Church Rating}}
+|{{item|Simple iron parts|6}}
+|Takes 1 [[candle]] per use.
+|2x3
+|-
+|{{Item|Candelabra II|||64px}}
+|2 {{Church Rating}}
+|{{Item|Simple iron parts|4}}<br>{{Item|Complex iron parts|4}}
+|Takes 2 [[candle]]s per use.
+|2x3
+|-
+|{{Item|Candelabra III|||64px}}
+|3 {{Church Rating}}
+|{{Item|Complex iron parts|8}}<br>{{Item|Gold jewelry details|2}}
+|Takes 3 [[candle]]s per use.
+|2x3
+|-
+|{{Item|Wall candelabra I|||64px}}
+|1 {{Church Rating}}
+|{{item|Simple iron parts|6}}
+|No spots in a small church,<br>4 spots in a big church,<br>5 for the cathedral.<br>Takes 1 [[candle]] per use.
+|Like a T of 4 blocks (rotatable)
+|-
+|{{Item|Wall candelabra II|||64px}}
+|2 {{Church Rating}}
+|{{item|Simple iron parts|4}}<br>{{item|Complex iron parts|4}}
+|No spots in a small church,<br>4 spots in a big church,<br>5 for the cathedral.<br>Takes 2 [[candle]]s per use.
+|Like a T of 4 blocks (rotatable)
+|-
+|{{Item|Wall candelabra III|||64px}}
+|3 {{Church Rating}}
+|{{Item|Complex iron parts|8}}<br>{{Item|Gold jewelry details|2}}
+|No spots in a small church,<br>4 spots in a big church,<br>5 for the cathedral.<br>Takes 3 [[candle]]s per use.
+|Like a T of 4 blocks (rotatable)
+|-
+|{{Item|Incense burner|||64px}}
+|1 {{Church Rating}}
+|{{item|A polished brick of stone|4}}<br>{{item|Simple iron parts|4}}
+| Takes 1 [[incense]] per use.
+|2x4
+|-
+|{{Item|Incense burner II|||64px}}
+|3 {{Church Rating}}
+|{{item|Simple iron parts|4}}<br>{{item|A polished brick of marble|4}}<br>{{item|Complex iron parts|4}}
+| Takes 1 [[incense]] per use.
+|2x4
+|-
+|{{Item|Confessional|||64px}}
+| 5 {{Church Rating}}
+|{{item|Wooden plank|12}}<br>{{item|Complex iron parts|4}}
+|Have a small chance to produce {{Item|Faith|1}} and either a {{Item|Story||Copper}} or {{Item|Story||Silver}}.
+|4x4 (Rotatable)
+|-
+|{{Item|Confessional II|||64px}}
+|7 {{Church Rating}}
+|{{item|Wooden plank|12}}<br>{{item|Jointing|2}}<br>{{item|Complex iron parts|4}}
+|Have a small chance to produce {{Item|Faith|2}} and either a {{Item|Story||Silver}} or {{Item|Story||Gold|}}.
+|4x4 (Rotatable)
+|-
+|{{Item|Church bench|||64px}}
+|1 {{Church Rating}}
+|{{item|Wooden plank|6}}<br>{{item|Nails|4}}
+|Maximum of 6 for all tiers of the church.
+|7x2
+|-
+|{{Item|Soft church bench|||64px}}
+|3 {{Church Rating}}
+|{{item|Wooden plank|8}}<br>{{item|Jointing|4}}<br>{{item|Silk|2}}
+|Maximum of 6 for all tiers of the church.
+|7x2
+|-
+|{{Item|Stained glass window|||64px}}
+|5 {{Church Rating}}
+|{{item|Glass|4}}<br>{{item|Complex iron parts|5}}<br>{{item|Gold jewelry details|2}}
+|{{*}} Only available for the cathedral.<br />{{*}} Only one spot possible, which can also be occupied by a wall candelabra.<br />{{*}} {{bug|Can't be removed ([[version]] 1.206).}}
+|3x2
+|}
+
+==Temporary effects==
+In addition, by using candles in the candelabras and incense with the incense burners, it's possible to increase the church's {{Church Rating}} for several hours.
+{| class="wikitable" style="text-align:center;"
+!style = "width:10em;"|Item
+!style = "width:10em;"|Rating
+!Notes
+|-
+|{{Item|Candle (1)}}
+| 1 {{Church Rating}} (Each)
+|Can be crafted at the [[church workbench]],<br>or can be purchased from the [[Bishop]] at tier I.
+|-
+|{{Item|Candle (3)}}
+| 2 {{Church Rating}} (Each)
+|Can be crafted at the [[church workbench]],<br>or can be purchased from the [[Bishop]] at tier II.
+|-
+|{{Item|Candle (4)}}
+| 3 {{Church Rating}} (Each)
+|Can be crafted at the [[church workbench]],<br>or can be purchased from the [[Bishop]] at tier III.
+|-
+|{{Item|Candle (6)}}
+| As of v1.035,<br>not usable
+| Can be purchased from the [[Bishop]] at tier III.
+{{bug|Can't be used in any Candelabra}}
+|-
+|{{Item|Incense}}
+| 2 {{Church Rating}} per 1
+|Can be purchased from the [[Bishop]] at tier II.<br>Made from [[freshener]], obtainable through [[alchemy]].
+|-
+|{{Item|Incense II}}
+| 4 {{Church Rating}} per 1
+|Can be purchased from the [[Bishop]] at tier III.<br>Made from [[aromatizer]], obtainable through [[alchemy]].
+|}
+
+== Maximum Church Rating ==
+The maximum (temporary) church rating seems to be 261 {{Church Rating}} only achievable in a cathedral. A higher passive rating is achievable by swapping out the candelabras for other objects. Check the following table for this:
+
+{| class="wikitable"
+!style = "width:17em;"|Improvement
+!Rating
+|-
+|Altar
+|1 {{Church Rating}}
+|-
+|Lectern
+|2 {{Church Rating}}
+|-
+|{{Item|Soft church bench|6}}
+|18 {{Church Rating}}
+|-
+|{{Item|Candelabra III|15}}
+|45 {{Church Rating}}
+|-
+|{{Item|Wall candelabra III|5}}
+|15 {{Church Rating}}
+|-
+|{{Item|Candle (4)|60}}
+|180 {{Church Rating}}
+|}
+
+<br>
+{{Navbox-Locations}}
+
+[[de:Kirche]]
+[[ru:Церковь]]

@@ -1,0 +1,66 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = flw_dandelion
+| study        = {{Techpoint|Green|10}}
+| alchemy      = {{Item|Life solution}} {{Item|Life extract}}
+| source       = Foraging
+| consume      = {{Energy|+|3}}
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are a forageable item found in most outdoor areas. It does not require any technologies to collect. After unlocking the Insects technology of the [[Farming and Nature (Tech Tree)|Farming and Nature tech tree]], collecting Yellow Flowers may also yield [[Butterfly|Butterflies]] during the day or [[Moth|Moths]] at night.
+
+==Study==
+
+{| class = "wikitable" style="width:40em;"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Life solution|liquid]] and [[Life extract|essence]]
+|}
+
+==Alchemy==
+{{lcfirst:{{PAGENAME}}}} is decomposable into [[Life solution|solution]] and [[Life extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked the [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+ 
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Life solution|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" | {{Item|Distillation cube}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Life extract|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" | {{Item|Distillation cube II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Life extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Flor amarela]]

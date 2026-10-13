@@ -1,0 +1,29 @@
+{{Item Infobox 
+| name         = Red Paint
+| image        = Red Paint item.png
+| study        = 
+| source       = [[Alchemy]]
+| stacksize    = 
+| type         = Alchemy Product
+| cost         = 
+| quest        = 
+| nameinternal = 
+}}
+Red Paint is produced through [[Alchemy]] at the [[alchemy workbench (tier I)]] and is used in the remodelling of the [[Sweet Home|home]].
+
+==Recipe==
+{| class="wikitable" style="table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;" | Item Produced
+! style="width:17.5em;" | Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|Oil|1}}
+|}
+
+{{Navbox-Alchemy}}
+
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[es:Pintura roja]]

@@ -1,0 +1,54 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = misc
+| nameinternal = ceramic_funeral_urn
+| study        = {{Techpoint|Red|5}}{{Techpoint|Blue|30}}
+| source       = [[Cooking table]]
+| stacksize    = 30
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a craft-able resource, the only purpose of which is the building of [[stone columbarium]]s, which increases your graveyard rating by 12 {{Graveyard Rating}} once they're constructed. Note that the urn cannot be broken down, thus the materials used in the crafting are permanently consumed.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Ceramic jug|1}}<br>{{Item|Ash|5}}
+|{{Energy|-|3}}<br>{{Techpoint|Blue|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points 
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|30}}
+|{{Item|Faith|2}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Building==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|[[File:Graveyard workbench.png|link=The Graveyard]] [[The Graveyard]]
+|-
+!Item Produced
+!Required Materials
+|-
+|{{Item|Stone columbarium}}
+|{{Item|Wooden beam|4}}<br>{{Item|A polished brick of stone|4}}<br>{{Item|{{PAGENAME}}|12}}
+|}
+
+<br>
+{{Navbox-Misc}}
+
+[[pt-br:Urna Funerária de Cerâmica]]

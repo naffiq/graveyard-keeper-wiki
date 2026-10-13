@@ -1,0 +1,5 @@
+{{stub}}
+
+{{item|stone rock}} can be collected in the landscape and is either:
+* {{item|a piece of stone}}
+* {{item|stone block}}

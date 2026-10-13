@@ -1,0 +1,122 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = N/A
+
+| buy       = [[Clotho|Clotho (T I)]]
+| sell        = ???
+| source       = [[Seed oil]], [[Vine press]]
+| cost         = 3
+| stacksize    = 100
+| type         = Misc
+| quest        = 
+| nameinternal = seed_oil_drop
+}}
+{{PAGENAME}} is a crafting resource used in a variety of applications; from [[cooking]] to [[alchemy]]. It can be obtained from a bottle of [[seed oil]], or by various recipes at the [[vine press]]. It can also be bought from [[Clotho]] or you can buy the [[Seed oil]] from [[Dig]].
+
+==Recipe==
+{| class = "wikitable" style = "width:35em;"
+! colspan = "3" | Use in inventory
+|-
+!Item Produced
+!Materials Required
+!style = "width:5em;" |Energy
+|-
+|{{Item|Oil|10}}
+|{{Item|Seed oil|1}}
+|N/A
+|-
+! colspan = "3" | {{Item|Vine press}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+|-
+|{{Item|Oil|10}}
+|{{Item|Fat|3}}
+|{{Energy|-|5}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:35em;"
+! colspan = "3" | {{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!style = "width:5em;" |Fuel
+|-
+|{{Item|Onion rings|3|animation}}
+|{{Item|Onion|1|animation}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Fuel|-|5}}
+|-
+|{{Item|Fish nuggets|1}}
+|{{Item|White fish fillet|1}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Fuel|-|5}}
+|-
+
+! colspan = "3" | {{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+|-
+|{{Item|Polishing paste|1}}
+|{{Item|River sand|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Ceramic bowls|1}}
+|{{Energy|-|5}}
+|-
+
+! colspan = "3" | {{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+|-
+|{{Item|Black paint|1}}
+|{{Item|Ash|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|White paint|1}}
+|{{Item|White powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Freshener|1}}
+|{{Item|Order solution|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Brown Paint|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Blue Paint|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Dark Green Paint|1}}
+|{{Item|Health powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Green Paint|1}}
+|{{Item|Order powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Dark Violet Paint|1}}
+|{{Item|Death powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Violet Paint|1}}
+|{{Item|Chaos powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Red Paint|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|-
+|{{Item|Yellow Paint|1}}
+|{{Item|Life powder|1}}<br>{{Item|{{PAGENAME}}|1|}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Misc}}
+[[pt-br:Óleo]]

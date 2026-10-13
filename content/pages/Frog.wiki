@@ -1,0 +1,103 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| cost         = 5
+| price        = 4
+| study        = {{Techpoint|Green|20}}
+| buy          = [[Clotho|Clotho (T I)]]
+| sell         = [[Clotho|Clotho (T I)]], [[Lighthouse Keeper|Lighthouse Keeper (T I)]]
+| source       = Village, Swamp
+| stacksize    = 10
+| quest        = [[Clotho]] / [[Miss Chain]]
+| nameinternal = fish_frog
+}}
+The <b>{{PAGENAME}}</b> is one of sixteen (16) different '[[Fishing|fish]]' that can be caught, and either sold to the [[Lighthouse Keeper]], or also sold to or bought from [[Clotho]] the witch. The difficulty in catching it is relatively low, thus it's thought to be a relatively low-tier fish.
+
+==Quests==
+12 are needed for [[Miss Chain]]'s quest.
+
+==Fishing==
+The odds of catching a fish are affected primarily by the other fish in the area at that time. More competition means your chance of catching a particular fish over another is lowered. Here is a table of this fish's preferences by the bait used, the place you choose to fish, the rod you use, and the time of day. If you use a Butterfly or Moth bait in the Village or Swamp fishing spot with a simple or good fishing rod, and you throw it in the right place, your chance to get one is 100%.
+
+{| style="text-align:left; width:60%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Good fishing rod}}
+|Best
+|-
+|{{Item|Simple fishing rod}}
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Moth}}
+|Best
+|-
+|{{Item|Butterfly}}
+|Best
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Location
+|-
+!Name
+!Weight
+|-
+|Village
+|Best
+|-
+|Swamp
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|colspan="2"|No Preference
+|}
+|}
+
+==Study==
+{| class="wikitable" style="text-align:center; width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+This recipe is only unlocked after successfully catching a frog while fishing. Any purchased from Clotho may be used, but won't unlock the recipe.
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|{{PAGENAME}}|3}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+[[Category: Sellable]]
+[[de:Frosch]]
+[[pt-br:Sapo]]

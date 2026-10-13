@@ -1,0 +1,30 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Primary Ore
+| source       = [[Iron Ore Deposit]]
+}}
+
+The iron block is a resource gathered from [[Iron Ore Deposit]] and needs to be stored in the [[Iron ore stockpile|Iron Ore Stockpile]]. It can be further processed with the [[Stone cutter]] or [[Stone cutter II]] to get [[Iron ore]] with a chance of acquiring silver or gold ore as well.
+
+==Recipes==
+{| class="wikitable"
+!style="width:12em;| Item
+!style="width:20em;"|Notes
+|-
+|{{Item|Iron block|1}}
+| Need a {{Item|Rusty pickaxe}} or better ones.
+|}
+
+==Recipe==
+{| class = "wikitable" style = "table-layout:fixed;"
+! colspan = "4" | {{Item|Stone cutter}}  {{Item|Stone cutter II}}  
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+
+|-
+|{{Item|Iron ore|5}}
+|{{Item|Iron block|1}}
+|}
+[[Category:Large items]]

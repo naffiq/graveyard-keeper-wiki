@@ -1,0 +1,26 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = 
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| source       = [[Royal services]]
+| cost         = 175
+| quest        =  
+|stacksize=20}}
+
+The exhumation permission can be purchased from [[royal services]] for a set price of {{Money|175}} , which is {{Money|25}} more than [[Horadric]] pays you for selling the {{item|burial certificate}}.
+
+It is used to dig up {{item|corpse}}s from the [[graveyard]], which you cannot do without this permission.
+
+{{clear}}
+[[file:exhumation.png|x200px|left|Exhuming a corpse|link=graveyard]] To exhume a [[corpse]], you have first to remove all grave decorations, that's the gravestone and the grave fence. Then hit "E" to interact with the grave and select the "Exhume" button. You'll use up one permission for that.
+
+After this, you have to use a shovel to dig up the {{item|corpse}}. You can now take it to move it elsewhere.
+
+Finally, you can now use the grave to bury another body, or remove it at the workbench and then fill it with dirt. 
+
+{{Navbox-Misc}}
+[[de:Exhumierungs-Erlaubnis]]
+[[pt-br:Licença de desenterro]]

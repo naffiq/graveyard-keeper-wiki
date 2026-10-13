@@ -1,0 +1,61 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|red|150}}
+| source       = [[Carpenter's workbench II]]
+| buy          = [[Tress|Tress (T III)]]
+| sell         = [[Tress|Tress (T III)]]
+| cost         = 
+| stacksize    = 30
+| type         = Wood
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is a craft-able crafting material, obtainable by refining wood. It is one of the few crafting materials that has multiple qualities, presumably for a variety of purposes.
+
+As of v1.404, it is implemented, and 4 silver quality pieces are used for the construction of the  [[Soul container III (Base)]].
+
+==Quality Levels==
+{| class="wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = copper}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = silver}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = gold}}
+|}
+
+==Recipe==
+{| class="wikitable" style="width:40em;"
+! colspan="3" |{{Item|Carpenter's workbench II}}
+|-
+!Item Producted
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>{{Item|Wooden plank|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|12}}
+|}
+
+==Study==
+{| class="wikitable"
+! colspan="4" |{{Item|Study table}}
+|-
+! style="width:7.5em;" |Tech Points
+! style="width:12.5em;" |Resources Required
+! style="width:5em;" |Energy
+! style="width:10em;" |Notes
+|-
+|{{Techpoint|Red|150}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+
+[[pt-br:Madeira entalhada]]

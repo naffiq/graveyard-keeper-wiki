@@ -1,0 +1,42 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Forageable plant
+| nameinternal = fruit:apple_green_crop
+| consume      = {{Energy|+|5}}
+| study        = 
+| source       = Apple trees
+| cost         = 2
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are a consumable food item, harvested from apple trees found near the [[lighthouse]]. These apples can be used directly to restore {{Energy||5}}. Unlike [[red apple]]s, they do not have any other use.
+
+==Source==
+{|class="wikitable"style="text-align:center;"
+|After<br>Harvesting
+!Before<br>6:00
+!After<br>6:00
+!After<br>12:00
+!After<br>18:00
+!After<br>24:00
+!After<br>30:00+
+|-
+!Apple Tree<br>([[Orchard]])
+|colspan="4"|Barren
+|Flowering
+|{{Item|Red apple|15}}
+|-
+!Apple Tree<br>([[Lighthouse]])
+|Barren
+|Flowering
+|{{Item|{{PAGENAME}}|4}}
+|colspan="3"|{{Item|Red apple|4}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+
+[[pt-br:Maçã verde]]

@@ -1,0 +1,337 @@
+{{stub}}{{PAGENAME}} (or Buffs) are just that - temporary effects attributed to the player. They can be obtained through a variety of means, whether by consumables like certain foods or potions, or by performing successful weekly prayers.
+
+==Implemented==
+{| class="wikitable sortable" style="text-align:center;image-rendering:pixelated;"
+!Effect
+!style="width:10em"|Source
+!style="width:6em"|Time
+!Description
+!Notes
+
+|-<div id="Beer Thirst"></div>
+|[[File:Brewing effect.png|80x80px]]<br>Beer Thirst
+|style=text-align:left |
+<small>• [[Onion rings]]
+<br>• [[Toasts with onions]]</small>
+|2:00
+|Beer tastes much better now!
+|[[A mug of beer|Beer]] restores 33% more energy
+
+|-<div id="Berserk"></div>
+|[[File:Retribution effect.png|80x80px]]<br>[[File:Health reduced effect.png|80x80px]]<br>Berserk
+|style=text-align:left | <small>[[Berserk potion]]</small>
+|5:00
+|<i>You deal a lot of damage...<br><br>...but also lose {{Health}} over time.</i>
+|Deal  {{Health|-|15}} more damage (stacks with Rage buff).<br><br>Inflicts {{Health|-|1}} every 7.5 seconds ({{Health|-|40}} total).
+
+|-<div id="Circumspect"></div>
+|[[File:Science effect.png|80x80px]]<br>Circumspect
+|style=text-align:left |
+<small>• [[Cake]]
+<br>• [[Grape pie]]
+<br>• [[Cheese cake]]
+<br>• [[Fancy lentil soup]]
+<br>• [[Lentil cutlets]]</small>
+|2:00
+|You get extra points when studying new items.
+|Provides {{Techpoint|Blue|1}} bonus for studying<br>an item with a [[Faith]] requirement.
+
+|-<div id="Deep Sleep"></div>
+|[[File:Rest effect.png|80x80px]]<br>Deep Sleep
+|style=text-align:left |
+<small>• [[Cabbage soup]]
+<br>• [[Vegetable soup]]
+<br>• [[Pumpkin soup]]
+<br>• [[A bowl of pumpkin soup|Bowl of pumpkin soup]]
+<br>• [[A bowl of lentils|Bowl of lentils]]</small>
+|2:00
+|Energy regeneration while sleeping is increased.
+|Restores {{Energy|+|1}} per tick.<br>(~22 ticks, instead of ~28)
+
+|-<div id="Difficult corpses"></div>
+|[[File:Prayer for repose effect.png|80x80px]]<br>Difficult corpses
+|style=text-align:left | <small>[[Prayer for repose]]</small>
+|{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00
+|[[Donkey]] brings corpses with more {{White Skull}} and {{Red Skull}}.
+|Increases quality of delivered<br>corpses by one tier.<br>(No additional benefit once highest tier is reached)
+
+|-<div id="Digestion"></div>
+|[[File:Cooking effect.png|80x80px]]<br>Digestion
+|style=text-align:left | <small>[[Digestion potion]]</small>
+|5:00
+|Food gives you more {{Energy}}.
+|Increases the {{Energy}} gain from most food by up to +300%.<br>(Does not apply to beverages, by-products, etc.)
+
+|-<div id="Fast reflexes"></div>
+|[[File:Unknown1 effect.png|80x80px]]<br>Fast reflexes
+|style=text-align:left | <small>[[Fish nuggets]]</small>
+|2:00
+|You have additional time to hook a fish.
+|Increases the [[fishing]] bobber's window of opportunity from ~1 second to ~2 seconds.
+
+|-<div id="Fertility"></div>
+|[[File:Prayer for shoots and roots effect.png|80x80px]]<br>Fertility
+|style=text-align:left | <small>[[Prayer for shoots and roots]]</small>
+|{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
+|Vegetables grow faster.
+|[[File:Update Alert.png|link=|frameless]] Broken – no apparent effect ''(Confirmed v1.123)''
+
+|-<div id="Good fisherman"></div>
+|[[File:Fish effect.png|80x80px]]<br>Good fisherman
+|style=text-align:left | 
+<small>• [[Fish soup]]
+<br>• [[Baked fish]]</small>
+|2:00
+|You don't let fish off the hook easily.
+|Slows down the green progress bar's rate of descent while [[fishing]].
+
+|-<div id="Handyman mood"></div>
+|rowspan="2"|[[File:Prayer for excellence effect.png|80x80px]]<br>Handyman mood
+|style=text-align:left | <small>• [[Cheese pie]]</small>
+|2:00
+|rowspan="2"|You have a better chance to craft something of good quality.
+|rowspan="2"|Increases the quality of most crafting<br> by 20% (+0.2 quality).<br>Does not apply to food, drinks, or writing.<br>Stacks with Engineer and other [[perks]].
+[[File:Update Alert.png|link=|frameless]] [[Cheese pie]] buff is broken ''(Confirmed v1.310)''
+|-
+|style=text-align:left | <small>• [[Prayer for excellence]]</small>
+|{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00
+
+|-<div id="Hard worker"></div>
+|[[File:Chopping effect.png|80x80px]]<br>Hard worker
+|style=text-align:left |
+<small>• [[Lasagna]]
+<br>• [[Pasta]]
+<br>• [[Vegetable patty]]
+<br>• [[Mushroom patty]]
+<br>• [[Cheese patty]]</small>
+|2:00
+|You spend less energy working with axes and pickaxes.
+|Use 49% less energy.<br>Useful for the [[marble quarry]] and clearning [[blockage]]s.
+
+|-<div id="Inspiration"></div>
+|[[File:Imagination effect.png|80x80px]]<br>Inspiration
+|style=text-align:left | <small>[[Prayer for imagination]]</small>
+|{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00
+|You have a better chance to write something of good quality.
+|Increases the quality of all writing<br> by 70% (+0.7 quality).<br>Does not affect crafting [[book]]s, or any other crafting.<br>Stacks with Playwright and Writer [[perks]].
+
+|-<div id="Rage"></div>
+|rowspan="3"|[[File:Retribution effect.png|80x80px]]<br>Rage
+|style=text-align:left |
+<small>• [[Baked kebab|Baked onion kebab]]
+<br>• [[Vegetable stew]]</small>
+|2:00
+|rowspan="3"|You deal additional damage to monsters.
+|rowspan="3"|Your damage dealt is increased by {{Health|-|5}}.<br>Stacks with Berserk and other Rage buffs.
+|-
+|style=text-align:left | <small>• [[Rage potion]]</small>
+|5:00
+|-
+|style=text-align:left | <small>• [[Prayer for retribution]]</small>
+|{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
+
+|-<div id="Repentance"></div>
+|[[File:Repentance effect.png|80x80px]]<br>Repentance
+|style=text-align:left | <small>[[Prayer for repentance]]</small>
+|{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00
+|More people come during the week to confess their sins.
+|[[File:Update Alert.png|link=|frameless]] Broken – no apparent effect (''Confirmed v1.124'')
+
+|-<div id="Restoring"></div>
+|[[File:Health increased effect.png|80x80px]]<br>Restoring
+|style=text-align:left | <small>[[Restoring potion]]</small>
+|1:00
+|Restore your {{Health}} over time.
+|Restores {{Health|+|1}} every 1.5 seconds.<br>({{Health|+|40}} total)
+
+|-<div id="Slow Metabolism"></div>
+|[[File:Slow effect.png|80x80px]]<br>Slow Metabolism
+|style=text-align:left | 
+<small>• [[A bowl of sauerkraut|Bowl of sauerkraut]]
+<br>• [[Baked pumpkin]]
+<br>• [[Creamy vegetable soup]]</small>
+|2:00
+|All buffs last longer.
+|Increases the duration of subsequent buffs by 30%.<br>(Does not apply to buffs already in effect, or buffs from sermons.)
+
+|-<div id="Speed"></div>
+|[[File:Speed effect.png|80x80px]]<br>Speed
+|style=text-align:left | <small>[[Speed potion]]</small>
+|10:00
+|<i>Increased speed.</i>
+|Doubles movement speed.<br>(No effect on work speed.)
+
+|-<div id="Spiritual blessing"></div>
+|[[File:Spiritual blessing effect.png|80x80px]]<br>Spiritual Blessing<br><sup>[[Better Save Soul]]</sup> 
+|style=text-align:left | <small>[[Pray for soul's contentment]]</small>
+|{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
+|Gain 10% more {{Techpoint|soul}}
+|10% more [[Soul Gratitude]] from releasing souls through the Soul Portal.<br>''([[Better Save Soul]] DLC)''
+
+|-<div id="Spiritual magnetism"></div>
+|[[File:Spiritual magnetism effect.png|80x80px]]<br>Spiritual Magnetism<br><sup>[[Better Save Soul]]</sup> 
+|style=text-align:left | <small>[[Pray for soul's thorough cleansing]]</small>
+|{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
+|Gain x2 sin shards
+|Twice as many [[Sin Shard]]s from cleansing souls.<br>''([[Better Save Soul]] DLC)''
+
+|-<div id="Steady Hand"></div>
+|[[File:Surgeon effect.png|80x80px]]<br>Steady Hand
+|style=text-align:left | 
+<small>• [[Burger]]
+<br>• [[Panna cotta]]
+<br>• [[Honey pudding]]
+<br>• [[Berry pudding]]</small>
+|2:00 
+|A steady hand reduces the chances of making a surgical error. 
+|(No additional benefit once Gentle Butcher and Surgeon [[perks]] are unlocked)
+
+|-<div id="Tired"></div>
+|[[File:Tired effect.png|80x80px]]<br>Tired
+|Using {{Energy||300}} (3 full bars) without sleeping
+|Until next sleep.
+|Energy slowly decreases until you sleep again.
+|Lose {{Energy|-|1}} per second.<br>Stops at approx. {{Energy|50}} (1/2 bar).
+
+|-<div id="Tough Mood"></div>
+|rowspan="3"|[[File:Protection effect.png|80x80px]]<br>Tough Mood
+|style=text-align:left | 
+<small>• [[Baked kebab|Baked pumpkin kebab]]
+<br>• [[Baked kebab|Baked mushroom kebab]]
+<br>• [[Cream of mushroom soup]]</small>
+|2:00
+|rowspan="3"|Incoming damage is reduced.
+|rowspan="3"|+4 increase to defense.<br>Stacks with equipped [[Armor]]<br>and other Tough Mood buffs.
+|-
+|style=text-align:left | <small>• [[Protection potion]]</small>
+|5:00
+|-
+|style=text-align:left | <small>• [[Prayer for protection]]</small>
+|{{Quality|copper}}36:00{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
+|}
+
+==Unimplemented==
+{| class="wikitable" style="text-align:center;image-rendering:pixelated;"
+!Effect
+!Source
+! style="width:6em" |Time
+!Description
+!Notes
+|-
+|[[File:Mining effect.png|80x80px]]<br>Mining
+|
+|
+|
+|
+|-
+|[[File:Building effect.png|80x80px]]<br>Building
+|
+|
+|
+|
+|-
+|[[File:Digging effect.png|80x80px]]<br>Digging
+|
+|
+|
+|
+|-
+|[[File:Fishing effect.png|80x80px]]<br>Fishing
+|
+|
+|
+|
+|-
+|[[File:Sick effect.png|80x80px]]<br>Sick
+|
+|
+|
+|
+|-
+|[[File:Drunk effect.png|80x80px]]<br>Drunk
+|
+|
+|
+|
+|-
+|[[File:Ghost effect.png|80x80px]]<br>Ghost
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Energy effect.png|80x80px]]<br>Energy
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Blue techpoint effect.png|80x80px]]<br>Blue Techpoint
+|
+|
+|
+| The icon of an unknown prayer.
+|-
+|[[File:Green techpoint effect.png|80x80px]]<br>Green Techpoint
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Red techpoint effect.png|80x80px]]<br>Red Techpoint
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Random effect.png|80x80px]]<br>Random
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Circle effect.png|80x80px]]<br>Circle
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Cross effect.png|80x80px]]<br>Cross
+|
+|
+|
+|The icon of an unknown prayer.
+|-
+|[[File:Blank effect.png|80x80px]]<br>Casual Prayer
+|
+|
+|
+|The icon of a known prayer.<br>Does <b>not</b> currently impart a lasting effect.
+|-
+|[[File:Prayer for donations effect.png|80x80px]]<br>Prayer for Donations
+|
+|
+|
+|The icon of a known prayer.<br>Does <b>not</b> currently impart a lasting effect.
+|-
+|[[File:Faith effect.png|80x80px]]<br>Prayer for Faith
+|
+|
+|
+|The icon of a known prayer.<br>Does <b>not</b> currently impart a lasting effect.
+|-
+|[[File:Combo prayer effect.png|80x80px]]<br>Combo Prayer
+|
+|
+|
+|The icon of a known prayer.<br>Does <b>not</b> currently impart a lasting effect.
+|-
+|[[File:Prayer for prosperity effect.png|80x80px]]<br>Prayer for Prosperity
+|
+|
+|
+|The icon of a known prayer.<br>Does <b>not</b> currently impart a lasting effect.
+|}
+
+[[pt-br:Efeitos]]
+[[Category:Topics]]

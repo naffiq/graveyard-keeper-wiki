@@ -1,0 +1,36 @@
+{{Item Infobox 
+| name         = science
+| image        = science item.png
+| type         = Metaphysical resource
+| nameinternal = science
+| source       = [[Writing]], [[Lens]]
+}}
+<b>{{PAGENAME}}</b> is a resource that's necessary in order to perform research at the [[study table]], never actually possessed by the player as an item, similar to how {{Fuel}} is consumed to perform certain crafting tasks at the [[oven]] or [[furnace]]s. To obtain science, simply research any of a wide array of paper products, or the late-game relatively-precious [[Lens]], in the study table.
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed; text-align:center;"
+!colspan="2"|{{Item|Study table}}
+|-
+!Tech Produced
+!Materials Required
+|-
+|{{Item|Science|2}}
+|{{Item|Clean paper|1}}
+|-
+|{{Item|Science|4}}<hr>{{Item|Science|5}}<hr>{{Item|Science|7}}
+|{{Item|Notes|1|animation}}
+|-
+|{{Item|Science|15}}<hr>{{Item|Science|20}}<hr>{{Item|Science|25}}
+|{{Item|Chapter|1|animation}}
+|-
+|{{Item|Science|30}}<hr>{{Item|Science|50}}<hr>{{Item|Science|75}}
+|{{Item|Book|1|animation}}
+|-
+|{{Item|Science|20}}
+|{{Item|Lens|1}}
+|}
+
+<br>
+{{Navbox-Misc}}
+
+[[pt-br:Ciência]]

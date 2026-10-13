@@ -1,0 +1,116 @@
+{{Item Infobox 
+| name         = Peat
+| image        = i_peat.png
+| type         = Fertilizer
+| nameinternal = peat
+| study        = {{Techpoint|Green|10}}
+| buy          = [[Shepherd]]
+| sell         = None
+| source       = [[Compost heap]]
+| cost         = 2
+| quest        =  
+}}
+
+Peat is produced by composting [[crop waste]].  It can be used to fertilize crop spaces such as [[empty garden bed]]s, [[Garden bed with sticks|garden beds with sticks]], and [[vine trellis]]es.  {{PAGENAME}} acts as a {{Quality|copper}}boost and {{Quality|copper}}quality fertilizer.  Crops grown with {{PAGENAME}} will have their growth time reduced by 20% and will yield +1 seed and +1 product when harvested.  For more information about the effects and use of fertilizer see [[farming]].
+
+Peat is available for purchase from the [[Shepherd]].
+==Recipe==
+
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Compost heap}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Peat|6}}
+{{Item|Maggot|2}}
+|{{Item|Crop waste|8}}
+|}
+
+==Crafting==
+
+{| class = "wikitable" style = "width:30;"
+! colspan = "2" | {{Item|Church workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Boost fertilizer I|10}}
+|{{Item|Peat|10}}
+{{Item|Energy elixir|1}}
+|-
+| {{Item|Boost fertilizer II|10}}
+|{{Item|Peat|10}}
+{{Item|Energy elixir|2}}
+|-
+| {{Item|Quality fertilizer I|10}}
+|{{Item|Peat|10}}
+{{Item|Growth enhancer|1}}
+|-
+| {{Item|Quality fertilizer II|10}}
+|{{Item|Peat|10}}
+{{Item|Flavor enhancer|2}}
+|-
+! colspan = "2" | {{Item|Organ Workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Boost fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|2}}<br>{{Item|Hemp|2}}
+|-
+|{{Item|Boost fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|4}}<br>{{Item|Hemp|3}}
+|-
+|{{Item|Quality fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|2}}<br>{{Item|Ash|2}}
+|-
+|{{Item|Quality fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|4}}<br>{{Item|Ash|3}}
+|-
+! colspan = "2" | [[The Graveyard]]
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Flowerbed}}
+|{{Item|Peat|1}}
+{{Item|A piece of stone|2}}
+
+{{Item|Red flower|2}}
+|-
+|{{Item|Lawn}} (2x3)
+|{{Item|Peat|1}}
+{{Item|A piece of stone|3}}
+|-
+|{{Item|Lawn}} (2x4)
+|{{Item|Peat|1}}
+{{Item|A piece of stone|4}}
+|-
+|{{Item|Lawn}} (2x6)
+|{{Item|Peat|2}}
+{{Item|A piece of stone|6}}
+|-
+|}
+
+==Study==
+{| class = "wikitable"
+! colspan = "4" | {{Item|Study table}}
+|-
+!style="width:10em;"| Tech Points
+!style="width:17.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}} <br> {{Item|Science|1}}
+| {{Energy|-|1}}
+|Not decomposable
+|}
+
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:fertilizer]]
+[[de:Torf]]
+[[fr:Tourbe]]
+[[pt-br:Turfa]]

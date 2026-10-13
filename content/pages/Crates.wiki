@@ -1,0 +1,53 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = crate item.png
+|location   = [[Kitchen Garden]], [[Workyard]], [[Barn cellar]], [[Trade Office]]
+|technology = 
+|related    = [[Merchant]], [[Packing Table]], [[Crate factory]]
+|footprint  = 
+|rotatable  = 
+}}
+{{PAGENAME}} are boxes of [[Farming#Improvable_Crops|improvable crops]] or other [[items]], created at the [[crate factory]] in the [[workyard]]. They are available to be built after you solve the [[Merchant#Trade license|trade license quest]].
+
+To sell them, they have to be transported to the [[trade Office|trade office]] in the [[village]]. There, they need to be put on [[pallet]]s, which causes the crates to be sold automatically by the [[merchant]] every {{day|gluttony}}.
+
+You can haul your crates manually to the village or build a [[crate factory]] and assign a {{item|zombie}} to the related [[porter station]] in the [[barn cellar]] to have it done for you.
+
+==Recipes==
+{| class = "wikitable"
+!colspan="3"|{{Item|Crate factory}} / {{Item|Packing table}} 
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:27.5em;"| Materials Required
+!style="width:5em;"| Energy
+|-
+| {{Item|Silver crate|1}}<br>Sold for {{Money|1075}}
+| {{Item|Nails|2}} and {{Item|Flitch|4}} plus either:
+* {{Item|Onion|44|silver}}
+* {{Item|Lentils|40|silver}}
+* {{Item|Pumpkin|32|silver}}
+| {{Energy|-|10}}
+|-
+| {{Item|Gold crate|1}}<br>Sold for {{Money|1650}}
+| {{Item|Nails|2}} and {{Item|Flitch|4}} plus either:
+* {{Item|Onion|44|gold}}
+* {{Item|Lentils|44|gold}}
+* {{Item|Pumpkin|32|gold}}
+| {{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Crate factory}} 
+|-
+|-
+| {{Item|Goods crate|1}}<br>Sold for {{Money|1500}}
+| {{Item|Nails|2}} and {{Item|Flitch|4}} plus either:
+* {{Item|Nails|62}} (plus the two for the box)
+* {{Item|Complex iron parts|14}}
+* {{Item|A carved piece of stone|10}}
+* {{Item|A polished brick of marble|10}}
+* {{Item|Ceramic bowls|200}}
+* {{Item|Ceramic jug|100}}
+* {{Item|Porcelain pitcher|16}}
+| {{Energy|-|10}}
+|}
+<br>
+[[Category:Large items]]

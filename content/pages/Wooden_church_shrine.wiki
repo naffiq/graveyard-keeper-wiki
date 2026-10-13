@@ -1,0 +1,31 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Power of Faith]]
+|related    = [[Church]]
+|footprint  = 4x3
+|rotatable  = Yes
+}}
+The {{lcfirst:{{PAGENAME}}}} provides 5{{Church Rating}}.
+
+==Cost==
+{| class="wikitable" style="width:40em"
+!Icon
+!Resources Required
+!Energy
+!Notes
+|-
+|[[file:Wooden church shrine item.png|80x80px]]
+|{{Item|Wooden plank|4}} <br> {{Item|Wooden beam|4}} <br> {{Item|Simple iron parts|4}}
+|{{Energy|-|5}}
+|Requires: [[Theology (Tech Tree)|Power of Faith]]
+|}
+
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+
+[[Category:Church workstations]]
+[[Category:Image requested]]
+[[de:Hölzerner Schrein]]

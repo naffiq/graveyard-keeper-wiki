@@ -1,0 +1,61 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Mob Drop
+| nameinternal = 
+| study        = {{Techpoint|Red|10}}
+| alchemy      = {{Item|Death solution}},  {{Item|Death extract}}
+| source       = [[Dungeon]]
+| cost         = 
+| quest        = 
+}}
+'''{{PAGENAME}}''' is a mob drop, gained by defeating a [[monsters|poppet]], found only within the deeper levels of the [[dungeon]]. Its only known use is being a product for death-related reagents, used in [[alchemy]].
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Death solution|fluid]] and [[Death extract|essence]].
+|}
+
+==Alchemy==
+{{PAGENAME}} can be decomposed into a [[death solution|solution]] and [[death extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+
+{|class="wikitable" style="Width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Death solution|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Death extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Death extract|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Mob_Drops}}
+[[Category:Mob drops]]
+[[ru:Чёрное желе]]

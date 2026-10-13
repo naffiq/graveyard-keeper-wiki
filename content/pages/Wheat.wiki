@@ -1,0 +1,87 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Green|10}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T II)]], [[Miller|Miller (T II)]]
+| sell         = [[Miller|Miller (T II)]]
+| cost         = 10
+| stacksize    = 50
+| type         = Crop
+| quest        = 
+| nameinternal = wheat_crop
+}}
+[[File:Wheat patch.gif|left|thumb|Wheat growing in the garden.]]
+<b>{{PAGENAME}}</b> is a form of crop which can be grown from [[Wheat seeds]] in the garden below the [[workyard]] known as the [[Kitchen Garden|kitchen garden]]. Alternatively it can be purchased from the [[Miller]]. Wheat is not an improvable crop, meaning it does not have a variety of quality levels and cannot be improved with fertilizer.  It can only be made to grow faster using boost fertilizers.  See the page on [[farming]] for more information on how crops are grown and improved.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Empty garden bed}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|{{PAGENAME}}|?}}<br>{{Item|Wheat seed|?}}<br>{{Item|Crop waste|?}}
+|{{Item|Wheat seed|4}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style = "width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Flour|4}}
+|{{Item|{{PAGENAME}}|4}}
+|-
+!colspan="2"|{{Item|Mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Flour|15}}
+|{{Item|{{PAGENAME}}|10}}
+|-
+!colspan="2"|{{Item|Brewing stand}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|Hops|3|animation}}<br>{{Item|{{PAGENAME}}|15}}<br>{{Item|Water|50}}
+|-
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Paper glop|1}}
+|{{Item|{{PAGENAME}}|20}}<br>{{Item|Bucket of clear water|1}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:decomposable items]]
+[[Category:Sellable]]
+[[de:Weizen]]
+[[fr:Blé]]

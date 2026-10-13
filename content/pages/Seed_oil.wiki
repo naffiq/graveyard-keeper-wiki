@@ -1,0 +1,55 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = N/A
+| alchemy      = [[Oil]]
+| source       = [[Vine press]]
+| buy          = [[Dig | Dig (T I)]]
+| sell         = ??
+| cost         = 30
+| stacksize    = 10
+| type         = Misc
+| quest        = [[Donkey]], [[Euric]]
+| nameinternal = seed_oil
+}}
+<b>{{PAGENAME}}</b> is a product of breaking down [[hemp seed]]s. It can either be crafted by using the [[vine press]] or purchased from the vendor [[Dig]]. Two flasks are currently required during gameplay: once in conversation with the [[donkey]], and once in conversation with [[Euric]] in the "Better Save Soul" DLC. Additionally, it serves as an [[oil]] concentrate (right click in inventory to convert to oil).
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Vine press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Hemp seed|4}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|Use in inventory
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Oil|10}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Buy Tier !! Base Cost !! Qty !! Sell Tier
+|-
+|{{NPC|Dig}} 
+|I 
+|{{Money|30}}
+|15
+|N/A
+|}
+
+<br>
+{{Navbox-Misc}}
+[[ru:Масло из семян]]
+[[pt-br:Óleo de semente]]

@@ -1,0 +1,22 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Emulsion
+| source       = [[Brewing stand]]
+| quest        = [[Lady Beatrice]]
+}}
+<b>{{PAGENAME}}</b> is a quest item from the [[Game of Crone]] DLC. [[Lady Beatrice]] gives you the recipe, and whether or not you help her make it decides the fate of the [[Refugee camp]]. It is crafted at the [[Brewing stand]].
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+! colspan="2" |{{Item|Brewing stand}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Death solution|2}}<BR>{{Item|Water|10}}
+|}
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]][[Category:Game of Crone]][[Category:Game of Crone quest items]]

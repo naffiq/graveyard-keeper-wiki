@@ -1,0 +1,21 @@
+<div class="fpbox" style="text-align: center;"><!-- BEGIN Images box-->
+<div class="heading">Community</div>
+
+<div class="fplinks"><!--
+-->{{FP link|Special:UserLogin/signup|Register|size=wide}}<!--
+-->{{FP link|Project:Community portal|How to help|size=wide}}<!--
+-->{{FP link|url=https://discord.gg/cTMspZD|Community discord|size=wide}}<!--
+--></div>
+<br>
+<div class="nomobile">
+<div>To write a new article, just enter the article title in the box below or in the search box at the top of the page.</div>
+<inputbox>
+type=create
+break=no
+</inputbox>
+<br>
+<div style="text-align: left;">
+* '''Adding content'''
+** If you are unsure of what to do or how to create a page, search for a few articles on the same topic and see what they look like. You can always view the source code in a wiki and learn from what others have done.
+** An edit doesn't have to be massive; if you feel you don't want to create whole articles, then just fixing spelling errors and broken links is enough.
+</div></div></div><noinclude>[[Category:Front page sections]]</noinclude>

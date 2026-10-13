@@ -1,0 +1,21 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = Exhumation Permission.png
+| cost         = 500
+| price        = 
+| consume      = 
+| study        = 
+| alchemy      = 
+| source       = 
+| vendor       = [[Clotho|Clotho (T I)]]
+| buyer        = 
+| type         = Miscellaneous
+| stacksize    = 1
+| quest        = 
+| nameinternal =  
+}}
+The <b>{{PAGENAME}}</b> is a usable scroll, sold by [[Clotho]]. You also get one for every relic you deliver to [[Gerry]] during [[Stranger sins|Stranger Sins]] questline. Using it grants a random recipe for use at the Alchemy Workbench. If all recipes are already known, using this will provide a random potion.
+
+<br>
+{{Navbox-Misc}}
+[[es:Receta de alquimia]]

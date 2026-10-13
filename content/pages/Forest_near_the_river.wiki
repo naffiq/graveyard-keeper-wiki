@@ -1,0 +1,27 @@
+[[File:Forest near the river1.png|600px]]
+
+The {{PAGENAME}} is a big area located in the north-west area of the [[map]], above the waterfall and north of the [[swamp|witch's land]]. It is divided by the river into two sections, the western and the eastern half.
+
+To get to the {{PAGENAME}}, the player has to remove at least 2 [[blockage]]s on either side of the river. Removing those blockages is well worth it though, since the area contains a lot of things to forage, a huge amount of trees, etc.
+
+==Eastern Half==
+This side contains:
+
+* 4 [[Bee hive|Bee Hive]] trees ('''B''')
+* [[Fishing]] spot ('''F''')
+* Various [[Berry]] bushes
+* [[River sand]] ('''S''')
+* [[Felling site]] ('''FS''')
+
+==Western Half==
+This side contains:
+
+* 2 [[Coal]] veins ('''C''')
+* [[Quarry]] (Marble vein and Stone vein)
+* [[Cabin in the woods]] (right, underneath the Quarry)
+* [[Iron ore]] vein ('''I''')
+* Various [[Berry]] bushes
+* [[River sand]] ('''S''')
+{{Navbox-Locations}}
+
+[[Category:Locations]]

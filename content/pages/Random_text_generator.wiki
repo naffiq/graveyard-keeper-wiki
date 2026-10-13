@@ -1,0 +1,50 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Alchemy Lab]]
+|technology = [[Book_Writing_(Tech_Tree)|Random text generator]]
+|related    = [[Writing]]
+|footprint  = 2x3
+|rotatable  = Yes
+}}
+The '''{{lcfirst:{{PAGENAME}}}}''' is a [[zombie]] workstation, able to be built within the [[alchemy lab]] after the player unlocks the appropriate [[Book_Writing_(Tech_Tree)|technology]].  This particular workstation specializes in written works.
+
+Like all zombie workstations, the player cannot operate it themselves, but a zombie can be stationed at the workstation at the player's discretion, in order to craft anything selected by the player in a queue, the products of which are deposited into a nearby container.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Pen and ink|1}}
+|N/A
+|Requires Technology:<br>[[Book_Writing_(Tech_Tree)|Random text generator]].
+|}
+
+==Recipes==
+{| class="wikitable" style="width:40em;"
+!Item Produced
+!Materials Required
+!Time
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|3}}
+|7:30 @ 40%e<br>4:37 @ 65%e<br>3:52 @ 77.5%e<hr>3:00 Base*
+|-
+|{{Item|Techbook|1}}
+|{{Item|Clean paper|3}}
+|16:40 @ 40%e<br>10:15 @ 65%e<br>8:36 @ 77.5%e<hr>6:40 Base*
+
+|-
+|{{Item|Clean paper|2}}
+|{{Item|Ruined book|1}}<br>{{Item|River sand|1}}
+|0:25 @ 40%e<br>0:15 @ 65%e<br>0:13 @ 77.5%e<hr>0:10 Base*
+|}* <small>The time which was arbitrarily chosen for this craft, diminished by the inefficiency of the given zombie.</small>
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]

@@ -1,0 +1,61 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Mob Drop
+| nameinternal = 
+| study        = {{Techpoint|Red|10}}
+| alchemy      = {{Item|Acceleration solution}} {{Item|Acceleration extract}}
+| source       = [[Dungeon]]
+| cost         = 
+| quest        = 
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is a mob drop, obtained by killing [[Monsters|blue slimes]], found only within the [[dungeon]]. It's primary use is to serve as an alchemical material, able to be broken down into reagents once studied, alongside [[honey]] and [[hemp]].
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Acceleration solution|fluid]] and [[Acceleration extract|essence]]
+|}
+
+==Alchemy==
+{{PAGENAME}} can be decomposed into [[acceleration solution|solution]] and [[acceleration extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Acceleration solution|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Acceleration extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Acceleration extract|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Mob Drops}}
+[[Category:Mob drops]]

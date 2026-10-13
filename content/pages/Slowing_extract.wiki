@@ -1,0 +1,78 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_3_brown
+| study        = {{Techpoint|Green|5}}
+| vendor       = [[Clotho|Clotho (T III)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 100
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Beeswax|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Spider web|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Beeswax|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Spider web|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Preservative|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|Life solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Preservative|1}}
+|{{Item|Life powder|1}}<br>{{Item|Slowing solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Armor potion|1}}
+|{{Item|Order powder|1}}<br>{{Item|Slowing solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+
+[[pt-br:Extrato de retardamento]]
+[[es:Extracto ralentizador]]

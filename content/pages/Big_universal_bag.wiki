@@ -1,0 +1,33 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = N/A
+| source       = [[Church workbench]]
+| stacksize    = 1
+| type         = Bag
+| quest        = [[Marquis Teodoro Jr.]]
+| nameinternal = big_universal_bag
+}}
+<b>{{PAGENAME}}</b> was introduced in [[Game of Crone]] DLC. It can hold 12 items in it, effectively increasing your inventory size. It has also smaller version: [[Universal bag]].
+You cannot put one bag inside another bag. 
+[[Teleportstone]] cannot be placed inside a bag. 
+One bag and [[Recipe: Big universal bag|recipe]] for it is rewarded upon completing the [[Refugee camp|refugee camp]] quest line with [[Marquis Teodoro Jr.]]
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="4"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Skin|8}} {{Item|Steel parts|4}} {{Item|Tanning agent|3}}
+|{{Energy|-|30}}
+|Gives 20 of each technology point
+|}
+
+<br>
+{{Navbox-Misc}}

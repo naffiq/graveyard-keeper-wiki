@@ -1,0 +1,36 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} infobox.gif
+|location   = [[Workyard]], [[Cabin in the woods]]
+|technology = Mining
+|related    = [[Storage]], [[Mining]]
+|footprint  = 6x5
+|rotatable  = No
+}}
+The iron ore stockpile (formerly known as the "ore cutter") is a construct used to store [[iron block]]s. It's required in order to later process these blocks at the [[stone cutter]] or [[stone cutter II]] into [[iron ore]]. It does not have any particular function of its own outside of this.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|4}}
+|
+|
+|}
+
+==Notes==
+*Only 7 blocks of iron can be stored in a stockpile at a time.
+*The one that can be built in the [[workyard]] is important, as the porter [[zombie]]s use it to deposit iron blocks mined near the [[cabin in the woods]].
+
+==See Also==
+*[[Timber stockpile]]
+*[[Stone stockpile]]
+
+{{Navbox-Cabin and Workyard}}
+[[Category:Workstations]]
+
+[[Category:Cabin in the woods workstations]]

@@ -1,0 +1,151 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|8}}, {{Energy|+|12}}, or {{Energy|+|16}}
+| type         = Crop
+| nameinternal = onion_crop
+| study        = {{Techpoint|Green|20}}
+| alchemy      = {{Item|Toxic powder}},  {{Item|Toxic extract}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T II)]]
+| sell         = None
+| cost         = 16
+| quest        =  
+}}
+[[File:Onion patch.gif|left|thumb|Onions growing in the garden.]]
+Onions are a form of crop which can be grown from [[onion seed]]s in the garden below the [[workyard]] known as the [[Kitchen Garden|kitchen garden]].  Alternatively they can be purchased from the [[Farmer]]. Onions are an improvable crop, meaning they have a variety of quality levels and can be improved with fertilizer.  See the page on [[farming]] for more information on how crops are grown and improved.
+
+==Quality==
+{| class = "wikitable"
+|{{Quality Sprite|image = i_onion_crop.png|quality = copper}}
+|{{Quality Sprite|image = i_onion_crop.png|quality = silver}}
+|{{Quality Sprite|image = i_onion_crop.png|quality = gold}}
+|-
+|Copper
+|Silver
+|Gold
+|-
+|{{Money|16}}
+|{{Money|24}}
+|{{Money|32}}
+|-
+|{{Energy|+|8}}
+|{{Energy|+|12}}
+|{{Energy|+|16}}
+|} 
+
+==Recipe==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Empty garden bed}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Onion|?|animation}}
+{{Item|Onion seed|?|animation}}
+
+{{Item|Crop waste|?}}
+| {{Item|Onion seed|4|animation}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Decomposes into<br>[[Toxic powder|powder]] and [[Toxic extract|extract]].
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Onion rings|5|animation}}
+|{{Item|Oil|1}}
+{{Item|Onion|1|animation}}
+|-
+|{{Item|Toasts with onions|3|animation}}
+|{{Item|Dough|1}}
+{{Item|onion|1|animation}}
+|-
+|{{Item|Baked kebab|6|animation}}
+|{{Item|Quality fish fillet|1|animation}}
+{{Item|onion|1|animation}}
+
+<center>or</center>
+
+{{Item|Blue fish fillet|1|animation}}
+
+{{Item|onion|1|animation}}
+|-
+|{{Item|Cabbage soup|4|animation}}
+|{{Item|Beet|1}}
+{{Item|Cabbage|2}}
+
+{{Item|Onion|1|animation}}
+|-
+! colspan = "2" | {{Item|Cooking table}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Burger|4|animation}}
+|{{Item|Bread|2}}
+{{Item|Baked meat|4}}
+
+{{Item|Onion|1|animation}}
+|}
+
+==Alchemy==
+Onions can be decomposed to powder or extract at the [[Hand mixer]] and any of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at each workstation.
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+|-
+!colspan = "2"| {{Item|Alchemy mill}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Toxic powder|3}}
+|{{Item|Onion|1|animation}}
+|-
+!colspan = "2"| {{Item|Distillation cube}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Toxic extract|2}}
+|{{Item|Onion|1|animation}}
+|-
+!colspan = "2"| {{Item|Distillation cube II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Toxic extract|3}}
+|{{Item|Onion|1|animation}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[de:Zwiebel]]
+[[es:Cebolla]]
+[[fr:Oignon]]
+[[ja:タマネギ]]
+[[pt-br:Cebola]]
+[[ru:Лук]]

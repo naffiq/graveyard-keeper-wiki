@@ -1,0 +1,52 @@
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Graveyard]]
+|technology = [[Theology (Tech Tree)|Graveyard Enhancement]]
+|footprint  = 2X3, 2X4, 2X6
+|rotatable  = False, True, False
+}}
+
+<!-- Put page content here -->
+
+Lawns are graveyard decorations which come in three different sizes: 2x3, 2x4 and 2x6. When built, they increase the graveyard rating by +2 {{Graveyard Rating}}, +3 {{Graveyard Rating}}, and +4 {{Graveyard Rating}}, respectively. With a width of 2 units they fit perfectly between gravesites in the 8x6 buildable areas.  Lawns potentially occupy spots for [[lantern]]s or [[flowerbed]]s if built on top of the fixed spots for lanterns and flowerbeds or used in the 2x6 variant. This can be avoided by building lawns with smaller footprints and placing them in the top half of the buildable area. While 2x6 lawns only provide +4 {{Graveyard Rating}}, combining 2x4 lawns with [[flowerbed]]s or [[lantern]]s produces a total of +5 {{Graveyard Rating}} or +7 {{Graveyard Rating}}, respectively.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:10em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"| Quality provided
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|2x3 [[file:{{PAGENAME}} item.png|80x80px|link=]]
+|{{Item|Peat|1}}
+{{Item|A piece of stone|3}}
+|
+| +2 {{Graveyard Rating}}
+|[[Theology (Tech Tree)|Graveyard Enhancement]]
+|-
+|style="text-align:center"|2x4 [[file:{{PAGENAME}} item.png|80x80px|link=]]
+|{{Item|Peat|1}}
+{{Item|A piece of stone|4}}
+|
+| +3 {{Graveyard Rating}}
+|[[Theology (Tech Tree)|Graveyard Enhancement]]
+|-
+|style="text-align:center"|2x6 [[file:{{PAGENAME}} item.png|80x80px|link=]]
+|{{Item|Peat|2}}
+{{Item|A piece of stone|6}}
+|
+| +4 {{Graveyard Rating}}
+|[[Theology (Tech Tree)|Graveyard Enhancement]]
+|-
+|}
+
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+
+[[Category:Graveyard workstations]]
+[[Category:Graveyard items]]
+[[de:Rasen]]

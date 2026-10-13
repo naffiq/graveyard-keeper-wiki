@@ -1,0 +1,99 @@
+[[File:The village1.jpg|700px]]
+
+The village is a small hamlet in the kingdom, where the world is flat and there are six [[days]] to a week.
+
+==Tavern==
+(1) [[The Dead Horse]] tavern is located in the center of the village. The innkeeper is called [[Horadric]]. It is always open for trading.
+
+==Blacksmith==
+(2) The blacksmith is called [[Krezvold]]. His shop is found south of the [[The Dead Horse|tavern]].
+
+==Merchant==
+(3) The [[merchant]] only appears on {{Day|Gluttony}}. He runs the [[trade office]] in front of which he's standing.
+
+==Engineer==
+(4) The engineer [[Cory]] is located in the northwest of the village.
+
+==Carpenter==
+(5) The carpenter [[Tress]] is located north of the [[The Dead Horse|tavern]].
+
+(5a) The [[woodcutter]] can be found a bit further north of the carpenter.
+
+==Dairy Trader==
+(6) The dairy trader [[Rosa]] is located directly north of the [[The Dead Horse|tavern]].
+
+(6a) Her husband, the [[Shepherd]] a tiny bit north of her.
+
+==Fresh Egg Basket==
+(7) Just an empty [[Fresh egg basket|basket]] which trades some [[egg]]s and [[feather]]s, nothing weird. It's located next to the chicken farm, east of the [[The Dead Horse|tavern]], on the road leading to the [[lighthouse]].
+
+==Hemp Trader==
+(8) The vagabond [[Dig]] lives in a barrel east of the [[The Dead Horse|tavern]]. He sells hemp products like plants, seeds, rope and oil.
+
+==Access to the Lighthouse==
+(9) The [[lighthouse]] is located east of the village. The [[lighthouse keeper]] lives there and the [[astrologer]] visits on {{Day|sloth}}.
+
+==Gypsy Camp==
+(10) A camp of several wagons around a campfire at the northern edge of the village. An important character, the [[gypsy baron]], lives there.
+
+==Access to the Mountain Fort==
+(11) The [[mountain fort]] is located at the very northern edge of the village. The servant [[Koukol]] can be found west of the entrance in the woods. 
+
+==Access to Town==
+(12) The road to the [[town]] is leading to the south and blocked by a barrier, guarded by [[guards|town guards]]. You'll need a [[town pass]] to be granted access. Nevertheless, the [[town]] is not a desirable place to visit.
+
+==Access to Wheat Farm==
+(13) The road to the west leads to the [[wheat farm]]. From here, you enter the village for the first time.
+
+==Beekeeper==
+(14) The [[beekeeper]] can be found in the northwest of the village, close to the [[wheat farm]].
+
+==Village Pond==
+(15) The [[village pond]] is found in the eastern part of the village, and can be used for [[fishing]]. The [[silver crucian]] can only be caught here.
+
+==Pottery==
+(16) The pottery is in the southwest of the village near the [[wheat farm]]. This is, where [[Adam]] sells his marvelous [[Ceramic jug|earthenware]].
+
+==Access to the Cliffs==
+(17) The [[cliff]]s are an interesting landscape found to the northeast of the village. One of the [[quest]]s is located here.
+
+==Access to the Beach==
+(18) The [[beach]] is found east of the village, north of the [[lighthouse]]. It provides a broken bridge with unknown purpose, and a spot for [[fishing]] in the [[sea]].
+
+==Talking Skull==
+(18) The [[Talking Skull]] (unlocked with the [[Stranger sins|Stranger Sins DLC]]) is found east of the village, north of [[Dig]]'s Barrel. It is a Tavern that you build and own. It is also is a front to provide cover for the unearthing of an ancient machine and shows you images of the past. You can sell drinks and hold events which allow you to also sell food.
+
+==Repairs Needed==
+After [[Euric|a certain character]] goes on a rampage, several items in the village need repair.
+
+{| class="wikitable"
+|-
+! Repair !! Items needed
+|-
+| Broken toilet || {{Item|Wooden plank|2}} <br> {{Item|Nails|4}} <br> {{Item|Wood repair kit|1}}
+|-
+| Broken table || {{Item|Flitch|4}} <br> {{Item|Nails|5}} <br> {{Item|Complex iron parts|2}}
+|-
+| Broken drying rack || {{Item|Wooden stick|2}} <br> {{Item|Hemp rope|2}}
+|-
+| Broken potter's wheel || {{Item|Flitch|2}} <br> {{Item|A piece of stone|1}} <br> {{Item|Nails|3}}
+|-
+| Broken basket of eggs || {{Item|Wooden stick|2}} <br> {{Item|Wood repair kit|1}}
+|-
+| Broken beehive x2 || {{Item|Flitch|2}} <br> {{Item|Nails|3}} <br> {{Item|Bee|5}}
+|-
+| Broken lantern || {{Item|A piece of stone|2}} <br> {{Item|Simple iron parts|2}} <br> {{Item|Glass|1}}
+|-
+| Wash the cow || {{Item|Ash|4}}
+|}
+
+==Breakable Barrels==
+There are 6 breakable barrels (using a sword) around the Village (2 in the The Dead Horse, 2 behind Donkey's shed, 1 South of Donkey's shed, 1 West of Fresh Egg Basket). Each breakable barrel can yield up to {{Item|Flitch|2}}, {{Item|Metal scrap|3}}, {{Item|Nails|1}}, {{Item|Simple iron parts|4}}.
+
+==Cabbage patch==
+There are 2 plots of {{Item|Cabbage|}} West of The Dead Horse.
+
+{{Navbox-Locations}}
+[[Category:Locations]]
+
+[[pt-br:Aldeia]]

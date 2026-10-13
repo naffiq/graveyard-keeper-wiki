@@ -1,0 +1,116 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = i_fish_perch.png
+| cost         = 
+| price        = 22
+| study        = {{Techpoint|Green|20}}
+| source       = Village, Waterfall
+| sell         = [[Lighthouse Keeper|Lighthouse Keeper (T I)]]
+| buy          = 
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_perch
+}}
+The <b>{{PAGENAME}}</b> is one of sixteen(16) different [[Fishing|fish]] that can be caught, and either sold to the [[Lighthouse Keeper]] or processed for [[cooking]]. The difficulty in catching it is relatively low, thus it's thought to be a relatively low-tier fish.
+
+== Fishing ==
+The odds of catching a fish are affected by other fish in the area.  More competition means your chance of catching a particular fish over another is lowered. Listed below is a table of a fish's bait preferences, fishing and casting location, type of rod, and time of day. If a method isn't listed below it's impossible to catch this fish using it.
+
+{| style="text-align:left; width:60%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Okay
+|-
+|{{Item|Good fishing rod}}
+|Good
+|-
+|{{Item|Simple fishing rod}}
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Anchovy}}
+|Good
+|-
+|{{Item|Gudgeon}}
+|Good
+|-
+|{{Item|Moth}}
+|Best
+|-
+|{{Item|Maggot}}
+|Best
+|-
+|{{Item|Butterfly}}
+|Best
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Location
+|-
+!Name
+!Weight
+|-
+|Village
+|Best
+|-
+|Waterfall
+|Good
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|Best
+|-
+|Night
+|Okay
+|}
+|}
+
+==Study==
+{| class="wikitable" style="text-align:center; width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|White fish fillet|3}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+[[ru:Окунь]]
+[[pt-br:Poleiro]]

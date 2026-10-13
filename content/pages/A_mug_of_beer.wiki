@@ -1,0 +1,95 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Beverage
+| consume      = {{Health|+|5}}/{{Health|+|5}}/{{Health|+|10}}, {{Energy|+|18}}/{{Energy|+|24}}/{{Energy|+|30}}
+| nameinternal = cup_beer
+| study        = 
+| source       = [[Brewing stand]], [[Horadric]]
+| cost         = 30
+| quest        = [[Gerry]], [[Inquisitor]]
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> is a consumable product, able to restore a relatively small amount of health and a moderate amount of energy. It can be brewed at varying quality levels using a [[brewing stand]], or purchased from (or sold to {{Quality|Copper}} or {{Quality|Silver}}only) the barkeeper [[Horadric]]. The quality of the crafts depend on the quality of the [[hops]] used.
+
+==Quality Levels==
+{|class="wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Beer.png|quality = copper}}
+|{{Quality Sprite|image = Beer.png|quality = silver}}
+|{{Quality Sprite|image = Beer.png|quality = gold}}
+|-
+|{{Money|30}}
+|{{Money|35}}
+|{{Money|40}}
+|-
+|{{Health|+|5}} {{Energy|+|18}}
+|{{Health|+|5}} {{Energy|+|24}}
+|{{Health|+|10}} {{Energy|+|30}}
+|-
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|8}}
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|5}}
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|5}}
+|-
+|[[File:Brewing effect.png|32x32px|link=Effects|Beer Thirst]]{{Energy|+|5}}
+|[[File:Brewing effect.png|32x32px|link=Effects|Beer Thirst]]{{Energy|+|10}}
+|[[File:Brewing effect.png|32x32px|link=Effects|Beer Thirst]]{{Energy|+|13}}
+|}
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Brewing stand}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|10|animation}}
+|{{Item|Water|50}}<br>{{Item|Hops|3|animation}}<br>{{Item|Wheat|15}}
+|}
+
+==Quest==
+===Get Gerry Beer===
+[[Gerry]] requests beer which requires you to find [[Horadric]] in the [[village]] at the [[The Dead Horse|tavern]].  You can buy a beer or use the beer you earned as a reward for delivering [[Blacksmith]]'s letter.
+
+===[[Inquisitor|Snack Time]]===
+The [[Inquisitor]] asks that you build a buffet tent and sell food and drink for the witch burning. You will need to make {{Item|Burger|5|Gold}} and {{Item|A mug of beer|10|Gold}}.
+
+To make the tent will need: {{Item|Hemp rope|5}}, {{Item|Wooden plank|15}} and {{Item|Nails|20}}.
+
+After completing the quest, the player has the opportunity to refill the tent with {{Item|Burger|5|Gold}} and {{Item|A mug of beer|10|Gold}} to open the buffet for profit every {{Day|Wrath}}.
+
+==Trading==
+With the DLC ''[[Stranger sins|Stranger Sins]]'', mugs of beer - as with most beverages - may be sold regularly, either passively by being stored in the [[Talking Skull]]s cellar, or actively by being stored in the [[Barman]]s inventory and triggering an event.
+
+{|class="wikitable" style="text-align:center;"
+|-
+! NPC !! Quality || Buy Tier !! Base Cost !! Qty !! Sell Tier !! Base Price !! Consumption
+|-
+|rowspan="2"|{{NPC|Horadric}} 
+|{{Quality|Copper}}
+|I 
+|{{Money|30}}
+|15x
+|I 
+|{{Money|22}}
+|2x per day<br>(if >20x)
+|-
+|{{Quality|Silver}}
+|I
+|{{Money|35}}
+|15x
+|I 
+|{{Money|26}}
+|2x per day<br>(if >20x)
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:beverages]]
+[[Category:consumable items]]
+[[Category:effect items]]
+[[de:Ein Humpen Bier]]

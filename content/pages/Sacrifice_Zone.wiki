@@ -1,0 +1,57 @@
+{{stub}}
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = Sacrifice Zone screenshot.png
+| size      = //optional, default is 250x250px
+| exits     = 
+| buildable = True
+| NPCs      = [[Snake]] on {{Day|Envy}}
+}}
+Area before the stairs down to the [[Dungeon]], unlocked after providing [[Snake]] with the [[Active key]]. Area for building cult statues measured with {{Pentagram}} quality. After completing the quest for [[Snake]] bringing him the {{Item|Necronomicon}}, there is a quest to reach {{Pentagram}}20 for a ritual. After having built the [[blood fountain]]s, it is possible to fill them with {{Item|blood|10}}, adding +3 {{Pentagram}} to the rating each.
+
+==Work stations==
+{| Text-align:left; table-layout: fixed;" class = "wikitable"
+!colspan=5|[[file:I z d occulte constraction.png|64px|link=Dark design desk]] [[Dark design desk]]
+|-
+!Blueprint
+!Rating
+!style= "Width:20em; |Materials
+!Notes
+!Size
+|-
+|{{Item|Crucified skeleton|||80px}}
+|2 {{Pentagram}} 
+|{{Item|Skull|1}}, {{Item|Wooden beam|2}}, {{Item|Pumpkin|1|silver}}
+|Room for 2
+|2x3
+|-
+|{{Item|Crucified skeleton on the wall|||80px}}
+|1 {{Pentagram}}
+|{{Item|Skull|1}}, {{Item|Wooden beam|2}}, {{Item|Pumpkin|1|silver}}
+|Room for 2
+|1x3
+|-
+|{{Item|Blood fountain|||80px}}
+|2 {{Pentagram}}
+| {{Item|A polished brick of stone|5}}, {{Item|Polishing paste|5}}, {{Item|Stone repair kit|1}}
+|  +3 {{Pentagram}} filled with blood
+Room for 2
+|6x6 with two corners missing
+|-
+|{{Item|Skulls in the wall|||80px}}
+|1 {{Pentagram}}
+|{{Item|Skull|5}}
+|Room for 2
+|1x3
+|-
+|{{Item|Skulls in a column|||80px}}
+|1 {{Pentagram}}
+|{{Item|Skull|5}}
+|Room for 2
+|
+|-
+|}
+
+{{clear}}
+
+{{Navbox-Locations}}

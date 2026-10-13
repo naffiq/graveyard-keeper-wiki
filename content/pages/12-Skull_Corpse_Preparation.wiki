@@ -1,0 +1,75 @@
+__NOTOC__[[Category:Guides]]
+A perfectly-prepared corpse with '''x12'''{{White Skull}} can be created with the processes outlined below. Be aware that preparing a 12-skull corpse requires advanced [[alchemy]], access to an [[embalming table]], and late-game materials such as [[gold nugget]]s and death reagents. It's possible to create a corpse with '''''x16'''''{{White Skull}} ('''''x26'''''{{White Skull}} with [[Better Save Soul]]); however, As part of [[Game of Crone]] DLC, the maximum Gravesite decor has increased to '''x16''' {{Grave Decor}}, and up to the maximum of '''x26''' {{Grave Decor}} with the Better Save Soul DLC installed.
+
+With no DLC, the best result possible is '''x13'''{{White Skull}}. However, grave decorations only go up to '''x12'''{{Grave Decor}} so the additional {{White Skull}} has no benefit for a buried corpse. The best bodies can have upon arrival is '''x2'''{{Red Skull}} '''x6'''{{White Skull}}.
+
+==Tips & Tricks==
+*Regarding {{White Skull}}, it is possible to add up to x5 with [[Embalming_table#Recipes|embalming]], and up to x2 through [[Preparation_place#Recipes|autopsy]], totaling x7.
+::{{*}}This means a corpse with '''''at least''''' x5{{White Skull}} is required in order to reach x12{{White Skull}}.
+*Regarding {{Red Skull}}, it is possible to subtract x3 with [[Embalming_table#Recipes|embalming]] (while likely adding x1), and subtract x2 through [[Preparation_place#Recipes|autopsy]], netting x4.
+::{{*}}This means a corpse with '''''no more''''' than x4{{Red Skull}} is required in order to reach x12{{White Skull}}.
+::: • Likewise, since {{Red Skull}}are required for gold/silver Embalming, a corpse with '''''at least''' x2{{Red Skull}}'' is required.
+*Important Parts - {{Item|Heart}}, {{Item|Brain}}, {{Item|Intestine}} - are the source of {{White Skull}} and {{Red Skull}}, their properties being randomly generated.
+
+::{{*}}This may include subtracting {{White Skull}} or adding {{Red Skull}}; thus, removing such a part may make an undesirable corpse satisfactory.
+
+==Baseline==
+This is the quintessential starting point. If a corpse does not yet have these characteristics, then alter the corpse to reach this point, if needed.
+
+===Starting with a 4R/5W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Perform a {{Item|Lye injection}} +{{Red Skull}}+{{White Skull}}
+# Perform a {{Item|Glue injection}} +{{White Skull}}
+# Perform a {{Item|Silver injection}} -{{Red Skull}}+{{White Skull}}
+# Perform a {{Item|Gold injection}} -{{Red Skull}}{{Red Skull}}+{{White Skull}}{{White Skull}}
+# Remove the {{Item|Fat}} -{{Red Skull}}+{{White Skull}}
+# Remove the {{Item|Blood}} -{{Red Skull}}+{{White Skull}}
+
+===Starting with a 4R/6W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Perform a {{Item|Lye injection}}
+# Perform a {{Item|Glue injection}} (''Optional; x13{{White Skull}}'')
+# Perform a {{Item|Silver injection}}
+# Perform a {{Item|Gold injection}}
+# Remove the {{Item|Fat}}
+# Remove the {{Item|Blood}}
+
+==Alternates==
+A multitude of known natural spawns, potentially able to be effectively altered in order to reach baseline.
+
+Once you have the cultist perk (the perk that can let you see the stats on the organs), the easiest way is to add all 3 stats of {{Item|Heart}}, {{Item|Brain}} and {{Item|Intestine}}. Mix/match the organs with your stock as necessary. You need to have minimum 5 {{White Skull}} and 1-4 {{Red Skull}} . The {{Red Skull}} can be increased to 4 by extracting skull (+1 {{Red Skull}} ) and / or doing dark injection (+2 {{Red Skull}} )
+
+===Starting with a 3R/5W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Follow 'Baseline' above. No changes needed.
+#The {{Item|Skull}} can be safely removed if desired.
+
+===Starting with a 2R/5W corpse {{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Follow 'Baseline' above. No changes needed.
+#The {{Item|Skull}} can be safely removed if desired.
+
+===Starting with a 1R/5W corpse {{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Remove the{{Item|Skull}},  or perform a {{Item|Dark injection}} 
+# Follow 'Baseline' above.
+
+===Starting with a 6R/5W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Remove a -2{{Red Skull}} {{Item|Heart}}/{{Item|Brain}}/{{Item|Intestine}}
+# Follow 'Baseline' above.
+
+===Starting with a 5R/5W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Remove a -1{{Red Skull}} {{Item|Heart}}/{{Item|Brain}}/{{Item|Intestine}}
+# Follow 'Baseline' above.
+
+===Starting with a 6R/4W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Remove a -2{{Red Skull}}/+1{{White Skull}} {{Item|Heart}}/{{Item|Brain}}/{{Item|Intestine}}
+# Follow 'Baseline' above.
+
+===Starting with a 5R/4W corpse {{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{Red Skull}}{{White Skull}}{{White Skull}}{{White Skull}}{{White Skull}}===
+
+# Remove a -1{{Red Skull}}/+1{{White Skull}} {{Item|Heart}}/{{Item|Brain}}/{{Item|Intestine}}
+# Follow 'Baseline' above.

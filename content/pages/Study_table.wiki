@@ -1,0 +1,1425 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Alchemy_Lab]]
+|technology = [[Book Writing (Tech Tree)|Research]]
+|related    = 
+|footprint  = 5x4 (initial)<br />4x4 (built)
+|rotatable  = True
+}}
+The {{lcfirst:{{PAGENAME}}}} is where you can research the various [[items]] in the game for a one time bounty of techpoints. The study table becomes available after you've progressed [[Bishop|the Bishop]]'s main quest line far enough to get access to the [[church]], and [[alchemy lab]].  To research most items you will need some combination of [[science]] and [[faith]]. [[Science]] (similar to fuel in the [[furnace]] and [[oven]]) is stored within the study table and is not an item you can have in your inventory.
+
+Horizontal and vertical : 5 X 4 (initial), 4 x 4 (built)
+
+Rotation : Yes
+__TOC__
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Conical flasks|3}}
+|
+|
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+| {{Item|Active key|1}}
+|{{Item|Keepers key|1}}<br>{{Item|Instructions for key|1}}<br>{{Item|Faith|2}}<br>{{Item|Science|2}}
+|?{{Energy}}
+|Used to unlock the dungeon.
+|-
+|{{techpoint|red}}{{techpoint|blue}}{{techpoint|green}}
+|{{Item|Faith}} (sometimes not needed)<br>
+{{Item|Science}} (at least one)<br>
+Various [[items]] (always one)
+|{{energy}}
+|Check the pages of the [[items]] for the research costs.
+|-
+| {{Item|Science|2}}
+|{{Item|Clean paper|1}}
+|{{Energy|-|0}}
+|
+|-
+| {{Item|Science|4}}
+|{{Item|Notes|1|animation}}
+|{{Energy|-|0}}
+|
+|-
+| {{Item|Science|15}}
+|{{Item|Chapter|1|animation}}
+|{{Energy|-|0}}
+|
+|-
+| {{Item|Science|20}}
+|{{Item|Lens|1}}
+|{{Energy|-|0}}
+|
+|-
+| {{Item|Science|30}}
+|{{Item|Book|1|animation}}
+|{{Energy|-|0}}
+|
+|-
+|
+|
+|
+|
+|}
+
+==Rewards==
+<table-progress-tracking table-id="studyTableRewards" unique-column-index="1">
+{| class="sortable fandom-table mw-collapsible mw-collapsed"
+! style="width:17.5em;" |Item
+! style="width:11.5em;" |{{Item|Faith}} Cost
+! style="width:11.5em;" |{{Item|Science}} Cost
+! style="width:9em;" |<br>{{techpoint|red}} Red Reward
+! style="width:9em;" |<br>{{techpoint|blue}} Blue Reward
+! style="width:9em;" |<br>{{techpoint|green}} Green Reward
+|-
+|{{Item|A carved piece of marble}}
+|10
+|10
+|150
+| -
+| -
+|-
+|{{Item|A carved piece of stone}}
+|5
+|5
+| 50
+| -
+| -
+|-
+|{{Item|A piece of marble}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|A piece of stone}}
+|2
+|2
+|20
+| -
+| -
+|-
+|{{Item|A polished brick of marble}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|A polished brick of stone}}
+|3
+|3
+| 30
+| -
+| -
+|-
+|{{Item|Acceleration extract}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Acceleration powder}}
+| -
+|1
+| -
+| -
+| 5
+|-
+|{{Item|Acceleration solution}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Advanced conical flasks}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Anchovy}}
+|2
+|2
+| -
+| -
+|20 
+|-
+|{{Item|Ash}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Axe I}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|Axe II}}
+|10
+| 10
+|100
+| -
+| -
+|-
+|{{Item|Bat wing}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Bee}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Beeswax}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Beet}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Beet seed}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Berry}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Black jelly}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Blood}}
+|1
+|1
+| -
+|20
+| -
+|-
+|{{Item|Blue jelly}}
+|1
+|1
+| 10
+| -
+| -
+|-
+|{{Item|Bone}}
+|1
+|1
+| -
+|20
+| -
+|-
+|{{Item|Boost fertilizer I}}
+|3
+|1
+| -
+| -
+|30
+|-
+|{{Item|Boost fertilizer II}}
+|5
+|1
+| -
+| -
+|50
+|-
+|{{Item|Brain}}
+|3
+|3
+| -
+|50
+| -
+|-
+|{{Item|Bream}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Butterfly}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Cabbage}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Cabbage seed}}
+|1
+|1
+| -
+| -
+|10 
+|-
+|{{Item|Carp}}
+|2
+|2
+| -
+| -
+| 20
+|-
+|{{Item|Carrot}}
+|1
+|1
+| -
+| -
+| 10
+|-
+|{{Item|Carrot seed}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Carved wood}}
+|10
+|10
+|150 
+| -
+| -
+|-
+|{{Item|Ceramic bowls}}
+|1
+| 1
+|10 
+| -
+| -
+|-
+|{{Item|Ceramic funeral urn}}
+|2
+|3
+|5
+| 30
+| -
+|-
+|{{Item|Ceramic jug}}
+|2
+| 2
+|20
+| -
+| -
+|-
+|{{Item|Chaos extract}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Chaos powder}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Chaos solution}}
+| -
+|1
+| -
+| 5
+| -
+|-
+|{{Item|Clay}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Coal}}
+|2
+|2
+| -
+| -
+|20 
+|-
+|{{Item|Complex iron parts}}
+|2
+|2
+|20
+| -
+| -
+|-
+|{{Item|Conical flasks}}
+|2
+|2
+|20
+| -
+| -
+|-
+|{{Item|Crop waste}}
+|1
+|1
+| -
+| -
+| 10
+|-
+|{{Item|Damask sword with gem}}
+|10
+|10
+|150
+| -
+| -
+|-
+|{{Item|Dark brain}}
+|5
+|5
+| -
+|100
+| -
+|-
+|{{Item|Dark heart}}
+|5
+|5
+| -
+|100
+| -
+|-
+|{{Item|Dark intestine}}
+|5
+|5
+| -
+|100
+| -
+|-
+|{{Item|Death extract}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Death powder}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Death solution}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Edible mushroom}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Eel}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Electric powder}}
+|1
+|1
+|5
+|5
+| -
+|-
+|{{Item|Fat}}
+| 1
+|1
+| -
+|20 
+| -
+|-
+|{{Item|Firewood}}
+|2
+|2
+|20
+| -
+| -
+|-
+|{{Item|Flesh}}
+|1
+|1
+| -
+|20
+| -
+|-
+|{{Item|Flitch}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Frog}}
+|2
+|2
+| -
+| -
+| 20
+|-
+|{{Item|Glass}}
+|1
+|1
+| 10
+| -
+| -
+|-
+|{{Item|Gold crucian}}
+|5
+|5
+| -
+| -
+|50
+|-
+|{{Item|Gold ingot}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Gold jewelry details}}
+|10
+|10 
+|100
+| -
+| -
+|-
+|{{Item|Gold nugget}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Goldfish}}
+| 5
+|5
+| -
+| -
+|50
+|-
+|{{Item|Grapes}}
+|5
+|5
+| -
+| -
+| 50
+|-
+|{{Item|Grape seed}}
+|5
+|5
+| -
+| -
+|50 
+|-
+|{{Item|Graphite}}
+| 2
+|2
+| -
+| -
+|20 
+|-
+|{{Item|Gravestone}}
+|2
+|2
+| -
+|20
+| -
+|-
+|{{Item|Gravestone II}}
+|3
+|3
+| -
+|30 
+| -
+|-
+|{{Item|Green jelly}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Gudgeon}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Hard cover}}
+|5
+|5
+|100
+| -
+| -
+|-
+|{{Item|Health extract}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Health powder}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Health solution}}
+| -
+|1
+| -
+| -
+| 5
+|-
+|{{Item|Heart}}
+|3
+|3
+| -
+|50
+| -
+|-
+|{{Item|Hemp}}
+|4
+|4
+| -
+| -
+|40
+|-
+|{{Item|Hemp rope}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Hemp seed}}
+|4
+|4
+| -
+| -
+|40
+|-
+|{{Item|Hiccup grass}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Honey}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Hops}}
+|4
+| 4
+| -
+| -
+|40
+|-
+|{{Item|Hops seed}}
+|4
+| 4
+| -
+| -
+|40
+|-
+|{{Item|Incense}}
+| 1
+|2
+|5
+|15
+| -
+|-
+|{{Item|Incense II}}
+|2
+| 4
+|15
+
+|45
+| -
+|-
+|{{Item|Intestine}}
+|3
+|3
+| -
+|50
+| -
+|-
+|{{Item|Iron armor}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|Iron chisel}}
+|3
+|3
+| 30
+| -
+| -
+|-
+|{{Item|Iron hammer}}
+|10
+|10
+|100
+| -
+| -
+|-
+|{{Item|Iron ingot}}
+|1
+|1
+|10
+| -
+|10
+|-
+|{{Item|Iron ore}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Jointing}}
+|7
+|7
+|100
+| -
+| -
+|-
+|{{Item|Lentils}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Lentil seed}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Life extract}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Life powder}}
+| -
+| 1
+| -
+|5
+| -
+|-
+|{{Item|Life solution}}
+| -
+|1
+| -
+|5
+| -
+|-
+|{{Item|Limestone}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Maggot}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Marble cross}}
+|7
+|7
+| -
+|80
+| -
+|-
+|{{Item|Marble cross II}}
+|8
+|8
+| -
+|90
+| -
+|-
+|{{Item|Marble grave fence}}
+|7
+|7
+| -
+|80
+| -
+|-
+|{{Item|Marble grave fence II}}
+| 8
+|8
+| -
+|90
+| -
+|-
+|{{Item|Marble plinth}}
+|8
+|8
+| -
+|90
+| -
+|-
+|{{Item|Marble sculpture}}
+|10
+|10
+| -
+|100
+| -
+|-
+|{{Item|Marble sculpture II}}
+|10
+|10
+| -
+|100
+| -
+|-
+|{{Item|Moth}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Nails}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Obsidian}}
+|4
+|3
+|25
+|100
+|15
+|-
+|{{Item|Onion}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Onion seed}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Orange jelly}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Order extract}}
+| -
+| 1
+| -
+| -
+|5
+|-
+|{{Item|Order powder}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Order solution}}
+| -
+|1
+| -
+| -
+| 5
+|-
+|{{Item|Peat}}
+|1
+|1
+| -
+| -
+|10 
+|-
+|{{Item|Pen and ink}}
+|2
+|2
+|10
+| -
+|10
+|-
+|{{Item|Perch}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Pickaxe I}}
+|3
+| 3
+|30 
+| -
+| -
+|-
+|{{Item|Pickaxe II}}
+|10
+| 10
+|100
+| -
+| -
+|-
+|{{Item|Pigskin paper}}
+|2
+|2
+|10
+| -
+|10
+|-
+|{{Item|Pike}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Polishing paste}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Porcelain funeral urn}}
+|4
+|5
+|10
+|50
+| -
+|-
+|{{Item|Porcelain pitcher}}
+|5
+| 5
+|50
+| -
+| -
+|-
+|{{Item|Pumpkin}}
+| 3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Pumpkin seed}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Quality fertilizer I}}
+|3
+|1
+| -
+| -
+|30
+|-
+|{{Item|Quality fertilizer II}}
+|5
+|1
+| -
+| -
+|50
+|-
+|{{Item|Red apple}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Red flower}}
+|1
+|1
+| -
+| -
+|10 
+|-
+|{{Item|Red mushroom}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|River sand}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Rusty axe}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Rusty hammer}}
+|1
+|1
+|10 
+| -
+| -
+|-
+|{{Item|Rusty pickaxe}}
+|1
+|1
+|10
+
+| -
+| -
+|-
+|{{Item|Rusty shovel}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Rusty sword}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Salmon}}
+|5
+|5
+| -
+| -
+|50 
+|-
+|{{Item|Sardine}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Shovel I}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|Shovel II}}
+| 10
+|10
+|100
+| -
+| -
+|-
+|{{Item|Silver crucian}}
+|5
+|5
+| -
+| -
+|50 
+|-
+|{{Item|Silver ingot}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Silver nugget}}
+|2
+|2
+| -
+| -
+|20
+|-
+|{{Item|Simple iron parts}}
+|1
+|1
+|10
+| -
+| -
+|-
+|{{Item|Skin}}
+|1
+|1
+| -
+|20
+| -
+|-
+|{{Item|Skull}}
+|1
+| 1
+| -
+|20
+| -
+|-
+|{{Item|Slowing extract}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Slowing powder}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Slowing solution}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Softcover}}
+|3
+|3
+|50
+| -
+| -
+|-
+|{{Item|Spider web}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Steel armor}}
+|10
+| 10
+|150
+| -
+| -
+|-
+|{{Item|Steel chisel}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Steel ingot}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|Steel parts}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Steel sword}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Steel sword with gem}}
+|10 
+|10
+|100
+| -
+| -
+|-
+|{{Item|Stone cross}}
+|3
+|3
+| -
+|30
+
+| -
+|-
+|{{Item|Stone cross II}}
+|3
+|3
+| -
+|30 
+| -
+|-
+|{{Item|Stone grave fence}}
+|3
+|3
+| -
+|30
+| -
+|-
+|{{Item|Stone grave fence II}}
+|3
+|3
+| -
+|30
+| -
+|-
+|{{Item|Stone plinth}}
+|5
+|5
+| -
+|30
+| -
+|-
+|{{Item|Stone sculpture}}
+|5
+|5
+| -
+| 50
+| -
+|-
+|{{Item|Stone sculpture II}}
+| 5
+|5
+| -
+|50
+| -
+|-
+|{{Item|Sturgeon}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Sulfur}}
+|3
+| 2
+| -
+| -
+|30
+|-
+|{{Item|Sword}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|Tilapia}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Toxic extract}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Toxic powder}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Toxic solution}}
+| -
+|1
+| -
+| -
+|5
+|-
+|{{Item|Tuna}}
+|3
+|3
+| -
+| -
+|30
+|-
+|{{Item|Wheat}}
+|1
+|1
+| -
+| -
+|10 
+|-
+|{{Item|Wheat seed}}
+|1
+| 1
+| -
+| -
+|10 
+|-
+|{{Item|White flower}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Wood billet}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Wood wedge}}
+|2
+|2
+|20
+| -
+| -
+|-
+|{{Item|Wooden beam}}
+|5
+|5
+|50
+| -
+| -
+|-
+|{{Item|Wooden cross}}
+|2
+|2
+| -
+|20
+| -
+|-
+|{{Item|Wooden grave fence}}
+|2
+|2
+| -
+|20
+| -
+|-
+|{{Item|Wooden marker}}
+|1
+|1
+| -
+|10
+| -
+|-
+|{{Item|Wooden plank}}
+|3
+|3
+|30
+| -
+| -
+|-
+|{{Item|Yellow flower}}
+|1
+|1
+| -
+| -
+|10
+|-
+|{{Item|Zombie juice}}
+|3
+|3
+| -
+|10
+|10
+|}
+</table-progress-tracking>
+
+{{Navbox-Alchemy lab}}
+
+[[de:Arbeitstisch]]
+[[pt-br:Mesa de estudo]]
+[[Category:Workstations]]
+
+[[Category:Alchemy lab workstations]]

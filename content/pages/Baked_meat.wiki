@@ -1,0 +1,44 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|15}}
+| study        = N/A
+
+| source       = [[Oven]]
+| cost         = 15
+| stacksize    = 25
+| type         = Meal
+| quest        = 
+| nameinternal = meal:baked_meat
+}}
+{{PAGENAME}} is a consumable food item which restores a relatively small amount of energy when consumed. For more information on preparing food see [[cooking]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Baked meat|2}}
+|{{Item|Raw sliced meat|1}}<br>{{Item|Fuel|10}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!Materials Required
+|-
+|{{Item|Sandwich|3}}
+|{{Item|Bread|2}}<br>{{Item|Baked meat|1}}<br>{{Item|Cabbage|1}}
+|-
+|{{Item|Burger|4|animation}}
+|{{Item|Bread|2}}<br>{{Item|Baked meat|4}}<br>{{Item|Onion|1|animation}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

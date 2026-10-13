@@ -1,0 +1,62 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Vinepress.gif
+|location   = [[Workyard]], [[Cellar]]
+|technology = [[Farming_and_Nature_(Tech_Tree)#Winemaking|Winemaking]]
+|related    = [[Brewing]]
+|footprint  = 5x4
+|rotatable  = False
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a workstation used to squeeze juice from various fruits, or oil from [[Hemp|hemp seeds]] and [[fat]]. A [[zombie]] may not be stationed at this workstation, meaning it can only be operated manually or by using {{Techpoint|soul}}.
+
+==Cost==
+{| class="wikitable"
+! style="width:5em;" |Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+! style="width:10em;" |Notes
+|-
+| style="text-align:center" |[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|12}}<br>{{Item|Complex iron parts|4}}<br>{{Item|A piece of stone|10}}
+|
+|Required Tech: [[Farming_and_Nature_(Tech_Tree)#Winemaking|Winemaking]]
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Pail of apple juice|1}}
+|{{Item|Red apple|10}}
+|{{Energy|-|5}}
+| +{{Techpoint|green|1}}
+|-
+|{{Item|Pail of berry juice|1}}
+|{{Item|Berry|25}}
+|{{Energy|-|5}}
+| +{{Techpoint|green|1}}
+|-
+|{{Item|Pail of grape juice|1|animation}}
+|{{Item|Grapes|15|animation}}
+|{{Energy|-|5}}
+| +{{Techpoint|green|1}}
+|-
+|{{Item|Seed oil|1}}
+|{{Item|Hemp seed|4}}
+|{{Energy|-|5}}
+| +{{Techpoint|green|1}}
+|-
+|{{Item|Oil|10}}
+|{{Item|Fat|3}}
+|{{Energy|-|5}}
+|
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Cellar workstations]]
+[[Category:Workyard workstations]]

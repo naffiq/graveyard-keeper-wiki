@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Dessert
+| consume      = {{Energy|+|13}}, [[File:Surgeon effect.png|link=Effects]]
+| nameinternal = 
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+| stacksize    = 
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a food item which restores {{Energy|+|13}} and applies the 'steady hand' buff when consumed. For more information on preparing food see [[cooking]].
+
+==Effect==
+
+On use, a {{lc:{{PAGENAME}}}} will apply the steady hand buff for a duration of 2 minutes, reducing the risk of surgical errors during body part extraction. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[File:Surgeon effect.png|link=Effects#Steady Hand|Steady Hand]]
+|A steady hand reduces the chances of making a surgical error.
+|style="text-align:center"|2:00
+|[[Effects#Steady Hand|Steady Hand]]
+|}
+
+==Recipe==
+{| class="wikitable" style="width:30em; table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Panna cotta|4}}
+|{{Item|Honey|1}}<br>{{Item|Jug of milk|1}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

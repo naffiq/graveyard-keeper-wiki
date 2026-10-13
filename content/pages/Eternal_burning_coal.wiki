@@ -1,0 +1,26 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Inquisitor]]
+| cost         = 
+}}
+
+This is a item required to open the [[portal]] for the gravekeeper to return home, it is held by [[Inquisitor]] and is given to the player when they complete [[Snake|Snake's]] final quest.
+
+
+{| class="wikitable"
+![[Blueprints]]
+![[Items]]
+|-
+|[[File:Emitter item.png|center|80px|Emitter]]
+|
+{{Item|Salty fork|1}}<br>{{Item|Mirror of pride|1}}<br>{{Item|Eternal burning coal|1}}
+|-
+
+
+{{Navbox-Quest}}
+[[Category:quest items]]

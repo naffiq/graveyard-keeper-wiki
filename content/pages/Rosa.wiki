@@ -1,0 +1,55 @@
+{{NPC Infobox
+| name          = Rosa
+| nameinternal  = npc_shepherds_wife
+| image         = Rosa.png
+| day           = 
+| location      = [[Village|The Village]]
+| vendor        = dairy products
+| role          = Milk Maid
+}}
+<div style="display:none;">
+  {{#vardefine:iconsize|80x80px}}
+</div>
+
+{{PAGENAME}} is an [[NPC]] [[vendor]]. She is located at the [[Village]], north of [[The Dead Horse]]. She trades dairy products. She is [[Shepherd]]'s wife.
+
+==Trades==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Butter}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Cheese}}
+|5
+|{{Money|50}}
+|-
+|{{Item|Bucket of milk}}
+|4
+|{{Money|50}}
+|-
+|{{Item|Jug of milk}}
+|10
+|{{Money|10}}
+|-
+|}
+
+===Purchasing===
+{| class="wikitable"
+!Item
+!Base Cost
+|-
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Vendors]]
+[[ru:Роза]]

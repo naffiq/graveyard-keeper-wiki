@@ -1,0 +1,28 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Repair kit
+| nameinternal = repair_wdn
+| study        = 
+| source       = [[Carpenter's workbench]], [[Carpenter's workbench II]]
+| buy          = [[Tress|Tress (T I)]]
+| sell         = [[Tress|Tress (T I)]]
+|stacksize=10}}
+Wood repair kits are used to fix grave fences and grave markers made of wood.  Currently the only damaged graves are those at the start of the game, but in future releases Graves will slowly weather damage and will require regular repair to continue providing their full bonuses.
+
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Carpenter's workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Wood repair kit|4}}
+|{{Item|Flitch|3}}<br>{{Item|Wooden plank|1}}<br>{{Item|Nails|2}}
+|}
+
+{{Navbox-Wood}}
+[[Category:wooden items]]
+
+[[pt-br:Kit de conserto de madeira]]

@@ -1,0 +1,40 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Weapon
+| damage       = {{Health|-|5}}
+| nameinternal = sword_0
+| study        = {{Techpoint|red|10}}
+| source       = [[Krezvold]]
+| efficiency   = 
+| energy       = {{Energy|-|2}}
+| cost         = 500
+| stacksize    = 1
+}}
+
+The rusty sword equips the the {{Icon|sword}} slot and when used (Default spacebar) deals damage to enemies in front of you. It cannot be crafted and is given to you by the [[Blacksmith]] when he requests that you kill the slimes to the north. This happens after bringing him [[Horadric]]'s note. The rusty sword begins in disrepair and must be fixed using the [[whetstone]] at the [[Grindstone]]. The rusty sword deals {{Health|-|5}} damage.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|10}}.
+
+==Study==
+{| class = "wikitable"
+! colspan = "4" | {{Item|Study table}}
+|-
+!style="width:10em;"| Tech Points
+!style="width:17.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}} <br> {{Item|Science|1}}
+| {{Energy|-|5}}
+|Not decomposable
+|}
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:weapons]]
+[[Category:metal items]]
+
+[[pt-br:Espada enferrujada]]
+[[es:Espada oxidada]]

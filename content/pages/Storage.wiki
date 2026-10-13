@@ -1,0 +1,72 @@
+The Keeper has only 20 slots for any items and 7 slots for specific equipment (armor, weapon, tools) in his inventory. Given the large number of tools, resources and equipment you'll pickup you'll need to store items to make use of it all.  Trunks are the most basic form of this and items stored within will be accessible to all workstations in the same area.  The same is true of the chest in your home.  There are other forms of storage as well which are decorative in nature.   
+
+Different Storage Containers:
+{| class="wikitable"
+!style="width:14em;"|Storage
+!Location
+!Slots
+!Size
+!style="width:15em;"|Materials Required
+!Notes
+|-
+|{{Item|Trunk|||80px}}
+|[[Workyard]], [[Cellar]], ?
+|25
+|3x2
+|{{Item|Flitch|4}}<br>{{Item|Nails|4}}<br>*{{Item|Simple iron parts|2-8}}
+|Trunk in [[The Graveyard]] contains:<br>[[Rusty axe]], [[Rusty pickaxe]], [[Rusty hammer]], x4 [[Stone repair kit]]s, x4 [[Wood repair kit]]s.<br>*Different areas require various simple iron parts.
+|-
+|{{Item|Chest|||80px}}
+|[[Sweet Home]]
+|
+|
+|
+|Not craftable.
+|-
+|{{Item|Alchemy rack|||80px}}
+|[[Alchemy Lab]]
+|25
+|4x2
+|{{Item|Flitch|12}}
+{{Item|Nails|10}}
+
+{{Item|Wooden beam|4}}
+|Rotatable: No
+|-
+|{{Item|Scrollshelf|||80px}}
+|[[Alchemy Lab]]
+|25
+|6x2
+|{{Item|Flitch|8}}
+{{Item|Simple iron parts|4}}
+
+{{Item|Nails|12}}
+|Rotatable: Yes
+|-
+|{{Item|Bookshelf|||80px}}
+|[[Alchemy Lab]]
+|25
+|6x3
+|{{Item|Flitch|8}}
+{{Item|Simple iron parts|4}}
+
+{{Item|Nails|12}}
+|Rotatable: Yes
+|-
+|{{Item|Mortuary rack|||80px}}
+|[[Morgue]]
+|25
+|4X2
+|{{Item|Flitch|8}}
+{{Item|Nails|6}}
+
+{{Item|Wooden beam|2}}
+|
+|}
+<gallery heights="90">
+File:Bookshelf and Scrollshelf Sprites.png|Empty Scrollshelf and Bookshelf.
+File:Alchemy rack.gif|Alchemy rack at various stages of being filled.
+File:Mortuary rack.gif|Mortuary rack at various stages of being filled.
+</gallery>
+[[Category:topics]]
+[[de:Inventar]]

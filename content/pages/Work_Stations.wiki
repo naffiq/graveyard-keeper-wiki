@@ -1,0 +1,1523 @@
+<big>This page has been depreciated.  [[Blueprints]] should have most of the information you're looking for in a nicer format.</big>
+
+This is a list of every Work Station that can be constructed in the game.  For more in depth articles on each region check the [[Locations|location]] page for each. 
+
+= Sweet Home =
+== Cooking Table ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Cooking table item.png|56px]]
+|General food preparation station.
+|Cannot be built
+|
+|}
+
+Unlike the oven, the cooking table does not produce any edible food, and uses energy to make food components
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|4x Flour
+|4x Wheat
+|8 {{Energy}}
+|
+|-
+|4x Dough
+|2x Flour 
+3x Water
+|4 {{Energy}}
+|
+|-
+|4x Pastry Dough
+|2x Flour
+4x Water
+
+1x Chicken Egg
+|6 {{Energy}}
+|
+|-
+|Package of Meat
+|1x Flesh
+1x Clean Paper
+
+1x Stamp
+|5 {{Energy}}
+|Stamp is not consumed, Recipe obtained by talking to [[NPCs|Horadric]] once you have obtained a Stamp
+|-
+|Raw Sliced Meat
+|1x Package of Meat
+|1 {{Energy}}
+|
+|-
+|Raw Sliced Meat
+|3x Frogs
+|5 {{Energy}}
+|
+|-
+|Raw Sliced Meat
+|1x Flesh
+|5 {{Energy}}
+|
+|-
+|Berry Juice
+|3x Red Apple,
+6x Berry
+|10 {{Energy}}
+|
+|}
+
+Note: also prepares fish (very long list)
+
+== Oven ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Oven item.png|56px]]
+|General cooking station.
+|Cannot be built
+|
+|}
+
+Oven production does not require energy, it uses Fuel produced by first two recipes 
+
+Time is the real world time, in seconds, the item takes to be produced by the Oven 
+
+Some items are craftable at multiple quality levels, Bronze, Silver or Gold Star, which yield different energy when eaten 
+
+Fuel 
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Fuel +/-
+|-
+|5x Fuel from Sticks
+|10x Wooden Stick
+| +5 {{Fuel}}
+|-
+|5x Fuel from Firewood
+|1x Firewood
+| +5 {{Fuel}}
+|}
+
+Snacks 
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Fuel +/-
+!Time
+!Energy
+!Notes
+|-
+|Fried Egg
+|1x Chicken Egg 
+| -1 {{Fuel}}
+|8
+| +11 {{Energy}}
+|
+|-
+|2x Bread
+|2x Dough
+| -4 {{Fuel}}
+|60
+| +12 {{Energy}} Each
+|
+|-
+|3x Onion Rings
+|1x Seed Oil
+1x Onion
+| -2 {{Fuel}}
+|12
+|
+|Multiple Qualities
+|-
+|5x Baked Apple
+|5x Red Apple
+| -2 {{Fuel}}
+|30
+| +6 {{Energy}} Each
+|
+|-
+|3x A Bowl of Sauerkraut
+|3x Cabbage
+2x Carrot 
+
+1x Salt
+| -6 {{Fuel}}
+|30
+| +25 {{Energy}} Each
+|
+|-
+|3x Baked Mushrooms
+|6x Edible Mushroom
+| -3 {{Fuel}}
+|25
+| +10 {{Energy}} Each
+|
+|-
+|5x Pancakes
+|1x Pastry Dough
+1x Jug of Milk
+
+1x Butter
+| -10 {{Fuel}}
+|45
+| +33 {{Energy}} Each
+|
+|-
+|3x Sandwich
+|2x Bread
+1x Baked Meat
+
+1x Cabbage
+| -9 {{Fuel}}
+|25
+| +17 {{Energy}} Each
+|
+|-
+|3x Toasts with Onions
+|1x Dough
+1x Onions
+| -5 {{Fuel}}
+|45
+|
+|Multiple Qualities
+|}
+
+Meals 
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Fuel +/-
+!Time
+!Energy
+!Notes
+|-
+|3x Omelette
+|3x Chicken Egg
+1x Jug of Milk
+| -5 {{Fuel}}
+|12
+| +20 {{Energy}} Each
+|
+|-
+|Fish Nuggets
+|1x White Fish Fillet
+2x Seed Oil
+| -5 {{Fuel}}
+|26
+| +25 {{Energy}}
+|
+|-
+|4x Carrot Cutlet
+|2x Carrot
+1x Salt
+| -10 {{Fuel}}
+|35
+| +12 {{Energy}} Each
+|
+|-
+|2x A Bowl of Lentils
+|1x Water
+1x Lentil
+| -10 {{Fuel}}
+|35
+|
+|Multiple Qualities
+|-
+|4x A Bowl of Pumpkin Soup
+|1x Jug of Milk
+2x Pumpkin
+| -10 {{Fuel}}
+|40
+|
+|Multiple Qualities
+|-
+|2x Baked FIsh
+|2x White Fish Fillet
+| -6 {{Fuel}}
+|25
+| +15 {{Energy}} Each
+|
+|-
+|3x Baked Salmon
+|1x Cabbage
+1x Red Fish Fillet
+| -5 {{Fuel}}
+|65
+|
+|Multiple Qualities
+|-
+|4x Fish Soup
+|4x White Fish Fillet 
+2x Carrot
+
+5x Water
+| -12 {{Fuel}}
+|120
+| +20 {{Energy}} Each
+|
+|-
+|6x Baked Kebab
+|1x Red/Blue Fish Fillet
+2x Pumpkin
+| -25 {{Fuel}}
+|45
+|
+|Multiple Qualities
+|-
+|6x Baked Kebab
+|1x Red/Blue Fish Fillet
+2x Onion
+| -20 {{Fuel}}
+|55
+|
+|Multiple Qualities
+|-
+|6x Baked Kebab
+|1x Red/Blue Fish Fillet
+5x Edible Mushroom
+| -20 {{Fuel}}
+|70
+|
+|Multiple Qualities
+|-
+|2x Baked Meat
+|1x Raw Slice Meat
+| -10 {{Fuel}}
+|35
+| +15 {{Energy}} Each
+|
+|-
+|3x Baked Pumpkin
+|1x Pumpkin
+| -10 {{Fuel}}
+|40
+|
+|Multiple Qualities
+|-
+|4x Burger
+|2x Bread
+4x Baked Meat
+
+1x Onion
+| -5 {{Fuel}}
+|15
+|
+|Multiple Qualities
+|-
+|3x Lasagna
+|1x Dough 
+1x Lentil 
+
+1x Cabbage
+| -15 {{Fuel}}
+|45
+|
+|Multiple Qualities
+|-
+|3x Pasta
+|3x Dough 
+1x Cheese
+| -45 {{Fuel}}
+|100
+| +50 {{Energy}} Each
+|
+|-
+|4x Cabbage Soup
+|2x Cabbage 
+1x Beet 
+
+1x Onion
+| -45 {{Fuel}}
+|90
+|
+|Multiple Qualities
+|-
+|4x Pumpkin Soup
+|1x Beet
+2x Carrot
+
+2x Pumpkin
+| -45 {{Fuel}}
+|100
+|
+|Multiple Qualities
+|-
+|4x Vegetable Soup
+|2x Cabbage
+2x Carrot
+
+2x Pumpkin
+| -30 {{Fuel}}
+|120
+|
+|Multiple Qualities
+|}
+
+Baked Goods  
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Fuel +/-
+!Time
+!Energy
+!Notes
+|-
+|4x Green Jelly
+|4x Green Slime 
+1x Honey
+| -5 {{Fuel}}
+|25
+| +25 {{Energy}} Each
+|
+|-
+|4x Red Jelly
+|4x Green Slime
+1x Berry Juice
+| -14 {{Fuel}}
+|30
+| +30 {{Energy}} Each
+|
+|-
+|4x Muffin
+|1x Dough
+1x Honey
+| -20 {{Fuel}}
+|30
+| +20 {{Energy}} Each
+|
+|-
+|4x Croissant
+|1x Dough
+1x Honey
+
+1x Chicken Egg
+| -25 {{Fuel}}
+|45
+| +25 {{Energy}} Each
+|
+|-
+|Cake
+|1x Pastry Dough
+1x Honey
+
+5x Berry
+| -15 {{Fuel}}
+|45
+| +95 {{Energy}}
+|
+|-
+|2x Berry Pie
+|1x Pastry Dough
+1x Berry Juice
+| -15 {{Fuel}}
+|45
+| +35 {{Energy}} Each
+|
+|-
+|2x Grape Pie
+|1x Pastry Dough
+1x Grapes
+| -15 {{Fuel}}
+|45
+|
+|Multiple Qualities
+|}  
+
+{{:Workyard}}
+
+{{:Morgue‎}}{{:Morgue‎}}
+
+= Alchemy Laboratory (church basement) =
+== Trunk ==
+Used as general storage items inside of a trunk will be accessible from any crafting station in the same region.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Trunk Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Trunk_Icon.png]]
+| General storage chest for up to 15 items.
+|{{Item|Flitch|8}}
+{{Item|Nails|8}}
+
+{{Item|Simple iron parts|2}}
+|Improvement
+|}
+
+== Study Table ==
+The Alchemy Laboratory starts out with a study table already installed.  Most items in the game can be studied for a large number of red, green, or blue tech points and items cannot be studied more than once.  The study table requires both faith and science to operate.  Faith can be obtained by holding a sermon at the church or from confessionals, and science can be obtained from using paper, notes, or chapters in the study table.
+
+After studying an object it might say it is decomposable into a fluid, powder, or extract.  This refers to the alchemy apparatus that needs to be used to process it.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Study Table Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Study_Table_Icon.png]]
+|Used to study the world around you.
+|{{Item|Wooden plank|6}}
+{{Item|Simple iron parts|4}}
+
+{{Item|Conical flasks|3}}
+|Research
+|}
+
+== Alchemy Workbench (Tier I) ==
+Version 0.675 onward: Can be constructed. Glass Blowing II tech available which unlocks Complex Glass Cones
+
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Alchemy Workbench Tier I.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Alchemy_Workbench_Tier_I.png]]
+|Unknown
+|6x Planks
+3x Complex Iron Parts
+
+2x Complex Glass Cones
+|The Beginning of Alchemy
+|}
+
+== Alchemy Workbench (Tier II) ==
+Version 0.675 onward: Can be constructed. Glass Blowing II tech available which unlocks Complex Glass Cones
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Alchemy Workbench Tier II Icon.png|frameless]]
+|Unknown
+|6x Jointing
+2x Steel Parts
+
+3x Complex Glass Cones
+|Advanced Alchemy
+|}
+
+== Hand Mixer ==
+Decomposes suitable materials into solutions for use in [[Alchemy]].  To be used with the hand mixer a material must first be studied at the study table and have a fluid as a decomposition product.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Hand Mixer Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Hand_Mixer_Icon.png]]
+|Used to mix things into solutions.
+|6x Wooden Planks
+4x Simple Iron Parts
+
+8x Nails
+|The Beginning of Alchemy
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! Item
+! Energy
+! Result
+|-
+|Cabbage
+|5 {{Energy}}
+|Health Solution
+|-
+|Brain
+|5 {{Energy}}
+|Health Solution
+|-
+|Carrot
+|5 {{Energy}}
+|Health Solution
+|-
+|Yellow Flower
+|5 {{Energy}}
+|Life Solution
+|-
+|Maggot
+|5 {{Energy}}
+|Life Solution
+|-
+|Honey
+|5 {{Energy}}
+|Acceleration Solution
+|-
+|White Flower
+|5 {{Energy}}
+|Order Solution
+|-
+|Bee
+|5 {{Energy}}
+|Order Solution
+|-
+|Green Slime
+|5 {{Energy}}
+|Order Solution
+|-
+|Red Mushroom
+|5 {{Energy}}
+|Toxic Solution
+|-
+|Fat
+|5 {{Energy}}
+|Slowness Solution
+|-
+|Bees Wax
+|5 {{Energy}}
+|Slowness Solution
+|-
+|Bat Wings
+|5 {{Energy}}
+|Chaos Solution
+|-
+|Moth
+|5 {{Energy}}
+|Chaos Solution
+|}
+
+== Alchemy Mill ==
+Decomposes suitable materials into powders for use in [[Alchemy]].  To be used with the Alchemy Mill a material must first be studied at the study table and have a powder as a decomposition product.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Alchemy Mill Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Alchemy_Mill_Icon.png]]
+|Used to grind things into powders.
+|2x Polished Stone Bricks
+6x Wooden Planks
+
+4x Simple Iron Parts
+|The Beginning of Alchemy
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+!Item
+!Energy
+!Result
+|-
+|Cabbage
+|5 {{Energy}}
+|Health Powder
+|-
+|Pumpkin
+|5 {{Energy}}
+|Health Powder
+|-
+|Crop Waste
+|5 {{Energy}}
+|Health Powder
+|-
+|Hemp
+|5 {{Energy}}
+|Acceleration Powder
+|-
+|Honey
+|5 {{Energy}}
+|Acceleration Powder
+|-
+|Bee
+|5 {{Energy}}
+|Order Powder
+|-
+|Red Flower
+|5 {{Energy}}
+|Toxic Powder
+|-
+|Onion
+|5 {{Energy}}
+|Toxic Powder
+|-
+|Bat Wings
+|5 {{Energy}}
+|Chaos Powder
+|-
+|Butterfly
+|5 {{Energy}}
+|Chaos Powder
+|-
+|Intestine
+|5 {{Energy}}
+|Yellow Powder
+|-
+|Graphite
+|5 {{Energy}}
+|Graphite Powder
+|-
+|Bone
+|5 {{Energy}}
+|White Powder
+|}
+== Distillation Cube ==
+Decomposes suitable materials into extracts for use in [[Alchemy]].  To be used with the Distillation Cube a material must first be studied at the study table and have an Extract as a decomposition product.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Distillation Cube Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Distillation_Cube_Icon.png]]
+|Distills the extracts of things.
+|20x Pieces of Stone
+8x Complex Iron Parts
+|Advanced Alchemy
+|}
+<!--
+== Distillation Cube II ==
+Decomposes suitable materials into extracts for use in [[Alchemy]].  To be used with the Distillation Cube a material must first be studied at the study table and have an Extract as a decomposition product.
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:blank_64x64.png|frameless|link=]]
+| Distills the extracts of things.
+| 30x Pieces of Stone <br> 4x Complex Iron Parts <br> 4x Steel parts
+| 
+|}
+-->
+Products:
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+!Item
+!Result
+|-
+|Lentils
+|Health Extract
+|-
+|Yellow Flower
+|Life Extract
+|-
+|Maggot
+|Life Extract
+|-
+|White Flower
+|Order Extract
+|-
+|Green Slime
+|Order Extract
+|-
+|Onion
+|Toxic Extract
+|-
+|Bees Wax
+|Slowness Extract
+|-
+|Moth
+|Chaos Extract
+|-
+|Butterfly
+|Chaos Extract
+|}
+
+== Church Workbench ==
+Buildable in the Alchemy Lab below the Old Church, Costs 9 Flitch, 10 Nails, 4 Complex Iron Parts
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:Church Workbench Icon.png|frameless]]
+| Used to make various church related products like ink, paper, candles and incense. 
+| 9x Flitch <br> 10x Nails <br>4x Complex Iron Parts
+| Paper Crafting
+|}
+{| class="wikitable"
+! Item Produced
+! Materials Required
+! Energy
+! Notes
+|-
+| Boost Fertilizer I
+| 1x Peat <br> 1x Energy Elixer
+| 7 {{Energy}}
+| Fertilizers and their requirements are mixed up, bugged.
+|-
+| Boost Fertilizer II
+| 2x Peat <br> 2x Energy Elixer
+| 15 {{Energy}}
+| Fertilizers and their requirements are mixed up, bugged.
+|-
+| Quality Fertilizer I
+| 1x Peat <br> 1x growth enhancer
+| 7 {{Energy}}
+| Fertilizers and their requirements are mixed up, bugged.
+|-
+| Quality Fertilizer II
+| 2x Peat <br> 2x flavor enhancer
+| 15 {{Energy}}
+| Fertilizers and their requirements are mixed up, bugged.
+|-
+| 5x Ink
+| 1x Glass cone <br> 1x Water <br> 1x Black paint
+| 5 {{Energy}}
+|
+|-
+| Pen and Ink
+| 3x Pen <br> 3x Ink
+| 5 {{Energy}}
+| Pen, ink can be bought from astrologer
+|-
+| 4x Pigskin paper
+| 1x Skin
+| 5 {{Energy}}
+|
+|-
+| 4x Pigskin paper
+| 1x Pig skin
+| 5 {{Energy}}
+| Pig skin not obtainable
+|-
+| 4x Clean paper
+| 1x Pigskin paper 
+| 5 {{Energy}}
+|
+|-
+| Softcover 
+| 2x Pigskin paper
+| 10 {{Energy}}
+|
+|-
+| Hard cover (copper)
+| 1x Soft cover <br> 1x Tanning agent
+| 10 {{Energy}}
+| Tanning agent not obtainable
+|-
+| Hard cover (silver)
+| 1x Hard cover (copper) <br> 2x Silver Jewelry Details
+| 20 {{Energy}}
+|
+|-
+| Hard cover (gold)
+| 1x Hard cover (copper) <br> 2x Gold Jewelry Details
+| 20 {{Energy}}
+|
+|-
+| Hemp Rope
+| 1x Hemp (copper)
+| 5 {{Energy}}
+| No quality level selection despite quality level items. Takes any hemp quality.
+|-
+| Candle 1
+| 2x Fat <br> 2x Beeswax <br> 1x Hemp rope
+| 5 {{Energy}}
+| +1 per candle
+|-
+| Candle 2
+| 2x Fat <br> 2x Beeswax <br> 3x White paint
+| 5 {{Energy}}
+| +1.5 per candle
+|-
+| Candle 3
+| 4x Beeswax <br> 1x Hemp rope <br> 3x White paint
+| 6 {{Energy}}
+| +2 per candle
+|-
+| Incense
+| 1x Freshener
+| 5 {{Energy}}
+| +2 for 3, +3 for 5 incense 
+|-
+| Balm Liquid (blue)
+| 1x Alkali <br> 12x Water <br> 1x Glass cone
+| -
+| Alkali not obtainable.
+|-
+| Balm Liquid (yellow)
+| 1x Acid <br> 12x Water <br> 1x Glass cone
+| -
+|
+|}
+
+== Alchemy Rack ==
+[[File:Alchemy rack.gif|thumb|The alchemy rack like other decorative storage changes appearance as it gets more full.|link=alchemy rack]]
+
+Alchemy themed decorative [[storage]] structure. Like the trunk, items stored within the alchemy rack will be automatically available when in the same region.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Alchemy Rack Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Alchemy_Rack_Icon.png]]
+|Decorative Storage.
+|12x Flitch
+10x nails
+
+4x wooden beam
+|Writing Supplies
+|}
+
+== Desk ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Desk Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Desk_Icon.png]]
+|A place to write.
+|8x Flitch
+8x Nails
+|Writing
+|}
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|Paper Glop
+| -
+|5 {{Energy}}
+|Bugged
+|-
+|Notes
+|1x Story
+1x Pen and ink
+
+2x Clean Paper
+|30 {{Energy}}
+|Multiple quality levels
+|-
+|Chapter
+|3x Notes
+|20 {{Energy}}
+|Multiple quality levels, Can trick the system with the same note in all 3 slots.
+|-
+|Book_hard
+|1x Soft Cover
+1x Chapter
+|5 {{Energy}}
+|Multiple quality levels
+|-
+|Book 5x
+|1x Pen and Ink
+1x Clean Paper
+|20 {{Energy}}
+|
+|-
+|Story
+|1x Pen and ink
+1x Clean Paper
+
+3x Faith
+|50 {{Energy}}
+|Multiple quality levels
+|-
+|Prayer (various)
+|
+|
+|Bugged shows internal names and likely subject to change
+|}
+
+== Desk II ==
+same recipes as above, without the Paper Glop
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Desk II Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Desk_II_Icon.png]]
+|Used to write.
+|6x Planks
+12x Nails
+
+1x Lens
+|Writer Inspiration
+|}
+== Scrollshelf ==
+[[File:Bookshelf and Scrollshelf Sprites.png|thumb|The scrollshelf left and bookshelf right.|link=https://graveyardkeeper.gamepedia.com/File:Bookshelf_and_Scrollshelf_Sprites.png]]
+
+Version 0.674: Storage
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Scroll Shelf Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Scroll_Shelf_Icon.png]]
+| General storage chest for up to 25 items.
+|8x Flitch
+4x Simple Iron Parts
+
+12x Nails
+|Writing Supplies
+|}
+
+== Bookshelf ==
+Version 0.674: Storage
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Bookshelf Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Bookshelf_Icon.png]]
+| General storage chest for up to 25 items.
+|8x Flitch
+4x Simple Iron Parts
+
+12x Nails
+|Writing Supplies
+|}
+== Printing Press ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Printing Press Icon.png|frameless]]
+|Used to print the same thing many times.
+|x6 Wooden Planks
+
+x4 Simple Iron Parts
+
+x12 Nails
+|A Simple Printing Press
+|}
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|flyer 10x
+|Ink, Clean paper 2x
+|10 energy
+|
+|}
+
+''Note:Can't be worked on to complete project.''
+
+== Printing Press II ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Printing Press II Icon.png|frameless]]
+|Used to print the same thing many times and better than before.
+|10x Wooden Planks
+
+4x Complex Iron Parts
+
+18x Nails
+|Complex Printing Press
+|}
+
+''Note:Contains no Recipes.''
+
+= Garden (Orchard) =
+This is where trees and shrubs can be planted. Not to be confused with the kitchen garden. 
+== Place for the berry bush ==
+Plant a berry bush, berry bush seedlings can be bought from [[Clotho]].
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Place for the Berry Bush Icon.png|frameless]]
+|Plant a berry bush in your garden.
+|1x [[Bush berry seedling|Bush Berry Seedling]]
+
+3x [[Peat]]
+
+1x [[Sticks]]
+|Transplanting
+|}
+
+== Place for the apple tree ==
+Plant an apple tree, apple seedlings can be bought from [[Clotho]].
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Place for the Apple Tree Icon.png|frameless]]
+|Plant an apple tree in your garden.
+|1x [[Tree apple seedling]]
+
+3x [[Peat]]
+
+1x [[Sticks]]
+|Transplanting
+|}
+
+= Kitchen Garden =
+== Trunk ==
+Used as general storage items inside of a trunk will be accessible from any crafting station in the same region.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Trunk Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Trunk_Icon.png]]
+|General storage chest.
+|8x Flitch
+8x Nails
+
+2x Simple Iron Parts
+|Improvement
+|}
+
+== Empty garden bed ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Empty Garden Bed Icon.png|frameless]]
+|Used to plant crops.
+|None
+|Garden Beds
+|}
+[[File:Crops and Fertilizer.png|thumb|A section of the garden showing several of the crops that can be grown and an empty fertilized garden bed.]]
+Fertilizing a garden bed will place signs which make it untraversable from the north and south directions, but still pathable from the west and east.
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|Pumpkin
+|4x Pumpkin Seed
+|0 {{Energy}}
+|Purchased from the Farmer.
+|-
+|Onion
+|4x Onion Seed
+|0 {{Energy}}
+|Purchased from the Farmer.
+|-
+|Beet
+|4x Beet Seed
+|0 {{Energy}}
+|Purchased from the Farmer.
+|-
+|Cabbage
+|4x Cabbage Seed
+|0 {{Energy}}
+|Purchased from the Farmer.
+|-
+|Carrot
+|4x Carrot Seed
+|0 {{Energy}}
+|Purchased from the Farmer.
+|-
+|Wheat
+|4x Wheat Seed
+|0 {{Energy}}
+|Purchased from the Farmer.
+|}Seeds of different qualities cannot be used together to plant a single garden bed.
+
+== Garden bed with sticks ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Garden Bed with Sticks Icon.png|frameless]]
+|Used to plant crops that require support.
+|5x Sticks
+|Improvement
+|}
+Unlike garden beds garden beds with sticks cannot be walked through.  It is important to be careful when building them as they can trap you or make pathing through the garden to certain plots impossible.
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|Lentils
+|4x Lentil Seeds
+|0 {{Energy}}
+|Purchased from the Farmer.
+|}
+Seeds of different qualities cannot be used together to plant a single garden bed.
+<!--
+== Scarecrow ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:blank_64x64.png|frameless|link=]]
+| 
+| 4x Wooden stick <br> 4x Flitch
+| 
+|}
+-->
+= Vineyard =
+
+== Vineyard Workbench==
+Starts destroyed and must be repaired to use the buildable area in the Vineyard.
+
+== Trellis ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Garden Bed with Sticks Icon.png|frameless]]
+|Used to plant in the Vineyard.
+|5x Sticks
+|Grape Farming
+|}
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|Grapes
+|4x Grape Seeds
+|0 {{Energy}}
+|Purchased from the Merchant
+|-
+|Hops
+|4x Hop Seeds
+|0 {{Energy}}
+|Purchased from the Merchant
+|}
+
+= Bee Garden =
+
+== Beekeeper Workbench==
+Used to create beehives. 7 spots are available.  Cannot be repaired until 'The Domestication of Bees' has been researched.  The workbench has the area labeled as Repair in it's menu.
+==Bee hive==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Bee Hive Icon.png|frameless]]
+|A small Hive box.
+|4x Flitch
+6x Nails
+
+10x Bees
+|The Domestication of Bees
+|}
+It takes 5 energy to harvest honey, honeycombs and bees from the hive compared to the 10 energy for wild hives.
+
+= Cellar =
+== Blueprint desk ==
+Used to build structures
+
+== Trunk ==
+Used as general storage items inside of a trunk will be accessible from any crafting station in the same region.
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Trunk Icon.png|frameless|link=https://graveyardkeeper.gamepedia.com/File:Trunk_Icon.png]]
+|General storage chest.
+|8x Flitch
+8x Nails
+
+2x Simple Iron Parts
+|Improvement
+|}
+
+== Vine Press ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Vine Press Icon.png|frameless]]
+|Presses fruit into juice for fermentation into wine.
+|12x Flitch
+4x Complex Iron Parts
+10x Pieces of Stone
+|Winemakeing
+|}
+NOTE: This table is correct. The recipes are wrong.
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|Bucket of juice
+|10x Apple
+|5 {{Energy}}
+|Needs fermentation in the barrel
+|-
+|Pail of apple juice
+|25x Berry
+|5 {{Energy}}
+|Needs fermentation in the barrel
+|-
+|Pail of berry juice
+|15x Grapes
+|5 {{Energy}}
+|Needs fermentation in the barrel. Multiple quality levels.
+|-
+|2x Seed oil
+|4x Bronze-rated hemp 
+|5 {{Energy}}
+|Flask, not oil item. No quality levels implemented (yet?)
+|}
+
+== Brewing Stand ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Brewing Stand Icon.png|frameless]]
+|A container for fermenting and crudely distilling mash into Wort.
+|24x Pieces of Stone
+4x Simple Iron Parts
+|Brewing
+|}
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|Wort
+|3x Bucket of clear water
+20x Bronze-rated hops 
+5x wheat
+| -
+|No quality levels implemented (yet?)
+|}
+Note: use the bucket of wort to obtain beer x5. Each restores 10hp and 15 energy.
+
+== Winemaking barrel ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Winemaking Barrel Icon.png|frameless]]
+|A barrel for fermenting wine.
+|12x Flitch
+5x Iron Parts
+
+7x Nails
+|Winemakeing
+|}
+
+Yield: 20 bottles of wine. 
+
+Silver grape juice >> Silver wine: Restores 35 HP + 100 energy
+
+= Church =
+[[File:Church prepared for service.png|thumb|A small church with the candles lit in preparation for a sermon.]]
+
+== Wooden Church Shrine ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Wooden Church Shrine Icon.png|frameless]]
+|A small wooden shrine.
+|4x Wooden Beams
+4x Wooden Planks
+
+4x Simple Iron Parts
+|Power of Faith
+|}
+Increases church rating by 5 {{Church Rating}}.<br>
+On event gives 1[[File:Faith.png|24px|link=Faith]]Faith and 1 Copper Story 
+<!--
+== Stone Church Shrine ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:blank_64x64.png|frameless|link=]]
+| A small stone shrine.
+| 4x Wooden beams <br> 2x A carved piece of marble <br> 4x Complex iron parts
+| Superpower of faith
+|}
+Increases church rating by 6 {{Church Rating}}.<br>
+On event gives 2[[File:Faith.png|24px|link=Faith]]Faith and 1 Gold Story 
+-->
+
+== Candelabra I ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Chandelier I Icon.png|frameless]]
+|A small iron candle holder.
+|6x Simple Iron Parts
+|Light of Faith
+|}
+Increases church rating by 1 {{Church Rating}}.  Burning a candle will increase the bonus for a day.
+
+== Candelabra II ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Chandelier II Icon.png|frameless]]
+|A small holder for two candles.
+|4x Simple Iron Parts
+4x Complex Iron Parts
+|Illumination of Faith
+|}
+Increases church rating by 2 {{Church Rating}}.  Burning a 2 candles will increase the bonus for a day.
+<!--
+== Chandelier III ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:blank_64x64.png|frameless|link=]]
+| A small holder for two candles.
+| 10x Complex Iron Parts <br> 4x Silver jewelry details
+| Shining of faith
+|}
+Increases church rating by 3 {{Church Rating}}.  Burning a 3 candles will increase the bonus for a day.
+-->
+== Incense burner ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Incense Burner Icon.png|frameless]]
+|A small table for burning incense.
+|12x Polished brick of stone
+4x Simple Iron Parts
+|Smell of Faith
+|}
+Increases church rating by 1 {{Church Rating}}. Burn 3 incense to increase the rating for a day.
+<!--
+== Incense burner II ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:blank_64x64.png|frameless|link=]]
+| A medium table for burning incense.
+| 12x Simple iron parts <br> 6x Polished brick of marble <br> 4x Complex iron parts
+|Smell of Faith
+|}
+Increases church rating by 3 {{Church Rating}}. Burn 5 incense to increase the rating for a day.
+-->
+== Confessional ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Confessional item.png|64px]]
+|A wooden booth for confessing one's sins.
+|12x Wooden Planks
+4x Complex Iron Parts
+|Power of Faith
+|}
+Increases church rating by 5 {{Church Rating}}. Occasional event gives 1 Faith and 1 Story. Can build 2 total in the starting church.
+<!--
+== Confessional II ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:Confessional II item.png|64px]]
+| A wooden booth for confessing one's sins.
+| 14x Wooden planks <br> 4x Wooden construction <br> 6x Complex iron part
+| 
+|}
+Increases church rating by 4 {{Church Rating}}. Occasional event gives 1 Faith and 1 Story.
+-->
+
+== Church Bench ==
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Church Bench Icon.png|frameless]]
+|Uncomfortable pew seating for your congregation.
+|6x Wooden Planks
+4x Nails
+|Comfort of Faith
+|}
+Increases church rating by 1 {{Church Rating}}. Can place 6 total in the starting church.
+<!--
+== Church Bench II ==
+{| class="wikitable"
+! Icon
+! Description
+! Ingredients
+! Recipe Source
+|-
+| [[File:blank_64x64.png|frameless|link=]]
+| 
+| 8x Wooden planks <br> 4x Wooden construction <br> 4x Complex iron part
+| Softness of faith
+|}
+Increases church rating by 3 {{Church Rating}}.
+-->
+
+= Other locations & repairable items =
+Clear the path - Northeast of Workyard: 2x Flitch, 2x Complex Iron Parts, 10x WoodWedges
+
+Swamp Bridge - Shortcut to Witch: 6x Flitch, 3x Wooden Plank, 10x Nails
+
+Clear the path - Cellar: 10x wood wedge, 2x wooden plank, 4x simple iron parts
+
+Clear the path - Morgue: Clear path: 10x wood wedge, 2x wooden beam, 4x simple iron parts
+
+Fix Throw Out Corpse: 2x a piece of stone, 8x simple iron parts - Must do this twice, both outside &  inside the Morgue
+
+Stone Bridge - west river: 1x wooden plank, 8x flitch, 12x nails, 20 energy
+
+North Hill - forest by the river: 3 Nitroglycerine
+
+Swamp - forest by the river: 3 Nitroglycerine

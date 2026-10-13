@@ -1,0 +1,23 @@
+{{Item Infobox
+|image={{PAGENAME}}.png
+|name={{PAGENAME}}
+|source=[[Donkey]]
+|type=Quest item
+}}
+
+{{quote|They're readable. Not masterpiece but written with feeling.|Item description}}
+The '''{{PAGENAME}}''' item is part of the [[Game of Crone]] DLC. It is obtainable through the [[Donkey|donkey's]] questline. It can be crafted infinitely before being given to the donkey in the quest line, but provides no other value and cannot be destroyed.
+
+
+'''When used keeper says:''' 
+
+"Dishonest people shouldn't be rich. And honest people are allowed to be rich. And dishonest." 
+
+"Those who have plenty are not wealthy. It's those who give that are truly wealthy. Those who give a lot!" 
+
+"There're few people who can tolerate wealth. Other people's wealth, that is."
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Stubs]]
+[[Category:Quest items]]
+[[Category:Game of Crone]]

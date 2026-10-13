@@ -1,0 +1,50 @@
+<!-- Needs better infobox image -->
+{{stub}}
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} item.png
+|location   = [[Cellar]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+
+
+<!-- placeholder
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|?|?}}
+|
+|
+|-
+|}
+
+==Recipes==
+{| class = "wikitable" style = "width:50em"
+!colspan = "4" style = "text-align:center;"| {{Item|?}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|?|?}}
+|{{Item|?|?}}
+|{{Energy}}?
+|
+|}
+-->
+
+{{Navbox-Cellar}}
+[[Category:Workstations]]
+
+[[Category:Cellar workstations]]
+[[Category:Image requested]]

@@ -1,0 +1,5 @@
+{{stub}}
+Used to advance in the [[Astrologer|Astrologer's]] quest. If you received this quest you need to first give [[acid]] to the [[Astrologer]]. 
+
+At 40 {{Happiness}} [[Snake]] will give you '''{{item|Restoration tools}}''' for the questline of the [[Astrologer]].
+After gaining the Ms charm's trust, talk to the mouse and he will give you the repair tool.

@@ -1,0 +1,55 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = energy_elixir
+| study        = 
+| alchemy      = 
+| source       = [[Alchemy]]
+| cost         = 
+| quest        =  
+}}
+
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier I)]] and is used in the production of [[Farming#Fertilizer|fertilizer]]. 
+
+== Recipe ==
+
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Acceleration powder|1}}
+{{Item|Slowing solution|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Slowing powder|1}}
+{{Item|Acceleration solution|1}}
+|}
+
+== Crafting ==
+
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |[[Church workbench]]
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Boost fertilizer I|10}}
+|{{Item|{{PAGENAME}}|1}}
+{{Item|peat|10}}
+|-
+|{{Item|Boost fertilizer II|10}}
+|{{Item|{{PAGENAME}}|2}}
+{{Item|peat|10}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+
+[[pt-br:Elixir de energia]]
+[[es:Elixir enérgico]]

@@ -1,0 +1,100 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = chisel_2
+| study        = {{Techpoint|Red|50}}
+
+| source       = [[Carpenter's workbench]] <br> [[Carpenter's workbench II]]
+| cost         = 350
+| stacksize    = 1
+| quest        =  
+}}
+A <b>{{lc:{{PAGENAME}}}}</b> is a degradable piece of equipment, used to refine various resource materials. 
+
+Each use costs 10% durability, before it is eventually destroyed, and further refinement requires that another be crafted. Exception is the [[Steel chisel]] upgrade craft which consumes the chisel ingredient and replaces it with a chisel at full durability.
+
+It is one of the few craftable items to have various qualities, which in turn has an effect on the resource materials it refines. Alternatively, a {{Quality|gold}} quality chisel may be sold to [[Tress]], without durability factoring in.
+
+==Quality Levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Steel_chisel_item.png|quality = copper}}
+|{{Quality Sprite|image = Steel_chisel_item.png|quality = silver}}
+|{{Quality Sprite|image = Steel_chisel_item.png|quality = gold}}
+|}
+
+==Recipe==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Producted
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1|copper}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel parts|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|{{PAGENAME}}|1|silver}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel parts|1}}<br>{{Item|Lens|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|{{PAGENAME}}|1|animation}} upgrade
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Steel parts|1}}<br>{{Item|Lens|1}}
+|{{Energy|-|5}}
+|}
+
+==Study==
+[[File:Update Alert.png|link=|frameless]] <i>Note: Upon studying, this item's durability is restored to 100%. This is presumed to be a bug.</i>
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Producted
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|A carved piece of marble|1|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Faith|5}}
+|{{Energy|-|20}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench II}}
+|-
+!Item Producted
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Carved wood|1|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Wooden plank|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|12}}
+|}
+
+==See Also==
+*{{Item|Iron chisel}} - a lesser alternative, in regards to [[Carved wood|wood]].
+*{{Item|Pen and ink}} - a somewhat similar degradable piece of equipment.
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]
+[[es:Cincel de hierro]]

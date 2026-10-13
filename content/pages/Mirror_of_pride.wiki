@@ -1,0 +1,27 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = 
+| source       = 
+| quest        =
+}}
+
+The Mirror of Pride is an Item obtained from the [[Bishop]] upon finishing his questline. It is one of the items required to complete the Emitter portion of the [[portal]] on Witch Hill.
+
+
+{| class="wikitable"
+![[Blueprints]]
+![[Items]]
+|-
+|[[File:Emitter item.png|center|80px|Emitter]]
+|
+{{Item|Salty fork|1}}<br>{{Item|Mirror of pride|1}}<br>{{Item|Eternal burning coal|1}}
+|-
+
+
+{{Navbox-Quest}}
+[[Category:Quest items]]
+
+[[ru:Зеркало гордости]]

@@ -1,0 +1,15 @@
+{{stub}}
+
+{{NPC Infobox
+| name     = Barman
+| image    = Barman.png
+| day      = 
+| location = [[Talking Skull]]
+| vendor   = Food
+| role     = Bartender
+}}
+Barman is an [[NPCs|NPC]] created to run the [[Talking Skull]] Tavern. He is crafted from the [[Barman Doll]] which can be created at the [[Carpenter's workbench II]]. Once created and placed behind the tavern's bar, it becomes inhabited by the ghost named [[Yorick]], who you've hired (for no pay) to sell food and drinks for you.
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]

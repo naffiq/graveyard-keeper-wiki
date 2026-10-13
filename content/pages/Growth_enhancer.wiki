@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = growth_enhancer
+| study        = 
+| alchemy      = 
+| source       = [[Alchemy]]
+| stacksize    = 10
+| cost         = 
+| quest        =  
+}}
+
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier I)]] and is used in the production of [[Farming#Fertilizer|fertilizer]]. 
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Ash|1}}
+{{Item|Life solution|1}}
+|}
+
+== Crafting ==
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Church workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Quality fertilizer I|10}}
+|{{Item|{{PAGENAME}}|1}}
+{{Item|peat|10}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+
+[[pt-br:Intensificador de crescimento]]
+[[es:Potenciador del crecimiento]]

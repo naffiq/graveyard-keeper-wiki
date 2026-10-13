@@ -1,0 +1,204 @@
+{{NPC Infobox
+| name     = Farmer
+| image    = Farmer.png
+| day      = 
+| location = [[Wheat Farm]]
+| vendor   = Seeds and Crops
+| role     = Farmer
+|money=90|income=10}}
+The farmer is an [[NPC]] located south of the wheat fields, west of the [[village]]. In [[Stranger sins]] it is made known that the farmer was married to one of the three priestesses of the ancient god. 
+
+==Quests==
+===Let Alisa go===
+
+[[Ms. Charm]] wants Alisa, the farmer's daughter, to accompany her to the King's palace in [[town]]. When the farmer first says no, his [[Farmer's Son|son]] bids you to fix the mill of his [[miller|uncle]] for this. After having done so, you return to the farmer for 10 {{happiness}} and Alisa's Paper.
+
+=== The Legionary Helm (Stranger Sins DLC) ===
+Asked by [[Gerry]] to get the Legionary Helm from the Farmer's house.  The Farmer will scoff and tell you to impress him by bringing him a carrot as big as a log!  
+
+You ask for [[Clotho|Clotho's]] help, and after flirting with you, she agrees on the condition you get her a date with [[Cory]] (the Stonemason, in the NW corner of the village).  
+
+Cory is not interested, so you'll ask his brother [[Tress]] (the Carpenter, straight East of Cory) who will tell you his brother can't resist a lucrative business deal!  Return to Cory and offer to introduce him to a supplier who can produce exclusive magical potions (i.e. Clotho).  Cory jumps at the opportunity!
+
+Return to Clotho ('''don't forget to bring her a carrot''') and tell her the good news.  She'll magic your carrot into a log-sized vegetable you can carry back to the farmer as though it were a log.  The Farmer is impressed and agrees to let you into his house.  You gain 20 {{happiness}}.  
+
+This should bring you to a total of 30 {{happiness}} with the Farmer (assuming you've done the ''Let Alisa Go'' quest already).  HOWEVER!  Access to the house requires 40 {{happiness}} !  While this may seem like a bug, it's not quite.  
+
+Go home and sleep in a bed.  When you wake, the Farmer is at your door, expressing his gratitude to you for keeping his son's dirty secret (the wine flask quest you did earlier).  While his family values are questionable, he's nonetheless impressed enough to raise his {{happiness}} another 20, which should now total up to 50{{happiness}} .  
+
+You may get another blocking message saying "It's wrong to break into people's houses at night" (even thought it is clearly daytime).  Wait another day, until the farmer exits his house in the late morning, then enter the house, find the helmet in a chest beside the bed, and take it back to [[Gerry]]. The chest also contains 
+{{cols|3|
+* {{Item|Baked pumpkin|2|silver}}
+* {{Item|Vegetable soup|1|silver}}
+* {{Item|Pumpkin soup|3|silver}}
+* {{Item|Boost fertilizer II|6}}
+* {{Item|Quality fertilizer II|4}}
+* {{Item|Lentils|12|silver}}
+* {{Item|Pumpkin|8|copper}}
+* {{Item|Onion seed|10|silver}}
+* {{Item|Carrot seed|14}}
+}}
+
+==Trades==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Beet}}
+|10
+|{{Money|16}}
+|-
+|{{Item|Cabbage}}
+|30
+|{{Money|10}}
+|-
+|{{Item|Carrot}}
+|30
+|{{Money|10}}
+|-
+|{{Item|Crop waste}}
+|50
+|{{Money|1}}
+|-
+|{{Item|Beet seed}}
+|8
+|{{Money|12}}
+|-
+|{{Item|Flour}}
+|100
+|{{Money|12}}
+|-
+|{{Item|Cabbage seed}}
+|29
+|{{Money|9}}
+|-
+|{{Item|Carrot seed}}
+|29
+|{{Money|9}}
+|-
+|{{Item|Wheat seed}}
+|29
+|{{Money|9}}
+|-
+|{{Item|Firewood}}
+|2
+|N/A
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Lentils||silver}}
+|5
+|{{Money|26}}
+|-
+|{{Item|Pumpkin||copper}}
+|10
+|{{Money|22}}
+|-
+|{{Item|Lentils||copper}}
+|10
+|{{Money|18}}
+|-
+|{{Item|Onion||silver}}
+|5
+|{{Money|24}}
+|-
+|{{Item|Lentil seed||silver}}
+|8
+|{{Money|19}}
+|-
+|{{Item|Onion seed||silver}}
+|8
+|{{Money|18}}
+|-
+|{{Item|Onion||copper}}
+|10
+|{{Money|16}}
+|-
+|{{Item|Pumpkin seed||copper}}
+|8
+|{{Money|16}}
+|-
+|{{Item|Lentil seed||copper}}
+|8
+|{{Money|13}}
+|-
+|{{Item|Onion seed||copper}}
+|8
+|{{Money|12}}
+|-
+|{{Item|Wheat}}
+|10
+|{{Money|10}}
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Pumpkin||silver}}
+|5
+|{{Money|33}}
+|-
+|{{Item|Pumpkin seed||silver}}
+|8
+|{{Money|24}}
+|}
+|}
+
+===Purchasing===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed<br>per Week
+|-
+|{{Item|Beet}}
+|{{Money|11}}
+| 6 down to 10
+|-
+|{{Item|Cabbage}}
+|{{Money|8}}
+| 6 down to 31
+|-
+|{{Item|Carrot}}
+|{{Money|8}}
+| 6 down to 31
+|-
+|{{Item|Flour}}
+|{{Money|9}}
+| 6 down to 104
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+| 
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+
+<!-- Wiki Language Connection -->
+[[de:Bauer]]
+[[es:Granjero]]
+<!--[[en:Farmer]]-->
+[[fr:Fermier]]
+[[ja:農夫（NPC）]]
+[[ru:Фермер]]
+[[Category:Stranger Sins]]

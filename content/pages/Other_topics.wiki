@@ -1,0 +1,31 @@
+These are pages linked with specific common tasks or otherwise connected themes within the game.
+==Alchemy==
+[[Alchemy]] is linked with the production and use of powders, solutions, extracts, and other substances to produce more complex products.
+
+==Fishing==
+[[Fishing]] is related to the various factors related to catching fish.
+
+==Sermon==
+[[Sermon]]s are the presentations the player can give in the church once it is unlocked. 
+
+==Corpse==
+[[Corpse]]s have an internal rating, many usable operations, and undergo constant decay.  This page gives an overview of how these factors interact.
+
+==Farming== 
+[[Farming]] is related to yields, rates, and qualities of crops and what modifies them.  As well as where and how things must be grown.
+
+==Cooking==
+[[Cooking]] is related to the preparation of food using the [[oven]] and the [[cooking table]].
+
+==Storage==
+[[Storage]] discusses how the various in game inventories and stockpiles interact and their capacities.
+
+==Mining==
+[[Mining]] is an overview of where to find various ores, stones, and other resources extracted from the earth.
+
+==Currency==
+[[Currency]] is a page dedicated to the discussion of the games money and how prices can vary from the established base price.
+[[Category:Main Pages]]
+
+[[pt-br:Outros tópicos]]
+[[es:Otros temas]]

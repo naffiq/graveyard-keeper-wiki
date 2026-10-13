@@ -1,0 +1,114 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Alchemy Lab]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Distillate]]
+|related    = [[Alchemy]]
+|footprint  = 4x3
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} distills substances into extracts for use in [[alchemy]].  A substance cannot be processed in the {{lcfirst:{{PAGENAME}}}} until it has been researched at the [[study table]]. After, it lists decomposition products and anything that lists an essence as one of its decomposition products and can be processed in the {{lcfirst:{{PAGENAME}}}}. Using the Distillation Cube II yields more material than Tier 1 and is considerably faster.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A piece of stone|30}}
+{{Item|Complex iron parts|4}}
+{{Item|Steel parts|4}}
+|{{Energy|-|6}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)#Distillate|Distillate]]
+|}
+
+==Recipes==
+{| class = "wikitable"
+!colspan="3"|Elements
+|-
+!style="width:15em;"| Item Produced
+!style="width:15em;"| Materials Required
+!style="width:5em;"| Time
+|-
+|{{Item|Acceleration extract|3}}
+|{{Item|Hemp|1}}
+|1:00
+|-
+|{{Item|Acceleration extract|3}}
+|{{Item|Blue jelly|1}}
+|1:00
+|-
+|{{Item|Chaos extract|2}}
+|{{Item|Moth|1}}
+|1:00
+|-
+|{{Item|Chaos extract|2}}
+|{{Item|Butterfly|1}}
+|1:00
+|-
+|{{Item|Death extract|3}}
+|{{Item|Black jelly|1}}
+|1:00
+|-
+|{{Item|Death extract|3}}
+|{{Item|Dark heart|1}}
+|1:00
+|-
+|{{Item|Health extract|3}}
+|{{Item|Lentils|1|animation}}
+|1:00
+|-
+|{{Item|Health extract|3}}
+|{{Item|Pumpkin|1|animation}}
+|1:00
+|-
+|{{Item|Life extract|3}}
+|{{Item|Heart|1}}
+|1:00
+|-
+|{{Item|Life extract|2}}
+|{{Item|Maggot|1}}
+|1:00
+|-
+|{{Item|Life extract|2}}
+|{{Item|Yellow flower|1}}
+|1:00
+|-
+|{{Item|Order extract|3}}
+|{{Item|Green jelly|1}}
+|1:00
+|-
+|{{Item|Order extract|2}}
+|{{Item|White flower|1}}
+|1:00
+|-
+|{{Item|Slowing extract|3}}
+|{{Item|Beeswax|1}}
+|1:00
+|-
+|{{Item|Slowing extract|2}}
+|{{Item|Spider web|1}}
+|1:00
+|-
+|{{Item|Toxic extract|3}}
+|{{Item|Onion|1|animation}}
+|1:00
+|-
+|{{Item|Toxic extract|2}}
+|{{Item|Orange jelly|1}}
+|1:00
+|-
+!colspan="3"|Unimplemented
+|-
+|{{Item|Health extract|?}}
+|{{Item|Nori|1}}
+|1:00
+|}
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]

@@ -1,0 +1,39 @@
+{{NPC Infobox
+| name     = Fresh Eggs
+| image    = Fresh Egg Basket.png
+| day      = 
+| location = [[Village]]
+| vendor   = Eggs and Feathers
+| money    = 175
+| role     = Holding Eggs
+}}
+A basket of eggs and feathers with some exchange money, based on the honor system. It can be found three houses over to the right of the tavern.
+
+==Trading==
+===Selling===
+{| Class = "wikitable" 
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Feather}}
+|10
+|{{Money|20}}
+|-
+|{{Item|Chicken egg}}
+|5
+|{{Money|10}}
+|}
+
+===Purchasing===
+{| class = "wikitable"
+!Item
+!Base Price
+|-
+|{{Item|Feather}}
+|{{Money|14}}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]

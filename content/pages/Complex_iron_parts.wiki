@@ -1,0 +1,302 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = detail_2
+| study        = {{Techpoint|Red|20}}
+| source       = [[Anvil]], [[Anvil II]]
+| buy          = [[Krezvold|Krezvold (T II)]]
+| sell         = [[Krezvold|Krezvold (T II)]]
+| cost         = 120
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> are an intermediate crafting resource used to make many later tier workstations, resources, and equipment.  They can be made from [[iron ingot]]s and [[simple iron parts]] at either metal [[anvil]], or purchased from the blacksmith [[Krezvold]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Anvil}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|1}}
+|{{Energy|-|15}}<br>{{Techpoint|Red|3}}
+|-
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|1}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|3}}
+|-
+!colspan="3"|+1x Product from [[File:Blacksmith Perk.png|32x32px|link=Perks|Blacksmith Perk]] [[Perks|Blacksmith Perk]]
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="mw-collapsible mw-collapsed wikitable" style="width:35em"
+!colspan="2"|Crafting Recipes
+|-
+!colspan="2"|{{Item|Anvil}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|Rusty hammer|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Iron ingot|1}}
+|-
+!colspan="2"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|Shovel II|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel ingot|1}}
+|-
+|{{Item|Axe II|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel ingot|1}}
+|-
+|{{Item|Pickaxe II|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|{{PAGENAME}}|3}}<br>{{Item|Steel ingot|1}}
+|-
+|{{Item|Iron hammer|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel ingot|1}}
+|-
+|{{Item|Sword|1}}
+|{{Item|Iron ingot|1}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Hemp rope|2}} 
+|-
+!colspan="2"|{{Item|Circular saw}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|Wooden beam|3}}
+|{{Item|Log|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Steel armor|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|{{PAGENAME}}|5}}
+|-
+|{{Item|Jointing|1}}
+|{{Item|Wooden beam|1}}<br>{{Item|Nails|2}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Stone cutter}} / {{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|Marble repair kit|4}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Clay|1}}
+|-
+!colspan="2"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|Stone cross|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Stone cross II|1}}
+|{{Item|A polished brick of stone|3}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Stone plinth|1}}
+|{{Item|A carved piece of stone|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Stone sculpture|1}}
+|{{Item|A carved piece of stone|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Marble cross|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Marble cross II|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|silver}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Marble plinth|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|silver}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Marble sculpture|1}}
+|{{Item|A carved piece of marble|1|silver}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Faith|5}}
+|-
+|{{Item|Marble sculpture II|1}}
+|{{Item|A carved piece of marble|1|silver}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Faith|5}}
+|}
+
+==Building==
+{|class="mw-collapsible mw-collapsed wikitable" style="width:35em"
+!colspan="2"|Building Recipes
+|-
+! colspan = "2" |[[file:mortuary workbench.png|41x41px|link=Morgue]] [[Morgue]]
+|-
+!Blueprints
+!Materials Required
+|-
+|[[File:Preparation place item.png|80x80px|link=Preparation place]] [[Preparation place]]
+|{{Item|Flitch|12}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|8}}
+|-
+|[[File:Embalming table item.png|80x80px|link=Embalming table]] [[Embalming table]]
+|{{Item|Wooden plank|8}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|6}}
+|-
+|[[File:Fridge pallet item.png|80x80px|link=Fridge pallet]] [[Fridge pallet]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|12}}<br>{{Item|Complex iron parts|5}}
+|-
+|[[File:Resurrection table item.png|80px|link=Resurrection table]] [[Resurrection table]]
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|4}}
+|-
+! colspan = "2" |[[Alchemy Lab]]
+|-
+!Blueprints
+!Materials Required
+|-
+|[[File:Alchemy workbench (tier I) item.png|80x80px|link=Alchemy workbench (tier I)]] [[Alchemy workbench (tier I)]]
+|{{Item|Wooden plank|6}}<br>
+{{Item|Complex iron parts|3}}<br>
+{{Item|Advanced conical flasks|2}}
+|-
+|[[file:Distillation cube item.png|80x80px|link=Distillation cube]] [[Distillation cube]]
+|{{Item|A piece of stone|20}}
+{{Item|Complex iron parts|8}}
+|-
+|[[File:Church workbench item.png|80x80px|link=Church workbench]] [[Church workbench]]
+|{{Item|Flitch|9}} <br> {{Item|Nails|10}} <br> {{Item|Complex iron parts|4}}
+|-
+|[[file:Printing press II item.png|80x80px|link=Printing press II]] [[Printing press II]]
+|{{Item|Wooden plank|10}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|18}}
+|-
+|[[file:upgrade item.png|80x80px|link=Printing press]] Upgrade from Printing press to Printing press II
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Nails|6}}
+|-
+|[[file:Random text generator item.png|80x80px|link=Random text generator]] [[Random text generator]]
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Pen and ink|1}}
+|-
+! colspan = "2" |[[File:Cellar icon.png|41x41px|link=Cellar]] [[Cellar]]
+|-
+!Blueprints
+!Materials Required
+|-
+|[[file:Vine press item.png|80x80px|link=Vine press]] [[Vine press]]
+|{{Item|Flitch|12}}<br>
+{{Item|Complex iron parts|4}}<br>
+{{Item|A piece of stone|10}}
+|-
+|[[file:Alcohol distiller item.png|80x80px|link=Alcohol distiller]] [[Alcohol distiller]]
+|{{Item|A piece of stone|20}}<br>
+{{Item|Complex iron parts|8}}<br>
+{{Item|Flitch|12}}
+|-
+|[[file:Zombie-brewery icon.png|80x80px|link=Zombie-brewery]] [[Zombie-brewery]]
+|{{Item|A piece of stone|32}}<br>{{Item|Simple iron parts|12}}<br>{{Item|Complex iron parts|4}}
+|-
+! colspan = "2" |[[Church]]
+|-
+!Blueprints
+!Materials Required
+|-
+|[[file:Stone church shrine item.png|80x80px|link=Stone church shrine]] [[Stone church shrine]]
+|{{Item|Wooden beam|4}} <br> {{Item|A carved piece of marble|2|copper}} <br> {{Item|Complex iron parts|4}}
+|-
+| [[file:Candelabra III item.png|80x80px|link=Candelabra II]] [[Candelabra II]]
+|{{Item|Simple iron parts|4}}
+{{Item|Complex iron parts|4}}
+|-
+| [[file:Candelabra III item.png|80x80px|link=Candelabra III]] [[Candelabra III]]
+|{{Item|Complex iron parts|10}}
+{{Item|Gold jewelry details|2}}
+|-
+|[[file:Wall candelabra II item.png|80x80px|link=Wall candelabra II]] [[Wall candelabra II]]
+| {{Item|Simple iron parts|4}} <br> {{Item|Complex iron parts|4}}
+|-
+|[[file:Wall candelabra II item.png|80x80px|link=Wall candelabra III]] [[Wall candelabra III]]
+|{{Item|Complex iron parts|10}}
+{{Item|Gold jewelry details|2}}
+|-
+|[[file:Incense burner II item.png|80x80px|link=Incense burner II]] [[Incense burner II]]
+| {{Item|Simple iron parts|4}} <br> {{Item|A polished brick of marble|4}} <br> {{Item|Complex iron parts|4}}
+|-
+|[[file:Confessional item.png|80x80px|link=Confessional]] [[Confessional]]
+|{{Item|Wooden plank|12}}
+{{Item|Complex iron parts|4}}
+|-
+|[[file:Confessional II item.png|80x80px|link=Confessional II]] [[Confessional II]]
+|{{Item|Wooden plank|12}}
+{{Item|Jointing|2}}
+{{Item|Complex iron parts|4}}
+|-
+|[[file:stained glass window item.png|80x80px|link=Stained glass window]] [[Stained glass window]]
+| {{Item|Glass|4}} <br> {{Item|Complex iron parts|5}} <br> {{Item|Gold jewelry details|2}}
+|-
+! colspan = "2" |[[The Graveyard]]
+|-
+!Blueprints
+!Materials Required
+|-
+|[[file:Build stone fence item.png|80x80px|link=Build stone fence]] [[Build stone fence]]
+|{{Item|A polished brick of stone|24}}<br>
+{{Item|A carved piece of stone|2}}<br>
+{{Item|Complex iron parts|12}}
+|-
+! colspan = "2" |[[Workyard]]
+|-
+!Blueprints
+!Materials Required
+|-
+|[[file:i_b_scale.png|80x80px|link=Increase yard space]] [[Increase yard space]]
+|{{Item|Complex iron parts|10}}<br>
+{{Item|Wooden plank|8}}<br>
+{{Item|Nails|4}}
+|-
+|[[file:Furnace II item.png|80x80px|link=Furnace II]] [[Furnace II]]
+|{{Item|A piece of stone|20}}<br>{{Item|Complex iron parts|8}}<br>{{Item|Pigskin paper|2}}
+|-
+|[[file:upgrade item.png|80x80px|link=Furnace]] Upgrade from Furnace to Furnace II
+|{{Item|A piece of stone|6}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Pigskin paper|2}}
+|-
+|[[file:Furnace III item.png|80x80px|link=Furnace III]] [[Furnace III]]
+|{{Item|A piece of stone|20}}<br>{{Item|Complex iron parts|10}}<br>{{Item|Pigskin paper|2}}
+|-
+|[[file:upgrade item.png|80x80px|link=Furnace II]] Upgrade from Furnace II to Furnace III
+|{{Item|A piece of stone|2}}<br>{{Item|Complex iron parts|4}}
+|-
+|[[file:Carpenter's workbench II item.png|80x80px|link=Carpenter's workbench II]] [[Carpenter's workbench II]]
+|{{Item|Flitch|8}}<br>
+{{Item|Complex iron parts|4}}<br>
+{{Item|Wooden beam|2}}
+|-
+|[[file:Vine press item.png|80x80px|link=Vine press]] [[Vine press]]
+|{{Item|Flitch|12}}<br>
+{{Item|Complex iron parts|4}}<br>
+{{Item|A piece of stone|10}}
+|-
+|[[file:Circular_saw item.png|80x80px|link=Circular saw]] [[Circular saw]]
+|{{Item|Complex iron parts|10}}<br>
+{{Item|Wooden plank|8}}<br>
+{{Item|Nails|4}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Komplexe Eisenstücke]]

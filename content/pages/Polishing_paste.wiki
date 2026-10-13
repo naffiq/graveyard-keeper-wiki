@@ -1,0 +1,93 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{techpoint|red|10}}
+
+| source       = [[Carpenter's workbench]], [[Carpenter's workbench II]]
+| cost         = 
+| stacksize    = 30
+| type         = Miscellaneous
+| quest        = 
+| nameinternal = polishing_paste
+}}
+{{PAGENAME}} is a craft-able crafting resource. It's used to finely polish glass, and one of two methods in smoothing stone - the alternative being an [[iron chisel]].
+
+==Recipe==
+{| class = "wikitable" style = "width:35em;"
+! colspan = "3" |{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|River sand|1}}<br>{{Item|Oil|1}}<br>{{Item|Ceramic bowls|1}}
+|{{Energy|-|5}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:35em;"
+! colspan = "3" |{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|Lens|4}}
+|{{Item|Glass|2}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|15}}
+|-
+! colspan = "3" |{{Item|Stone cutter}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A piece of stone|1}}
+|{{Energy|-|15}}
+|-
+! colspan = "3" |{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A piece of stone|1}}
+|{{Energy|-|10}}
+|}
+
+== Building ==
+
+
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|[[Sacrifice Zone]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Blood fountain|||80px}}
+| {{Item|A polished brick of stone|5}}, {{Item|Polishing paste|5}}, {{Item|Stone repair kit|1}}
+|}
+
+
+
+
+<br>
+{{Navbox-Misc}}

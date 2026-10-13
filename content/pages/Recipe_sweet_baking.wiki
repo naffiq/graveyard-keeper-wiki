@@ -1,0 +1,29 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Recipe
+| nameinternal = 
+| source       = [[Miss Chain]]
+| cost         = 200
+}}
+
+The sweet baking recipe can be purchased from [[Miss Chain]] in [[The Dead Horse]].
+
+Unlocks the following:
+{| class="wikitable" style="text-align:left"
+!style="width:12em;"|Technology
+!style="width:15em;"|Recipes
+|-
+| rowspan="3" |Sweet Baking
+| {{Item|Pancakes}}
+|-
+| {{Item|Croissant}}
+|-
+| {{Item|Muffin}}
+|}
+
+
+{{Navbox-Food recipes}}
+[[Category:Food recipes]]
+
+[[Category:Food recipes]]

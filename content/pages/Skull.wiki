@@ -1,0 +1,71 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = {{Techpoint|Blue|20}}
+
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| stacksize    = 10
+| type         = Bodypart
+| quest        = [[Astrologer]]
+| nameinternal = skull
+}}
+<b>{{PAGENAME}}</b> is a body part that can be extracted from a corpse at the [[preparation place|autopsy table]]. Upon removal, it has the effect of adding one Red Skull {{Skull|red}}. In addition, similar to most other anatomy and theology items, it can be studied at the [[Study table]] for a {{Techpoint|Blue}} reward. For more information, see [[corpses]]. They're also utilized in the buildings of various constructs when using the [[Dark design desk]].
+
+==Quest==
+===Bring me a skull===
+After talking at length with [[Gerry]], he will eventually inform you of the [[Astrologer]]. Upon meeting him, he will ask you to retrieve a {{PAGENAME}} from a corpse. Returning with one will kick off the Astrologer's quest-line, and open up the potential for trade.
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Preparation place}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Corpse|1}}
+|}
+
+==Study==
+{| class = "wikitable" table-layout:fixed;"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Blue|20}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Building==
+{| class="wikitable" style = "width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Dark design desk}}
+|-
+!Item produced
+!Materials required
+|-
+|{{Item|Skulls in the wall|1}}
+|{{Item|{{PAGENAME}}|5}}
+|-
+|{{Item|Skulls in a column|1}}
+|{{Item|{{PAGENAME}}|5}}
+|-
+|{{Item|Crucified skeleton|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Wooden beam|2}}<br>{{Item|Pumpkin|1|silver}}
+|-
+|{{Item|Crucified skeleton on the wall|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Wooden beam|2}}<br>{{Item|Pumpkin|1|silver}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+[[pt-br:Caveira]]
+[[de:Schädel]]

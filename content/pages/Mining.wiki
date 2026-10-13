@@ -1,0 +1,100 @@
+{{Editlink}}
+
+Graveyard keeper has many different types of resources but two of the most important for building are stone and metal.  Mining will be how you acquire the raw materials necessary to produce them both. The earliest forms of mining the player can engage in is collecting [[Iron ore|bog iron]] from deposits and [[A piece of stone|stone]] from various outcroppings. As you unlock more technologies though you'll get the ability to mine new types of ore and stone.
+
+==Iron Ore==
+[[Iron ore]] is necessary to forge [[iron ingot]]s which are required to make all the metal resources in the game.  From swords to nails. To mine it from any of its sources you will need a pickaxe. The quality of the pickaxe has a considerable impact on the amount of energy necessary and the speed at which you will mine, it has no effect on the amount of ore dropped.
+
+===Bog Ore===
+[[File:Ore Outcropping.png|A bog iron outcropping|right|link=iron ore]]
+The earliest source of iron ore you can access is bog iron, which takes the form of outcroppings scattered around the [[map]].  Some of it can be found to the north of your home guarded by [[slime]]s but there are more deposits which can be found in the [[swamp]] after you've repaired the [[stone bridge]] to the west of the [[graveyard]]. Bog iron deposits will drop between three and six [[iron ore]] and once mined will not regenerate. 
+{{clear}}
+
+===Iron Deposit===
+[[File:Iron deposit.png|x200px|An iron deposit|link=iron ore|left]]
+Iron deposits are where you will get large blocks of iron ore.  At the north-most part of the [[cabin in the woods]] there is crag in the cliff face which has the texture of iron. Mining from there will get you large iron blocks which then should be carried back to the [[workyard]] if you want to process them into usable ore. Each of the blocks must be first stored in the [[iron ore stockpile]] then, afterward they will be available to be broken down into 5 [[iron ore]] each at the [[stone cutter]].
+{{clear}}
+
+===Zombie Mine===
+[[File:Ore mine 2.png|x200px|link=zombie ore mine|left]]
+The [[zombie]]s there mine large blocks of iron ore and deposit them on the [[iron ore stockpile]] near the [[cabin in the woods]]. It's not possible to mine there manually. Read more [[zombie ore mine|here]].
+{{clear}}
+
+==Stone==
+[[Piece of Stone|Stone]] is essential to making [[The Graveyard|gravestones]], a furnace, and many other [[Work Stations|work stations]] and improvements throughout the game. Stone comes in two forms: Outcroppings and deposits. Outcroppings are one-time only and do not respawn, but deposits are infinite.
+
+===Outcroppings===
+[[File:Stone Outcropping.png|A stone outcropping|right|link=a piece of stone]]
+Stone outcroppings can be found very plentifully throughout the [[map]] and will require a pickaxe to break.  Each stone outcropping drops between 1 and 3 [[Piece of stone|pieces of stone]] and will not regenerate once harvested.
+{{clear}}
+
+===Stone Deposit===
+[[File:Stone Deposit.png|left|250px|A larger stone deposit|link=a piece of stone]]
+There are a few darkly colored section of stone along scattered across the world.  By mining here after researching [[Building_(Tech_Tree)|Stoneworking]], you can gather large stone slabs. By putting these slabs into your [[stone stockpile]], you can use the [[stone cutter]] to break them down into 6x [[a piece of stone|pieces of stone]] each.
+
+There are two of these deposits. When following the road west of your house up the hills and towards the [[apiary]] there is: 
+
+* One directly west of the apiary. 
+* One north-east of the apiary, past the cliffs and after [[blockage|clearing the landslide]]. 
+{{clear}}
+
+===Stone Quarry===
+[[File:Stone quarry 1.png|left|250px|The stone quarry|link=a piece of stone]]
+The stone quarry can be found left of the [[marble quarry]], in the northern part of the western half of the [[forest near the river|forest]]. It's north of the [[cabin in the woods]]. It works in nearly the same way as stone deposits, with the exception, that you need {{item|wooden wedge|5}}s to harvest the stone blocks. It can be automated by employing [[Zombie stone quarry|zombies]].
+{{clear}}
+
+==Marble==
+===Marble Deposit===
+[[File:Small_marble_pile.png|left|250px|A marble deposit on witch hill]]
+Marble deposits, not to be confused with the [[marble quarry]], are small permanent outcroppings, where singular [[marble block]]s can be mined - similar to the larger [[stone deposit]]s. There are two locations known, both found on [[Witch Hill]], on either side of the ruin. Unlike the quarry, they don't require {{item|wooden wedge}}s to mine, though only produce one block (as opposed to two) and are a far greater distance away from the nearest [[stone stockpile]] - necessary for storage and use. Also, you can't employ [[Zombie marble quarry|zombies]] here.
+{{clear}}
+
+===Marble Quarry===
+[[File:Marble quarry 1.png|left|250px|The marble quarry|link=a piece of marble]]
+The [[marble quarry]] is right of the stone quarry, in the northern part of the western half of the [[forest near the river|forest]]. It's north of the [[cabin in the woods]].
+
+In contrary of the stone quarry, this quarry has to be built first. For details refer to the [[marble quarry]] page.
+
+It works in the same way as stone quarry and needs also {{item|wooden wedge|5}}s to harvest the marble blocks. It can also be automated by employing [[Zombie marble quarry|zombies]].
+{{clear}}
+
+==Coal==
+===Coal Deposit===
+[[File:Coal deposit.png|left|x200px|A coal deposit|link=coal]]
+Coal will allow you to run your furnace much more efficiently than with firewood. Coal becomes accessible after you've researched the [[Building_(Tech_Tree)|mining technology]] and removed at least one of the [[blockage]]s in the cliffs to the [[forest near the river|forest]].
+
+East of the [[cabin in the woods]], at the cliff north of the [[forest near the river|forest]] there is a vein of coal. Mining from here will give you between 20 and 30 coal which can then either be used for fuel in the [[furnace]] or [[oven|kitchen oven]], or later turned into [[graphite]].
+{{clear}}
+
+===Zombie Mine===
+[[File:Ore mine 2.png|x200px|link=zombie ore mine|left]]
+The [[zombie]]s there mine pieces of coal and deposit them in the [[trunk]] near the [[cabin in the woods]]. It's not possible to mine there manually. Read more [[zombie ore mine|here]].
+{{clear}}
+
+==Earthen Materials==
+Earthen materials such as [[River Sand|river sand]] and [[clay]] become available to you after talking to the [[bishop]] and accepting his quest to craft {{item|ceramic bowls|20}}. During that interaction he unlocks [[Building_(Tech_Tree)|The Concept of Dirt]].  All earthen materials are harvested with a shovel and higher quality shovels make a considerable difference in the amount of energy required to dig.
+
+===Clay===
+[[File:land_clay_spot_1.png|A clay pit|right|link=clay]]
+Once you've learned [[Building_(Tech_Tree)|The Concept of Dirt]] from the [[bishop]] dry [[clay]] simply requires you to dig with a shovel in any of the clay deposits around the [[map]].  The nearest of these is immediately south of the [[graveyard]].
+{{clear}}
+
+===Sand===
+[[File:river 8.png|x200px|Two sand deposits|right|link=sand]]
+Once you've learned [[Building_(Tech_Tree)|The Concept of Dirt]] from the [[bishop]], [[river sand]] can be harvested from any of the piles located around the [[map]].  The nearest of these is found in the northern part of the [[river]] west of [[Sweet Home|your home]]. But other deposits can also be found to the far east along the [[beach]].
+{{clear}}
+
+==Precious Metals and Related Ores==
+* The [[Building_(Tech_Tree)|Precious Metals]] technology will give the the ability to find {{item|silver nugget}}s and {{item|gold nugget}}s.
+* The [[Building_(Tech_Tree)|Related Ores]] technology will give you the ability to find {{item|limestone}}, {{item|pyrite}}, and {{item|sulfur}}.
+
+These ores are not deposits themselves but are instead found in the process of mining and processing other ores. Each time you mine {{item|coal}} after acquiring the needed technology there is a small chance you will find between 1 and 5 [[limestone]], [[pyrite]], or [[sulfur]]. 
+
+Similarly each time you mine or break down a block of iron, you will have a chance to get between 1 and 3 {{item|silver nugget}}s or {{item|gold nugget}}s in addition to the usual iron. In addition, there are some silver and gold veins on different levels of the [[dungeon]], which can be mined there with a pickaxe and nuggets can also be obtained from [[fish]].
+
+==Gems==
+*The [[Building_(Tech_Tree)|Gems]] technology will give the the ability to find {{item|diamond}}s.
+
+Those are found as crystal protrusions in the [[dungeon]] from level 8 downward and one in the souls room.
+[[Category:Topics]]
+[[es:Minería]]

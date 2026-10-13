@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| source       = [[Snake]], [[Royal services]]
+| quest        = [[Town]]
+}}
+A reward from [[Snake|Snake's]] quest. Can also be bought from [[Royal services]], as rightful citizen.
+
+Used to enter the [[town]] south of  [[The Dead Horse|the tavern]]. Must be given to the [[guards|guard]] there.
+
+{{Navbox-Quest}}
+[[Category:Quest items]]
+
+[[pt-br:Ingresso para o povoado]]

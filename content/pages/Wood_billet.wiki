@@ -1,0 +1,89 @@
+{{Item Infobox
+| name         = wood billet
+| image        = billet.png
+| type         = Wood
+| nameinternal = wood1
+| study        = {{Techpoint|Green|10}}
+| source       = [[Sawhorse]], [[Circular saw]]
+| buy          = [[Tress|Tress (T I)]]
+| sell         = [[Tress|Tress (T I)]]
+| cost         = 12
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are a basic resource, made from processing [[Log|logs]] at the [[sawhorse]] or [[circular saw]]. Alternatively, they can be purchased from [[Tress]] the wood merchant. They're used in the construction of a few basic workstations, as well as an intermediate step in crafting [[wood wedge]]s and [[firewood]].
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Sawhorse}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Log|1}}
+|-
+!colspan="2"|{{Item|Circular saw}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|5}}
+|{{Item|Log|1}}
+|}
+
+==Study==
+{| class = "wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Building==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|[[Workyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Chopping spot}}
+|{{Item|{{PAGENAME}}|5}}
+|-
+|{{Item|Wooden anvil}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|2}}
+|-
+!colspan="2"| [[Crematorium]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Place for burning corpses}}
+|{{Item|{{PAGENAME}}|8}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Chopping spot}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Firewood|10}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Wood wedge|10}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+
+[[pt-br: Pedaço de madeira]]

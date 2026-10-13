@@ -1,0 +1,47 @@
+{{Item Infobox 
+| name         = Dark brain
+| image        = Dark brain item.png
+| type         = Bodypart
+| nameinternal = brain_dark
+| study        = {{Techpoint|Blue|100}}
+| alchemy      =  {{Item|Death solution}}
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| quest        =  [[Inquisitor]]
+}}
+{{PAGENAME}}, as well as the other variants ([[Dark heart]], [[Dark intestine]]), will randomly appear on newly delivered corpses. Obtained after progressing far enough through the [[Inquisitor]] quest-line.
+
+==Quest==
+The [[Inquisitor]] needs evidence for the presence of a cult in the [[town]] to convince the king of the inquisition's plans. For this he asks you to bring him one {{PAGENAME}}, one [[Dark heart]] and one [[Dark intestine]].
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Blue|100}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|3}}
+|Decomposes into<br>[[Death solution|death solution]].
+|}
+
+==Alchemy==
+{| class = "wikitable" style = "width:35em; table-layout: fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Death solution|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+[[de:Dunkles Hirn]]

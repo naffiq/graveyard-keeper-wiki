@@ -1,0 +1,112 @@
+{{Item Infobox
+| name         = Salmon
+| image        = i_fish_salmon.png
+| cost         = 
+| price        = 110
+| study        = {{Techpoint|Green|50}}
+
+| source       = Sea, Waterfall
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_salmon
+}}
+The <b>{{PAGENAME}}</b> is one of sixteen(16) different [[Fishing|fish]] that can be caught, and either processed for [[cooking]] or sold to the [[Lighthouse Keeper]]. It's thought to be a relatively high-tier fish, thus the difficulty in catching it is high.
+ 
+==Fishing==
+The odds of catching a fish are affected primarily by the other fish in the area at that time.  More competition means your chance of catching a particular fish over another is lowered.  Below is a table of this fish's preferences by the bait used, the place you choose to fish, where you choose to cast, the rod you use, and the time of day. If a method isn't listed below it's impossible to catch this fish using it.
+
+{| style="text-align:left; width:60%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Best
+|-
+|{{Item|Good fishing rod}}
+|Okay
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Lure with a gem}}
+|Good
+|-
+|{{Item|Steel lure}}
+|Good
+|-
+|{{Item|Anchovy}}
+|Okay
+|-
+|{{Item|Gudgeon}}
+|Okay
+|-
+|{{Item|Maggot}}
+|Best (only at sea; 0% chance at waterfall
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Location
+|-
+!Name
+!Weight
+|-
+|Sea
+|Good
+|-
+|Waterfall
+|Good
+|}
+{| class="wikitable" style="text-align:center;  width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|Okay
+|-
+|Night
+|Best
+|}
+|}
+
+==Study==
+{| class="wikitable" style="text-align:center; width:60%;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|Blue fish fillet|3|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Energy|-|9}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+
+[[pt-br:Salmão]]

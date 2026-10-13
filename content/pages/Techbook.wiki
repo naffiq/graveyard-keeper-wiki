@@ -1,0 +1,41 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Writing
+| nameinternal = techbook_#_#
+| study        = 
+| source       = [[Astrologer]], [[Random text generator]]
+| cost         = 200
+| stacksize    = 5
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a consumable product that provides the user with a small bonus towards certain techpoints. All of these books can be purchased from the [[Astrologer]], at either tier 2 or 3, while the lesser variety can be crafted at a [[Random text generator|Random Text Generator]] in the [[alchemy lab|Alchemy Lab]].
+
+==Use in Inventory==
+{| class = "wikitable" style = "width:35em; text-align:center; table-layout:fixed;"
+!Tech Produced
+!Required Materials
+!Cost
+|-
+|{{Techpoint|Green|25}}<hr>{{Techpoint|Red|25}}<hr>{{Techpoint|Blue|25}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Money|200}}<hr>{{Money|300}}<hr>{{Money|500}}
+|-
+|{{Techpoint|Green|50}}<hr>{{Techpoint|Red|50}}<hr>{{Techpoint|Blue|50}}
+|{{Item|{{PAGENAME}} 2|1}}
+|{{Money|400}}<hr>{{Money|600}}<hr>{{Money|1000}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Random text generator}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|techbook|1}}
+|{{Item|clean paper|3}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]

@@ -1,0 +1,130 @@
+{{Workstation-Infobox
+|name       = Preparation place II
+|image      = Preparation place.gif
+|location   = [[Morgue]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Anatomy II]]
+|related    = [[Morgue]]
+|footprint  = 5x4
+|rotatable  = Mirror
+}}
+
+The preparation place (or autopsy table) is where you prepare {{item|corpse}}s or {{item|zombie}}s by removing/adding body parts from/to them. Corpses placed upon the second tier preparation place will not decay at all unlike corpses left on the first tier [[preparation place]].  But more importantly, Tier II workstation reduces the chance of making a surgical error (combined with the respective perk the chance seems to become zero). 
+
+
+Each autopsy table increases the {{Morgue Capacity}} by one.  See [[corpse]]s, [[zombie]]s and [[morgue]] for more information on the various morgue mechanics.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:15em;"|Notes
+|-
+|[[file:{{PAGENAME}} item.png|80px|{{PAGENAME}} II|link=morgue]]
+|{{Item|Wooden plank|6}}<br>{{Item|Steel parts|4}}<br>{{Item|Nails|6}}
+|{{Energy|-|10}}
+|Requires [[Anatomy and Alchemy (Tech Tree)|Anatomy II]]<br>Decay completely stopped<br>Adds 1{{Morgue Capacity}}
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:12em;"| Item Produced
+!style="width:8em;"| Technology Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|Flesh|1}}
+|[[Anatomy and Alchemy (Tech Tree)|First slice]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|White}}.
+|-
+|{{Item|Blood|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Softspares]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|Red}}, adds {{Skull|White}}.
+|-
+|{{Item|Fat|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Softspares]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|Red}}, adds {{Skull|White}}.
+|-
+|{{Item|Bone|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Hardspares]]
+|{{Energy|-|8-16}}
+|No change.
+|-
+|{{Item|Skin|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Hardspares]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|White}}, adds {{Skull|Red}}.
+|-
+|{{Item|Skull|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Hardspares]]
+|{{Energy|-|8-16}}
+|Adds {{Skull|Red}}.
+|-
+|{{Item|Brain|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Important parts]]
+|{{Energy|-|8-16}}
+|Changes {{Skull|Red}} by -3 to +3 chosen randomly.<br>
+Changes {{Skull|White}} by -3 to +3 chosen randomly.
+|-
+|{{Item|Heart|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Important parts]]
+|{{Energy|-|8-16}}
+|Changes {{Skull|Red}} by -3 to +3 chosen randomly.<br>
+Changes {{Skull|White}} by -3 to +3 chosen randomly.
+|-
+|{{Item|Intestine|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Important parts]]
+|{{Energy|-|8-16}}
+|Changes {{Skull|Red}} by -3 to +3 chosen randomly.<br>
+Changes {{Skull|White}} by -3 to +3 chosen randomly.
+|-
+|{{Item|Dark brain|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Dark Bodies]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|White}}.
+|-
+|{{Item|Dark heart|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Dark Bodies]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|White}}.
+|-
+|{{Item|Dark intestine|1}}
+|[[Anatomy and Alchemy (Tech Tree)|Dark Bodies]]
+|{{Energy|-|8-16}}
+|Removes {{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|White}}.
+|}
+
+== Surgeon's Mistake ==
+{| class="wikitable"
+!Icon
+!Label
+!Description
+!Notes
+|-
+|[[File:SurgeonMistake.png|52px|Surgeon's Mistake]]
+|Surgeon's Mistake
+|Your inexperience shows. - The surgery didn't go very well. You've made a mess of the body, lowering it's quality.
+|Surgeon's mistakes occur randomly while removing a body part. It shows as a "body part" (see icon) that cannot be removed. The surgeon's mistake removes one additional {{Skull|White}} and adds one additional {{Skull|Red}}. To avoid such mistakes in the future, get the [[Perks|butcher perk]] and the [[Perks|surgeon perk]].
+|}
+
+== Insert Bodyparts ==
+{| class="wikitable"
+!Icon
+!Label
+!Description
+!Notes
+|-
+|[[File:Insert Bodyparts.png|52px|Insert Bodyparts]]
+|Insert Bodyparts
+|You can (re-)insert bodyparts to change the skull count of a body. This also affects work efficiency of [[zombie]]s.
+|
+|}
+
+{{Navbox-Morgue}}
+[[Category:Workstations]]
+
+[[Category:Morgue workstations]]

@@ -1,0 +1,47 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Alchemy Lab]]
+|technology = [[Book Writing (Tech Tree)|A simple printing press]]
+|related    = 
+|footprint  = 4x5
+|rotatable  = True
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a workstation, the function of which is to print large amounts of paper. Currently, its only use is the mass production of the generic quest-item [[flyer]]s.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|12}}
+|
+|Requires:A simple printing press
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Flyer|10}}
+|{{Item|Clean paper|2}}<br>{{Item|Ink|1}}
+|{{Energy|-|10}}
+|
+|-
+|[[file:upgrade item.png|frameless|link=printing press II]] [[Printing press II|Upgrade to printing press II]]
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Nails|6}}
+|{{Energy|-|15}}
+|
+|}
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]

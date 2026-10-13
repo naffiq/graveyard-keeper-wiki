@@ -1,0 +1,42 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = crate factory outside.png
+|location   = [[Workyard]]
+|technology = Talk with [[Gunter]]
+Unlock [[Trade Office]]
+|related    = 
+|footprint  = 7x4
+|rotatable  = False
+}}
+
+A crate factory is a place where you can pack [[crates]] of various [[items]] to be sold on the [[Trade Office|market]]. You can build it only on a single spot between the [[workyard]] and the [[kitchen garden]] (which means it has access to storages from both!), using the workbench in the workyard.
+
+The factory works similar to the [[packing table]] but has additional options for some kind of [[items|goods]]. It comes complete with a built-in elevator, [[pallet]]s and a [[porter station]] in the [[cellar]].
+
+You can put two [[zombie]]s at work to pack and transport your goods. This is how it looks when a [[zombie]] works outside at the station packaging your goods:
+
+[[file:crate factory outside.png|300px|Zombie at crate factory outside]]
+
+As soon as a [[crates|crate]] is ready it's put on the elevator to the [[cellar]] where it's moved instantly from the output chute onto a [[crate pallet]]. From there, it can be picked up manually or by a second [[zombie]] worker to be transported to the [[trade office]].
+
+This is how it looks down in the [[barn cellar]]. Not all of the [[pallet]]s are shown, there's a total of twelve available. The picture shows no [[zombie]] assigned to the [[porter station]], so it's necessary to transport the [[crates]] by human labor:
+
+[[file:crate factory inside.png|300px|Crate factory output in the cellar]]
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:13em;|Materials Required
+!style="width:9em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link={{PAGENAME}}]]
+|{{Item|Flitch|12}} <br> {{Item|Simple iron parts|4}} <br> {{Item|A piece of stone|12}}
+|style="text-align:center"|{{Energy|-|25}} (dig)<br>+<br>{{Energy|-|20}} (construct)
+|Created on the [[workyard]] workbench
+|}
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]
+[[de:Kistenfabrik]]

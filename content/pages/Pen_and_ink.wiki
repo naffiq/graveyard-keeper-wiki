@@ -1,0 +1,101 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = I ink jar 1.png
+| cost         = 250
+| price        = 
+| study        = {{Techpoint|Red|10}} {{Techpoint|Green|10}}
+| alchemy      = 
+| source       = [[Church workbench]]
+| vendor       = [[Astrologer|Astrologer (T I)]]
+| buyer        = ???
+| type         = Writing Resource
+| stacksize    = 1
+| quest        = 
+| nameinternal = ink_jar_1
+}}
+<b>{{PAGENAME}}</b> is a writing resource, that sometimes is treated as equipment with a durability (10 uses) and is sometimes consumed - ignoring its current durability - depending on a craft. Its primary use is in regards to writing. Note; a depreciated unit (ex; P&I with 1/10 dur) may still be used just as successfully in crafts that generally utilize a greater durability (ex; [[Flyer]]). Pen and Ink can be purchased from the [[Astrologer]].
+
+==Recipe==
+{|class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Feather|3}}<br>{{Item|Ink|1}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+! colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Red|10}}<br>{{Techpoint|Green|10}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style="width:35em;"
+!colspan="3"|{{Item|Desk}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|Story|1|animation}}<br>{{Item|{{PAGENAME}}|1}} (1/10)<br>{{Item|Clean paper|1}}
+|{{Energy|-|20}}
+|-
+|{{Item|Flyer|5}}
+|{{Item|Clean paper|1}}<br>{{Item|{{PAGENAME}}|1}} (5/10)
+|{{Energy|-|20}}
+|-
+!colspan="3"|{{Item|Desk II}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|Story|1|animation}}<br>{{Item|{{PAGENAME}}|1}} (1/10)<br>{{Item|Clean paper|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Flyer|5}}
+|{{Item|Clean paper|1}}<br>{{Item|{{PAGENAME}}|1}} (5/10)
+|{{Energy|-|15}}
+|-
+!colspan="3"|{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|1}}<br>{{Item|{{PAGENAME}}|1}} (1/10)<br>{{Item|Faith|10}}
+|{{Energy|-|15}}
+|}
+
+==Building==
+{|class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|[[Alchemy Lab]]
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Random text generator}}
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|2}}<br>{{Item|{{PAGENAME}}|1}} (10/10)
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]
+
+[[pt-br:Caneta e tinta]]

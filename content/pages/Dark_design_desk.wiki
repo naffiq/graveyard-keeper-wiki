@@ -1,0 +1,58 @@
+{{stub}}
+{{Workstation-Infobox 
+| name      = {{PAGENAME}}
+| image     = I z d occulte constraction.png| type         = 
+|location   = [[Sacrifice Zone]]
+|technology = 
+|related    = [[Dungeon]]
+|footprint  = 
+|rotatable  = 
+}}The Dark Design Desk is located in the Sacrifice zone at the entrance to the Dungeon, and does not require construction before use. Blueprints available at the Dark Design Desk are used to make the area appear "scary" as part of [[Snake|Snake's]] quest Decorate the Dark Church. Most of the recipes are unlocked upon receiving the task "Reach {{Pentagram}} 20 at Dark Church". Only the [[Skulls in the wall|Skulls in the Wall]] and [[Skulls in a column|Skulls in a Column]] recipes are available prior to this point.
+
+== Recipes ==
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+|-
+!style = "width:20em;" | Item produced
+!style = "width:10em;"  | Quality provided
+!style = "width:19em;" | Materials required
+!style = "width:5em;"  | Slots available
+|-
+|{{Item|Crucified skeleton|||80px}}
+|2 {{Pentagram}}
+|{{Item|Skull|1}}
+{{Item|Wooden beam|2}}
+
+{{Item|Pumpkin|1|silver}}
+|2
+|-
+|{{Item|Crucified skeleton on the wall|||80px}}
+|1 {{Pentagram}}
+|{{Item|Skull|1}}
+{{Item|Wooden beam|2}}
+
+{{Item|Pumpkin|1|silver}}
+|2
+|-
+|{{Item|Blood fountain|||80px}}
+|2 {{Pentagram}}<br>+3{{Pentagram}} filled with {{Item|blood|10}}
+|{{Item|A polished brick of stone|5}}
+{{Item|Polishing paste|5}}
+
+{{Item|Stone repair kit|1}}
+|2
+|-
+|{{Item|Skulls in the wall|||80px}}
+|1 {{Pentagram}}
+|{{Item|Skull|5}}
+|2
+|-
+|{{Item|Skulls in a column|||80px}}
+|1 {{Pentagram}}
+|{{Item|Skull|5}}
+|2
+|}
+
+{{Navbox-Dungeon}}
+[[Category:Workstations]]
+
+[[Category:Sacrifice zone workstations]]

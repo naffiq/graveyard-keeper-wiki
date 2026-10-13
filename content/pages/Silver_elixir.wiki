@@ -1,0 +1,52 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = 
+| study        = N/A
+
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]]. It is used in the production of [[silver injection]]s.
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Silver powder|1}}<br>{{Item|Order solution|1}}<br>{{Item|Life extract|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Silver powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Order extract|1}}
+|{{Energy|-|10}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Silver injection|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+
+[[pt-br:Elixir de prata]]
+[[es:Elixir plateado]]

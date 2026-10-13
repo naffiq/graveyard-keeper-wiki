@@ -1,0 +1,63 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|20}}/{{Energy|+|24}}/{{Energy|+|28}}; [[File:Retribution effect.png]]
+| nameinternal = meal:vegetable_stew
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+}}
+
+A food item which restores {{Energy||20 -}} {{Energy||28}} and applies the 'Rage' buff when consumed. It must be made in the [[oven]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = vegetable_stew_item.png|quality = copper}}
+|{{Quality Sprite|image = vegetable_stew_item.png|quality = silver}}
+|{{Quality Sprite|image = vegetable_stew_item.png|quality = gold}}
+|-
+|{{Energy|+|20}}
+|{{Energy|+|24}}
+|{{Energy|+|28}}
+|}
+
+===Effect===
+On use, this {{lc:{{PAGENAME}}}} will apply the 'Rage' buff for a duration of 2 minutes, increasing the player's damage by {{Health|-|5}}. Quality level does not have an impact. For a list of all available buffs and their benefits, see [[effects]].
+
+{| class="wikitable" style="width:40em; text-align:center;"
+!Icon
+!Description
+!Duration
+!Notes
+|-
+|[[File:Retribution effect.png|link=Effects#Rage|Rage]]
+|You deal additional damage to monsters.
+|2:00
+|[[Effects#Rage|Rage]]
+|}
+
+==Recipes==
+
+{| class = "wikitable" style = "Width:30em;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|4|animation}}
+|{{Item|Pumpkin|1|animation}}<br>
+{{Item|Beet|1}}<br>
+{{Item|Cabbage|2}}<br>
+{{Item|Fuel|25}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

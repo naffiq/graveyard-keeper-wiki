@@ -1,0 +1,55 @@
+<!-- Needs better infobox image -->
+{{stub}}
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} item.png
+|location   = [[Vineyard]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+
+The {{lcfirst:{{PAGENAME}}}} appears after you advance the [[inquisitor|inquisitor's quest]] a bit. It enables you to grow more vine there and store your stuff in a [[trunk]].
+
+Otherwise, you can only clear out the old trellises and use them for growing [[grapes]] and [[hops]].
+
+It is located southwest of Witch Hill and east of Sweet home.
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!colspan=4|[[file:vineyard workbench.png|64px|link=vineyard workbench|Vineyard]] [[vineyard workbench|Vineyard]]
+|-
+! style="width:14em;" |Workstation
+! style="width:12em;" |Ingredients
+! Unlocked by
+! Use
+|-
+|{{Item|Trunk|||64px}}
+|{{Item|Flitch|4}} <br> {{Item|Nails|4}} <br> {{Item|Simple iron parts|6}}
+|[[Inquisitor]]
+|General [[storage]], x3.
+|-
+|{{Item|Vine trellis|||64px}}
+|{{Item|Wooden stick|5}}
+|[[Farming and Nature (Tech Tree)|Grape Farming]]
+|Growing: [[Grapes]], [[hops]]
+|-
+|{{Item|Zombie vineyard|||64px}}
+|{{Item|Wooden plank|5}} <br> {{Item|Simple iron parts|3}} <br> {{Item|Nails|10}} 
+|[[Farming and Nature (Tech Tree)|Zombie vineyard]]
+|Growing: [[Grapes]], [[hops]]
+|-
+|{{Item|Porter station|||64px}}
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Clean paper|2}} 
+|[[Anatomy and Alchemy (Tech Tree)|Zombie logistics]]
+([[Blockage|Requires clearing downed Tree]])
+|Transporting goods
+|}
+
+{{Navbox-Vineyard}}
+[[Category:Workstations]]
+[[Category:Vineyard workstations]]
+[[Category:Image requested]]

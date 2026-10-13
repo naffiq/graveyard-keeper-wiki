@@ -1,0 +1,82 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|36}}/{{Energy|+|42}}/{{Energy|+|48}}; [[File:Surgeon effect.png]]
+| nameinternal = meal:burger
+| study        = 
+| source       = [[Cooking]]
+| cost         = 30
+| stacksize    = 20
+}}
+The '''{{PAGENAME}}''' is a food item which restores {{Energy||36 -}} {{Energy||48}} and applies the Steady Hand [[effects|buff]] when consumed, with higher quality versions of the dish having a larger restorative effect. It's prepared at the cooking table, though many components require the use of the [[oven]]. For the main page on preparing food, see [[cooking]].
+
+5x gold-star Burgers are used in each instance of the Inquisitor's [[Buffet tent|Buffet Tent]] event.
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_burger.png|quality = copper}}
+|{{Quality Sprite|image = i_burger.png|quality = silver}}
+|{{Quality Sprite|image = i_burger.png|quality = gold}}
+|-
+|{{Energy|+|36}}
+|{{Energy|+|42}}
+|{{Energy|+|48}}
+|-
+|{{Money|30}}
+|{{Money|35}}
+|{{Money|40}}
+|}
+
+==Effect==
+On use, a burger will apply the steady hand buff for a duration of 2 minutes, reducing the risk of surgical errors during body part extraction. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[File:Surgeon effect.png|link=Effects#Steady Hand|Steady Hand]]
+|A steady hand reduces the chances of making a surgical error.
+|style="text-align:center"|2:00
+|[[Effects#Steady Hand|Steady Hand]]
+|}
+
+==Recipe==
+{| class = "wikitable" style = "Width:30em;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|4|animation}}
+|{{Item|Baked meat|4}}<br>{{Item|Bread|2}}<br>{{Item|Onion|1|animation}}<br>{{Item|Fuel|5}}
+|}
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality || Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+|  N/A
+| align="center" | III 
+| {{Money|40}}
+|}
+
+==Quest==
+===[[Inquisitor|Snack Time]]===
+The [[Inquisitor]] asks that you build a buffet tent and sell food and drink for the witch burning. You will need to make {{Item|Burger|5|Gold}} and {{Item|A mug of beer|10|Gold}}.
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

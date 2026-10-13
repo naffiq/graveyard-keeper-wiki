@@ -1,0 +1,729 @@
+<!-- Video is no longer available {{#ev:twitchvod|v317141472|500|right|||}}-->
+A list of '''items''' by category:
+<!-- Some items in this list will be duplicated.  Generally this is to make it easier for someone browsing the list to find what they need -->
+__NOTOC__
+==Farming==
+===Crops===
+{{cols|3|
+{{Item|Beet}}<br>
+{{Item|Cabbage}}<br>
+{{Item|Carrot}}<br>
+{{Item|Grapes}}<br>
+{{Item|Hemp}}<br>
+{{Item|Hops}}<br>
+{{Item|Lentils}}<br>
+{{Item|Onion}}<br>
+{{Item|Pumpkin}}<br>
+{{Item|Wheat}}
+}}
+
+===Seeds===
+{{cols|3|
+{{Item|Beet seed}}<br>
+{{Item|Cabbage seed}}<br>
+{{Item|Carrot seed}}<br>
+{{Item|Grape seed}}<br>
+{{Item|Hemp seed}}<br>
+{{Item|Hops seed}}<br>
+{{Item|Lentil seed}}<br>
+{{Item|Onion seed}}<br>
+{{Item|Pumpkin seed}}<br>
+{{Item|Wheat seed}}
+}}
+
+===Sapling===
+{{cols|3|
+{{Item|Bush berry seedling}}<br>
+{{Item|Tree apple seedling}}
+}}
+
+===Fertilizer===
+{{cols|3|
+{{Item|Crop waste}}<br>
+{{Item|Peat}}<br>
+{{Item|Boost fertilizer I}}<br>
+{{Item|Boost fertilizer II}}<br>
+{{Item|Quality fertilizer I}}<br>
+{{Item|Quality fertilizer II}}
+}}
+
+==Wood==
+{{cols|3|
+{{Item|Log}}<br>
+{{Item|Carved wood}}<br>
+{{Item|Firewood}}<br>
+{{Item|Flitch}}<br>
+{{Item|Wood billet}}<br>
+{{Item|Wood repair kit}}<br>
+{{Item|Wooden beam}}<br>
+{{Item|Jointing}}<br>
+{{Item|Wooden plank}}<br>
+{{Item|Wooden stick}}<br>
+{{Item|Wood wedge}}
+}}
+
+==Stone==
+{{cols|3|
+{{Item|Stone block}}<br>
+{{Item|A piece of stone}}<br>
+{{Item|A polished brick of stone}}<br>
+{{Item|A carved piece of stone}}<br>
+{{Item|Marble block}}<br>
+{{Item|A piece of marble}}<br>
+{{Item|A polished brick of marble}}<br>
+{{Item|A carved piece of marble}}<br>
+{{Item|Marble repair kit}}<br>
+{{Item|Stone repair kit}}
+}}
+
+==Metal==
+===Smithing===
+{{cols|3|
+{{Item|Metal scrap}}<br>
+{{Item|Iron ingot}}<br>
+{{Item|Nails}}<br>
+{{Item|Simple iron parts}}<br>
+{{Item|Complex iron parts}}<br>
+{{Item|Steel ingot}}<br>
+{{Item|Steel parts}}
+}}
+
+===Jewelry===
+{{cols|3|
+{{Item|Silver ingot}}<br>
+{{Item|Gold ingot}}<br>
+{{Item|Gold jewelry details}}<br>
+{{Item|Jewelry}}
+}}
+
+== Glass ==
+{{cols|3|
+{{Item|Glass}}<br>
+{{Item|Broken glass}}<br>
+{{Item|Conical flasks}}<br>
+{{Item|Advanced conical flasks}}<br>
+{{Item|Lens}}
+}}
+
+==Quest==
+{{cols|3|
+{{Item|Accepted invitation}}<br>
+{{Item|Active key}}<br>
+{{Item|Aristocrat papers}}<br>
+{{Item|Basket of food}}<br>
+{{Item|Bucket of blood}}<br>
+{{Item|Burial certificate}}<br>
+{{Item|Cauldron}}<br>
+{{Item|Coins}}<br>
+{{Item|Dinner}}<br>
+{{Item|Endless notebook}}<br>
+{{Item|Eternal burning coal}}<br>
+{{Item|Flyer}}<br>
+{{Item|Garden certificate}}<br>
+{{Item|Golden angle}}<br>
+{{Item|Golden apple}}<br>
+{{Item|Graveyard scroll}}<br>
+{{Item|Infusion of fly agaric}}<br>
+{{Item|Instructions for key}}<br>
+{{Item|Keepers journal}}<br>
+{{Item|Keepers key}}<br>
+{{Item|Letter to the blacksmith}}<br>
+{{Item|Mirror of pride}}<br>
+{{Item|Necklace}}<br>
+{{Item|Necronomicon}}<br>
+{{Item|Paper with calculations}}<br>
+{{Item|Perfume}}<br>
+{{Item|Restoration tools}}<br>
+{{Item|Salty fork}}<br>
+{{Item|Stamp}}<br>
+{{Item|Town pass}}<br>
+{{Item|Trade license}}<br>
+}}
+
+==Stranger Sins Quest==
+{{cols|3|
+{{Item|A Brick from The Church}}<br>
+{{Item|Amulet of The Ancient God}}<br>
+{{Item|Ancient Keys}}<br>
+{{Item|Ancient Lockpicks}}<br>
+{{Item|Ancient Pickaxe}}<br>
+{{Item|Ancient Shackles}}<br>
+{{Item|Barman Doll}}<br>
+{{Item|Belt Buckle}}<br>
+{{Item|Clay Pot of Tar}}<br>
+{{Item|Clay Shards}}<br>
+{{Item|Door Hinge}}<br>
+{{Item|Flask}}<br>
+{{Item|Legionary Helm}}<br>
+{{Item|Priestess Ring}}<br>
+{{Item|Priests Signet}}<br>
+{{Item|Statuette}}<br>
+{{Item|The Legionary Dagger}}
+}}
+
+==Game of Crone Quest==
+
+{{cols|3|{{Item|Bank checks}}<br>
+{{Item|Battle horseshoes}}<br>
+{{Item|Black and gold cloak}}<br>
+{{Item|Bone leg}}<br>
+{{Item|Charred vampire shoe}}<br>
+{{Item|Cookbook}}<br>
+{{Item|Emulsion of death}}<br>
+{{Item|Iron unicorn horns}}<br>
+{{Item|Jelly of incredible power}}<br>
+{{Item|Memory powder}}<br>
+{{Item|Memory tincture}}<br>
+{{Item|Pagan amulet of spirit summoning}}<br>
+{{Item|Piece of donkey hair}}<br>
+{{Item|Revolutionary donkey banner}}<br>
+{{Item|Revolutionary message}}<br>
+{{Item|Scroll of ghoul raising}}<br>
+{{Item|Scroll of Teleportation}}<br>
+{{Item|Vampires jaw}}<br>
+{{Item|Witchers eye}}<br>
+}}
+
+==Better Save Soul Quest==
+{{cols|3|
+{{Item|Old rusty key}}<br>
+{{Item|Ode for Bishop}}<br>
+{{Item|Lost tooth}}<br>
+{{Item|Sin Shard}}
+}}
+
+==Food==
+===Resources===
+{{cols|3|
+{{Item|Berry juice}}<br>
+{{Item|Butter}}<br>
+{{Item|Cheese}}<br>
+{{Item|Dough}}<br>
+{{Item|Chicken egg}}<br>
+{{Item|Flour}}<br>
+{{Item|Jug of milk}}<br>
+{{Item|Pastry dough}}<br>
+{{Item|Package of meat}}<br>
+{{Item|Raw sliced meat}}<br>
+{{Item|Blue fish fillet}}<br>
+{{Item|Quality fish fillet}}<br>
+{{Item|White fish fillet}}
+}}
+
+===Snacks===
+{{cols|3|
+{{Item|A bowl of sauerkraut}}<br>
+{{Item|Baked apple}}<br>
+{{Item|Baked mushrooms}}<br>
+{{Item|Boiled egg}}<br>
+{{Item|Bread}}<br>
+{{Item|Fried egg}}<br>
+{{Item|Grated carrot}}<br>
+{{Item|Grated beets}}<br>
+{{Item|Onion rings}}<br>
+{{Item|Pancakes}}<br>
+{{Item|Sandwich}}<br>
+{{Item|Toasts with onions}}<br>
+{{Item|Vegetable salad}}<br>
+}}
+
+===Meals===
+{{cols|3|
+{{Item|A bowl of lentils}}<br>
+{{Item|A bowl of pumpkin soup}}<br>
+{{Item|Baked fish}}<br>
+{{Item|Baked kebab}}<br>
+{{Item|Baked meat}}<br>
+{{Item|Baked pumpkin}}<br>
+{{Item|Baked salmon}}<br>
+{{Item|Beet slices}}<br>
+{{Item|Burger}}<br>
+{{Item|Cabbage soup}}<br>
+{{Item|Carrot cutlet}}<br>
+{{Item|Cheese patty}}<br>
+{{Item|Cheese pie}}<br>
+{{Item|Cream of mushroom soup}}<br>
+{{Item|Creamy vegetable soup}}<br>
+{{Item|Fancy lentil soup}}<br>
+{{Item|Fish nuggets}}<br>
+{{Item|Fish soup}}<br>
+{{Item|Lasagna}}<br>
+{{Item|Lentil cutlets}}<br>
+{{Item|Lentil porridge}}<br>
+{{Item|Mushroom patty}}<br>
+{{Item|Omelette}}<br>
+{{Item|Pasta}}<br>
+{{Item|Pumpkin soup}}<br>
+{{Item|Vegetable patty}}<br>
+{{Item|Vegetable soup}}<br>
+{{Item|Vegetable stew}}<br>
+{{Item|Royal fish}}<br>
+}}
+
+===Desserts===
+{{cols|3|
+{{Item|Berry pie}}<br>
+{{Item|Berry pudding}}<br>
+{{Item|Blue jelly (food)}}<br>
+{{Item|Cake}}<br>
+{{Item|Cheese cake}}<br>
+{{Item|Croissant}}<br>
+{{Item|Grape pie}}<br>
+{{Item|Green jelly (food)}}<br>
+{{Item|Honey cake}}<br>
+{{Item|Honey pudding}}<br>
+{{Item|Muffin}}<br>
+{{Item|Orange jelly (food)}}<br>
+{{Item|Panna cotta}}<br>
+{{Item|Red jelly}}
+}}
+
+===Drinks===
+{{cols|3|
+{{Item|A mug of beer}}<br>
+{{Item|A mug of mead}}<br>
+{{Item|Booze}}<br>
+{{Item|Red wine}}<br>
+{{Item|Bottle of apple ferment}}<br>
+{{Item|Bottle of berry ferment}}<br>
+{{Item|Infusion}}<br>
+{{Item|Bottle of apple juice}}<br>
+{{Item|Bottle of berry juice}}<br>
+{{Item|Bottle of grape juice}}
+}}
+
+==Equipment==
+===Armor===
+{{cols|3|
+{{Item|Iron armor}}<br>
+{{Item|Steel armor}}
+}}
+
+===Weapons===
+{{cols|3|
+{{Item|Damask sword with gem}}<br>
+{{Item|Damask sword}}<br>
+{{Item|Rusty sword}}<br>
+{{Item|Steel sword with gem}}<br>
+{{Item|Steel sword}}<br>
+{{Item|Sword}}
+}}
+
+===Tools===
+{{cols|3|
+{{Item|Axe I}}<br>
+{{Item|Axe II}}<br>
+{{Item|Rusty axe}}<br>
+{{Item|Ice axe}}<br>
+{{Item|Pickaxe I}}<br>
+{{Item|Pickaxe II}}<br>
+{{Item|Rusty pickaxe}}<br>
+{{Item|Shovel I}}<br>
+{{Item|Shovel II}}<br>
+{{Item|Rusty shovel}}<br>
+{{Item|Iron hammer}}<br>
+{{Item|Rusty hammer}}<br>
+{{Item|Iron chisel}}<br>
+{{Item|Steel chisel}}
+}}
+
+==Foraging== 
+===Plants===
+{{cols|3|
+{{Item|Berry}}<br>
+{{Item|Edible mushroom}}<br>
+{{Item|Green apple}}<br>
+{{Item|Hiccup grass}}<br>
+{{Item|Red apple}}<br>
+{{Item|Red flower}}<br>
+{{Item|Red mushroom}}<br>
+{{Item|White flower}}<br>
+{{Item|Yellow flower}}
+}}
+
+===Insects===
+{{cols|3|
+{{Item|Bee}}<br>
+{{Item|Butterfly}}<br>
+{{Item|Maggot}}<br>
+{{Item|Moth}}
+}}
+
+===Other===
+{{cols|3|
+{{Item|Beeswax}}<br>
+{{Item|Honey}}
+}}
+
+==Fishing==
+===Equipment===
+{{cols|3|
+{{Item|Lure with a gem}}<br>
+{{Item|Steel lure}}<br>
+{{Item|Simple fishing rod}}<br>
+{{Item|Good fishing rod}}<br>
+{{Item|Excellent fishing rod}}
+}}
+
+===Fish===
+{{cols|3|
+{{Item|Anchovy}}<br>
+{{Item|Bream}}<br>
+{{Item|Carp}}<br>
+{{Item|Eel}}<br>
+{{Item|Frog}}<br>
+{{Item|Gold crucian}}<br>
+{{Item|Goldfish}}<br>
+{{Item|Gudgeon}}<br>
+{{Item|Perch}}<br>
+{{Item|Pike}}<br>
+{{Item|Salmon}}<br>
+{{Item|Sardine}}<br>
+{{Item|Silver crucian}}<br>
+{{Item|Sturgeon}}<br>
+{{Item|Tilapia}}<br>
+{{Item|Tuna}}
+}}
+
+==Mining==
+===Primary===
+{{cols|3|
+{{Item|A piece of marble}}<br>
+{{Item|A piece of stone}}<br>
+{{Item|Clay}}<br>
+{{Item|Coal}}<br>
+{{Item|Iron ore}}<br>
+{{Item|River sand}}
+}}
+
+===Secondary===
+{{cols|3|
+{{Item|Gold nugget}}<br>
+{{Item|Graphite}}<br>
+{{Item|Limestone}}<br>
+{{Item|Silver nugget}}<br>
+{{Item|Sulfur}}<br>
+}}
+
+==Writing==
+===Written Works===
+{{cols|3|
+{{Item|Book (b)}}<br>
+{{Item|Book (g)}}<br>
+{{Item|Book (r)}}<br>
+{{Item|Great book (b)}}<br>
+{{Item|Great book (g)}}<br>
+{{Item|Great book (r)}}<br>
+{{Item|Book}}<br>
+{{Item|Story}}<br>
+{{Item|Chapter}}<br>
+{{Item|Notes}}
+}}
+
+===Resources===
+{{cols|3|
+{{Item|Old book}}<br>
+{{Item|Clean paper}}<br>
+{{Item|Hard cover}}<br>
+{{Item|Ink}}<br>
+{{Item|Paper glop}}<br>
+{{Item|Pen and ink}}<br>
+{{Item|Feather}}<br>
+{{Item|Pigskin paper}}<br>
+{{Item|Softcover}}
+}}
+
+==Church==
+===Sermons===
+{{cols|3|
+{{Item|Casual prayer}}<br>
+{{Item|Combo prayer}}<br>
+{{Item|Prayer for donations}}<br>
+{{Item|Prayer for excellence}}<br>
+{{Item|Prayer for faith}}<br>
+{{Item|Prayer for imagination}}<br>
+{{Item|Prayer for prosperity}}<br>
+{{Item|Prayer for protection}}<br>
+{{Item|Prayer for repentance}}<br>
+{{Item|Prayer for repose}}<br>
+{{Item|Prayer for retribution}}<br>
+{{Item|Prayer for shoots and roots}}
+}}
+
+===Resources===
+{{cols|3|
+{{Item|Candle}}<br>
+{{Item|Candle|variant=02}}<br>
+{{Item|Candle|variant=03}}<br>
+{{Item|Candle|variant=04}}<br>
+{{Item|Candle|variant=05}}<br>
+{{Item|Candle|variant=06}}<br>
+{{Item|Communion cookie}}<br>
+{{Item|Faith}}<br>
+{{Item|Incense}}<br>
+{{Item|Incense II}}
+}}
+
+==Graves==
+===Grave Markers===
+{{cols|3|
+{{Item|Gravestone}}<br>
+{{Item|Gravestone II}}<br>
+{{Item|Gravestone III}}<br>
+{{Item|Marble cross}}<br>
+{{Item|Marble cross II}}<br>
+{{Item|Marble gravestone II}}<br>
+{{Item|Marble gravestone III}}<br>
+{{Item|Marble plinth}}<br>
+{{Item|Marble sarcophagus}}<br>
+{{Item|Marble sculpture}}<br>
+{{Item|Marble sculpture II}}<br>
+{{Item|Marble sculpture III}}<br>
+{{Item|Marble sculpture IV}}<br>
+{{Item|Marble sculpture V}}<br>
+{{Item|Marble sculpture VI}}<br>
+{{Item|Stone cross}}<br>
+{{Item|Stone cross II}}<br>
+{{Item|Stone plinth}}<br>
+{{Item|Stone sarcophagus}}<br>
+{{Item|Stone sculpture}}<br>
+{{Item|Stone sculpture II}}<br>
+{{Item|Stone sculpture III}}<br>
+{{Item|Stone sculpture IV}}<br>
+{{Item|Stone sculpture V}}<br>
+{{Item|Stone sculpture VI}}<br>
+{{Item|Wooden cross}}<br>
+{{Item|Wooden marker}}
+}}
+
+===Grave Fences===
+{{cols|3|
+{{Item|Marble grave fence}}<br>
+{{Item|Marble grave fence II}}<br>
+{{Item|Marble grave fence III}}<br>
+{{Item|Marble grave fence IV}}<br>
+{{Item|Marble grave fence V}}<br>
+{{Item|Marble grave fence VI}}<br>
+{{Item|Marble grave fence VII}}<br>
+{{Item|Marble grave fence VIII}}<br>
+{{Item|Stone grave fence}}<br>
+{{Item|Stone grave fence II}}<br>
+{{Item|Stone grave fence III}}<br>
+{{Item|Stone grave fence IV}}<br>
+{{Item|Stone grave fence V}}<br>
+{{Item|Stone grave fence VI}}<br>
+{{Item|Stone grave fence VII}}<br>
+{{Item|Stone grave fence VIII}}<br>
+{{Item|Wooden grave fence}}
+}}
+
+==Bodyparts==
+{{cols|3|
+{{Item|Flesh}}<br>
+{{Item|Blood}}<br>
+{{Item|Fat}}<br>
+{{Item|Skin}}<br>
+{{Item|Bone}}<br>
+{{Item|Skull}}<br>
+{{Item|Intestine}}<br>
+{{Item|Heart}}<br>
+{{Item|Brain}}<br>
+{{Item|Dark intestine}}<br>
+{{Item|Dark heart}}<br>
+{{Item|Dark brain}}
+}}
+
+==Mob Drops==
+{{cols|3|
+{{Item|Green jelly}}<br>
+{{Item|Blue jelly}}<br>
+{{Item|Black jelly}}<br>
+{{Item|Orange jelly}}<br>
+{{Item|Bat wing}}<br>
+{{Item|Bloody nails}}<br>
+{{Item|Spider web}}<br>
+{{Item|Electric powder}}
+}}
+
+==Alchemy==
+===Basic resources===
+{{cols|3|
+{{Item|Acceleration extract}}<br>
+{{Item|Acceleration powder}}<br>
+{{Item|Acceleration solution}}<br>
+{{Item|Chaos extract}}<br>
+{{Item|Chaos powder}}<br>
+{{Item|Chaos solution}}<br>
+{{Item|Death extract}}<br>
+{{Item|Death powder}}<br>
+{{Item|Death solution}}<br>
+{{Item|Health extract}}<br>
+{{Item|Health powder}}<br>
+{{Item|Health solution}}<br>
+{{Item|Life extract}}<br>
+{{Item|Life powder}}<br>
+{{Item|Life solution}}<br>
+{{Item|Order extract}}<br>
+{{Item|Order powder}}<br>
+{{Item|Order solution}}<br>
+{{Item|Slowing extract}}<br>
+{{Item|Slowing powder}}<br>
+{{Item|Slowing solution}}<br>
+{{Item|Toxic extract}}<br>
+{{Item|Toxic powder}}<br>
+{{Item|Toxic solution}}
+}}
+
+===Alternative resources===
+{{cols|3|
+{{Item|Alcohol}}<br>
+{{Item|Ash}}<br>
+{{Item|Blood}}<br>
+{{Item|Electric powder}}<br>
+{{Item|Gold powder}}<br>
+{{Item|Goo||animation}}<br>
+{{Item|Graphite powder}}<br>
+{{Item|Salt}}<br>
+{{Item|Oil}}<br> 
+{{Item|Silver powder}}<br>
+{{Item|Spices}}<br>
+{{Item|Water}}<br>
+{{Item|White powder}}<br> 
+}}
+
+===Products===
+{{cols|3|
+{{Item|Acid}}<br>
+{{Item|Alkali}}<br>
+{{Item|Aromatizer}}<br>
+{{Item|Balsamic solution}}<br>
+{{Item|Berserk potion}}<br>
+{{Item|Black paint}}<br>
+{{Item|Dark elixir}}<br>
+{{Item|Digestion potion}}<br>
+{{Item|Energy elixir}}<br>
+{{Item|Energy potion}}<br>
+{{Item|Flavor enhancer}}<br>
+{{Item|Freshener}}<br>
+{{Item|Glue}}<br>
+{{Item|Golden elixir}}<br>
+{{Item|Growth enhancer}}<br>
+{{Item|Heal potion}}<br>
+{{Item|Preservative}}<br>
+{{Item|Protection potion}}<br>
+{{Item|Rage potion}}<br>
+{{Item|Restoring potion}}<br>
+{{Item|Silver elixir}}<br>
+{{Item|Speed potion}}<br>
+{{Item|Tanning agent}}<br>
+{{Item|White paint}}<br>
+{{Item|Zombie juice}}
+}}
+
+===Embalming Injections===
+{{cols|3|
+{{Item|Acid injection}}<br>
+{{Item|Glue injection}}<br>
+{{Item|Lye injection}}<br>
+{{Item|Restore injection}}<br>
+{{Item|Preservative injection}}<br>
+{{Item|Silver injection}}<br>
+{{Item|Gold injection}}<br>
+{{Item|Dark injection}}<br>
+}}
+
+==Food Recipes==
+See also: [https://graveyardkeeper.fandom.com/wiki/Cookery_(Tech_Tree) List of Recipes]{{cols|3|
+{{Item|Recipe cheese dishes}}<br>
+{{Item|Recipe fish delicacies}}<br>
+{{Item|Recipe in lentil we trust}}<br>
+{{Item|Recipe jelly desserts}}<br>
+{{Item|Recipe milk processing}}<br>
+{{Item|Recipe patties}}<br>
+{{Item|Recipe pies}}<br>
+{{Item|Recipe simple and tasty}}<br>
+{{Item|Recipe simple snacks}}<br>
+{{Item|Recipe special beer}}<br>
+{{Item|Recipe sweet baking}}<br>
+{{Item|Recipe tasty and healthy}}<br>
+{{Item|Recipe vegetable set}}<br>
+}}
+
+==Miscellaneous==
+{{cols|3|
+{{Item|Alcohol}}<br>
+{{Item|Ash}}<br>
+{{Item|Blessing of commerce}}<br>
+{{Item|Bucket of clear water}}<br>
+{{Item|Bucket of milk}}<br>
+{{Item|Ceramic bowls}}<br>
+{{Item|Ceramic funeral urn}}<br>
+{{Item|Ceramic jug}}<br>
+{{Item|Exhumation permission}}<br>
+{{Item|Faceted diamond}}<br>
+{{Item|Hemp rope}}<br>
+{{Item|Necklace}}<br>
+{{Item|Obsidian}}<br>
+{{Item|Oil}}<br>
+{{Item|Pail of apple juice}}<br>
+{{Item|Pail of berry juice}}<br>
+{{Item|Pail of grape juice}}<br>
+{{Item|Polishing paste}}<br>
+{{Item|Porcelain funeral urn}}<br>
+{{Item|Porcelain pitcher}}<br>
+{{Item|Roof tile}}<br>
+{{Item|Ruined book}}<br>
+{{Item|Science}}<br>
+{{Item|Seed oil}}<br>
+{{Item|Silk}}<br>
+{{Item|Tavern reputation}}<br>
+{{Item|Teleportstone}}<br>
+{{Item|Water}}<br>
+{{Item|Whetstone}}<br>
+}}
+
+==Unobtainable==
+{{cols|3|
+{{Item|Beer}}<br>
+{{Item|Crab}}<br>
+{{Item|Dark Lungs}}<br>
+{{Item|Faceted emerald}}<br>
+{{Item|Flax}}<br>
+{{Item|Gold diamond ring}}<br>
+{{Item|Gold emerald ring}}<br>
+{{Item|Gold lure}}<br>
+{{Item|Iron wedges}}<br>
+{{Item|Lungs}}<br>
+{{Item|Metal sword}}<br>
+{{Item|Metal sword with gem}}<br>
+{{Item|Mussels}}<br>
+{{Item|Nori}}<br>
+{{Item|Organs}}<br>
+{{Item|Palette}}<br>
+{{Item|Pig skin}}<br>
+{{Item|Pink soap}}<br>
+{{Item|Pyrite}}<br>
+{{Item|Shit}}<br>
+{{Item|Silver diamond ring}}<br>
+{{Item|Silver emerald ring}}<br>
+{{Item|Silver jewelry details}}<br>
+{{Item|Slime}}<br>
+{{Item|Steel hammer}}<br>
+{{Item|Sushi}}<br>
+{{Item|Thread}}<br>
+{{Item|Truffle}}<br>
+{{Item|Wood chips}}<br>
+}}
+
+[[Category:Main Pages]]
+[[Category:Items| ]]
+[[Category:Graveyard Keeper]]
+
+
+[[ja:アイテム]]
+[[de:Gegenstände]]
+[[es:Objetos]]
+[[fr:Objets]]
+[[ru:Предметы]]
+[[pt-br:Itens]]
+[[pl:Przedmioty]]

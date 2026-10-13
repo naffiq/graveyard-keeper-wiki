@@ -1,0 +1,84 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| source       = [[Wooden stick]], [[Firewood]], [[Coal]]
+| type         = Metaphysical resource
+}}
+<b>{{PAGENAME}}</b> is a resource that's required in order to either cook or smelt items in the [[oven]] or in any [[furnace]]. There are three sources {{PAGENAME}} can be generated from: [[wooden  stick]], [[firewood]], and [[coal]]. Both the oven and the furnaces generate different amounts of {{PAGENAME}} depending on the item used.
+
+==Recipes==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Oven}} / {{Item|Brewing stand}} / {{Item|Alcohol distiller}}
+|-
+!Fuel Produced
+!Materials Required
+!Fuel:Mat Ratio
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|2:1
+|-
+|{{Item|Fuel|30}}
+|{{Item|Firewood|1}}
+|30:1
+|-
+|{{Item|Fuel|160}}
+|{{Item|Coal|10}}
+|16:1
+|-
+!colspan="3"|{{Item|Bonfire}} / {{Item|Professional oven}}
+|-
+!Fuel Produced
+!Materials Required
+!Fuel:Mat Ratio
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|2:1
+|-
+|{{Item|Fuel|30}}
+|{{Item|Firewood|1}}
+|30:1
+|-
+!colspan="3"|{{Item|Furnace}}
+|-
+!Fuel Produced
+!Materials Required
+!Fuel:Mat Ratio
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|2:1
+|-
+|{{Item|Fuel|90}}
+|{{Item|Firewood|10}}
+|9:1
+|-
+|{{Item|Fuel|160}}
+|{{Item|Coal|10}}
+|16:1
+|-
+!colspan="3"|{{Item|Furnace II}} / {{Item|Furnace III}}
+|-
+!Fuel Produced
+!Materials Required
+!Fuel:Mat Ratio
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|2:1
+|-
+|{{Item|Fuel|100}}
+|{{Item|Firewood|10}}
+|10:1
+|-
+|{{Item|Fuel|180}}
+|{{Item|Coal|10}}
+|18:1
+|}
+
+<br>
+{{Navbox-Food}}
+[[de:Brennstoff]]
+[[ru:Топливо]]

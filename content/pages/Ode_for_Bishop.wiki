@@ -1,0 +1,15 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| quest        = 
+| nameinternal = i_ode
+}}
+'''{{PAGENAME}}''' is a quest item from the [[Better Save Soul]] DLC. This item is needed to unlock the '''pride sin sard'''.
+
+First, research the [[Spiritualism (Tech Tree)|Healer enthusiast]] technology. This tech will unlock a storyline with [[Smiler]], who will redirect you to [[Euric]] to find a way to obtain a special sins shard to heal [[Euric]]'s pride.
+To do so, you need to get the '''{{PAGENAME}}''' item from [[Vagner]] and read its words to the [[Bishop]]. This part of the questline will consume the item.
+
+{{Navbox-BetterSaveSoulQuest}}
+[[Category:Better Save Soul]][[Category:Better Save Soul quest items]]

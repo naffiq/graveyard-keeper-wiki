@@ -1,0 +1,64 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seed
+| nameinternal = pumpkin_seed
+| study        = {{Techpoint|Green|30}}
+| source       = [[Farming]], [[Dungeon]]
+| buy          = [[Farmer|Farmer (T II & T III)]]
+| sell         = None
+| cost         = 16
+| stacksize    = 50
+}}
+'''{{PAGENAME}}s''' are one of five different types of complex seeds, to be utilized at the [[Kitchen Garden]]. They must be planted in an [[empty garden bed]] and may be harvested after a certain amount of time. In order to obtain {{lcfirst:{{PAGENAME}}}}s, you will likely need to purchase them from the [[Farmer]], though there is a small chance in finding some within the [[Dungeon]].
+
+Harvesting a mature crop will return some seeds, though without using a quality fertilizer, the chance of receiving enough seeds to replant the crop is very unlikely. In addition, given the varieties of quality, the use of Q1 and Q2 fertilizers will provide small amounts of upgraded produce and seeds. See the relevant articles on each fertilizer - or the general article on [[farming]] - for more info.
+
+==Quality==
+{|class="wikitable"
+|{{Quality Sprite|image = i_pumpkin_seed.png|quality = copper}}
+|{{Quality Sprite|image = i_pumpkin_seed.png|quality = silver}}
+|{{Quality Sprite|image = i_pumpkin_seed.png|quality = gold}}
+|-
+|Copper
+|Silver
+|Gold
+|-
+|{{Money|16}}
+|{{Money|24}}
+|{{Money|32}}
+|}
+
+==Planting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Empty garden bed}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|Pumpkin|3-5|animation}}<br>{{Item|{{PAGENAME}}|2-4|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|{{PAGENAME}}|4|animation}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seeds]]
+[[fr:Graine de Citrouille]]

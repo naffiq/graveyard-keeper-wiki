@@ -1,0 +1,112 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = {{Item|Science|15-25}}
+| alchemy      = 
+| source       = [[Desk]], [[Desk II]], [[Astrologer]], [[Organ Workbench]]
+| cost         = 300
+| stacksize    = 10
+| type         = [[Writing]]
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}s</b> are used to create low-tier [[Sermon|sermons]], and [[Book|books]] in order to eventually create high-tier [[Sermon|sermons]]. To craft a chapter you need three [[notes]] of any quality.
+
+__NOTOC__
+{{Clear}}
+==Recipe==
+{| class="wikitable" style="width:40em;"
+! colspan="4" |{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Items Produced
+!Materials Required
+! style="width:5em;" |Energy
+
+[[pt-br:Capítulo]]
+! style="width:5em;" |Craft Reward
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|Notes|3|animation}}
+|{{Energy|-|20}}
+|{{Techpoint|Blue|5}}
+|-
+! colspan="4" |{{Item|Organ Workbench}}
+|-
+!Items Produced
+!Materials Required
+! style="width:5em;" |Energy
+! style="width:5em;" |Craft Reward
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|Clean paper|3}}<br>{{Item|Sin Shard|2}}<br>{{Item|Story|1|animation}}
+|{{Energy|-|20}}
+|
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+! colspan="3" |{{Item|Desk}} / {{Item|Desk II}}
+|-
+!style="width:50%;" |Items Produced
+!Materials Required
+! style="width:5em;" |Craft Reward
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Softcover|1}}<br>{{Item|Chapter|1|animation}}<hr>{{Item|Hard cover|1|animation}}<br>{{Item|Chapter|1|animation}}
+|{{Techpoint|Blue|15}}
+|-
+|{{Item|Prayer for faith|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for donations|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for shoots and roots|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for repentance|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for prosperity|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Techpoint|Blue|5}}
+|-
+! colspan="3" |{{Item|Organ Workbench}}
+|-
+!Items Produced
+!Materials Required
+! style="width:5em;" |Craft Reward
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Story|1|animation}}<br>{{Item|Sin Shard|2}}
+|
+|-
+|{{Item|Prayer for souls' repose|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}<br>{{Item|Sin Shard|2}}
+|
+|-
+|{{Item|Prayer for souls' contentment|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}<br>{{Item|Sin Shard|2}}
+|
+|-
+|{{Item|Prayer for souls' thorough cleansing|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}<br>{{Item|Sin Shard|1}}
+|
+|-
+! colspan="3" |{{Item|Study table}}
+|-
+!Item Produced
+!colspan="2" |Materials Required
+|-
+|{{Item|Science|15-25}}
+|colspan="2" |{{Item|Chapter|1|animation}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]

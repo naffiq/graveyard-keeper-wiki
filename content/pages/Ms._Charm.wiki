@@ -1,0 +1,96 @@
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = {{PAGENAME}}.png
+| day      = {{Day|Lust}}
+| location = [[The Dead Horse]]
+| vendor   = 
+| role     = Actress
+}}
+The actress {{PAGENAME}} visits on every {{Day|Lust}} and performs at [[The Dead Horse]]. Her real name is Aleidita. Once you build the [[Talking Skull]] she will also perform songs during the [[Talking Skull#Tavern Events|Ms. Charm's Song]] tavern event.
+
+==Quests==
+===Prove Your Worth===
+She does not want to speak to you. To get her to acknowledgment you need to "Be Confident" which consumes {{Item|faith|5}} and you will receive 10 {{Happiness}}. Afterwards she says there might be something to your dirty and ragged charm and asks for a compliment.
+
+===Fake Coins For Snake===
+You must speak to [[Horadric]] and start the [[Horadric#Return_With_Royal_Stamp|Return with Royal Stamp]] quest for this dialog with {{PAGENAME}} to be available.
+
+You think {{PAGENAME}} might be able to help you make a deal with [[Snake]] but cannot think of what kind of business someone like you would have with him.  She tells you to throw these fake {{Item|coins}} to [[Snake|Snake's]] face and return to tell her how he reacted. When you give them to him he asks if you knew it was a joke and wants to know if you are her new lover. No matter how you answer he criticizes you for falling for her charms. You receive 10 {{Happiness}} after completing the quest.
+
+===The Hunchback of the War Camp===
+{{PAGENAME}} wants you to ask [[Snake]] to find her {{item|necklace}}. You will need 30 {{Happiness}} with [[Snake]] in order to proceed with the quest. He sends you to seek out the  [[mountain fort]] for this. The [[guards|guard]] there tells you that you can meet a servant a bit west of the entrance at night. This servant is [[Koukol]], a faithful servant to the Lord Commander's family, and he tells you the {{item|necklace}} is impossible for you to get. When you get back with that bad news you'll receive 10 {{Happiness}} from her.
+
+===Perfume===
+After you deliver the bad news, she tells you, now she really wants [[Miss Chain|Miss Chains']] {{Item|perfume}}. You've got to accompish another task in order to get the {{Item|perfume}} from [[Miss Chain|Miss Chains']] and deliver it to {{PAGENAME}} for 10 {{Happiness}}.
+
+===Promote Business===
+Now, you should have 40 {{Happiness}} with her. Then you could ask her to promote your vegetable business (see [[Merchant|the Merchant's quest]] for more details). She wants to be given a {{Item|Jewelry|1}} in order to help you. After you bring her one, she starts to sell and buy {{Item|Jewelry}} and {{item|perfume}}.
+
+===Ms. Charm's Show===
+Once you give her the [[perfume]], she requests {{Item|story|1|gold}} for her show. Note that giving her one will grant you enough {{Happiness}} to continue with the [[Astrologer|Astrologer's]] quest line. You'll earn 10 {{happiness}} from this.
+
+The next step is to try and convince Alisa's father (the local [[farmer]]) to allow her to accompany her to the King's palace in [[town]].
+
+===Ms. Charm's Father===
+To advance the [[Astrologer|Astrologer's]] quest, you have to talk to her about her father. You need 50 {{happiness}}, just to be told that she hates him.
+
+===Fixing the Windmill===
+The [[farmer]] doesn't want Alisa going to [[town]], but her [[Farmer's Son|brother]] comes forward saying that if you manage to fix his [[miller|uncle's]] windmill, his father would surely be so happy that he would allow her to go. You need to go to the [[miller]] and he will give you the instructions to repair the windmill, but all in Latin, with one page missing. You need to go ask the [[Astrologer]] for help. You need to have at least 60 {{Happiness}} with him to restore the {{Item|Paper with calculations}}. Together with {{item|complex iron parts|5}} and {{item|wooden plank|6}}, you'll  get the mill up and running once again (you'll be able to mill your wheat here for free from now on). Speak to the [[farmer]] again and he will grant his daughter permission to go to [[town]] with Ms. Charm.
+
+===Correcting the Papers===
+Ms. Charm gets very happy when you bring her Alisa's paper for 10 more {{happiness}}, but she botches it when trying to forge her age to make her two years older. She wants now an aristocrat to sign the papers, so you need to buy {{item|Aristocrat papers}} through the [[Royal services]] (this requires 100 {{Happiness}} with the Royal services and {{Money|120000}}). Show her your Aristocrat papers for 10 more {{Happiness}}.
+
+===New Love Song===
+Now, she wants you to bring her the greatest love song ever. When you ask [[Vagner]] to help you with this, he wants you to prepare a fly agaric [[infusion]] for his inspiration to write one. After handing the concoction over to him, return after some days and he will be missing from the Tavern. Go search for him near the Mountain Fort Cliffs and you'll get the lyrics that you can hand over to Ms. Charm for 10 {{Happiness}} and the [[achievements|achievement]] "Ideal song".
+
+===Save the Poet===
+As you report to her, that [[Vagner]] was arrested by the guards, she wants you to rescue him from the Mountain Fort. You promise to help and think that the [[Astrologer]] might be able to help you in this case.
+
+After some tasks, you manage to accomplish for the [[Astrologer]], Ms. Charm joins you for the rescue mission. In the end, you'll get the {{item|necklace}} from her and end up with a total of 100 {{Happiness}}.
+
+==Trades==
+Once the player provides her with {{Item|Jewelry|1}} through her quest-line, trading is unlocked.
+
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Jewelry}}
+|5
+|{{Money|10000}}
+|-
+|{{Item|Perfume}}
+|5
+|{{Money|1500}}
+|}
+
+===Purchasing===
+*Selling jewelry is ill-advised, unless the player is certain they no longer need [[faceted diamond]]s.
+::{{*}}Purchasing the requisite materials results in a net loss. <i>(see [[Merchant#Trading|Merchant]])</i> 
+*Despite being able to buy perfume, she is the only known source. <i>([[Church workbench]] bug?)</i>
+::{{*}}It also has no known application, other than a previous quest of hers.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Base Price
+|-
+|{{Item|Jewelry}}
+|{{Money|6847}}
+|-
+|{{Item|Perfume}}
+|{{Money|1027}}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[de:Frau Anmut]]
+[[pt-br:D. Charmosa]]

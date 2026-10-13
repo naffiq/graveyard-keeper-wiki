@@ -1,0 +1,85 @@
+{{Stub}}
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = 
+| source       = [[Souls room]]
+| cost         = 
+| stacksize    = 20
+| type         = Soul Item
+| quest        = 
+| nameinternal = Sin_Shard
+}}
+'''{{PAGENAME}}''' is a [[Better Save Soul]] DLC item. Decayed souls will become {{Item|{{PAGENAME}}}}s in [[Chest]]s, [[Corpse]]s, etc. The other source of Sin Shards is through soul cleansing with the [[Soul healer]] in the [[Souls room]]. This workstation can provide several {{Item|{{PAGENAME}}}}s equal to the used [[Items#Bodyparts|body parts]] during cleansing operations.
+
+Each Sin Shard stored in a Soul Container passively increases the maximum Soul Gratitude you can store by one. 
+
+Souls via the Soul healer will always have either 4 or 7 sins to heal. Thus, healing souls will always give either 4 or 7 {{Item|{{PAGENAME}}}}s. You can double this through the sermon "Prayer for Soul's Thorough Cleansing", giving you either 8 or 14 {{Item|{{PAGENAME}}}}s instead. What causes a soul to have either 4 or 7 sins is how many organs are used to cleanse it. 
+
+{{Item|{{PAGENAME}}}}s become a highly important and valuable resource in the late-game as they are necessary to perfect your Graveyard and your Zombies. Through the Organ Enhancer, you can cause all organs, except the Skull and Bone, to give {{Skull|white}}, including Fat and Blood. 
+
+The maximum amount of skulls, {{Skull|red}} or {{Skull|white}}, any organ can have is 3. {{Item|Flesh}} and {{Item|Skin}} can be perfected by improving each unit twice in the Organ Enhancer. {{Item|Blood}} and {{Item|Fat}} can be perfected by improving each unit 4 times.  
+
+* It will cost 2 {{Item|{{PAGENAME}}}}s to improve a -1 {{Skull|white}} part to a 0 {{Skull|white}} part 
+* It will cost another 2 {{Item|{{PAGENAME}}}}s to improve a 0 {{Skull|white}} part to a +1 {{Skull|white}} part 
+* 3 {{Item|{{PAGENAME}}}}s to improve a +1 {{Skull|white}} part to a +2 {{Skull|white}} part 
+* 4 {{Item|{{PAGENAME}}}}s to improve a +2 {{Skull|white}} part to a +3 {{Skull|white}} part 
+
+This means that it will cost 11 {{Item|{{PAGENAME}}}} to perfect 1 unit of {{Item|Blood}} or {{Item|Fat}}, and 7 {{Item|{{PAGENAME}}}}s to perfect 1 unit of {{Item|Flesh}} or {{Item|Skin}}. In total, it will cost 36 {{Item|{{PAGENAME}}}}s to perfect these parts. 
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+! colspan="3" |[[File:Organ Enhancer Icon.png|80x80px]]Organ Enhancer ([[Organ Workbench]])
+|-
+!Item Produced
+!Materials Required
+!Energy
+|-
+| +1 {{Skull|white}} on the selected [[Items#Bodyparts|body part]]
+|{{Item|{{PAGENAME}}|2-4}}*
+|{{Energy|-|3}}
+|-
+| +1 {{Skull|red}} on the selected [[Items#Bodyparts|body part]]
+|{{Item|{{PAGENAME}}|2-4}}*
+|{{Energy|-|3}}
+|-
+| colspan="3" |''*Note: The number of shard required depends on the [[Items#Bodyparts|body part]] type!''
+|-
+! colspan="3" |{{Item|Organ Workbench}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+|-
+|{{Item|Boost fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Hemp|2}}
+|{{Energy|-|7}}
+|-
+|{{Item|Boost fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Hemp|3}}
+|{{Energy|-|15}}
+|-
+|{{Item|Quality fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Ash|2}}
+|{{Energy|-|7}}
+|-
+|{{Item|Quality fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Ash|3}}
+|{{Energy|-|15}}
+|-
+|{{Item|Prayer for souls' repose}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|10}}
+|-
+|{{Item|Prayer for souls' contentment}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|10}}
+|-
+|{{Item|Prayer for souls' thorough cleansing}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|}
+
+[[Category:Better Save Soul]]
+[[ru:Осколок Греха]]
+<br />

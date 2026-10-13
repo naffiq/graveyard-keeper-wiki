@@ -1,0 +1,15 @@
+{{Stub}}
+
+
+[[Tanner]] sells this recipe as well as the [[Alchemist's bag]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alchemist's bag|1}}
+|{{Item|Skin|3}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Tanning agent|1}}
+|}

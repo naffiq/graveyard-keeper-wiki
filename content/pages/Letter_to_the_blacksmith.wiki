@@ -1,0 +1,14 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| quest        = [[Horadric]]
+}}
+
+A letter from [[Horadric]] to the Village [[blacksmith]].
+{{Navbox-Quest}}
+[[Category:Quest items]]
+
+
+[[de:Brief an den Schmied]]

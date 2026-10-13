@@ -1,0 +1,39 @@
+{{stub}}
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      ={{PAGENAME}}.png 
+|location   = [[Workyard]], [[Refugee camp]]
+|technology = [[Smithing (Tech Tree)|Engineer]]
+|related    = [[Well]]
+|footprint  = 
+|rotatable  = 
+}}
+
+<b>{{PAGENAME}}</b> is located in the [[Workyard]], after building it is placed to a fixed spot next to the [[Well]]. Water Pump generates water slowly over time, which can be taken without needing any energy. Every 10 seconds, one drop of [[Water]] is generated into pump's inventory. Water can be taken out in 10-piece stacks until the inventory is depleted. The internal inventory capacity is 500 and can be accessed by any workbench in the workyard.
+
+==Cost==
+{| class="wikitable"
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|[[File:Water_pump_item.png|80x80px|center]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Simple iron parts|2}}
+|
+|Requires Engineer 
+|}
+
+==Usage==
+{| class = "wikitable" style="text-align:center"; 
+! Item Produced
+|-
+|{{Item|Water|10}}
+|-}
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]
+[[ru:Водяной насос]]

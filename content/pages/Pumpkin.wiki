@@ -1,0 +1,153 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|8}}, {{Energy|+|16}}, {{Energy|+|22}}
+| type         = Crop
+| nameinternal = pumpkin_crop
+| study        = {{Techpoint|Green|30}}
+| alchemy      = {{Item|Health powder}},  {{Item|Health extract}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T II & T III)]]
+| sell         = None
+| cost         = 22
+}}
+[[File:Pumpkin patch.gif|left|thumb|Pumpkins growing in the garden.]]
+Pumpkins are a form of crop which can be grown from [[pumpkin seed]]s in the garden below the [[workyard]] known as the [[Kitchen Garden|kitchen garden]]. Alternatively they can be purchased from the [[Farmer]]. Pumpkins are an improvable crop, meaning they have a variety of quality levels and can be improved with fertilizer.  See the page on [[farming]] for more information on how crops are grown and improved.
+
+==Quality==
+{| class = "wikitable"
+|{{Quality Sprite|image = i_pumpkin_crop.png|quality = copper}}
+|{{Quality Sprite|image = i_pumpkin_crop.png|quality = silver}}
+|{{Quality Sprite|image = i_pumpkin_crop.png|quality = gold}}
+|-
+|Copper
+|Silver
+|Gold
+|-
+|{{Money|22}}
+|{{Money|33}}
+|{{Money|44}}
+|-
+|{{Energy|+|8}}
+|{{Energy|+|16}}
+|{{Energy|+|22}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|1}}
+|Decomposes into<br>[[Health powder|powder]] and [[Health extract|extract]].
+|}
+
+==Recipe==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Empty garden bed}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Pumpkin|?|animation}}
+{{Item|Pumpkin seed|?|animation}}
+
+{{Item|Crop waste|?}}
+| {{Item|Pumpkin seed|4|animation}}
+|}
+
+==Crafting==
+
+{| class = "mw-collapsible mw-collapsed wikitable" style = "width:100%; max-width:30em"
+! colspan = "2" | Crafting recipes
+|-
+! colspan = "2" | {{Item|Oven}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Vegetable soup|4|animation}}
+|{{Item|Cabbage|2}}
+{{Item|Carrot|2}}
+
+{{Item|Pumpkin|2|animation}}
+|-
+|{{Item|Pumpkin soup|4|animation}}
+|{{Item|Pumpkin|2|animation}}
+{{Item|Jug of milk|1}}
+|-
+|{{Item|Baked kebab|6|animation}}
+|{{Item|Pumpkin|2|animation}}
+{{Item|Quality fish fillet|1|animation}}
+
+<center>or</center>
+
+{{Item|Pumpkin|2|animation}}
+
+{{Item|Blue fish fillet|1|animation}}
+|-
+|{{Item|Baked pumpkin|3|animation}}
+|{{Item|Pumpkin|1|animation}}
+|-
+! colspan = "2" | {{Item|Dark design desk}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Crucified skeleton|1}}
+|{{Item|Skull|1}} <br> {{Item|Wooden beam|2}} <br> {{Item|Pumpkin|1|silver}}
+|-
+|{{Item|Crucified skeleton on the wall|1}}
+|{{Item|Skull|1}} <br> {{Item|Wooden beam|2}} <br> {{Item|Pumpkin|1|silver}}
+|}
+
+==Alchemy==
+Pumpkins are decomposable into powder at the [[Alchemy mill]] and extract at each of the distillation cubes. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] will produce one extra reagent at each workstation.
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Alchemy mill}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Health powder|4}}
+|{{Item|Pumpkin|1|animation}}
+|-
+! colspan = "2" | {{Item|Distillation cube}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Health extract|2}}
+|{{Item|Pumpkin|1|animation}}
+|-
+! colspan = "2" | {{Item|Distillation cube II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Health extract|3}}
+|{{Item|Pumpkin|1|animation}}
+|}
+==QUESTS==
+During a mission from Game of Crone, you will require a gold quality pumpkin to enchant (plus 50 silver), that you'll need to bring to Clotho.
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[de:Kürbis]]
+[[es:Calabaza]]
+[[fr:Citrouille]]
+[[ja:カボチャ]]
+[[pt-br:Abóbora]]
+[[ru:Тыква]]

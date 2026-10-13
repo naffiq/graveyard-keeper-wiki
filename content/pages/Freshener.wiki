@@ -1,0 +1,41 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = freshener
+| study        = 
+| alchemy      = 
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 10
+}}
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier I)]] and is used in the production of [[incense]].
+
+== Recipe ==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Oil|1}}<br>{{Item|Order solution|1}}
+|}
+
+==Crafting==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Incense|2}}
+|{{Item|Freshener|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[pt-br:Purificador de ar]]

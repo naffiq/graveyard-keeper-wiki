@@ -1,0 +1,30 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| buy          = [[Tanner|Tanner (Tier I)]]
+| price        = 3200
+| study        = N/A
+| craft        = [[Church workbench]]
+| stacksize    = 1
+| type         = [[:Category:Bags|Bags]]
+}}
+
+This bag extends the Keeper's inventory by 9 slots but can only hold certains items related to farming.
+The {{Item|Recipe farmers bag}} can be bought from [[Tanner]] after having progressed enough through the [[Game of Crone]] DLC [[refugee camp]] questline. She also sells the bag.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="4"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|Farmer's bag|1}}
+|{{Item|Skin|3}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Tanning agent|1}}
+|{{Energy|-|15}}
+|Gives {{Techpoint|green|10}}
+|}
+
+[[Category:Bags]]

@@ -1,0 +1,48 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Embalming Injection
+| nameinternal = 
+| study        = N/A
+
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 5
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is used at the [[Embalming table|embalming table]] to remove one {{Skull|red}} and one {{Skull|white}}. 
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+! colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5;"|Energy
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Acid|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+==Crafting==
+{| class = "wikitable"
+! colspan="3"|{{Item|Embalming table}}
+|-
+!style = "width:15em;|Item Produced
+!style = "width:15em;|Required Materials
+!Notes
+|-
+|{{Item|Corpse|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Corpse|1}}
+| -1{{Skull|white}} -1{{Skull|red}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Embalming injections]]
+
+[[Category:Alchemy]]
+[[Category:Breaking Dead]]
+[[es:Inyección de ácido]]
+[[pt-br:Injeção de ácido]]

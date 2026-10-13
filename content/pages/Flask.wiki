@@ -1,0 +1,22 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Farmer's Son]]
+| cost         = 
+}}
+
+The {{PAGENAME}} (or Ancient wine flask) is retrieved from the [[Farmer's Son]]. He's surprised that you know he drinks wine from the {{PAGENAME}} since he drinks in secret. He'll ask you not to tell his father about it.
+
+'''Optional:''' If you don't tell the [[Farmer]] that his son is drinking, he will have a cut scene discussion with you as you exit your [[Sweet Home]] after sleeping. He'll thank you for not telling him. He's happy that his son is growing up and has the gumption to defy him.
+
+If you tell him however, he tells you the flask is his and requests {{Money|500}} in payment. 
+
+The flask can be given to Gerry at the Talking skull for the second cutscene, "Terror is coming" in the Archaelogical time machine.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Древняя фляжка вина]]

@@ -1,0 +1,5 @@
+This category contains articles that have been marked as candidates for deletion with the {{Tl|Delete}} template. Deletion requests should be made by adding {{tlx|delete|reason for deletion request}} to the top of the target page, which will then automatically mark the page as a [[:Category:Candidates for deletion|candidate for deletion]].
+
+'''Administrators, before deleting these pages''' make sure you check each page's discussion page, what links to each page, and the history of each page before proceeding with the deletion.
+
+[[Category:Wiki maintenance]]

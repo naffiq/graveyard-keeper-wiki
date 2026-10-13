@@ -1,0 +1,291 @@
+This [[Technologies|technology tree]] deals primarily with the processing of wood, stone and dirt into more elaborate products.
+
+==Wood==
+This branch is unlocked through the tutorial by first talking to the [[bishop]]. Most woodwork is done at the [[workyard]].
+
+{| class="wikitable" style="text-align:center" 
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="The Concept of Wood"
+| rowspan="3" |The Concept of Wood
+| rowspan="3" |None
+| rowspan="3" |Talk to the [[bishop]]
+|[[File:timber stockpile item.png|64px|link=timber stockpile]]
+|style="text-align:left"| Blueprint: [[Timber stockpile]]
+|-
+|[[File:log item.png|64px|link=log]]
+|style="text-align:left"|Gathering: [[log|Small tree felling]]
+|-
+|[[File:wooden stick item.png|64px|link=wooden stick]]
+|style="text-align:left"|Gathering: [[Wooden stick]]
+|- id="Sawing"
+| rowspan="3" |Sawing
+| rowspan="3" |The Concept of Wood
+| rowspan="3" |{{Techpoint|red|5}} {{Techpoint|green|2}}
+|[[File:sawhorse item.png|64px|link=sawhorse]]
+|style="text-align:left"|Blueprint: [[Sawhorse]]
+|-
+|[[File:flitch item.png|64px|link=flitch]]
+|style="text-align:left"|Create: [[Flitch]]
+|-
+|[[File:wood billet item.png|64px|link=wood billet]]
+|style="text-align:left"|Create: [[Wood billet]]
+|- id="Firewood"
+| rowspan="3" |Firewood
+| rowspan="3" |Sawing
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|5}}
+|[[File:chopping spot item.png|64px|link=chopping spot]]
+|style="text-align:left"|Blueprint: [[Chopping spot]]
+|-
+|[[File:firewood item.png|64px|link=firewood]]
+|style="text-align:left"|Create: [[Firewood]]
+|-
+|[[File:wood wedge item.png|64px|link=wood wedge]]
+|style="text-align:left"|Create: [[Wood wedge]]
+|- id="Woodcutter"
+| rowspan="2" |Woodcutter
+| rowspan="2" |Firewood
+| rowspan="2" |{{Techpoint|red|50}} {{Techpoint|blue|20}}
+|[[File:log item.png|64px|link=log]]
+|style="text-align:left"|Gathering: [[log|Big tree felling]]
+|-
+|[[File:Axeman Perk.png|link=Perks#Axeman Perk]]
+|style="text-align:left"|Perk: [[Perks#Axeman Perk|Axeman]]
+|- id="Zombie woodcutting"
+| Zombie woodcutting
+| Woodcutter
+| Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|10}} {{Techpoint|green|10}} {{Techpoint|blue|5}}
+|[[File:Start building sawmill item.png|64px|link=Start building sawmill]]
+|style="text-align:left"|Create: [[Start building sawmill]]
+|- id="Woodworking"
+| rowspan="3" |Woodworking
+| rowspan="3" |Sawing
+| rowspan="3" |{{Techpoint|red|20}} {{Techpoint|green|10}}
+|[[File:Carpenter's workbench item.png|64px|link=Carpenter's workbench]]
+|style="text-align:left"|Blueprint: [[Carpenter's workbench]]
+|-
+|[[File:Wooden plank item.png|64px|link=Wooden plank]]
+|style="text-align:left"|Create: [[Wooden plank]]
+|-
+|[[File:Wood repair kit item.png|64px|link=Wood repair kit]]
+|style="text-align:left"|Create: [[Wood repair kit]]
+|- id="Assembly Stand"
+| rowspan="2" |Assembly Stand
+| rowspan="2" |Woodworking
+| rowspan="2" |{{Techpoint|red|200}} {{Techpoint|green|50}} {{Techpoint|blue|20}} 
+|[[File:Carpenter's workbench II item.png|64px|link=Carpenter's workbench II]]
+|style="text-align:left"|Blueprint: [[Carpenter's workbench II]]
+|-
+|[[File:Jointing item.png|64px|link=Jointing]]
+|style="text-align:left"|Create: [[Jointing]]
+|- id="Fine Woodworking"
+|Fine Woodworking
+|Assembly Stand
+|{{Techpoint|red|300}} {{Techpoint|green|50}} {{Techpoint|blue|50}} 
+|[[File:Carved wood item.png|64px|link=Carved wood]]
+|style="text-align:left"|Create: [[Carved wood]]
+|- id="Circular Saw"
+| rowspan="2" |Circular Saw
+| rowspan="2" |Woodworking
+| rowspan="2" |{{Techpoint|red|200}} {{Techpoint|green|20}} {{Techpoint|blue|10}}
+|[[File:Circular saw item.png|64px|link=Circular saw]]
+|style="text-align:left"|Blueprint: [[Circular saw]]
+|-
+|[[File:Wooden beam item.png|64px|link=Wooden beam]]
+|style="text-align:left"|Create: [[Wooden beam]]
+|- id="Tricks of the Trade"
+| rowspan="3" |Tricks of the Trade
+| rowspan="3" |Circular Saw +<br>Stone Carving
+| rowspan="3" |{{Techpoint|red|50}} {{Techpoint|blue|50}}
+|[[File:Prayer for excellence item.png|64px|link=Prayer for excellence]]
+|style="text-align:left"|Create: [[Prayer for excellence]]
+|-
+|[[File:Carpenter Perk.png|link=Perks#Carpenter Perk]]
+|style="text-align:left"|Perk: [[Perks#Carpenter Perk|Carpenter]]
+|-
+|[[File:Mason Perk.png|link=Perks#Mason Perk]]
+|style="text-align:left"|Perk: [[Perks#Mason Perk|Mason]]
+|-
+|}
+
+==Stone==
+This branch is unlocked through the tutorial by first talking to the [[bishop]]. Most stonework is done at the [[workyard]].
+
+{| class="wikitable" style="text-align:center"
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="The Concept of Stone"
+| rowspan="2" |The Concept of Stone
+| rowspan="2" |None
+| rowspan="2" |Talk to the [[bishop]]
+|[[File:Stone stockpile item.png|64px|link=Stone stockpile]]
+|style="text-align:left"|Blueprint: [[Stone stockpile]]
+|-
+|[[File:Stone rock item.png|64px|link=Stone rock]]
+|style="text-align:left"|Gathering: [[Stone rock]]
+|- id="Stoneworking"
+| rowspan="3" |Stoneworking
+| rowspan="3" |The Concept of Stone
+| rowspan="3" |{{Techpoint|red|15}} {{Techpoint|green|5}}
+|[[File:Stone cutter item.png|64px|link=Stone cutter]]
+|style="text-align:left"|Blueprint: [[Stone cutter]]
+|-
+|[[File:A piece of stone item.png|64px|link=A piece of stone]]
+|style="text-align:left"|Create: [[A piece of stone]]
+|-
+|[[File:Stone repair kit item.png|64px|link=Stone repair kit]]
+|style="text-align:left"|Create: [[Stone repair kit]]
+|- id="Stone Carving"
+| rowspan="3" |Stone Carving
+| rowspan="3" |Stoneworking
+| rowspan="3" |{{Techpoint|red|150}} {{Techpoint|green|70}} {{Techpoint|blue|50}}
+|[[File:Stone cutter II item.png|64px|link=Stone cutter II]]
+|style="text-align:left"|Blueprint: [[Stone cutter II]]
+|-
+|[[File:A polished brick of stone item.png|64px|link=A polished brick of stone]]
+|style="text-align:left"|Create: [[A polished brick of stone]]
+|-
+|[[File:A carved piece of stone item.png|64px|link=A carved piece of stone]]
+|style="text-align:left"|Create: [[A carved piece of stone]]
+|- id="Marble Quarrying"
+| rowspan="3" |Marble Quarrying
+| rowspan="3" |Stone Carving
+| rowspan="3" |{{Techpoint|red|200}} {{Techpoint|green|200}} {{Techpoint|blue|50}}
+|[[File:A piece of marble item.png|64px|link=A piece of marble]]
+|style="text-align:left"|Create: [[A piece of marble]]
+|-
+|[[File:Marble repair kit item.png|64px|link=Marble repair kit]]
+|style="text-align:left"|Create: [[Marble repair kit]]
+|-
+|[[File:Big marble rock item.png|64px|link=Big marble rock]]
+|style="text-align:left"|Gathering: [[Big marble rock]]
+|- id="The Art of Stone"
+| rowspan="2" |The Art of Stone
+| rowspan="2" |Marble Quarrying
+| rowspan="2" |{{Techpoint|red|300}} {{Techpoint|green|50}} {{Techpoint|blue|50}}
+|[[File:A polished brick of marble item.png|64px|link=A polished brick of marble]]
+|style="text-align:left"|Create: [[A polished brick of marble]]
+|-
+|[[File:A carved piece of marble item.png|64px|link=A carved piece of marble]]
+|style="text-align:left"|Create: [[A carved piece of marble]]
+|- id="Zombie quarrying I"
+| Zombie quarrying I
+| Stone Carving
+| Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|10}} {{Techpoint|green|10}} {{Techpoint|blue|5}}
+|[[File:Zombie stone quarry item.png|64px|link=Zombie stone quarry]]
+|style="text-align:left"|Blueprint: [[Zombie stone quarry]]
+|- id="Zombie quarrying II"
+| Zombie quarrying II
+| Zombie quarrying I +<br>Marble Quarrying
+| Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|20}} {{Techpoint|green|10}}
+|[[File:Zombie marble quarry item.png|64px|link=Zombie marble quarry]]
+|style="text-align:left"|Blueprint: [[Zombie marble quarry]]
+|- id="Mining"
+| rowspan="3" |Mining
+| rowspan="3" |The Concept of Stone
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|10}}
+|[[File:Iron ore stockpile item.png|64px|link=Iron ore stockpile]]
+|style="text-align:left"|Blueprint: [[Iron ore stockpile]]
+|-
+|[[File:Coal item.png|64px|link=Coal]]
+|style="text-align:left"|Gathering: [[Coal]]
+|-
+|[[File:Iron ore item.png|64px|link=Iron ore]]
+|style="text-align:left"|Gathering: [[Iron ore]]
+|- id="Zombie mining"
+| Zombie mining
+| Mining
+| Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|10}} {{Techpoint|green|10}} {{Techpoint|blue|5}}
+|[[File:Zombie ore mine item.png|64px|link=Zombie ore mine]]
+|style="text-align:left"|Blueprint: [[Zombie ore mine]]
+|- id="Precious Metals"
+| rowspan="3" |Precious Metals
+| rowspan="3" |Mining
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|50}} {{Techpoint|blue|10}}
+|[[File:Graphite item.png|64px|link=Graphite]]
+|style="text-align:left"|Gathering: [[Graphite]]
+|-
+|[[File:Gold nugget item.png|64px|link=Gold ore]]
+|style="text-align:left"|Gathering: [[Gold ore]]
+|-
+|[[File:Silver nugget item.png|64px|link=Silver ore]]
+|style="text-align:left"|Gathering: [[Silver ore]]
+|- id="Related Ore"
+| rowspan="3" |Related Ore
+| rowspan="3" |Precious Metals
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|100}} {{Techpoint|blue|10}}
+|[[File:Pyrite item.png|64px|link=Pyrite]]
+|style="text-align:left"|Gathering: [[Pyrite]]
+|-
+|[[File:Sulfur item.png|64px|link=Sulfur]]
+|style="text-align:left"|Gathering: [[Sulfur]]
+|-
+|[[File:Limestone item.png|64px|link=Limestone]]
+|style="text-align:left"|Gathering: [[Limestone]]
+|- id="Scent of Gold"
+|Scent of Gold
+|Related Ore
+|{{Techpoint|green|50}} {{Techpoint|blue|100}}
+|[[File:Miner Perk.png|link=Perks#Miner Perk]]
+|style="text-align:left"|Perk: [[Perks#Miner Perk|Miner]]
+|- id="Gems"
+|Gems
+|Related Ore
+|{{Techpoint|red|100}} {{Techpoint|green|200}} {{Techpoint|blue|50}}
+|[[File:Faceted diamond item.png|64px|link=Diamond]]
+|style="text-align:left"|Gathering: [[Diamond]]
+|- id="Best Friend"
+|Best Friend
+|Gems
+|{{Techpoint|blue|150}}
+|[[File:Jeweler Perk.png|link=Perks#Jeweler Perk]]
+|style="text-align:left"|Perk: [[Perks#Jeweler Perk|Jeweler]]
+|}
+
+==Clay==
+This branch is unlocked upon receiving the [[Episcop#Quests|quest to make clay bowls]] for the [[bishop]].
+{| class="wikitable" style="text-align:center"
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|-
+| rowspan="2" |The Concept of Dirt
+| rowspan="2" |None
+| rowspan="2" |Make clay bowls for the [[bishop]]
+|[[File:Sand item.png|64px|link=Sand]]
+|style="text-align:left"|Gathering: [[Sand]]
+|-
+|[[File:Clay item.png|64px|link=Clay]]
+|style="text-align:left"|Gathering: [[Clay]]
+|-
+| rowspan="3" |Clay
+| rowspan="3" |The Concept of Dirt
+| rowspan="3" |{{Techpoint|red|5}} {{Techpoint|green|5}}
+|[[File:Potter's wheel item.png|64px|link=Potter's wheel]]
+|style="text-align:left"|Blueprint: [[Potter's wheel]]
+|-
+|[[File:Ceramic bowls item.png|64px|link=Ceramic bowls]]
+|style="text-align:left"|Create: [[Ceramic bowls]]
+|-
+|[[File:Polishing paste item.png|64px|link=Polishing paste]]
+|style="text-align:left"|Create: [[Polishing paste]]
+|-
+| rowspan="2" |Ceramic Firing
+| rowspan="2" |Clay
+| rowspan="2" |{{Techpoint|red|20}} {{Techpoint|green|10}} {{Techpoint|blue|5}}
+|[[File:Ceramic jug item.png|64px|link=Ceramic jug]]
+|style="text-align:left"|Create: [[Ceramic jug]]
+|-
+|[[File:Porcelain pitcher item.png|64px|link=Porcelain pitcher]]
+|style="text-align:left"|Create: [[Porcelain pitcher]]
+|}
+
+{{Navbox-Technology}}
+[[Category:Technologies]]
+
+[[pt-br:Construção (Árvore de Tecnologias)]]

@@ -1,0 +1,137 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = detail_3
+| study        = {{techpoint|red|50}}
+| source       = [[Furnace III]]
+| buy          = [[Krezvold|Krezvold (T III)]]
+| sell         = [[Krezvold|Krezvold (T III)]]
+| cost         = 200
+| stacksize    = 50
+}}
+'''{{PAGENAME}}''' are a late-game resource, used for crafting various advanced items and work-stations. Their creation is limited to the [[furnace III]], though they can be bought from (and sold to) the [[Krezvold|blacksmith]], once his tier-3 stock is unlocked.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Steel ingot|1}}<br>{{Item|Ceramic bowls|2}}
+|1:30<br>{{Fuel|-|20}}
+|-
+!colspan="3"|+2x Product from [[File:Blacksmith Perk.png|32x32px|link=Perks|Blacksmith Perk]] [[Perks|Blacksmith]] perk.
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Steel chisel|1|copper}}
+|{{Item|Wooden stick|2}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Steel chisel|1|silver}}
+|{{Item|Wooden stick|2}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Lens|1}}
+|-
+|{{Item|Steel chisel|1|animation}} upgrade
+|{{Item|Steel chisel|1|animation}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Lens|1}}
+|-
+!colspan="2"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Steel sword|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel ingot|2}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+!colspan="2"|{{Item|Jewelry table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Gold jewelry details|1}}
+|{{Item|Gold ingot|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Faith|2}}
+|-
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Hard cover|1|silver}}
+|{{Item|Hard cover|1|copper}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Faith|2}}
+|}
+
+==Building==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|[[Workyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Jewelry table}}
+|{{Item|Jointing|2}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Lens|2}}
+|-
+!colspan="2"|[[Alchemy Lab]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alchemy workbench (tier II)}}
+|{{Item|Jointing|6}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Advanced conical flasks|3}}
+|-
+|{{Item|Distillation cube II}}
+|{{Item|A piece of stone|30}}<br>{{Item|Complex iron parts|4}}<br>{{Item|{{PAGENAME}}|4}}
+|-
+!colspan="2"|[[Morgue]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Preparation place II}}
+|{{Item|Wooden plank|6}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Nails|6}}
+|-
+|{{Item|Embalming table II}}
+|{{Item|Wooden plank|10}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Advanced conical flasks|4}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+! NPC !! Buy Tier !! Base Cost !! Qty !! Sell Tier !! Base Price !! Consumption
+|-
+|{{NPC|Krezvold}}
+|III
+|{{Money|200}}
+|10x
+|III
+|{{Money|143}}
+|1x per day
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Stahlteile]]
+[[pt-br:Peças de aço]]

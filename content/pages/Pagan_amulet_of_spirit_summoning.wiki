@@ -1,0 +1,30 @@
+{{Item Infobox 
+| name         = Pagan amulet of spirit summoning
+| image        = Pagan amulet of spirit summoning.png
+| type         = Quest item
+| nameinternal = Pagan amulet of spirit summoning
+| source       = 
+| cost         = 0
+| quest        = 
+}}
+
+'''''Pagan amulet of spirit summoning''''' is crafted from your [[Church workbench]].
+
+You need to go to the last room on the 8th floor of the dungeon with the amulet to summon the spirit. 
+
+It can be taken to Gerry afterward for some dialogue.
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Church workbench}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Intestine|1}}
+{{Item|Beeswax|1}}
+{{Item|Piece of donkey hair|1}}
+|-}
+
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Quest items]]

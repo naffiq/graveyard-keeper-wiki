@@ -1,0 +1,68 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Mob Drop
+| nameinternal = 
+| study        = {{Techpoint|Green|10}}
+| alchemy      =  {{Item|Chaos powder}},  {{Item|Chaos solution}}
+| source       = [[Monsters|Bat]], [[Dungeon]]
+| cost         = 
+| stacksize    = 30
+| quest        = 
+}}
+
+Bat wings are dropped by bats which appear at night in few outside areas as well as inside the dungeon. Bat wings can be used to craft [[pigskin paper]] or for [[alchemy]].
+
+== Crafting ==
+
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|Pigskin paper|2}}
+|{{Item|Bat wing|5}}
+|}
+
+==Study==
+{| class = "wikitable" style = "width:40em"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+| {{Techpoint|Green|10}}
+| {{Item|Faith|1}} <br> {{Item|Science|1}}
+| -5{{Energy}}
+| Can be decomposed into powder and solution.
+|}
+
+==Alchemy==
+
+Bat wings can be decomposed to [[chaos powder|powder]] and [[Chaos solution|solution]] with the [[alchemy mill]] and [[hand mixer]], respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Chaos powder|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Chaos solution|1}}
+|{{Item|{{PAGENAME}}|1}}
+
+|}
+{{Navbox-Mob Drops}}
+[[Category:Mob drops]]
+
+[[ru:Крыло летучей мыши]]

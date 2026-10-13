@@ -1,0 +1,73 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Power of Faith]] (tier 1)<br>
+[[Theology (Tech Tree)|Superpower of Faith]] (tier 2)
+|related    = [[Church]]
+|footprint  = 4x4
+|rotatable  = Mirror
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> can be built in the [[church]] to improve your {{Church Rating}}, and to earn {{item|faith}} and a {{item|story||animation}} from parishioners who want to confess their sins there.
+
+'''Note:''' Independent of the size of the church, there are always two possible spots to build {{lcfirst:{{PAGENAME}}}}s.
+
+==Accepting Confessions==
+The {{lcfirst:{{PAGENAME}}}} will sometimes show a prayer icon [[File:Pray icon.png|The prayer icon shows, that the confessional is occupied|link={{PAGENAME}}]] above it, which indicates that there is someone waiting inside to confess. This can happen on any day. Just stand near the {{lcfirst:{{PAGENAME}}}} and hit "E" to receive the {{item|faith|1}} and the {{item|story||animation}} and to clear the {{lcfirst:{{PAGENAME}}}} for a new parishioner.
+
+[[Faith]] is important for [[study table|research]], making some [[The_Graveyard#Tombstones|grave decorations]], [[Resurrection table|resurrecting]] zombies, crafting [[prayer]]s, inventing [[story|stories]], to advance some [[quests]], and improving some [[hard cover|book covers]].
+
+[[Story|Stories]] are important as a basic resource for [[Book Writing (Tech Tree)|book writing]], which lead to more elaborate written works, that can then made into [[prayer]]s, sold to the [[astrologer]], or broken down on the [[study table]] for {{item|science}}.
+
+==Tiers==
+The following table shows the differences between the two tiers of {{lcfirst:{{PAGENAME}}}}s:
+{| class="wikitable" style="text-align:center"
+!style="width:10em;|
+!style="width:10em;"| {{PAGENAME}}
+!style="width:10em;"| {{PAGENAME}} II
+|-
+| Icon
+| [[file:{{PAGENAME}} item.png|64px]]
+| [[file:{{PAGENAME}} II item.png|64px]]
+|-
+| [[Technology]]
+| [[Theology (Tech Tree)|Power of Faith]]
+| [[Theology (Tech Tree)|Superpower of Faith]]
+|-
+| [[Church|Church rating]]
+| + 5 {{Church Rating}}
+| + 7 {{Church Rating}}
+|-
+| [[Story|Stories]]
+| {{item|story||copper}}<br>{{item|story||silver}}
+| {{item|story||silver}}<br>{{item|story||gold}}
+|-
+| [[#Cost|Building cost]]
+| [[#Cost|See below]]
+| [[#Cost|See below]]
+|}
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px]]
+|{{Item|Wooden plank|12}}<br>{{Item|Complex iron parts|4}}
+|{{Energy|-|7}}
+|Requires [[Theology (Tech Tree)|Power of Faith]]
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} II item.png|64px]]
+|{{Item|Wooden plank|12}}<br>{{Item|Jointing|2}}<br>{{Item|Complex iron parts|4}}
+|{{Energy|-|12}}
+|Requires [[Theology (Tech Tree)|Superpower of Faith]]
+|}
+
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+[[Category:Church workstations]]
+[[de:Beichtstuhl]]
+[[pt-br:Confessionário]]

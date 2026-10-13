@@ -1,0 +1,18 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Statuette.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Miss Chain]]
+| cost         = 
+}}
+
+The {{PAGENAME}} is retrieved from [[Horadric]]. He'll tell you speak to his wife, [[Miss Chain]]. When you speak with her she'll confess to you that she suspects he has been cheating on her and she wants you to investigate and gather proof. From there, talk to Horadric to ask him questions about his recent trip into [[the Town]]. He'll tell you nothing. From there you can speak with [[Krezvold]]. He'll tell you it was all a big misunderstanding and Horadric was shopping secretly for his wife's upcoming birthday.
+
+Talk to [[Miss Chain]] once again to tell her what you've learned and she'll give you the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Статуэтка Древнего Бога]]

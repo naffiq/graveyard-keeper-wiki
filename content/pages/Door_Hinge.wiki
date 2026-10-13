@@ -1,0 +1,16 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = Dig Spot
+| cost         = 
+}}
+
+The {{PAGENAME}} can be found in a dig spot between some village ruins, below the [[Talking Skull]] and to the left of [[Dig]]'s home. The dig spot only appears after you begin looking for the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Древняя дверная петля]]

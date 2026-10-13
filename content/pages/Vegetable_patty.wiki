@@ -1,0 +1,62 @@
+(Game of Crone DLC){{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|12}}/{{Energy|+|15}}/{{Energy|+|18}}; [[File:Chopping effect.png]]
+| nameinternal = 
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+}}
+
+A food item which restores {{Energy||12 -}} {{Energy||18}} when consumed and will apply the hard worker buff for a duration of 2 minutes. Since the items which can be used to craft a {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = vegetable_patty_item.png|quality = copper}}
+|{{Quality Sprite|image = vegetable_patty_item.png|quality = silver}}
+|{{Quality Sprite|image = vegetable_patty_item.png|quality = gold}}
+|-
+|{{Energy|+|12}}
+|{{Energy|+|15}}
+|{{Energy|+|18}}
+|}
+
+==Effect==
+
+On use, a vegetable patty will apply the hard worker buff for a duration of 2 minutes, reducing the amount of energy spent when working with axes or pickaxes.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Chopping effect.png|link=Effects#Hard worker|Hard worker]]
+|You spend less energy working with axes and pickaxes.
+|style="text-align:center"|2:00
+|[[Effects#Hard worker|Hard worker]]
+|}
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Vegetable patty|6}}
+|{{Item|Pumpkin|1|animation}}<BR>
+{{Item|Carrot|1}}<BR>
+{{Item|Dough|2}}<BR>
+{{Item|Fuel|20}}<BR>
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

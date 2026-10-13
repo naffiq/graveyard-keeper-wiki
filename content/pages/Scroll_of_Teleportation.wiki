@@ -1,0 +1,19 @@
+== Scroll of Teleportation ==
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Consumables
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Master Alaric]]
+| cost         = 
+}}
+{{quote|Nothing fancy, just a way to get around. Alas, disposable.|Item description}}
+Grants the ability to teleport once while not consuming the cooldown of [[Teleportstone]]. 
+
+Received 3 from [[Master Alaric]] after completing quest line that requires [[Blood]] or [[Bucket of blood]]. It can also be obtained after giving [[Master Alaric]] 1 [[Bucket of blood]] for 1 {{PAGENAME}} after completing the vampire quest line
+
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Game of Crone items]]

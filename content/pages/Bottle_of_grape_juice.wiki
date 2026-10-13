@@ -1,0 +1,51 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Health|+|10}}/{{Health|+|15}}/{{Health|+|20}}, {{Energy|+|30}}/{{Energy|+|40}}/{{Energy|+|50}}
+| study        = N/A
+| alchemy      = 
+| source       = [[Pail of grape juice]]
+| cost         = 
+| stacksize    = 20
+| type         = Food; Beverage
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is a consumable product, able to restore a relatively moderate amount of health and energy. Similar to other bottles of juice, it is a by-product of a [[Grapes|fruit]] without the additional step of fermentation, though unlike other bottles of juice, this has various levels of quality, given that the fruit it's derived from also has varying qualities.
+
+==Quality levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Bottle_of_grape_juice_item.png|quality = copper}}
+|{{Quality Sprite|image = Bottle_of_grape_juice_item.png|quality = silver}}
+|{{Quality Sprite|image = Bottle_of_grape_juice_item.png|quality = gold}}
+|-
+|{{Health|+|10}} {{Energy|+|30}}
+|{{Health|+|15}} {{Energy|+|40}}
+|{{Health|+|20}} {{Energy|+|50}}
+|}
+
+==Recipe==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|Use in inventory
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|10|animation}}
+|{{Item|Pail of grape juice|1|animation}}
+|}
+
+==See Also==
+*{{Item|Red wine}}
+*{{Item|Bottle of berry juice}}
+*{{Item|Bottle of apple juice}}
+
+<br>
+{{Navbox-Food}}
+[[Category:Food]]
+[[Category:beverages]]
+[[Category:consumable items]]

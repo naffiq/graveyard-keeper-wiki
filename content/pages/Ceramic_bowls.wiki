@@ -1,0 +1,93 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|10}}
+
+| source       = [[Potters wheel]], [[Dungeon]] pots
+| cost         = 7
+| stacksize    = 30
+| type         = Miscellaneous
+| quest        = [[Bishop]]
+| nameinternal = ceramic_1
+}}
+'''{{PAGENAME}}''' are a craft-able crafting resource, simply made from [[clay]] and [[water]]. They're used for a variety of crafting recipes, and 20 are required by [[Bishop]] to complete one of his many requests. They can be purchased from the [[potter]], and cannot be sold to any known vendor, except as [[trade office]] [[crate|package]]. They are a very important resource needed to create [[Polishing paste]] and [[Steel parts]], so creating them will not go to waste.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Potters wheel}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Clay|1}}<br>{{Item|Water|1}}
+|0:03<br>{{Energy|-|10}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style="width:35em;"
+!colspan = "3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Polishing paste|1}}
+|{{Item|River sand|1}}<br>{{Item|Oil|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:02<br>{{Energy|-|5}}
+|-
+!colspan = "3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Ceramic jug|10}}
+|{{Item|{{PAGENAME}}|10}}
+|2:30<br>{{Fuel|-|20}}
+|-
+!colspan = "3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Ceramic jug|10}}
+|{{Item|{{PAGENAME}}|10}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan = "3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Ceramic jug|10}}
+|{{Item|{{PAGENAME}}|10}}
+|1:30<br>{{Fuel|-|20}}
+|-
+|*{{Item|Steel parts|2}}
+|{{Item|Steel ingot|1}}<br>{{Item|{{PAGENAME}}|2}}
+|1:30<br>{{Fuel|-|20}}
+|-
+!colspan="3"|* +2x Product from [[File:Blacksmith Perk.png|32x32px|link=Perks|Blacksmith Perk]] [[Perks|Blacksmith]] perk.
+|}
+
+<br>
+{{Navbox-Misc}}

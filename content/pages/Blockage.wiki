@@ -1,0 +1,111 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = blockage outside.png
+|location   = [[Alchemy lab]], [[Cellar]], [[Barn cellar]], [[Trade Office]], [[Dungeon]], [[Morgue]], and some roads and paths
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} appears as a collapsed section in the tunnels connecting the [[alchemy lab]], [[cellar]], [[barn cellar]], [[trade office]], [[dungeon]] and [[morgue]].  You will need to clear at least one blockage to get access to [[Snake]], the cultist.
+
+There are also blockages between the [[apiary]] and the [[Forest near the river|upper forest area]] of the [[map]], as well as between the [[swamp]] and the [[quarry]]. The path from the [[workyard]] to the [[vineyard]] is blocked by a large fallen tree.
+
+The old [[stone bridge]] and the [[swamp bridge]] need to be repaired as well.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=blockage]]
+
+|{{Item|Wood wedge|10}}{{Item|Wooden plank|2}}
+
+{{Item|Simple iron parts|4}}
+|{{Energy|-|20}}
+|two in the cellar and two blocking the paths to the quarry
+|}
+
+==Operations==
+{| class = "wikitable"
+!style="width:17.5em;"| Operation
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|Clear the path}}
+|{{Item|Wood wedge|10}}
+{{Item|Wooden beam|1}}
+
+{{Item|Simple iron parts|4}}
+|{{Energy|-|50}}
+|the three basements of the [[church]]
+|}
+{| class="wikitable"
+! style="width:17.5em;" | Operation
+! style="width:17.5em;" | Materials Required
+! style="width:5em;" | Energy
+!Notes
+|-
+|{{Item|Clear the path}}
+|{{Item|Wood wedge|10}}
+{{Item|Flitch|2}}
+
+{{Item|Complex iron parts|2}}
+|{{Energy|-|40}}
+|Way to the [[Vineyard]] 
+|}
+{| class="wikitable"
+! style="width:17.5em;" | Operation
+! style="width:17.5em;" | Materials Required
+! style="width:5em;" | Energy
+!Notes
+|-
+|{{Item|Repair Bridge}}
+|{{Item|Flitch|4}}
+{{Item|Wooden plank|1}}
+
+{{Item|Nails|8}}
+|{{Energy|-|20}}
+|Cemetery to Swamp
+|}
+
+{| class="wikitable"
+! style="width:17.5em;" | Operation
+! style="width:17.5em;" | Materials Required
+! style="width:5em;" | Energy
+!Notes
+|-
+|{{Item|Build the Bridge}}
+|{{Item|Flitch|6}}
+{{Item|Wooden plank|3}}
+
+{{Item|Nails|10}}
+|{{Energy|-|10}}
+|passage for Clotho
+|}
+== Screenshots ==
+[[File:blockage outside.png|Collapsed cliffsite blocking a road|300px|left]]
+This is how it looks when a collapsed cliff side is blocking a road.
+{{clear}}
+
+[[File:blockage inside.png|Collapsed wall blocking a tunnel|300px|left]]
+This is how it looks when a collapsed wall is blocking a tunnel in the [[cellar]].
+{{clear}}
+
+[[File:blockage tree.png|Fallen tree blocking the path|300px|left]]
+This is how it looks when a fallen tree blocks the path from the swamp north of your [[Sweet Home|home]] to the [[witch Hill|hill]] with the [[vineyard]].
+{{clear}}
+
+{{Navbox-Other}}
+[[Category:Workstations]]
+
+[[Category:Obstacle workstations]]
+[[Category:Cellar workstations]]
+[[Category:Alchemy lab workstations]]
+[[Category:Morgue workstations]]
+
+[[de:Blockade]]

@@ -1,0 +1,36 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = Spice.png
+| cost         = 
+| price        = 
+| consume      = 
+| study        = 
+| alchemy      = 
+| source       = [[Alchemy]]
+| type         = Advanced Alchemy Resource
+| stacksize    = 50
+| quest        = [[Merchant]]
+| nameinternal = spices
+}}
+<b>{{PAGENAME}}</b> are produced at the [[alchemy workbench (tier I)]] and is used to lift the [[Merchant]]'s curse. It can also be used as a powder reagent in [[alchemy]], similar to most other non-elemental ingredients, though no known recipe currently utilizes it.
+
+==Recipe==
+{| class = "wikitable" style = "table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Salt|1}}<br>{{Item|Health solution|1}}
+|}
+
+==Bugs==
+{{*}}Similar to [[Salt]] and [[Ash]], its description lists the [[Alchemy mill]] as a source, despite there being no known decomposable material.<br>{{*}}Its current in-game image is identical to that of [[life powder]].
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+[[es:Especias]]
+[[pt-br:Especiarias]]

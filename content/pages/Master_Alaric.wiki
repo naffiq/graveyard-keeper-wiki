@@ -1,0 +1,25 @@
+{{NPC Infobox
+| name     = Alaric
+| image    = Alaric.png
+| day      = 
+| location = [[Refugee camp]]
+| role     = Vampire}}
+Alaric is an inhabitant of the Refugee camp and essential for the Vampire quest line. You can find him inside a tent. He will tell you emphatically he does not believe the tales of vampires, so you have to watch him.
+
+==Quests==
+===Supply him with Blood===
+
+Alaric is weak because of starvation. He asks you for a drop of {{Item|Blood}} or {{Item|Bucket of blood}}. After delivering he will reward you with {{Item|Sun cream for vampires}} as a reward. This can be shown to [[Horadric]] to make him believe you took care of the vampire and to end the vampire quest line.
+
+He also points out to use the {{Item|Witchers eye}} to find the vampires that turned him into one. 
+
+After his quest, supplying him with {{Item|Bucket of blood}} will get you a {{Item|Scroll of Teleportation}}. Or {{Money|25}} for every {{Item|Blood}}.
+
+{{Navbox-NPCs}}
+
+[[Category:NPCs]]
+[[Category:Game of Crone]]
+[[Category:Refugee camp]]
+
+[[de:Meister Alerich]]
+[[pt-br:Mestre Alarico]]

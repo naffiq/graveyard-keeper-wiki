@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Blessing 
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Sermon]]
+| cost         = 
+}}
+The {{PAGENAME}} can be obtained by performing a [[sermon]] using a {{item|Prayer for prosperity}}.
+
+Can be sold to any vendor for {{Money|100}}, greatly advancing that vendor's tiered-goods progress, if applicable.
+
+{{Navbox-Misc}}

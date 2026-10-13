@@ -1,0 +1,64 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Weapon
+| damage       = {{Health|-|25}}
+| nameinternal = sword_damask_gem
+| study        = {{Techpoint|Red|150}}
+| source       = [[Jewelry table]]
+| efficiency   = 
+| energy       = {{Energy|-|1}}
+| cost         = 15000
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a high-tier weapon, which inflicts {{Health|-|25}} of damage to enemies, while only consuming {{Energy|-|1}}. It can either be crafted at the [[jewelry table]], or purchased from [[Koukol]] near the [[mountain fort]].
+
+One of these weapons may be acquired from [[Krezvold]] when progressing through the DLC [[Stranger sins]]. He may arrive outside [[Sweet Home]] and hurriedly give one to the player, claiming that he was supposed to melt it and now a crime was committed in [[the Town]] with this very sword.
+
+Note: When giving the sword to [[Snake]], the player cannot have the sword equipped.
+
+== Uses ==
+It is the strongest sword in the game so it has its uses in Combat and the [[Dungeon]].
+
+One is needed to progress with [[Snake]] to commence with the Ritual in the [[Sacrifice Zone]].
+
+==Recipe==
+{|class="wikitable"
+!colspan="3"|{{Item|Jewelry table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Steel sword|1}}<br>{{Item|Faceted diamond|1}}<br>{{Item|Gold jewelry details|3}}
+|{{Energy|-|30}}<br>{{Techpoint|Red|3}}{{Techpoint|Blue|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|150}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|15}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:weapons]]
+[[Category:metal items]]
+[[Category:smithing items]]
+<!-- Wiki Language Connection -->
+[[de:Juwelenbesetztes Damaszenerschwert]] 
+[[pt-br:Espada damascena com pedra preciosa]]
+<!--[[ru:]]-->
+[[es:Espada de damasco con gema]]
+<!-- [[fr:]]-->
+<!-- [[ja:]]-->

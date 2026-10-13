@@ -1,0 +1,84 @@
+{{Item Infobox 
+| name         = Iron ore
+| image        = I 1h ore metal.png
+| type         = Primary Ore
+| nameinternal = ore_metal
+| study        = {{techpoint|green|10}}
+| alchemy      = 
+| source       = [[Mining]]
+| buy          = [[Krezvold|Krezvold (T I)]]
+| sell         = [[Krezvold|Krezvold (T I)]]
+| cost         = 75
+| stacksize    = 30
+| quest        =  
+}}
+Iron ore is collected either from the bog ore outcroppings, from iron deposits or via a [[zombie ore mine]]. Bog ore outcroppings can be found in the [[swamp]] and in the area directly north of the [[workyard]]. The only iron deposit at the moment can be found along the northern most cliff face, north of the [[cabin in the woods]]. The [[zombie ore mine]] is also located there. Iron ore can be smelted into [[iron ingot]]s or sold to the [[blacksmith]]. More on the locations of iron ore and how to get it can be found [[Mining#Iron_Ore|here]].
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Iron ingot|1}}
+|{{Item|{{PAGENAME}}|1}}
+|2:30<br>{{Fuel|-|25}}
+|-
+|*{{Item|Iron ingot|2}}
+|{{Item|{{PAGENAME}}|2}}
+|4:10<br>{{Fuel|-|40}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Iron ingot|2}}
+|{{Item|{{PAGENAME}}|2}}
+|2:30<br>{{Fuel|-|25}}
+|-
+|*{{Item|Iron ingot|4}}
+|{{Item|{{PAGENAME}}|4}}
+|4:10<br>{{Fuel|-|40}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Cost
+|-
+|{{Item|Iron ingot|3}}
+|{{Item|{{PAGENAME}}|3}}
+|2:00<br>{{Fuel|-|25}}
+|-
+|*{{Item|Iron ingot|6}}
+|{{Item|{{PAGENAME}}|6}}
+|3:20<br>{{Fuel|-|40}}
+|-
+!colspan="3" align="center"|* Requires [[file:Fireman Perk.png|40px]][[Perks|Fireman]] perk.
+|}
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+
+[[ru:Железная руда]]
+[[pt-br:Minério de ferro]]

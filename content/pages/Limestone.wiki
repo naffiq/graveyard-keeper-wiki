@@ -1,0 +1,47 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = i_lifestone.png
+| type         = Secondary Ore
+| nameinternal = lifestone
+| study        = {{Techpoint|Green|20}}
+| alchemy      = {{Item|White powder}}
+| source       = [[Mining]]
+| cost         = 
+| quest        = 
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is a utilitarian resource that can only be obtained by mining a [[coal]] vein, after unlocking the required [[Building (Tech Tree)|technology]]. The only accessible vein of coal is located in the far north-west, near the [[Quarry]]. While this is not a 100% consistent method to obtain {{lcfirst:{{PAGENAME}}}}, it should appear relatively often.
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[White powder|powder]]
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|White powder|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+[[Category:secondary ore]]
+
+[[ru:Известняк]]
+[[pt-br:Calcário]]

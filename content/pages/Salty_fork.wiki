@@ -1,0 +1,31 @@
+{{Stub}}
+{{Item Infobox 
+| name         = Salty Fork
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| source       = [[Quest]]
+| cost         = 0
+| quest        = [[Bishop]]
+}}
+The Salty Fork is an Item obtained from the [[Merchant]] by finishing the [[Bishop]] Questline. It is one of the items required to complete the Emitter portion of the [[portal]] on Witch Hill.
+
+
+{| class="wikitable"
+![[Blueprints]]
+![[Items]]
+|-
+|[[File:Emitter item.png|center|80px|Emitter]]
+|
+{{Item|Salty fork|1}}<br>{{Item|Mirror of pride|1}}<br>{{Item|Eternal burning coal|1}}
+|-
+
+{{Navbox-Quest}}
+[[Category:quest items]]
+
+<!-- Wiki Language Connection -->
+[[de:Salzige Gabel]]
+<!-- [[en:Salty_fork]] -->
+<!-- [[ru:]] -->
+<!-- [[es:]] -->
+<!-- [[fr:]] -->
+<!-- [[ja:]] -->

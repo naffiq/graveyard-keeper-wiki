@@ -1,0 +1,73 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_3_violet
+| study        = {{Techpoint|Blue|5}}
+| vendor       = [[Clotho|Clotho (T III)]]
+| buyer        = 
+| source       = [[Alchemy]]
+| cost         = 100
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Butterfly|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Moth|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Butterfly|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Moth|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Blue|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Glue|1}}
+|{{Item|Health powder|1}}<br>{{Item|Life solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Golden elixir|1}}
+|{{Item|Gold powder|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Extrato do caos]]
+[[es:Extracto caótico]]

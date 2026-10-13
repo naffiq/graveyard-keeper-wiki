@@ -1,0 +1,204 @@
+{{stub}}
+
+==Quests==
+=== Tutorial ===
+{| class="wikitable"
+!Obtained From
+!Location
+!Objective
+!Description
+!Notes
+|-
+|Graveyard Keeper
+|[[Sweet Home]]
+|Find [[Gerry]]
+|Dig up [[Gerry]]
+|
+|-
+|[[Gerry]]
+|[[Sweet Home]]
+|Listen to [[Gerry]]
+|Talk to [[Gerry]] then [[Donkey]] at the [[Morgue]]
+|
+|-
+|[[Gerry]]
+|[[Morgue]]
+|Carry a [[Items|Corpse]]
+|Carry {{Item|Corpse}} into the [[Locations|Morgue]]
+|Unlock Technology: [[Anatomy and Alchemy (Tech Tree)#Anatomy|The First Slice]]
+|-
+|[[Gerry]]
+|[[Morgue]]
+|Extract [[Flesh]]
+|Place {{Item|Corpse}} on [[Work Stations|Autopsy Table]] and extract {{Item|Flesh}}
+|Unlock Technology: [[Cookery (Tech Tree)|Meat Fiesta]] <br> Unlock Achievement: [[Achievements|First slice]]
+|-
+|[[Gerry]]
+|[[Morgue]]
+|Bury a [[Corpse]]
+|Carry {{Item|Corpse}} to [[The Graveyard]] then talk to [[Gerry]]
+|Do not throw the {{Item|Corpse}} into [[River]], it will break the Tutorial
+|-
+|[[Gerry]]
+|[[The Graveyard]]
+|Bury a [[Corpse]]
+|Interact with the [[Blueprints|blueprint desk]] to build a [[gravesite]], and bury the {{Item|Corpse}} with the {{Item|Rusty shovel}} 
+|Obtain a {{Item|Burial certificate}}
+|-
+|[[Gerry]]
+|[[The Graveyard]]
+|Talk to [[Bishop]]
+|Talk to [[Bishop]] about the {{Item|Burial certificate}}
+|Unlock Technology: [[Theology (Tech Tree)#Graves|Humble Marker]] <br> Unlock Quest: [[Bishop#Fix the Graveyard|Fix the Graveyard]]
+|-
+|[[Bishop]]
+|[[The Graveyard]]
+|Talk to [[Bishop]]
+|Check the [[Storage|Trunk]] to obtain  {{Item|Rusty axe}}, {{Item|Rusty pickaxe}}, {{Item|Rusty hammer}}, {{Item|Stone repair kit|4}}, {{Item|Wood repair kit|4}}
+|Unlock Technology: [[Building (Tech Tree)|The Concept of Stone]] <br> Unlock Technology: [[Building (Tech Tree)|The Concept of Wood]]
+|-
+|[[Bishop]]
+|[[The Graveyard]]
+|Talk to [[Horadric]]
+|Talk to [[Horadric]] about {{Item|Burial certificate}}
+|
+|-
+|[[Horadric]]
+|[[The Dead Horse]]
+|Talk to [[Horadric]]
+|Talk to [[Horadric]] about fresh meat
+|Unlock Quest: [[Horadric#Return with Royal Stamp|Return with Royal Stamp]] <br> Unlock Quest: Ms. Charm's [[Ms. Charm#Prove Your Worth|Prove Your Worth]] <br> Unlock Quest: [[Horadric#Deliver the Letter|Deliver the Letter]] Bring the letter to [[Krezvold]] and return to [[Horadric]] 
+|-
+|[[Horadric]]
+|[[The Dead Horse]]
+|Talk to [[Krezvold]]
+|Give [[Krezvold]] letter for {{Happiness|+|10}}
+|Obtain a broken {{Item|Rusty sword}}, {{Item|Energy potion|2}}, {{Item|Whetstone}} <br> Unlock Quest: [[Krezvold#Kill Slime|Kill Slimes]] You need to sharpen an old sword and kill two [[Monsters#Slimes|slimes]] behind the smithy <br> Unlock Quest: [Requires {{Happiness|10}}]: Ask him where to find metal ore
+|-
+|[[Krezvold]]
+|southeast of [[The Dead Horse]]/behind [[Krezvold|Krezvold's]] house
+|Talk to [[Krezvold]]
+|[Requires {{Happiness|10}}] Ask him where to find metal ore
+|Unlock Technology: [[Smithing (Tech Tree)|Iron]]
+|-
+|[[Krezvold]]
+|southeast of [[The Dead Horse]]/behind [[Krezvold|Krezvold's]] house
+|Kill 2 [[Monsters#Slimes|slimes]]
+|Repair the broken {{Item|Rusty sword}} at [[Grindstone]] to get {{Item|Rusty sword}}, kill 2 [[Monsters#Slimes|slimes]] to get {{Item|Green jelly|2}} then talk to [[Krezvold]] for {{Item|Simple iron parts|5}}
+|Unlock Technology: [[Cookery (Tech Tree)|Jelly]]
+|-
+|
+|[[Sweet Home]]
+|head back to [[Sweet Home]]
+|Head back to your home and encounter [[Gerry]]
+|Unlock Technology: [[Farming and Nature (Tech Tree)#Nature|Gathering]] <br> Unlock Technology: [[Cookery (Tech Tree)|Bread]] <br> Unlock Quest: Get a beer from the Tavern!
+|-
+|[[Yorick]]
+|[[Sweet Home]]
+|
+|Encounter happens after your first sleep
+|Obtain {{Item|Exhumation permission}}
+|-
+|}
+
+=== Main Story Line ===
+{| class="wikitable"
+!Obtained From
+!Location
+!Name/Purpose
+!Required Actions/Items
+!Notes
+|-
+|Graveyard Keeper
+|[[Sweet Home]]
+|You need to get back home to your love
+|Open the [[Portal|Portal Gate]]
+|The main goal of the game
+|-
+|[[Bishop]]
+|[[Old Graveyard]]
+|Reach +5 {{Graveyard Rating}} at the [[The Graveyard|Old Graveyard]]
+|Reach +5 {{Graveyard Rating}} at the [[The Graveyard|Old Graveyard]]
+|See [[Graves]]
+|-
+|[[Bishop]]
+|[[The Graveyard|Old Graveyard]]
+|[[Sermon]]
+|Give a [[Sermon]] at the Pulpit in the newly reopened [[Church|Old Church]]
+|Must talk to [[Bishop]] after reaching a +5 {{Graveyard Rating}} to fulfill above quest
+Unlocks: [[Theology_(Tech_Tree)|Faith]] and [[Book Writing (Tech Tree)|Research]] technologies
+|}
+
+=== Story Side Quests ===
+{| class="wikitable"
+!Obtained From
+!Location
+!Name/Purpose
+!Required Actions/Items
+!Notes
+|-
+|[[Gerry]]
+|[[Morgue]]
+|Bring [[Gerry]] a [[A mug of beer|Beer]]
+|Either buy {{Item|A mug of beer||copper}} from [[Horadric]] at the [[The Dead Horse|tavern]] or bring the [[Krezvold|blacksmith]] the [[Letter to the blacksmith|letter]]
+and return afterwards to get {{Item|A mug of beer||copper}} on the house.
+|
+|-
+|[[Gerry]]
+|[[Morgue]]
+|Bring [[Gerry]] [[Red wine|Wine]]
+|Either buy {{Item|Red wine|1|silver}} from [[Horadric]] at the [[The Dead Horse|tavern]] or craft it yourself.
+|
+|-
+|[[Vagner]]
+|[[The Dead Horse]]
+|Gather 10 [[Clean paper|paper]] and [[ink]].
+|Visit the [[Astrologer]] on a [[File:Sloth.png|link=https://graveyardkeeper.gamepedia.com/File:Sloth.png]] at the Lighthouse. 
+Talk to [[Astrologer]] to obtain the Skull quest
+
+Unlock the <u>Hardspares</u> [[Technologies|technology]].
+
+Obtain a [[Skull]] by extracting it on the [[Preparation place|Preparation table]].
+
+Give the [[Astrologer]] the [[skull]].
+
+Either buy up to {{Item|Clean paper|10}} and {{Item|Ink|1}} from the [[Astrologer]] or craft it yourself.
+|
+|-
+|[[Bishop]]
+|[[The Graveyard|Old Graveyard]]
+|Bring [[Items|Bowls]]
+|{{Item|Ceramic bowls|20}}
+|Available after first [[Sermon]]
+|-
+|}
+<big>'''Side Quests'''</big>
+{| class="fandom-table"
+|+
+!Obtained From
+!Location
+!Name/Purpose
+!Required Actions/Items
+!Notes
+|-
+|[[Horadric]]
+|[[The Dead Horse]]
+|Bring [[Horadric]] a Golden Beer.
+|Craft and bring {{Item|A mug of beer|1|gold}}
+|Available after opening the buffet on [[Witch Hill]]. Rewards [[A mug of mead|Mead]] recipe.
+|-
+|[[Dig]]
+|South-east of 
+[[The Village]]
+|Bring [[Dig]] 5 Honey
+|Find and bring
+{{Item|Honey|5}}
+|Unlocks [[Cake|cake recipe]]
+|-
+|
+|
+|
+|
+|
+|}
+[[Category:Wiki pages]]

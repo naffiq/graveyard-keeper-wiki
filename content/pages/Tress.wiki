@@ -1,0 +1,150 @@
+{{NPC Infobox
+| name     = Tress
+| image    = Tress.png
+| day      = 
+| location = [[Village|The Village]]
+| vendor   = Wood
+| role     = Carpenter
+|money=50|income=5}}
+{{PAGENAME}} is the carpenter of [[Village|The Village]] and [[Cory]]'s brother. He is found directly north of [[The Dead Horse]]. He sells wood products to you. {{Happiness}}80 is required before you can enter his home.
+
+
+==Trading==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Wood repair kit}}
+|5
+|{{Money|25}}
+|-
+|{{Item|Wood billet}}
+|9
+|{{Money|12}}
+|-
+|{{Item|Firewood}}
+|2
+|N/A
+|-
+|{{Item|Flitch}}
+|10
+|{{Money|5}}
+|-
+|{{Item|Wood wedge}}
+|20
+|{{Money|3}}
+|-
+|{{Item|Wooden stick}}
+|20
+|{{Money|1}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Wooden beam}}
+|4
+|{{Money|58}}
+|-
+|{{Item|Wooden plank}}
+|6
+|{{Money|10}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Steel chisel||gold}}
+|2
+|N/A
+|-
+|{{Item|Jointing}}
+|4
+|{{Money|70}}
+|-
+|{{Item|Carved wood||copper}}
+|4
+|{{Money|50}}
+|-
+|{{Item|Axe II}}
+|1
+|N/A
+|}
+|}
+
+===Purchasing===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|-
+|{{Item|Wood repair kit}}
+|{{Money|17}}
+|-
+|{{Item|Wood billet}}
+|{{Money|8}}
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|-
+|{{Item|Flitch}}
+|{{Money|4}}
+|-
+|{{Item|Wood wedge}}
+|{{Money|2}}
+|-
+|{{Item|Wooden stick}}
+|{{Money|1}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Wooden beam}}
+|{{Money|39}}
+|-
+|{{Item|Wooden plank}}
+|{{Money|7}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Steel chisel||gold}}
+|{{Money|245}}
+|-
+|{{Item|Jointing}}
+|{{Money|47}}
+|-
+|{{Item|Carved wood||copper}}
+|{{Money|34}}
+|-
+|{{Item|Axe II}}
+|{{Money|525}}
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[pt-br:Tress]]

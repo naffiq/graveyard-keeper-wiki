@@ -1,0 +1,130 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|11}}, {{Energy|+|16}}, or {{Energy|+|22}}
+| type         = Crop
+| nameinternal = lentils_crop
+| study        = {{Techpoint|Green|30}}
+| alchemy      = {{Item|Health extract}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T II)]]
+| sell         = None
+| cost         = 22
+| quest        =  
+}}
+[[File:Lentils patch.gif|left|thumb|Lentils growing in the garden.]]
+Lentils are a form of crop which can be grown from [[Lentil seed]]s in the garden below the [[workyard]] known as the [[Kitchen Garden]].  To grow they require the [[Garden bed with sticks]].  Alternatively they can be purchased from the [[Farmer]]. Lentils are an improvable crop, meaning they have a variety of quality levels and can be improved with fertilizer.  See the page on [[farming]] for more information on how crops are grown and improved.
+
+==Quality==
+{| class = "wikitable"
+|{{Quality Sprite|image = i_lentils_crop.png|quality = copper}}
+|{{Quality Sprite|image = i_lentils_crop.png|quality = silver}}
+|{{Quality Sprite|image = i_lentils_crop.png|quality = gold}}
+|-
+|Copper
+|Silver
+|Gold
+|-
+|{{Money|22}}
+|{{Money|33}}
+|{{Money|44}}
+|-
+|{{Energy|+|11}}
+|{{Energy|+|16}}
+|{{Energy|+|22}}
+|}
+
+==Recipe==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Garden bed with sticks}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Lentils|?|animation}}
+{{Item|Lentil seed|?|animation}}
+
+{{Item|Crop waste|?}}
+| {{Item|Lentil seed|4|animation}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|1}}
+|Decomposes into<br>[[Health extract|extract]].
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|A bowl of lentils|2|animation}}
+|{{Item|Water|1}}
+{{Item|Lentils|1|animation}}
+|-
+|{{Item|Creamy vegetable soup|4|animation}}
+|{{Item|Carrot|1}}
+{{Item|Lentils|1|animation}}<br/>
+{{Item|Pumpkin|1|animation}}
+|-
+|{{Item|Fancy lentil soup|2|animation}}
+|{{Item|Onion|1|animation}}<br/>
+{{Item|Lentils|1|animation}}<br/>
+{{Item|Water|2}}
+|-
+|{{Item|Lasagna|3|animation}}
+|{{Item|Dough|1}}
+{{Item|Lentils|1|animation}}<br/>
+{{Item|Cabbage|1}}
+|-
+|{{Item|Lentil cutlets|4}}
+|{{Item|Lentils|2|animation}}
+|-
+|{{Item|Lentil porridge|4|animation}}
+|{{Item|Carrot|1}}<br/>
+{{Item|Lentils|1|animation}}<br/>
+{{Item|Onion|1|animation}}
+|}
+
+==Alchemy==
+Lentils can be decomposed to fluid at either of the two distillation cubes. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] will produce one additional ingredient at any distiller.
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+|-
+! colspan = "2" | {{Item|Distillation cube}} 
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Health extract|2}}
+|{{Item|Lentils|1|animation}}
+|-
+! colspan = "2" | {{Item|Distillation cube II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Health extract|3}}
+|{{Item|Lentils|1|animation}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[fr:Lentilles (Légume)]]

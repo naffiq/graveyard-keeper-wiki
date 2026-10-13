@@ -1,0 +1,70 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_1_violet
+| study        = {{Techpoint|Blue|5}}
+| source       = [[Alchemy]]
+| vendor       = [[Clotho|Clotho (T I)]]
+| buyer        = 
+| cost         = 50
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Butterfly|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Bat wing|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Blue|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Violet Paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1|}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Balsamic solution|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|1}}<br>{{Item|Death extract|1}}
+|-
+|{{Item|Rage potion|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Death solution|1}}<br>{{Item|Toxic extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Pó de caos]]

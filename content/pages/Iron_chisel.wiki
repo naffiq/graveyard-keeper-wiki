@@ -1,0 +1,100 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = chisel_1
+| study        = {{Techpoint|Red|30}}
+
+| source       = [[Carpenter's workbench]], [[Carpenter's workbench II]]
+| cost         = 250
+| quest        = 
+| stacksize    = 1
+}}
+An <b>{{lc:{{PAGENAME}}}}</b> is a degradable piece of equipment, used to refine various resource materials. Each use costs 10% durability, before it is eventually destroyed, and further refinement requires that another be crafted.
+
+==Recipe==
+{| class = "wikitable" style="width:35em;"
+!colspan="3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Iron chisel|1}}
+|{{Item|Wooden stick|4}}<br>{{Item|Simple iron parts|3}}
+|{{Energy|-|20}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:10em;"|Tech Points
+!style="width:17.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A piece of stone|1}}
+|{{Energy|-|15}}
+|-
+|{{Item|A polished brick of marble|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A piece of marble|1}}
+|{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A piece of stone|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|A carved piece of stone|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Faith|3}}
+|{{Energy|-|15}}
+|-
+|{{Item|A polished brick of marble|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A piece of marble|1}}
+|{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Carved wood|1|copper}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Wooden plank|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|12}}
+|}
+
+==See Also==
+*{{Item|Polishing paste}} - an alternative, in regards to [[A polished brick of stone|stone]].
+*{{Item|Steel chisel}} - a superior alternative, in regards to [[Carved wood|wood]].
+*{{Item|Pen and ink}} - a similar degeneratable piece of equipment.
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[es:Cincel de hierro]]

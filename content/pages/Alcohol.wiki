@@ -1,0 +1,50 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| vendor       = [[Clotho|Clotho (T I)]]
+| buyer        = Clotho
+| cost         = 10
+| source       = [[Booze]], [[Clotho]]
+| stacksize    = 100
+| type         = Advanced alchemy resource
+| nameinternal = 
+|study=N/A}}
+
+{{PAGENAME}} is obtained by using a bottle of [[Booze]]. It's used in alchemy, as either an essential ingredient in the recipe for [[Aromatizer]], or in one of several known recipes for [[White paint]]. Its also sold by [[Clotho]].
+
+==Recipe==
+{| class="wikitable" style="table-layout:fixed; width:30em;"
+! colspan="2" | Use in inventory
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alcohol|15}}
+|{{Item|Booze|1}}
+|}
+
+==Crafting ==
+{| class="wikitable" style="table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|White paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Slowing solution|1}}
+|-
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Aromatizer|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Life extract|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+
+[[Category:Alchemy]]
+[[pt-br:Álcool]]
+[[es:Alcohol]]

@@ -1,0 +1,44 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| cost         = 
+| price        = 
+| consume      = 
+| study        = 
+| alchemy      = 
+| source       = [[Church workbench]]
+| type         = Writing Resource
+| stacksize    = 10
+| quest        = 
+| nameinternal = pail_paper
+}}
+<b>{{PAGENAME}}</b> is a craft-able resource used as a component in mass producing [[clean paper]].
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Paper glop|1}}
+|{{Item|Bucket of clear water|1}}<br>{{Item|Wheat|20}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Paper press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Clean paper|30}}
+|{{Item|Paper glop|2}}<br>{{Item|White paint|1}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]
+
+[[pt-br:Mistureba de papel]]

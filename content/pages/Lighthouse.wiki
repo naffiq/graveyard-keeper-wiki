@@ -1,0 +1,10 @@
+{{stub}}
+[[File:Annotation 2020-08-12 181754.png]]
+
+The {{PAGENAME}} is located off the east coast, past [[The Village]]. [[Locations|''See Map'']] 
+
+==NPCs==
+There are two [[NPCs]] at the {{PAGENAME}}: 
+[[Lighthouse Keeper]] and the [[Astrologer]] who visits on {{Day|Sloth}}.
+
+{{Navbox-Locations}}

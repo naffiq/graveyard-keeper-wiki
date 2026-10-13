@@ -1,0 +1,28 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| alchemy      = 
+| source       = [[Lighthouse Keeper]]
+| buy          = [[Lighthouse Keeper|Lighthouse Keeper (T II)]]
+| sell         =
+| cost         = 300
+| stacksize    = 1
+| type         = Fishing; Equipment
+| quest        = 
+| efficiency   = 90%
+| energy       = {{Energy|-|1}}
+| nameinternal = fishing_rod_1 
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a piece of equipment which, unlike most other tools, does not degrade with use. It's one of three fishing rods found in-game, any of which is required for [[fishing]]. It is provided by the [[Lighthouse Keeper]], sold as a Tier II item for {{Money|300}}. It cannot be acquired through any other means, such as crafting, nor can it be studied.
+
+Compared to the other fishing rods, this fishing rod is the "all-purpose rod", with decent efficiency, and while it can catch all low-tier and most high-tier fish, one may find that it's not always ideal. However, for the most part, it's much more versatile than the 'Simple', while still having a few advantages over the 'Excellent'.
+
+==See Also==
+*{{Item|Simple fishing rod}} - the Tier I rod, serving as the quintessential "starter" rod.
+*{{Item|Excellent fishing rod}} - the Tier III rod, specifically designed for higher-tier fish.
+
+<br>
+{{Navbox-Fishing}}
+[[Category:Fish]]
+[[pt-br:Vara de pesca boa]]

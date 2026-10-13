@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Armor
+| nameinternal = armor_lamellar_1
+| study        = {{Techpoint|red|30}}
+| source       = [[Carpenter's workbench]] <br> [[Carpenter's workbench II]]
+| stacksize    = 1
+| armor       = 2
+}}
+
+Iron armor equips to the {{Icon|armor}} slot and provides 2 armor.  Each point of armor reduces damage by that amount, so a hit that would normally do {{Health|-|7}} in damage now would only do {{Health|-|5}}.  This makes armor incredibly useful against [[monsters]] who hit frequently but for small amounts of damage.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|30}}.
+
+==Recipe==
+{| class = "wikitable" 
+!colspan = "2"|{{Item|Carpenter's workbench}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Skin|4}} <br> {{Item|Simple iron parts|6}}
+|}
+
+==Study==
+{| class = "wikitable"
+! colspan = "4" | {{Item|Study table}}
+|-
+!style="width:10em;"| Tech Points
+!style="width:17.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}} <br> {{Item|Science|3}}
+| {{Energy|-|5}}
+|Not decomposable
+|}
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:armor]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[pt-br:Armadura de ferro]]
+[[es:Armadura de hierro]]

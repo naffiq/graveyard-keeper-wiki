@@ -1,0 +1,31 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|20}}
+| nameinternal = snack:sandwich
+| study        = 
+| source       = [[Cooking]]
+| cost         = 17
+|stacksize=20}}
+
+A food item which restores {{Energy|+|20}} when consumed.  Since the items which can be used to craft {{lc:{{PAGENAME}}}}es lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Sandwich|3}}
+|{{Item|Bread|2}}
+{{Item|Baked meat|1}}
+
+{{Item|Cabbage|1}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]

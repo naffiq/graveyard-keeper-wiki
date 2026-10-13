@@ -1,0 +1,116 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = cellar 1.png
+| buildable = True
+| NPCs      = [[zombie|Zombie]]
+}}
+The cellar is primarily accessed through [[Sweet Home|your house]]. It is used for [[storage]], [[Brewing stand|brewing]] and [[Winemaking barrel|winemaking]]. From here you can access tunnels the [[morgue]], the [[church]], the [[dungeon]], the [[The Village|village]] and the [[alchemy lab]] after you removed the [[blockage]]s.
+
+At the beginning, there are some broken barrels and sacks containing basic materials useful in the early game. Removing those is also important to make space for new workstations to produce {{Item|red wine||animation}}, {{Item|a mug of beer||animation}}, {{Item|Booze}}, {{Item|Bottle of apple ferment}} and {{Item|Bottle of berry ferment}}. The chest there contains an interesting [[cooking|cooking recipe]]. Use it to learn how to prepare [[Cookery (Tech Tree)|simple and tasty food]].
+
+Upon first entering the cellar, a cutscene is played, where you first meet [[Snake]] to start up his [[quests|questline]].
+
+==Barn Cellar==
+[[file:cellar 2.png|x200px|A part of the barn cellar with blockade]]
+[[file:crate factory inside.png|x200px|A part of the barn cellar with chute, pallets and porter station]]
+
+A section of the cellar is called the "barn cellar". This is where the chute of the [[crate factory]] ends, and the {{item|crates}} are stored automatically on [[pallet]]s. There's also a [[porter station]] available, where you can put a {{item|zombie}} at work to haul the crates over to the [[trade office]].
+
+== Workstations ==
+Stations in the cellar (except for vine press) do not need the player to actively operate them, but rather load material in the trunk, queue processes and wait for the products.
+{| class="wikitable"
+! colspan="4" |[[File:Cellar icon.png|41x41px]] Cellar
+|-
+! style="width:17.5em;" |Blueprint
+! style="width:17.5em;" |Required Materials
+!Size
+!Notes
+|-
+|[[File:Trunk Icon.png|56x56px|Repair the desk]] [[Trunk]]
+|{{Item|Flitch|4}}<br />{{Item|Nails|4}}<br />{{Item|Simple iron parts|4}}
+|3x2
+
+2x3
+|Available from the beginning
+|-
+|[[File:Vine Press Icon.png|56x56px|Repair the desk]] [[Vine press]]
+|{{Item|Flitch|12}}<br />{{Item|Complex iron parts|4}}<br />{{Item|A piece of stone|10}}
+|5x4
+|Requires [[Farming and Nature (Tech Tree)|Winemaking]]
+|-
+|[[File:Fermentation barrel 2.png|56x56px|Repair the desk]] [[Fermentation barrel]]
+|{{Item|Flitch|8}}<br />{{Item|Simple iron parts|4}}
+|3x3
+|Requires [[Farming and Nature (Tech Tree)|Digestion]]
+|-
+|[[File:Brewing Stand Icon.png|56x56px|Repair the desk]] [[Brewing stand]]
+|{{Item|A piece of stone|24}}<br />{{Item|Simple iron parts|4}}
+|4x3
+|Requires [[Farming and Nature (Tech Tree)|Brewing]]
+|-
+|[[File:Winemaking Barrel Icon.png|56x56px|Repair the desk]] [[Wine making barrel]]
+|{{Item|Flitch|12}}<br />{{Item|Simple iron parts|5}}<br />{{Item|Nails|7}}
+|4x4
+|Requires [[Farming and Nature (Tech Tree)|Winemaking]]
+|-
+|[[File:Alcohol distiller 2.png|56x56px|Repair the desk]] [[Alcohol distiller]]
+|{{Item|A piece of stone|20}}<br />{{Item|Complex iron parts|8}}<br />{{Item|Flitch|12}}
+|7x4
+
+4x7
+|Requires [[Farming and Nature (Tech Tree)|Strong Alcohol]]
+|-
+|[[File:Zombie brewing.png|56x56px|Repair the desk]] [[Zombie-brewery]]
+|{{Item|A piece of stone|32}}<br />{{Item|Simple iron parts|12}}<br />{{Item|Complex iron parts|4}}
+|
+|Can only be built once
+Requires [[Farming and Nature (Tech Tree)|Zombie-brewery]]
+|-
+|[[File:Zombie winemaking.png|56x56px|Repair the desk]] [[Zombie-winery]]
+|{{Item|Wooden plank|18}}<br />{{Item|Flitch|20}}<br />{{Item|Simple iron parts|12}}
+|
+|Can only be built once
+Requires [[Farming and Nature (Tech Tree)|Zombie-winery]]
+|}<br />
+
+==Brewing==
+There are four main types of alcohol consumables that can be produced:
+{| class="wikitable"
+! colspan="3" |Alcohols
+|-
+!Product
+!Ingredients
+!Notes
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|Water|50}}<br />{{Item|Hops|3|animation}}<br />{{Item|Wheat|15}}
+|Can be produced in either the [[Brewing stand]] or [[Zombie-brewery]]
+|-
+|{{Item|A mug of mead|10|animation}}
+|{{Item|Water|50}}<br />{{Item|Hops|3|animation}}<br />{{Item|Honey|1}}
+|Produced in the [[Brewing stand]]
+|-
+|{{Item|Red wine|20|animation}}
+|{{Item|Pail of grape juice|2|animation}}
+|Produced in [[Wine making barrel]]
+|-
+|{{Item|Red wine|40|animation}}
+|{{Item|Grapes|60|animation}}
+|Produced in [[Zombie-winery]]
+|-
+|{{Item|Booze|1}}
+|{{Item|Bottle of apple ferment|5}}
+| rowspan="4" |Produced in [[Alcohol distiller]]
+Requires fuel
+|-
+|{{Item|Booze|1}}
+|{{Item|Bottle of berry ferment|4}}
+|-
+|{{Item|Booze|1}}
+|{{Item|Red wine|3|animation}}
+|-
+|{{Item|Infusion|1}}
+|{{Item|Booze|1}}<br />{{Item|Red mushroom|3}}
+|- |
+|}
+<br />{{Navbox-Locations}}

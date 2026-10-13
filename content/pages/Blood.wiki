@@ -1,0 +1,108 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = {{Techpoint|Blue|20}}
+| alchemy      = N/A
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| stacksize    = 30
+| type         = Bodypart
+| quest        = 
+| nameinternal = blood
+}}
+<b>{{PAGENAME}}</b> is a body part that can be extracted from a corpse at the [[preparation place|autopsy table]]. Upon removal, it has the effect of removing one Red Skull {{Skull|red}} and adding one White Skull {{Skull|white}}, similar to [[fat]]. In addition, similar to most other anatomy and theology items, it can be studied at the [[Study table]] for a {{Techpoint|Blue}} reward. For more information, see [[corpses]].
+
+An alternative for getting Blood aside from corpses is failing Alchemy recipes on purpose to obtain Blood Goo, which can be converted into Blood on the Hand Mixer. One example that will guarantee a blood goo is attempting to mix [[Life powder|Life Powder]], [[Oil]] and [[Water]] in the Alchemy Workbench II.
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Preparation place}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Corpse|1}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Blue|20}}
+|{{Item|Faith|1}} <br> {{Item|Science|1}}
+|{{Energy|-|1}}
+|N/A
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Bucket of blood|1}}
+|{{Item|Flitch|3}}<br>{{Item|{{PAGENAME}}|10}}
+|{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Blood fountain}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|Increase Quality<br>[[Sacrifice Zone]]
+|{{Item|{{PAGENAME}}|10}}
+|{{Energy|-|?}}
+|}
+
+==Alchemy==
+{{PAGENAME}} serves as a replacement to basic solutions and extracts in [[alchemy]].
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Dark elixir|1}}
+|{{Item|Death powder|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:05<br>{{Energy|-|5}}
+|-
+|{{Item|Zombie juice|1}}
+|{{Item|Health powder|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:05<br>{{Energy|-|5}}
+|-
+!colspan="3"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Alkali|1}}
+|{{Item|Life powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:10<br>{{Energy|-|10}}
+|-
+|{{Item|Speed potion|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:10<br>{{Energy|-|10}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Advanced alchemy resources]]
+
+[[Category:Alchemy]]
+[[Category:Body parts]]
+
+[[pt-br:Sangue]]
+[[de:Blut]]
+[[es:Sangre]]

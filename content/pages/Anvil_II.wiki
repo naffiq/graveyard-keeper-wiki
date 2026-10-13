@@ -1,0 +1,125 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Workyard]]
+|technology = [[Smithing (Tech Tree)#Steel|Steel]]
+|related    = 
+|footprint  = 3X3
+|rotatable  = False
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a workstation used to forge ingots into usable parts and equipment, better anvils make operations require less energy and allow for the crafting of better equipment. As of the <i>Breaking Dead</i> DLC, an optional task queue has been added and a [[zombie]] can be stationed here.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Iron ingot|2}}<br>{{Item|Steel ingot|2}}
+|N/A
+|Blueprint<hr>Required Tech:<br>[[Smithing (Tech Tree)#Steel|Steel]]
+|-
+|[[file:upgrade item.png|80x80px|link=anvil]]
+|{{Item|Iron ingot|1}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|Upgrade
+|}
+
+==Recipes==
+===Metal===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab_metal.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Nails|9}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|[[File:Blacksmith Perk.png|32x32px|link=Perks#Blacksmith Perk]] +3<br>+{{Techpoint|red|1}}
+|-
+|{{Item|Simple iron parts|5}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|[[File:Blacksmith Perk.png|32x32px|link=Perks#Blacksmith Perk]] +1<br>+{{Techpoint|red|1}}
+|-
+|{{Item|Complex iron parts|2}}
+|{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|1}}
+|{{Energy|-|10}}
+|[[File:Blacksmith Perk.png|32x32px|link=Perks#Blacksmith Perk]] +1<br>+{{Techpoint|red|3}}
+|}
+
+===Tools===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab_tools.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Axe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|rowspan="3"|Energy consumption: {{Energy|-|1}}<br>Tool efficiency: 100%<br>+{{Techpoint|red|5}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Rusty hammer|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|5}}
+|Energy consumption: {{Energy|-|1}}<br>Tool efficiency: 70%<br>+{{Techpoint|red|1}}<hr>[[File:Update Alert.png|link=|frameless]]: 'Rusty' hammer requires Iron.
+|-
+|{{Item|Axe II|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|rowspan="3"|Energy consumption: {{Energy|-|1}}<br>Tool efficiency: 150%<br>+{{Techpoint|red|3}}
+|-
+|{{Item|Shovel II|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|-
+|{{Item|Pickaxe II|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|-
+|{{Item|Iron hammer|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|10}}
+|Energy consumption: {{Energy|-|1}}<br>Tool efficiency: 100%<br>+{{Techpoint|red|1}}<hr>[[File:Update Alert.png|link=|frameless]]: 'Iron' hammer requires Steel.
+|}
+
+===Weapons===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab_weapons.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Sword}}
+|{{Item|Iron ingot|1}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Hemp rope|2}}
+|{{Energy|-|20}}
+|Energy consumption: {{Energy|-|2}}<br>10 damage<br>+{{Techpoint|red|2}}
+|-
+|{{Item|Steel sword}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel ingot|2}}<br>{{Item|Steel parts|2}}
+|{{Energy|-|30}}
+|Energy consumption: {{Energy|-|2}}<br>15 damage<br>+{{Techpoint|red|2}} {{Techpoint|blue|1}}
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]

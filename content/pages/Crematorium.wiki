@@ -1,0 +1,21 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = Crematorium Infobox.png
+| exits     = [[Morgue]]
+| buildable = True
+| NPCs      = 
+}}
+The crematorium is an outdoor location which can be found south of the entrance to the [[morgue]], approximately one screen away. The location offers room for: 
+: {{item|trunk|1}} 
+: {{item|place for burning corpses|4}}
+
+Cremation of any corpse is performed by placing the body on a prepared [[place for burning corpses]] and setting it on fire. The process - taking a mere 0:20 seconds - destroys the corpse, uses up the pyre, and leaves behind:
+: {{item|burial certificate|1}}
+: {{item|ash|5}}
+: {{item|salt|2}}
+
+The amount of retrievable materials is not dependent on the remaining body parts, meaning a fully extracted body with no body parts left inside will yield the same amount of ash as a corpse with all body parts remaining.
+
+{{Navbox-Locations}}
+[[ru:Крематорий]]
+[[de:Feuerbestattungsort]]

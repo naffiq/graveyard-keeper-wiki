@@ -1,0 +1,26 @@
+
+{{NPC Infobox
+| name         = {{PAGENAME}}
+| image        = Gypsy_Baron.png
+| location     = [[Camp]]
+| role         = 
+| vendor       = 
+| money        = 
+| income       = 
+| levelcostII   =
+| levelcostIII  =
+| nameinternal =
+}}
+The gypsy baron is Esmeralda's brother. He can be found in the [[camp|gypsy camp]], north-east of the [[village]]. He's always there because the bridge broke and the gypsies can't leave.
+
+==Quests==
+===Kebabs===
+When you first approach the [[camp]], you notice the good smell coming from the firepit. The gypsy baron tells you it's a family recipe for [[Baked kebab|kebabs]] and he's willing to share it with you if you bring him {{Item|Quality fish fillet|4|silver}}.
+
+===Astrologer's request===
+Once you manage to read the old keeper's [[diary]], you're requested by the [[astrologer]] to ask the gypsy baron about Esmeralda, the mother of his long-lost child. The baron asks you to demand the release of one of his friends who has been captured by the inquisition and is awaiting trial. To do this, you need at least 60 {{happiness}} with the [[Inquisitor]]. Return to the gypsy baron and tell him, that his friend is free for 10 {{happiness}}.
+
+As soon as you've accomplished this, the gypsy baron will tell you about Esmeralda's tragic fate and reveals that her daughter, [[Ms. Charm]], has brought disgrace to the family by losing [[Necklace|her mother's family heirloom]] and renouncing to her gypsy background. You can then go back to the [[astrologer]].
+[[ru:Цыганский барон]]
+{{Navbox-NPCs}}
+[[Category:NPCs]]

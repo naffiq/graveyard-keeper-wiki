@@ -1,0 +1,127 @@
+{{Item Infobox
+| name         = Firewood
+| image        = Firewood item.png
+| type         = Wood
+| nameinternal = firewood
+| study        = {{Techpoint|Red|20}}
+| source       = [[Chopping spot]]
+| buy          = None
+| sell         = [[Beekeeper|Beekeeper (T I)]]<br>[[Cory|Cory (T I)]]<br>[[Dig|Dig (T I)]]<br>[[Farmer|Farmer (T I)]]<br>[[Horadric|Horadric (T I)]]<br>[[Krezvold|Krezvold (T I)]]<br>[[Lighthouse Keeper|Lighthouse Keeper (T I)]]<br>[[Miller|Miller (T I)]]<br>[[Tress|Tress (T I)]]
+| cost         = 5
+| stacksize    = 50
+| quest        = 
+}}
+Firewood can be crafted on a [[chopping spot]] from [[wood billet]]s or grave decorations, e.g. [[wooden cross]]es, [[wooden marker]]s and [[wooden grave fence]]s. Grave decors can be damaged and will still produce the same amount of firewood. Especially at the beginning, when resources are scarce, chopping down damaged grave decor from the [[graveyard]] for firewood instead of repairing them with [[wood repair kit]]s seems a better option.
+
+<br>Firewood can be used to fuel the [[workyard |furnace]] and the stove in the house.  As well many [[Vendors]] will accept firewood as a trade good making it useful for unlocking later tier trades.
+
+==Recipe==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Chopping spot}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Firewood|15}}
+|{{Item|Wood billet|1}}
+|-
+|{{Item|Firewood|4}}
+|{{Item|Wooden cross|1}}
+|-
+|{{Item|Firewood|4}}
+|{{Item|Wooden marker|1}}
+|-
+|{{Item|Firewood|4}}
+|{{Item|Wooden grave fence|1}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|{{Techpoint|Red|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Buy Tier !! Base Price !! Sell Tier !! Base Price !! Deflation
+|-
+|{{NPC|Miller}} 
+|N/A 
+|N/A
+|align="center"|I 
+|{{Money|5}}
+|Sells at {{Money|2}}<br>after 4x sold
+|-
+|{{NPC|Horadric}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|4}}
+|Sells at {{Money|2}}<br>after 5x sold
+|-
+|{{NPC|Farmer}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|-
+|{{NPC|Beekeeper}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|-
+|{{NPC|Cory}} 
+|align="center"|I
+|N/A
+|align="center"|I
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|-
+|{{NPC|Tress}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|-
+|{{NPC|Krezvold}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|-
+|{{NPC|Dig}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|-
+|{{NPC|Lighthouse Keeper}} 
+|align="center"|I 
+|N/A
+|align="center"|I 
+|{{Money|3}}
+|Sells at {{Money|2}}<br>after 2x sold
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+[[Category:Sellable]]
+
+[[pt-br:Lenha]]

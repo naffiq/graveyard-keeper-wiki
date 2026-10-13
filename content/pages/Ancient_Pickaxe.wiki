@@ -1,0 +1,18 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Koukol]]
+| cost         = 
+}}
+
+{{PAGENAME}} is retrieved from [[Koukol]]. Speak with Koukol near the [[Mountain fort]]. He wants your help with healing his hump. Go speak with [[Clotho]] in [[the Swamp]]. She'll give you a scroll. Take it back to Koukol and he'll ask you to pick which Dark Organ you want him to obtain. For this part of the quest, you'll be required to have the [[Anatomy_and_Alchemy_(Tech_Tree)#Anatomy|Dark Bodies]] technology unlocked. No matter what you choose, the spell won't get rid of the hump.  He'll ask you to meet him again the next evening. After the spell doesn't work and you'll have to improve your tables in the [[Talking Skull]].
+
+After upgrading your tavern, talk to Koukol once again. You will gain 20{{Happiness}} with him and you will receive the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

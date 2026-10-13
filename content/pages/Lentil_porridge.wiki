@@ -1,0 +1,51 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|14}}/{{Energy|+|18}}/{{Energy|+|22}}
+| nameinternal = meal:lentil_porridge
+| study        = 
+| alchemy      = 
+| source       = [[Cooking]]
+| cost         = 
+}}
+
+A food item which restores energy. It must be made in the [[oven]] and higher quality versions of the dish have a larger restorative effect. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Lentil_porridge_item.png|quality = copper}}
+|{{Quality Sprite|image = Lentil_porridge_item.png|quality = silver}}
+|{{Quality Sprite|image = Lentil_porridge_item.png|quality = gold}}
+|-
+|{{Energy|+|14}}
+|{{Energy|+|18}}
+|{{Energy|+|22}}
+|}
+
+
+==Recipes==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Lentil porridge|4|animation}}
+|{{Item|Carrot|1}}<BR>
+{{Item|Lentils|1|animation}}<BR>
+{{Item|Onion|1|animation}}<BR>
+{{Item|Fuel|10}}<BR>
+|}
+
+
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

@@ -1,0 +1,350 @@
+<b>{{PAGENAME}}</b> are permanent modifiers that improve character skills and unlock passive enhancements.
+
+== Tech Tree Perks ==
+{{PAGENAME}} unlocked through the different [[Technologies|Tech Trees]] using [[Technologies#Technology_points|Technology Points]].
+
+{| class="wikitable"
+! colspan="6" |[[Anatomy and Alchemy (Tech Tree)]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!style="width:5em"|Tech Points
+|- id="Butcher Perk"
+|[[File:Butcher Perk.png|80px|frameless]]
+|Butcher
+|You know how to work with meat. You have a less chance of making a surgical error when extracting hardspares and softspares.
+|Technology: [[Anatomy and Alchemy (Tech Tree)#Gentle Butcher|Gentle Butcher]]
+|Eliminates the possibility of creating a surgical error when extracting [[Blood]], [[Fat]], [[Skull]], [[Bone]] or [[Skin]] only on a TIER 2 [[Preparation place]].
+|{{Techpoint|Green|5}}<br>{{Techpoint|Blue|25}}
+|- id="Surgeon Perk"
+|[[File:Surgeon Perk.png|80px|frameless]]
+|Surgeon
+|The dead won't sue you, but still you need to be careful. You have a reduced chance of making a surgical error when extracting important parts.
+|Technology: [[Anatomy and Alchemy (Tech Tree)#Surgery|Surgery]]
+|Eliminates the chance to create a surgical error when extracting [[Brain]], [[Heart]] or [[Intestine]] only on a TIER 2 [[Preparation place]].
+|{{Techpoint|Red|50}}<br>{{Techpoint|Green|150}}<br>{{Techpoint|Blue|50}}
+|- id="Scientist Perk"
+|[[File:Scientist Perk.png|80px|frameless]]
+|Scientist
+|You've inhaled a lot of fumes during your experiments. You've developed an inner voice that helps you measure ingredients. You will produce one extra reagent from any material.
+| Technology: [[Anatomy and Alchemy (Tech Tree)#Master of Alchemy|Master of Alchemy]]
+|Decomposing items at the [[Alchemy mill]], [[Hand mixer]], [[Distillation cube]], or [[Distillation cube II]] yields +1 reagent.
+|{{Techpoint|Green|100}}<br>{{Techpoint|Blue|40}}
+|- id="Cultist Perk"
+|[[File:Cultist Perk.png|80px|frameless]]
+|Cultist 
+|Everything has a meaning. You can see {{White Skull}} and {{Red Skull}} of body parts.
+|Technology: [[Anatomy and Alchemy (Tech Tree)#Cultist|Cultist]]<hr>Available after the Dark Bodies technology is revealed in the [[Inquisitor]] questline.
+|Shows what {{White Skull}} and {{Red Skull}} any body part applies to the [[Corpse]].
+|{{Techpoint|Blue|300}}
+|-
+! colspan="6" |[[Theology (Tech Tree)]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Points
+|- id="Cardinal Perk"
+|[[File:Cardinal Perk.png|80px|frameless]]
+| Cardinal 
+| The church is not only a triumph of the spirit. It's also a number of buildings and properties. You've learned how to manage them, so ceremonies give you extra money.
+|Technology: [[Theology (Tech Tree)#Price of Faith|Price of Faith]]
+|Receive {{Money|1}} more per {{Graveyard Rating}} from [[sermons]].<br>(From {{Money|3}} to {{Money|4}}; ~33% increase)
+|{{Techpoint|Blue|20}}
+|-
+! colspan="6" |[[Book Writing (Tech Tree)]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Points
+|- id="Journalist Perk"
+|[[File:Journalist Perk.png|80px|frameless]]
+|Journalist
+| You notice the little things about people. Put these things together and you have a story. Sometimes you can get a story from dialog. 
+|Technology: [[Book Writing (Tech Tree)#Journalist|Journalist]]<hr>Can also be obtained (for free) from [[Vagner]] in the [[Ms. Charm]] questline.
+|You always get a [[story]] when completing a quest (or step of a quest) with an [[NPCs|NPC]].
+|{{Techpoint|Green|10}}<br>{{Techpoint|Blue|5}}
+|- id="Writer Perk"
+|[[File:Writer Perk.png|80px|frameless]]
+|Writer
+|You know how to put words together.  Sometimes you even manage to write a good sentence. Mother would be proud.
+|Technology: [[Book Writing (Tech Tree)#Writing Tricks|Writing Tricks]]
+|Improves the {{Quality|All}} by 0.3 when crafting [[Story|stories]], [[Notes|notes]], [[Chapter|chapters]], and most [[Sermon|sermons]].<hr><sup>[When crafting a [[Book]] this does not apply]</sup>
+|{{Techpoint|Red|10}}<br>{{Techpoint|Blue|40}}
+|- id="Playwright Perk"
+|[[File:Playwright Perk.png|80px|frameless]]
+|Playwright
+|You write good books. Actually you find you can just write down anything you remember from modern culture.
+|Technology: [[Book Writing (Tech Tree)#Playwright|Playwright]]
+|Improves {{Quality|All}} by 0.5 when crafting [[Story|stories]], [[Notes|notes]], [[Chapter|chapters]], and most [[Sermon|sermons]].<hr><sup>[When crafting a [[Book]] this does not apply]</sup>
+|{{Techpoint|Blue|100}}
+|-
+! colspan="6" |[[Farming and Nature (Tech Tree)]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Points
+|- id="Master Gatherer Perk"
+|[[File:Master Gatherer Perk.png|80px|frameless]]
+|Master Gatherer
+|You love nature and nature loves you back. You can gather more resources from small plants.
+|Technology: [[Farming and Nature (Tech Tree)#Master Gathering|Master Gathering]]
+|Foraged plants yield is increased by +1. Applies to [[Red mushroom]], [[Edible mushroom]], [[Berry]], etc.
+|{{Techpoint|Green|5}}<br>{{Techpoint|Blue|10}}
+|- id="Farmer Perk"
+|[[File:Farmer Perk.png|80px|frameless]]
+|Farmer 
+|You aren't afraid of getting your hands dirty. You can select good seeds and harvest a better crop.
+| Technology: [[Farming and Nature (Tech Tree)#Gardening|Gardening]]
+|Chance to grow higher {{Quality|All}} crops from lower {{Quality|All}} seeds at random.<sup>Percentage unconfirmed</sup>
+|{{Techpoint|Green|50}}<br>{{Techpoint|Blue|10}}
+|- id="Beefriend Perk"
+|[[File:Beefriend Perk.png|80px|frameless]]
+|Beekeeper
+|You've been bitten so many times that [[Bee|bees]] can't even damage you any more.  So you have plenty of time to collect honey from the beehive. 
+|Technology: [[Farming and Nature (Tech Tree)#Beefriend|Beefriend]]
+|[[Bee|Bees]] no longer hurt you when harvesting [[Bee hive]]. Receive double the [[Honey]]. Doesn't applie to [[Bee]] and [[Beeswax]].
+|{{Techpoint|Green|20}}<br>{{Techpoint|Blue|50}}
+|- id="Wine Master Perk"
+|[[File:Wine Master Perk.png|80px|frameless]]
+|Wine Master
+|You like to drink alcohol-especially wine! Your hangover depends on the alcohol you drank. Moreover, all alcohol you make has a better quality.
+|Technology: [[Farming and Nature (Tech Tree)#Blending|Blending]]
+|Improves the {{Quality|All}} by 0.8 when crafting [[red wine]]. Also you receive 20% more energy when drinking [[Red wine]] and [[Beer]].
+|{{Techpoint|Green|50}}<br>{{Techpoint|Blue|50}}
+|-
+! colspan="6" |[[Smithing (Tech Tree)]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Points
+|- id="Blacksmith Perk"
+|[[File:Blacksmith Perk.png|80px|frameless]]
+|Blacksmith
+|You like to work with red-hot iron. Hammering relaxes you. And when the work is done, you always manage to find time to make extra nails.
+|Technology: [[Smithing (Tech Tree)#Inborn Blacksmith|Inborn Blacksmith]]
+|Increases the yield of hardware products:<br>+3 [[nails]], +1 [[simple iron parts|simple parts]], +1 [[complex iron parts|complex parts]], and +2 [[steel parts]].<br>Also improves the {{Quality|All}} by 0.1 when crafting complex [[steel chisel]]s.
+|{{Techpoint|Red|20}}<br>{{Techpoint|Blue|30}}
+|- id="Big Guy Perk"
+|[[File:Big Guy Perk.png|80px|frameless]]
+|Big Guy
+|It appears that if you work with iron a lot, you become big and strong. +1 damage +1 defense. <sup>This decryption is inaccurate</sup>.
+|Technology: [[Smithing (Tech Tree)#Martial Skills|Martial Skills]]
+|Increases all damage dealt by +2 and decrease all damage recieved by -2.
+|{{Techpoint|Red|10}}<br>{{Techpoint|Blue|75}}
+|- id="Fireman Perk"
+|[[File:Fireman Perk.png|80px|frameless]]
+|Fireman
+|The spurting flame charms you. You know how to increase productivity, and you can smelt more ore per load.
+|Technology: [[Smithing (Tech Tree)#Rules of Burning|Rules of Burning]]
+|Unlocks a second [[iron ingot]] recipe. Produces 2x ingots from 2x at 4/5 the fuel in 5/6 the time.
+|{{Techpoint|Red|10}}<br>{{Techpoint|Green|50}}<br>{{Techpoint|Blue|30}}
+|- id="Engineer Perk"
+|[[File:Engineer Perk.png|80px|frameless]]
+|Engineer
+|You know how complex mechanisms work. All the details of your work are top quality. Even your carving and jewelry look cleaner.
+|Technology: [[Smithing (Tech Tree)#Engineer|Engineer]]
+|Improves the {{Quality|All}} by 0.3 when crafting [[A carved piece of marble|carved marble]], [[carved wood]], and complex [[steel chisel]]s.
+|{{Techpoint|Red|50}}<br>{{Techpoint|Blue|100}}
+|- id="Sword Master Perk"
+|[[File:Sword Master Perk.png|80px|frameless]]
+| Sword master
+| You know how to use your blade! You inflict additional damage and probably look cool with your sword.
+|Technology: [[Smithing (Tech Tree)#Sword Master|Sword Master]]
+|Increases weapon damage by +5.
+|{{Techpoint|Red|50}}<br>{{Techpoint|Blue|100}}
+|-
+! colspan="6" |[[Building (Tech Tree)]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Points
+|- id="Axeman Perk"
+|[[File:Axeman Perk.png|80px|frameless]]
+|Axeman
+|You know how to use an axe. Chopping a small tree can now give you an additional log. Also you can make more firewood and wedges from log chunks.
+|Technology: [[Building (Tech Tree)#Woodcutter|Woodcutter]]
+|Provides an additional [[log]] from small trees and stumps. Crafting [[firewood]] yealds +5 when splitting [[Wood billet|billet]]s at the [[chopping spot]].
+|{{Techpoint|Red|50}}<br>{{Techpoint|Blue|20}}
+|- id="Miner Perk"
+|[[File:Miner Perk.png|80px|frameless]]
+|Miner 
+|You are a true miner. You find precious metals and gems more often but it's still a matter of luck and energy.
+|Technology: [[Building (Tech Tree)#Scent of Gold|Scent of Gold]]
+|Find rare resources more often when mining.
+|{{Techpoint|Green|50}}<br>{{Techpoint|Blue|100}}
+|- id="Carpenter Perk"
+|[[File:Carpenter Perk.png|80px|frameless]]
+| Carpenter
+|You know how to deal with wood! Circular Saws are more productive in your hands.
+|Technology: [[Building (Tech Tree)#Tricks of the Trade|Tricks of the Trade]]
+|The [[Circular saw]] will produce more products:<br>+1 [[Wood billet|billet]], +2 [[flitch]], +1 [[Wooden plank|plank]], +1 [[Wooden beam|beam]].<br>Also improves the {{Quality|All}} by 0.5 when crafting [[carved wood]].
+| rowspan="2" |{{Techpoint|Red|50}}<br>{{Techpoint|Blue|50}}
+|- id="Mason Perk"
+|[[File:Mason Perk.png|80px|frameless]]
+|Mason
+|Stones are your passion, so your stone carving is really good.  Also your so efficient you get and extra piece of stone from a big rock.
+|Technology: [[Building (Tech Tree)#Tricks of the Trade|Tricks of the Trade]]
+|Increases the yield of [[A piece of stone|stone pieces]] from a [[Stone block|stone bricks]] at stone cutters by +2.<br>Does '''''not''''' impact [[Mining#Stone|stone outcroppings]].<br>Improves the {{Quality|All}} by 0.5 when crafting [[A carved piece of marble|carved marble]].
+|- id="Jeweler Perk"
+|[[File:Jeweler Perk.png|80px|frameless]]
+|Jeweler
+|You have a nose for gems, so you will find them more often. Also, you know how to make really nice jewelry.
+|Technology: [[Building (Tech Tree)#Best Friend|Best Friend]]
+|Increases the yield by +1 from precious metal veins found in the [[Dungeon]].<br>Also improves the {{Quality|All}} by 0.7 when crafting [[book]]s.
+|{{Techpoint|Blue|150}}
+|}
+
+==Progression Perks==
+{{PAGENAME}} gained through the progression of [[Quests]] within the game.
+
+{| class="wikitable"
+! colspan="6" |[[Episcop#Quests|Fix the Graveyard]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Tree
+|- id="Preacher Perk"
+|[[File:Preacher Perk.png|80px|frameless]]
+|Preacher
+|[[Bishop]] told you that now you can arrange a church service. So there you go!
+|Obtained when talking to [[Bishop]] after you reach {{Graveyard Rating|5}}
+|Can access the [[Church]] allowing you to hold [[Sermon|sermons]] and access the [[Alchemy Laboratory]].
+|[[Theology (Tech Tree)|Theology]]
+|- id="Curious Mind Perk"
+|[[File:Curious Mind Perk.png|80px|frameless]]
+|Curious Mind
+|You go deeper. Find out the essence of things. Studying an item has a chance of giving you a story.
+|Obtained after you hold your first [[Sermon]] with [[Bishop]] in the reopened [[Church]].
+|Stories will occasionally drop after studying something in the [[Technologies|Study Table]]
+|[[Book Writing (Tech Tree)|Book Writing]]
+|-
+|}
+
+{| class="wikitable"
+! colspan="6" |[[Quests|Beatrice's Offer]]
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+!Tech Tree
+|- id="Eloquence Perk"
+|[[File:Eloquence Perk.png|80px|frameless]]
+|Eloquence
+|A note in the [[Church]] made you more vigilant and careful, and your prayers more sincere. From now on, you'll be gathering more [[Faith]].
+|Obtained after reading the [[Note from unknown]] which drops from the [[Donation box]] at the next [[Sermon]] when betraying [[Lady Beatrice]] AND sending the [[Refugee camp|Refugees]] away.
+|Increases the amount of [[Faith]] you receive from sermons. Appears to be about +30%<sup>[untested]</sup>
+|[[Theology (Tech Tree)|Theology]]
+|- id="Industriousness Perk"
+|[[File:Industriousness Perk.png|80px|frameless]]
+|Industriousness
+|Any work develops you, even the work of evil. You've accepted your dark side, and it's enabled you to craft more effectively.
+|When helping [[Lady Beatrice]]. Obtained after reading the [[Note from unknown]] which you get when interacting with one of the new corpses you find at the morgue.
+|Increases the {{Quality|All}} of all craftable items by 0.2.
+|[[Smithing (Tech Tree)|Smithing]]
+|- id="Persistence Perk"
+|[[File:Persistence Perk.png|80px|frameless]]
+|Persistence 
+|Despite all the danger and risk, you courageously faced down your enemies - and won! Your backbone has gotten firmer, and now restores more energy.
+| Obtained after talking to [[Master Alaric]] when keeping the [[Refugee camp|Refugees]] safe.
+|Your {{energy}} now replenishes constantly at a rate of {{Energy|+|1}} per second.
+|[[Smithing (Tech Tree)|Smithing]]
+|-
+|}
+
+==Unimplemented==
+{| class="wikitable sortable"
+! colspan="5" |Perks
+|-
+!Icon
+!Name
+!Description
+!Source
+!Notes
+|-
+|[[File:Blabla Perk.png|80px|frameless]]
+|Blabla
+|
+|Not Obtainable 
+|Likely a "missing asset", testing or placeholder perk.
+|-
+|[[File:Brewer Perk.png|80px|frameless]]
+|Brewer
+|
+|Not Obtainable 
+|The equivalent to the Wine Master perk but for beer. This was dropped because brewing beer doesn't require a person's input.
+|-
+|[[File:Cook Perk.png|80px|frameless]]
+|Cook 
+|
+|Not Obtainable
+|Likely a past idea for a food {{Quality|All}} increasing perk.
+|-
+|[[File:Master Potter Perk.png|80px|frameless]]
+|Master Potter
+|
+|Not Obtainable
+|Unknown.
+|-
+|[[File:Natural Writer Perk.png|80px|frameless]]
+|Natural Writer
+|
+|Not Obtainable
+|Likely past version of the Wrighter perk. 
+|-
+|[[File:Naturalist Perk.png|80px|frameless]]
+|Naturalist
+|
+|Not Obtainable
+|Likely past version of the Master Gatherer perk.
+|-
+|[[File:Skinner Perk.png|80px|frameless]]
+|Skinner
+|
+|Not Obtainable
+|Graveyard keeper once had an idea for animal ownership. This was dropped for 
+gathering skin from bodies and buying animal by-products from the village.
+|-
+|[[File:Wine Master 2 Perk.png|80px|frameless]]
+|Wine Master 2
+|
+|Not Obtainable
+|Likely a better version of the Wine Master perk which was dropped for unknown reasons.
+|-
+|[[File:Writer Thief Perk.png|80px|frameless]]
+|Writer Thief
+|
+|Not Obtainable
+|Likely past version of the Playwright perk.
+|}
+
+[[Category:Perk icons]]
+[[Category:Main Pages]]
+[[de:Boni]]
+[[es:Perks]]
+[[fr:Compétences]]
+[[ja:パーク]]
+[[pt-br:Vantagens]]
+[[ru:Перки]]

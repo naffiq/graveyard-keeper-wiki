@@ -1,0 +1,85 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = {{Techpoint|Red|100}}
+| alchemy      = 
+| source       = [[Church workbench]], [[Astrologer]]
+| cost         = 700
+| stacksize    = 10
+| type         = Writing Resource
+| quest        = 
+| nameinternal = cover_hard
+}}
+Hard covers are used to create higher quality books. It should be noted that creating a book is 100% reliant on quality of ingredients, as well as bonuses from [[Desk II]] and Jeweler Perk. Hence a compromise could be made between cover and chapter quality, depending on what is available and what perks are obtained.
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_cover_hard.png|quality = copper}}
+|{{Quality Sprite|image = i_cover_hard.png|quality = silver}}
+|{{Quality Sprite|image = i_cover_hard.png|quality = gold}}
+|-
+|{{Money|700}}
+|{{Money|1500}}
+|N/A
+|}
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1|copper}}
+|{{Item|Softcover|1}}<br>{{Item|Tanning agent|1}}<br>{{Item|Faith|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|{{PAGENAME}}|1|silver}}
+|{{Item|Hard cover|1|copper}}<br>{{Item|Steel parts|2}}<br>{{Item|Faith|2}}
+|{{Energy|-|20}}
+|-
+|{{Item|{{PAGENAME}}|1|gold}}
+|{{Item|Hard cover|1|silver}}<br>{{Item|Gold jewelry details|2}}
+|{{Energy|-|20}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|100}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+== Crafting == 
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Hard cover|1|animation}}<br>{{Item|Chapter|1|animation}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]
+[[de:Gebundenes Buch]]
+[[pt-br:Capa dura]]

@@ -1,0 +1,80 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Stone
+| nameinternal = stone_plate_3
+| study        = {{Techpoint|red|50}}
+| source       = [[Stone cutter II]]
+| buy          = [[Cory|Cory (T II)]]
+| sell         = [[Cory|Cory (T II)]]
+| cost         = 175
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}</b> is a refined crafting material that is used to make the highest tier of stone-work. It's one of the few items that require [[faith]] in order to craft, making them relatively precious. They can be crafted at a [[stone cutter II]] or bought from the vendor [[Cory]].
+
+==Recipe==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Iron chisel|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Faith|3}}
+|{{Energy|-|15}}
+|}
+
+==Study==
+{| class = "wikitable" style="width:40em; text-align:center;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Stone plinth|1}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|-
+|{{Item|Stone sculpture|1}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|40}}
+|-
+|{{Item|Stone sculpture II|1}}
+|{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|40}}
+|}
+
+==Building==
+{| class="wikitable" style="width:40em; table-layout:fixed;"
+!colspan="2"|[[Graveyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Stone prayer station}}
+|{{Item|A polished brick of stone|4}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Book|variant=silver|1|Silver}}
+|-
+|{{Item|Build stone fence}}
+|{{Item|A polished brick of stone|24}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Complex iron parts|12}}
+|}
+
+<br>
+{{Navbox-Stone}}
+[[Category:stone items]]

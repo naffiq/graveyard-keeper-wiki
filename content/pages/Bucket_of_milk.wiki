@@ -1,0 +1,24 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Misc
+| stacksize    = 10
+| consume      = 
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| cost         = 50
+| source       = [[Rosa]]
+}}
+
+{{PAGENAME}} can be bought in the northern part of [[The Village]] from [[Rosa]]. When used inside the inventory, it will provide 5 [[Jug of milk]].
+
+==Crafting==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | Use in inventory
+|-
+|{{Item|Jug of milk|5}}
+|{{Item|{{PAGENAME}}|1}}
+|-}
+
+{{Navbox-Food}}

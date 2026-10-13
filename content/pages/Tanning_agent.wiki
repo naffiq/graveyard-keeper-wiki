@@ -1,0 +1,78 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = flask_tanning_agent
+| study        = 
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 350
+| quest        =  
+}}
+
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]], or can be purchased from [[Clotho]], and is used to make [[hard cover]]s and bags.
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Slowing powder|1}}
+{{Item|Death solution|1}}
+
+{{Item|Order extract|1}}
+|}
+
+== Crafting ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Church workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Hard cover|1|copper}}
+|{{Item|Softcover|1}}
+{{Item|{{PAGENAME}}|1}}
+{{Item|Faith|1}}
+|-
+|{{Item|Alchemist's bag|1}}
+|{{Item|Skin|3}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Tanning agent|1}}
+|-
+|{{Item|Farmer's bag|1}}
+|{{Item|Skin|3}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Tanning agent|1}}
+|-
+|{{Item|Fisherman's bag|1}}
+|{{Item|Skin|3}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Tanning agent|1}}
+|-
+|{{Item|Tool bag|1}}
+|{{Item|Skin|3}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Tanning agent|1}}
+|-
+|{{Item|Potion bag|1}}
+|{{Item|Skin|6}}<br>{{Item|Steel parts|2}}<br>{{Item|Tanning agent|2}}
+|-
+|{{Item|Builder's bag|1}}
+|{{Item|Skin|6}}<br>{{Item|Steel parts|2}}<br>{{Item|Tanning agent|2}}
+|-
+|{{Item|Food bag|1}}
+|{{Item|Skin|6}}<br>{{Item|Steel parts|2}}<br>{{Item|Tanning agent|2}}
+|-
+|{{Item|Universal bag|1}}
+|{{Item|Skin|5}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Tanning agent|2}}
+|-
+|{{Item|Big universal bag|1}}
+|{{Item|Skin|8}}<br>{{Item|Steel parts|4}}<br>{{Item|Tanning agent|3}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[de:Gerbstoff]]
+[[es:Agente_curtidor]]
+[[ru:Дубильная жидкость]]
+[[pt-br:Agente de bronzeamento]]

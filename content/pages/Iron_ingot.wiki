@@ -1,0 +1,164 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|10}} {{Techpoint|Green|10}}
+| source       = [[Furnace]], [[Furnace II]], [[Furnace III]]
+| buy          = [[Krezvold|Krezvold (T I)]]
+| sell         = [[Krezvold|Krezvold (T I)]]
+| cost         = 80
+| stacksize    = 30
+| type         = Metal; Smithing
+| quest        = 
+| nameinternal = ingot_metal
+}}
+<b>{{PAGENAME}}s</b> are a common crafting material, used to make tools or processed into building materials. They can be crafted using [[iron ore]] in the [[furnace]], or alternatively may be purchased from the [[Blacksmith]]. As the first significant in-game challenge is getting a supply of iron up and running, one may need to rely on the Blacksmith, as it's otherwise difficult to advance.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Iron ore|1}}
+|2:30<br>{{Fuel|-|25}}
+|-
+|*{{Item|{{PAGENAME}}|2}}
+|{{Item|Iron ore|2}}
+|4:10<br>{{Fuel|-|40}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Metal scrap|10}}
+|0:40<br>{{Fuel|-|15}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Iron ore|2}}
+|2:30<br>{{Fuel|-|25}}
+|-
+|*{{Item|{{PAGENAME}}|4}}
+|{{Item|Iron ore|4}}
+|4:10<br>{{Fuel|-|40}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Metal scrap|10}}
+|0:35<br>{{Fuel|-|10}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Cost
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Iron ore|3}}
+|2:00<br>{{Fuel|-|25}}
+|-
+|*{{Item|{{PAGENAME}}|6}}
+|{{Item|Iron ore|6}}
+|3:20<br>{{Fuel|-|40}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Metal scrap|10}}
+|0:30<br>{{Fuel|-|10}}
+|-
+!colspan="3" align="center"|* Requires [[file:Fireman Perk.png|40px]][[Perks|Fireman]] perk.
+|}
+
+==Study==
+{|class = "wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|10}}<br>{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable mw-collapsible mw-collapsed" style="width:35em;table-layout:fixed;"
+!colspan="2"|Crafting Recipes
+|-
+!colspan="2"|{{Item|Wooden anvil}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Nails|8}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Simple iron parts|4}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Axe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Simple iron parts|3}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Anvil}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Complex iron parts|2}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Simple iron parts|1}}
+|-
+|{{Item|Rusty hammer|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Sword|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Hemp rope|2}}
+|-
+!colspan="2"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Steel ingot|2}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Graphite|1}}<br>{{Item|Fuel|45}}
+|-
+!colspan="2"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Steel ingot|2}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Graphite|1}}<br>{{Item|Fuel|25}}
+|}
+
+==Building==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|[[file:workyard workbench.png|link=Workyard]] [[Workyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Anvil}}
+|{{Item|{{PAGENAME}}|4}}
+|-
+|{{Item|Anvil II}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel ingot|2}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Eisenbarren]]
+[[pt-br:Lingote de ferro]]

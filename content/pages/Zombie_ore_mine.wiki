@@ -1,0 +1,48 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Ore mine 1.png
+|location   = [[Cabin in the woods]], [[Quarry]]
+|technology = [[Building (Tech Tree)|Zombie mining]]
+|related    = [[Mining]]
+|footprint  = 
+|rotatable  = no
+}}
+
+The zombie ore mine can be built after unlocking [[Building (Tech Tree)|zombie mining]]. It is located in the quarry region north east of the [[cabin in the woods]].
+
+==Build==
+Before you can use the mine, you first have to build it. The site looks abandoned like this:
+
+[[file:Ore mine 1.png|300px|Site before building the mines]]
+
+'''Note:''' It is '''not''' possible to mine {{item|iron ore}} or {{item|coal}} '''manually''' here. You need {{item|zombie}}s to exploit the mine. After building two mines (left and right variant are possible), and assigning workers to it (stand in front of the bench and hit "E"), the site looks like this:
+
+[[file:Ore mine 2.png|300px|Site after building two ore mines]]
+
+Note, that the empty benches and the illuminated mineshaft indicate, that the mines are working. You also see the moving progress bar below the products, the [[zombie]]s are currently mining. Each miner seperately alternate between mining coal and iron.
+
+The products are stored in the [[iron ore stockpile]] or the [[trunk]] respectively near the [[cabin in the woods]]. Without those facilities the mines wont't work. This sign [[file:work blocked.png|work blocked]] on a product means, that the stockpile is full (or missing) and the work is blocked until some storage space is freed up (or built).
+
+If you want to stop the mine completely, just take out the miner again, by standing in front of the bench and hitting "E". The {{item|zombie}} gets off its work and can be transported elsewhere. An inactive mine looks like this:
+
+[[file:Ore mine 3.png|300px|Site after both zombies stopped mining]]
+
+Note, that the zombies dropped their pickaxes and helmets onto the benches and the mineshaft is no longer illuminated. The progress bars below the mined products stopped in midwork.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Pickaxe I|1}}
+|
+|This blueprint is available in two variations: left and right
+|}
+
+{{Navbox-Cabin in the woods}}
+[[Category:Workstations]]
+
+[[Category:Cabin in the woods workstations]]

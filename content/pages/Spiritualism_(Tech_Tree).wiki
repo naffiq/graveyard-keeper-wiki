@@ -1,0 +1,145 @@
+{{Stub}}
+This [[Technologies|technology tree]] deals primarily with soul related products and it is part of the [[Better Save Soul]] DLC. This branch is unlocked by first talking to [[Smiler]].
+{| class="wikitable" style="text-align:center" 
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|-
+| rowspan="2" |Beginner healer
+| rowspan="2" |None
+| rowspan="2" |Talk to [[Smiler]]
+|[[File:Soul Container 1 Icon.png|64px|link=Soul container I]]
+|style="text-align:left"| Blueprint: [[Soul container I]]
+|-
+|[[File:Organ Workbench Icon.png|64px|link=Organ Workbench]]
+|style="text-align:left"| Blueprint: [[Organ Workbench]]
+|-
+| rowspan="2" |Healer enthusiast
+| rowspan="2" |Beginner healer
+| rowspan="2" |{{Techpoint|red|10}} {{Techpoint|green|15}} {{Techpoint|soul|10}}
+|[[File:Extension healing from pride item.png|64px|link=Healing from pride]]
+|style="text-align:left"| Blueprint: Extension: Healing from pride See [[Soul healer]]
+|-
+|[[File:Remote Craft Control item.png|64px|link=Remote Craft Control]]
+|style="text-align:left"| Create: [[Remote Craft Control]]
+|-
+| rowspan="3" |Stone grave fence
+| rowspan="10" |Healer enthusiast
+| rowspan="3" |{{Techpoint|red|50}} {{Techpoint|green|50}}
+|[[File:Stone Grave Fence VI.png]]
+|style="text-align:left"| Create: [[Stone grave fence VI]]
+|-
+|[[File:Stone Grave Fence VII.png]]
+|style="text-align:left"| Create: [[Stone grave fence VII]]
+|-
+|[[File:Stone Grave Fence VIII.png]]
+|style="text-align:left"| Create: [[Stone grave fence VIII]]
+|-
+| rowspan="3" |Prays for souls
+| rowspan="3" |{{Techpoint|red|25}} {{Techpoint|green|50}}
+|[[File:Prayer for soul repose.png]]
+|style="text-align:left"| Create: Prayer for souls' repose
+|-
+|[[File:Prayer for soul contentment.png]]
+|style="text-align:left"| Create: Prayer for souls' contentment
+|-
+|[[File:Prayer for soul cleansing.png]]
+|style="text-align:left"| Create: Prayer for souls' thorough cleansing
+|-
+| rowspan="2" |Updated Equipment
+| rowspan="2" |{{Techpoint|red|20}} {{Techpoint|green|15}}
+|[[File:Soul Container II (base).png|64x64px]]
+|style="text-align:left"| Blueprint: [[Soul container II]]
+|-
+|[[File:Soul extractor II item.png|64x64px]]
+|style="text-align:left"| Blueprint: [[Soul extractor II]]
+|-
+| rowspan="2" |Useful equipment
+| rowspan="2" |{{Techpoint|red|50}} {{Techpoint|green|30}}
+|[[File:Wall crematorium icon.png|64px|link=Wall Crematorium]]
+| style="text-align:left" | Blueprint: [[Wall Crematorium]]
+|-
+|[[File:Soul Receiver Icon.png|64px|link=Soul Receiver]]
+|style="text-align:left"| Blueprint: [[Soul Receiver|Soul receiver]]
+|-
+| rowspan="3" |Marble grave fence
+| rowspan="3" |Stone grave fence
+| rowspan="3" |{{Techpoint|red|100}} {{Techpoint|green|75}}
+|[[File:Marble grave fence VI.png]]
+|style="text-align:left"| Create: [[Marble grave fence VI]]
+|-
+|[[File:Marble grave fence VII.png]]
+|style="text-align:left"| Create: [[Marble grave fence VII]]
+|-
+|[[File:Marble grave fence VIII.png]]
+|style="text-align:left"| Create: [[Marble grave fence VIII]]
+|-
+| rowspan="2" |Experienced healer
+| rowspan="2" |Updated equipment
+| rowspan="2" |{{Techpoint|red|15}} {{Techpoint|green|20}} {{Techpoint|soul|15}}
+|[[File:Healing from wrath.png]]
+|style="text-align:left"| Blueprint: Extension: healing from wrath See [[Soul healer]]
+|-
+|[[File:Healing from gluttony.png]]
+|style="text-align:left"| Blueprint: Extension: healing from gluttony See [[Soul healer]]
+|-
+| rowspan="2" |Stone Gravestones
+| rowspan="9" |Experienced healer
+| rowspan="2" |{{Techpoint|red|80}} {{Techpoint|green|150}}
+|[[File:Stone Sculpture V.png]]
+|style="text-align:left"| Create: [[Stone sculpture V]]
+|-
+|[[File:Stone Sculpture VI.png]]
+|style="text-align:left"| Create: [[Stone sculpture VI]]
+|-
+| rowspan="3" |Exquisite writing
+| rowspan="3" |{{Techpoint|red|40}} {{Techpoint|green|35}} {{Techpoint|blue|10}}
+|[[File:Story.png|64x64px]]
+|style="text-align:left"| Create: [[Story]]
+|-
+|[[File:Chapter item.png|64px]]
+|style="text-align:left"| Create: [[Chapter]]
+|-
+|[[File:Gold book item.png|64x64px]]
+|style="text-align:left"| Create: [[Book]]
+|-
+| rowspan="2" |Updated Equipment II
+| rowspan="2" |{{Techpoint|red|30}} {{Techpoint|green|20}}
+|[[File:Soul container III item.png]]
+|style="text-align:left"| Blueprint: [[Soul container III (Base)]]
+|-
+|[[File:Soul extractor III.png]]
+|style="text-align:left"| Blueprint: [[Soul extractor III]]
+|-
+| rowspan="2" |Simplified Farming
+| rowspan="2" |{{Techpoint|red|30}} {{Techpoint|green|50}}
+|[[File:I sack clock gold.png|64x64px]]
+|style="text-align:left"| Create: [[Boost fertilizer I]]
+|-
+|[[File:I sack star silver.png|64x64px]]
+|style="text-align:left"| Create: [[Quality fertilizer I]]
+|-
+| rowspan="2" |Marble Gravestones
+| rowspan="2" |Stone Gravestones
+| rowspan="2" |{{Techpoint|red|120}} {{Techpoint|green|170}}
+|[[File:Marble sculpture V.png]]
+|style="text-align:left"| [[Marble sculpture V]]
+|-
+|[[File:Marble sculpture VI.png]]
+|style="text-align:left"| [[Marble sculpture VI]]
+|-
+| rowspan="3" |Professional healer
+| rowspan="3" |Updated equipment II
+| rowspan="3" |{{Techpoint|red|25}} {{Techpoint|green|25}} {{Techpoint|soul|30}}
+|[[File:Healing from sloth.png]]
+|style="text-align:left"| Blueprint: Extension: healing from sloth See [[Soul healer]]
+|-
+|[[File:Healing from lust.png]]
+|style="text-align:left"| Blueprint: Extension: healing from lust See [[Soul healer]]
+|-
+|[[File:Healing from envy.png]]
+|style="text-align:left"| Blueprint: Extension: healing from envy See [[Soul healer]]
+|}
+
+[[Category:Technologies]]

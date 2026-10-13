@@ -1,0 +1,50 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = N/A
+
+| source       = [[Vine press]]
+| cost         = 65
+| stacksize    = 10
+| type         = Misc
+| quest        = 
+| nameinternal = pail_berry_juice
+}}
+{{PAGENAME}} is a product of using a [[vine press]] to process a large amount of [[Berry|berries]]. The pail can then either be <b>Used</b> in the inventory to produce juice, or processed further in a [[fermentation barrel]] to produce ferment.
+
+==Recipe==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Vine press}}
+|-
+! style = "width;17.5em" |Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Berry|25}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" |Use in Inventory
+|-
+! style = "width;17.5em" |Item Produced
+!Materials Required
+|-
+|{{Item|Bottle of berry juice|5}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" |{{Item|Fermentation barrel}}
+|-
+! style = "width;17.5em" |Item Produced
+!Materials Required
+|-
+|{{Item|Bottle of berry ferment|10}}
+|{{Item|{{PAGENAME}}|2}}
+|}
+
+==See Also==
+*{{Item|Pail of apple juice}}
+*{{Item|Pail of grape juice}}
+
+{{Navbox-Misc}}

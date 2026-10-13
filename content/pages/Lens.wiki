@@ -1,0 +1,69 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = Lens item.png
+| study        = {{Item|Science|20}}
+| source       = [[Carpenter's workbench II]]
+| buy          = None
+| sell         = None
+| cost         = 
+| stacksize    = 30
+| type         = Glass Item
+| quest        = 
+| nameinternal = lense
+}}
+{{PAGENAME}} are a craft-able crafting resource, requiring [[Faith]] and [[Oil]]. They are required in order to gain access to certain late-game writing and crafting recipes. They can also be processed at the [[study table]] to increase [[Science]], though given their relatively high cost - compared to bulk [[clean paper]] production, for example - it's generally not advised (but in mid to late game, you will likely not be hurting for any of the materials used in production of those).
+
+Crafting a {{lcfirst:{{PAGENAME}}}} produces {{Techpoint|Blue|2}}.
+
+==Recipe==
+{| class = "wikitable" style = "width:35em;"
+! colspan = "3" | {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;"|Energy
+|-
+|{{Item|Lens|4}}
+|{{Item|Glass|2}}<br>{{Item|Polishing paste|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|15}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:35em;"
+! colspan = "3" | Alchemy Laboratory
+|-
+!Workstation
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Desk II}}
+|{{Item|Wooden plank|6}}<br>{{Item|Nails|12}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|?}}
+|-
+! colspan = "3" | {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;"|Energy
+|-
+|{{Item|Steel chisel|1|silver}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel parts|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Steel chisel|1|animation}} upgrade
+|{{Item|Steel chisel|1|animation}}<br>{{Item|Steel parts|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}
+|-
+! colspan = "2" | {{Item|Study table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Science|20}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+{{Navbox-Glass}}
+[[Category:glass items]]
+
+[[pt-br:Lente]]

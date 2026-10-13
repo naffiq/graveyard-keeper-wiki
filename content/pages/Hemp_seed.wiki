@@ -1,0 +1,60 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seed
+| nameinternal = hemp_seed
+| study        = {{Techpoint|Green|40}}
+| source       = [[Farming]], [[Dungeon]]
+| buy          = [[Dig|Dig (T I)]]
+| sell         = None
+| cost         = 8
+| stacksize    = 50
+}}
+'''{{PAGENAME}}s''' are one of five different types of basic seeds, to be utilized at the [[Kitchen Garden]]. They must be planted in an [[empty garden bed]] and may be harvested after a certain amount of time. In order to obtain {{lcfirst:{{PAGENAME}}}}s, you will likely need to purchase them from [[Dig]], though there is a small chance in finding some within the [[Dungeon]].
+
+Harvesting a mature crop will return some seeds, though without using a quality fertilizer, the chance of receiving enough seeds to replant the crop is very unlikely. See the relevant articles on each fertilizer - or the general article on [[farming]] - for more info.
+
+==Planting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Empty garden bed}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|Hemp|6-8}}<br>{{Item|{{PAGENAME}}|2-3}}<br>{{Item|Crop waste|?}}
+|{{Item|{{PAGENAME}}|4}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|40}}
+|{{Item|Faith|4}}<br>{{Item|Science|4}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Vine press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Seed oil|1}}
+|{{Item|{{PAGENAME}}|4}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seeds]]
+[[fr:Graine de Chanvre]]

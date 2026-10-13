@@ -1,0 +1,115 @@
+{{Item Infobox
+| name         = Sturgeon
+| image        = i_fish_sturgeon.png
+| cost         = 
+| price        = 184
+| study        = {{Techpoint|Green|30}}
+
+| source       = River, Waterfall
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_sturgeon
+}}
+The <b>{{PAGENAME}}</b> is one of sixteen(16) different [[Fishing|fish]] that can be caught, and either processed for [[cooking]] or sold to the [[Lighthouse Keeper]]. It's thought to be a relatively high-tier fish, thus the difficulty in catching it is high.
+
+==Fishing==
+The odds of catching a fish are affected primarily by the other fish in the area at that time.  More competition means your chance of catching a particular fish over another is lowered.  Below is a table of this fish's preferences by the bait used, the place you choose to fish, where you choose to cast, the rod you use, and the time of day.
+
+{| style="text-align:left; width:60%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Best
+|-
+|{{Item|Good fishing rod}}
+|Good
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Lure with a gem}}
+|Good
+|-
+|{{Item|Steel lure}}
+|Good
+|-
+|{{Item|Anchovy}}
+|Good
+|-
+|{{Item|Gudgeon}}
+|Good
+|-
+|{{Item|Moth}}
+|Good
+|-
+|{{Item|Butterfly}}
+|Good
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Location
+|-
+!Name
+!Weight
+|-
+|Waterfall
+|Good
+|-
+|River
+|Good
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|Good
+|-
+|Night
+|Best
+|}
+|}
+
+==Study==
+{| class="wikitable" style="text-align:center; width:60%;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|Blue fish fillet|2|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Energy|-|8}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+
+[[pt-br:Esturjão]]

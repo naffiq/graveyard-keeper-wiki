@@ -1,0 +1,79 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Desk]]
+| cost         = 75
+}}
+
+
+[[File:Update Alert.png|link=|frameless]] Broken – no apparent effect (''Confirmed v1.124'')
+
+Performing this [[Sermon|sermon]] will provide you with the Repentance [[effects|effect]] which is supposed to increase the number of people which use the [[confessional]] in your church during the week.  Providing both [[faith]] and a [[story]] each time.  The sermon provides a boost to faith and donations as well depending on the quality.
+
+==Sermon==
+{| class = "wikitable"
+!Quality
+!Minimum {{Church Rating}}
+!Money
+!Donations
+!Faith
+!Effect
+|-
+|{{Quality Sprite|image = Prayer for Repentance Sermon.png|quality = Copper}}
+|10 {{Church Rating}}
+|{{Money|100}} 
+| +10%
+|x1
+|[[file:Repentance_effect.png]] Repentance: 27:00
+|-
+|{{Quality Sprite|image = Prayer for Repentance Sermon.png|quality = Silver}}
+|20 {{Church Rating}}
+|{{Money|200}} 
+| +10%
+|x2
+|[[file:Repentance_effect.png]] Repentance: 36:00
+|-
+|{{Quality Sprite|image = Prayer for Repentance Sermon.png|quality = Gold}}
+|40 {{Church Rating}}
+|{{Money|300}} 
+| +10%
+|x3
+|[[file:Repentance_effect.png]] Repentance: 81:00
+|}
+
+==Effect==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:10em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Repentance_effect.png|48x48px|link=Effects#Repentance|Repentance]]
+|More people come during the week to confess their sins.
+|style="text-align:center"|18:00 {{Quality|copper}} <br> 36:00 {{Quality|silver}} <br> 54:00 {{Quality|gold}}
+|[[Effects#Repentance|Repentance]]
+|}
+
+==Recipe==
+{| class = "wikitable"
+!colspan = "4"| {{Item|Desk}}
+|-
+! Tab
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|[[file:tab_book.png|link=|frameless|center]]
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Chapter|1|animation}}
+{{Item|Faith|5}}
+|{{Energy|-|10}}
+|}
+{{Navbox-Church}}
+[[Category:church items]]
+[[Category:Writing]]
+[[Category:Sermons]]

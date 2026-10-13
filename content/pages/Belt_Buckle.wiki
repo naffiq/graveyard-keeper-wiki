@@ -1,0 +1,16 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Woodcutter]]
+| cost         = 
+}}
+
+The Belt Buckle can be retrieved from [[Woodcutter]]. Speak to the Woodcutter and it will cause a scene with the [[Beekeeper]]. He wants you to dig up a barrel of honey which is located in a dig spot next to [[Tress]]'s home. Dig it up and return it to the Beekeeper. Bring the plaster the Beekeeper gives you to the Woodcutter and he'll give you the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Древняя пряжка на ремень]]

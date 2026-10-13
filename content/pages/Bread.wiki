@@ -1,0 +1,68 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|15}}
+| nameinternal = snack:bread
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 8
+| stacksize    = 20
+}}
+
+Bread restores {{Energy|+|15}} when consumed.  Since all the items which are used to craft bread lack quality levels it can not be improved by using higher quality ingredients. For more information about preparing food see [[cooking]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Bread|2}}
+|{{Item|Dough|2}}
+{{Item|Fuel|4}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Sandwich|3}}
+|{{Item|Bread|2}}
+{{Item|Baked meat|1}}
+
+{{Item|Cabbage|1}}
+|-
+|{{Item|Burger|4|animation}}
+|{{Item|Bread|2}}
+{{Item|Baked meat|4}}
+
+{{Item|Onion|1|animation}}
+|}
+
+== SELLING ==
+{| class="wikitable sortable"
+!PNJ
+!Price
+!Tier required
+|-
+|{{NPC|Bishop}}
+|[[File:Copper Coin Symbol.png|frameless|22x22px]][[Currency|8]]
+|Tier I
+|-
+|{{NPC|Horadric}}
+|[[File:Copper Coin Symbol.png|frameless|22x22px]][[Currency|12]]
+|Tier I
+|}
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]
+
+[[de:Brot]]
+[[fr:pain]]
+[[ru:Хлеб]]

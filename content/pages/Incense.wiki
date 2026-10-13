@@ -1,0 +1,60 @@
+__NOTOC__{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = {{Techpoint|Red|5}} {{Techpoint|Blue|15}}
+
+| source       = [[Church workbench]], [[Bishop]]
+| cost         = 300
+| stacksize    = 30
+| type         = Church Item
+| quest        = 
+| nameinternal = incense_1
+}}
+<b>{{PAGENAME}}</b> is a [[church]]-related consumable, able to be used in either [[incense burner]] in order to provide a temporary +2{{Church Rating}} Church Quality per single use, lasting 4.5 minutes; 0.6 [[days]].
+
+== Recipe ==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+! colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Incense|2}}
+|{{Item|Freshener|1}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|15}}
+|{{Item|Faith|1}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Buy Tier !! Base Cost !! Qty !! Sell Tier
+|-
+|{{NPC|Bishop}} 
+|II
+|{{Money|300}}
+|10x
+|N/A
+|}
+
+==See Also==
+*{{Item|Incense II}} - the greater variety, capable of +4{{Church Rating}} Church Quality, lasting 6 minutes.
+*{{Item|Candle}} - an alternate series of church-related consumables.
+
+<br>
+{{Navbox-Church}}
+[[Category:church items]]

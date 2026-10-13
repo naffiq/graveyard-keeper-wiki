@@ -1,0 +1,59 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = 
+| alchemy      = [[Alcohol]]
+| source       = [[Alcohol distiller]]
+| cost         = 150
+| stacksize    = 20
+| type         = Beverage
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is a non-consumable beverage, crafted at the [[alcohol distiller]] from the output of either fruit [[Fermentation|fermentation]] or [[Wine making barrel|wine making barrels]]. On use, it will drop {{Item|Alcohol|15}}, which has its uses in [[alchemy]] as a reagent. Also you have to get one for [[Dig]] in a [[Stranger sins]] quest.
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alcohol distiller}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Bottle of apple ferment|5}}<br>{{Item|Fuel|10}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Bottle of berry ferment|4}}<br>{{Item|Fuel|10}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Red wine|3|animation}}<br>{{Item|Fuel|10}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|Use in Inventory
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alcohol|15}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Alcohol distiller}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Infusion|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Red mushroom|3}}<br>{{Item|Fuel|10}}
+|}
+==Trading==
+With the DLC ''[[Stranger sins|Stranger Sins]]'', booze - as with most beverages - may be sold regularly, either passively by being stored in the [[Talking Skull]]s cellar, or actively by being stored in the [[Barman]]s inventory and triggering an event.
+
+Each booze sells {{Money|150}}.
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:beverages]]
+
+[[pt-br:Pinga]]

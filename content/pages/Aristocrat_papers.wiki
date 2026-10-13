@@ -1,0 +1,21 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| source       = [[Royal services]]
+| buy          = None
+| sell         = None
+| quest        = [[Astrologer]], [[Ms. Charm]], [[Bishop]]
+}}
+Aristocrat papers can be obtained from the [[royal services|royal services box]]. The papers are free, but to get them, you must first purchase the aristocrat status for {{money|120000}}.
+
+You need those papers in endgame to advance some [[quests]], but they are no longer needed to preach in the cathedral. They are not consumed upon turning in the quests, and are returned after each quest step that requires them, so you only ever need to obtain one set of papers.
+
+BUG: You can obtain as many papers as you like, since the option does not disappear from the royal services box. This item does not stack, it cannot be destroyed, and there are no vendors who will purchase it. The only known way to get rid of extra papers is to leave them in a usable bookshelf in the [[dungeon]].
+
+== Trivia ==
+* The next time you enter the [[Morgue]] after purchasing the papers, a cutscene will play out with [[Gerry]]..
+
+
+{{navbox-Quest}}
+[[Category:quest items]]

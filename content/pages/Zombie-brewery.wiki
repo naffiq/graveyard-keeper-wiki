@@ -1,0 +1,43 @@
+[[Category:Image requested]]  <!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = Zombie-brewery
+|image      = Zombie-brewery.png
+|location   = [[Cellar]]
+|technology = [[Farming and Nature (Tech Tree)|Zombie-brewery]]
+|related    = [[Farming]]
+|footprint  = 10x5
+|rotatable  = False
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a crafting station introduced with the Stranger Sins DLC, that may be built in the [[cellar]] after the [[Farming and Nature (Tech Tree)|Zombie-brewery]] technology has been unlocked. Here, a [[zombie]] can work towards producing [[A mug of beer|beer]] from [[water]], [[hops]], and [[wheat]]. This workstation has a pre-designated location in the top-right corner of the cellar, with the [[zombie-winery]] in the opposite corner. Unlike the [[brewing stand]], this workstation cannot make [[A mug of mead|mead]].
+
+'''Note:''' The player can't work at this station on their own, the products must be queued and the zombie then prepares them. It's possible to order several products at once in a task queue.{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:Zombie-brewery icon.png|80x80px]]
+|{{Item|A piece of stone|32}}<br>{{Item|Simple iron parts|12}}<br>{{Item|Complex iron parts|4}}
+|{{Energy|-|5}}
+|Requires: [[Farming and Nature (Tech Tree)|Zombie-brewery]].
+|}
+
+==Recipes==
+{| class="wikitable" style="width:35em;"
+!Item Produced
+!Materials Required
+!Time
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|Water|50}}<br>{{Item|Hops|3|animation}}<br>{{Item|Wheat|15}}
+|5:00 @ 40%e<br>3:05 @ 65%e<br>2:35 @ 77.5%e<hr>2:00 Base*
+|}* <small>The time which was arbitrarily chosen for this craft, diminished by the inefficiency of the given zombie.</small>
+
+<br>
+{{Navbox-Cellar}}
+[[Category:Workstations]]
+[[Category:Cellar workstations]]
+[[Category:Image requested]]

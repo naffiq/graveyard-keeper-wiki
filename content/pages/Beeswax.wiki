@@ -1,0 +1,80 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Bee product
+| nameinternal = beeswax
+| study        = {{Techpoint|Green|20}}
+| alchemy      =  {{Item|Slowing extract}},  {{Item|Slowing solution}}
+| source       = [[Beekeeping]]
+| buy          = [[Beekeeper|Beekeeper (T I)]]
+| cost         = 30
+}}
+<b>{{PAGENAME}}</B> can be gathered from [[Bee hive|bee hives]] and is used for [[candle]] manufacturing as well as in the [[Alchemy Lab|alchemy laboratory]] for decomposition into reagents.
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+|-
+|{{Item|Candle (1)|4}}
+|{{Item|Fat|2}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Hemp rope|1}}
+|-
+|{{Item|Candle (3)|4}}
+|{{Item|Fat|2}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|White paint|3}}
+|-
+|{{Item|Candle (4)|4}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|White paint|2}}<br>{{Item|Hemp rope|1}}
+|}
+
+==Study==
+{| class = "wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}} <br> {{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Slowing solution|solution]] and [[Slowing extract|extract]]
+|}
+
+==Alchemy==
+Beeswax can be decomposed into [[slowing solution|solution]] and [[slowing extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation. 
+
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+|-
+|{{Item|Slowing solution|4}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspaN="2"|{{Item|Distillation cube}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+|-
+|{{Item|Slowing extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+|-
+|{{Item|Slowing extract|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Cera de Abelha]]

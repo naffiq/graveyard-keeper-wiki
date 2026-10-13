@@ -1,0 +1,139 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Alchemy_Lab]]
+|technology = [[Anatomy and Alchemy (Tech Tree)#The Beginning of Alchemy|The Beginning of Alchemy]]
+|related    = [[Alchemy]]
+|footprint  = 6x4
+|rotatable  = Yes
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is used to grind many materials into powders, a type of reagent used primarily in [[alchemy]]. A material cannot be processed at the mill until it has been researched at the [[study table]], after-which the material should list any decomposition reagents, potentially including powder.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"| Technology
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A polished brick of stone|2}}<br>{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}
+|{{Energy|-|8}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)#The Beginning of Alchemy|The Beginning of Alchemy]]
+|}
+
+==Recipes==
+Note: the [[perk#Scientist Perk|Scientist Perk]] will provide +1 reagent per use.
+{| class = "wikitable" style="width:35em;"
+!colspan="3"|Elements
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Acceleration powder|3}}
+|{{Item|Hemp|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Acceleration powder|3}}
+|{{Item|Honey|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Chaos powder|2}}
+|{{Item|Butterfly|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Chaos powder|1}}
+|{{Item|Bat wing|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Death powder|3}}
+|{{Item|Dark intestine|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Health powder|4}}
+|{{Item|Pumpkin|1|animation}}
+|{{Energy|-|5}}
+|-
+|{{Item|Health powder|2}}
+|{{Item|Cabbage|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Health powder|1}}
+|{{Item|Crop waste|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Life powder|2}}
+|{{Item|Intestine|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Life powder|2}}
+|{{Item|Sulfur|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Order powder|3}}
+|{{Item|Bee|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Slowing powder|4}}
+|{{Item|Hops|1|animation}}
+|{{Energy|-|5}}
+|-
+|{{Item|Slowing powder|2}}
+|{{Item|Spider web|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Toxic powder|3}}
+|{{Item|Onion|1|animation}}
+|{{Energy|-|5}}
+|-
+|{{Item|Toxic powder|1}}
+|{{Item|Red flower|1}}
+|{{Energy|-|5}}
+|-
+!colspan="3"|Miscellaneous
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|White powder|2}}
+|{{Item|Bone|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|White powder|2}}
+|{{Item|Limestone|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Graphite powder|2}}
+|{{Item|Graphite|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Gold powder|4}}
+|{{Item|Gold nugget|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Silver powder|4}}
+|{{Item|Silver nugget|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Electric powder|2}}
+|{{Item|Eel|1}}
+|{{Energy|-|5}}
+|-
+!colspan="3"|Unimplemented
+|-
+|{{Item|Order powder|?}}
+|{{Item|Faceted emerald|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Slowing powder|?}}
+|{{Item|Pyrite|1}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+
+[[Category:Alchemy lab workstations]]

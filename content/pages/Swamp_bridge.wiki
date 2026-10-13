@@ -1,0 +1,35 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Swamp]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} allows you to bypass the normally winding and circuitous path through the [[swamp]] and reach the [[clotho|witch's hut]] much faster.
+
+It can take a substantial amount of {{energy}} to build the bridge and because of the long trip it's recommended to fill up your energy bar before leaving.
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+
+|{{Item|Flitch|6}}
+{{Item|Wooden plank|3}}
+
+{{Item|Nails|10}}
+|{{Energy|-|10}}
+|Can only be built from the left (west) side.
+|}
+
+{{Navbox-Other}}
+[[Category:Workstations]]
+
+[[Category:Obstacle workstations]]

@@ -1,0 +1,102 @@
+__NOTOC__
+These are patch notes and changes from prerelease versions of the game.
+
+== Alpha 0.678 ==
+Added on 11 June 2018
+: [[File:Update Alert.png|link=|frameless]] Dialogs freeze fix <ref name="Dialog Freeze"> Shops may freeze their wares at random, meaning the tradeable supplies of an [[NPCs|NPC]] may not reset according to natural rate. This can leave the player unable to progress due to the essential nature of some [[vendor]] specific items.  The currently recommended fix is to load an earlier version of the game (Alpha 0.675 confirmed to work), allow an in-game day to pass, save, and then load back into Alpha 0.678. Loading an old version may have unintended consequences though including potentially breaking your save permanently so a backup is recommended before trying this.</ref>
+: [[File:Update Alert.png|link=|frameless]] Rotating objects fix
+: [[File:Update Alert.png|link=|frameless]] Minor balance fixes
+
+== Alpha 0.6771 (hotfix)==
+Added on 09 June 2018
+: [[File:Update Alert.png|link=|frameless]] Tech points drop (super puper item) fix.<ref name="superpupper">The Super Puper was a placeholder item from internal development that would drop in Alpha 0.0677 upon harvesting grapes.</ref>
+== Alpha 0.677 ==
+Added on 09 June 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed cultist cutscene
+: [[File:Update Alert.png|link=|frameless]] Fixed a lot of inventory management bugs
+: [[File:Update Alert.png|link=|frameless]] Fixed a game freeze when exiting a dungeon
+: [[File:Update Alert.png|link=|frameless]] Fixed Church upgrading
+: [[File:Update Alert.png|link=|frameless]] Fixed upgrading of workshops
+: [[File:Update Alert.png|link=|frameless]] Fixed dungeon related bugs
+: [[File:Update Alert.png|link=|frameless]] Fixed a variety of balance bugs
+
+== Alpha 0.676 ==
+Added on 06 June 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed problem when faith follows you
+: [[File:Update Alert.png|link=|frameless]] Fixed problem with stuck XP points
+: [[File:Update Alert.png|link=|frameless]] Fixed item destroying and context menus
+: [[File:Update Alert.png|link=|frameless]] Fixed dungeon progress saving
+: [[File:Update Alert.png|link=|frameless]] Fixed items physics
+: [[File:Update Alert.png|link=|frameless]] Minor balance/GUI bugs fixed
+
+
+
+== Alpha 0.675 ==
+Added on 04 June 2018
+: [[File:Update Alert.png|link=|frameless]] Fixing zones/church upgrades (a 'black hole' bug)<ref name="blackhole">A black hole bug refers to a situation where the ground texture would not load leaving behind a black void.</ref>
+: [[File:Update Alert.png|link=|frameless]] Alchemy Unlocked
+: [[File:Update Alert.png|link=|frameless]] Fixed saving of crafts
+: [[File:Update Alert.png|link=|frameless]] Minor balance tweaks/fixes
+
+== Alpha 0.674 ==
+Added on 03 June 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed crashes while sleep/work/walk
+: [[File:Update Alert.png|link=|frameless]] Fixed stucking behind the wardrobe after sleep
+: [[File:Update Alert.png|link=|frameless]] Fixed low fps while sleeping
+: [[File:Update Alert.png|link=|frameless]] Fixed dungeon lvl 2 crash
+: [[File:Update Alert.png|link=|frameless]] Fixed sermon faith income
+
+== Alpha 0.673 ==
+Added on 01 June 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed screen modes, added fullscreen/borderless window
+
+== Alpha 0.672 ==
+Added on 01 June 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed stuck items/tech points
+: [[File:Update Alert.png|link=|frameless]] Fixed dungeon saving
+: [[File:Update Alert.png|link=|frameless]] Fixed typos/mistakes
+: [[File:Update Alert.png|link=|frameless]] Different balance fixes
+: [[File:Update Feature.png|frameless]] Upgraded game engine version. Hopefully, didn't break anything ;)
+
+== Alpha 0.671 ==
+Added on 29 May 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed crash when extracting brain/fat/ect.
+: [[File:Update Alert.png|link=|frameless]] Fixed crash loading broken savefiles
+: [[File:Update Alert.png|link=|frameless]] Other minor fixes
+
+== Alpha 0.670 ==
+Added on 28 May 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed NPCs not coming anymore
+: [[File:Update Alert.png|link=|frameless]] Fixed camera freeze while talking to Astrologer, Gerry and other NPCs
+: [[File:Update Alert.png|link=|frameless]] Fixed several GUI issues
+: [[File:Update Alert.png|link=|frameless]] Fixed crafts: stone polish, hammer, etc.
+: [[File:Update Alert.png|link=|frameless]] Fixed a bunch of other bugs
+
+== Alpha 0.669 ==
+Added on 27 May 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed freezing during the sermon
+: [[File:Update Alert.png|link=|frameless]] Fixed stuck characters from 0.667
+: [[File:Update Alert.png|link=|frameless]] Improved (not 100% fixed yet) autosave crashing
+
+== Alpha 0.668 ==
+Added on 26 May 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed NPC stuck after entering the pause menu
+: [[File:Update Alert.png|link=|frameless]] Fixed game crash on day 50
+: [[File:Update Feature.png|link=|frameless]] Added a mouse pointer
+
+== Alpha 0.667 ==
+Added on 25 May 2018
+: [[File:Update Alert.png|link=|frameless]] Fixed game freezing during dialogs
+: [[File:Update Alert.png|link=|frameless]] Pause menu fixed
+: [[File:Update Feature.png|link=|frameless]] Full screen/window option added
+: [[File:Update Feature.png|link=|frameless]] Controls help window added
+: [[File:Update Alert.png|link=|frameless]] Minor balance/GUI changes
+
+== Alpha 0.666 ==
+Added on 24 May 2018
+: [[File:Update Feature.png|link=|frameless]] Initial release
+
+==Notes==
+<references />
+
+[[Category:Wiki pages]]

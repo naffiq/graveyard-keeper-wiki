@@ -1,0 +1,55 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Teleport 
+| nameinternal = 
+| study        = 
+| stacksize    = 1
+| alchemy      = 
+| source       = [[Horadric]]
+| cost         = 200
+| quest        = 
+}}
+
+Can be purchased from [[Horadric]]. Teleport stones allow for fast traveling.  So far the only locations you can travel to are
+* [[Sweet Home]]
+* [[The Dead Horse|Dead Horse]]
+* [[Lighthouse]]
+* [[Quarry]]
+*Mountain Fort
+*[[Talking Skull]] ([[Stranger sins|Stranger Sins]] DLC)
+*[[Refugee camp|Refugee Camp]] ([[Game of Crone]] DLC)
+
+There is a cooldown but the stone can be used more than once. Available from [[version]] 1.023.
+
+==Cooldown==
+
+After teleporting to a location, the teleportstone goes on a fixed cooldown of '''30 seconds (decreased by 2:30 minutes, bug?)'''.
+
+'''Note:''' The cooldown only goes down while the inventory or any other UI is '''closed'''. For example it goes on halt if the player is looking inside a chest, has the [[map]] open, etc.
+
+'''Note:''' Having more than one teleportstone does '''not''' allow you to teleport multiple times in a row, as the cooldown affects '''all''' of them at once.
+
+==Usage==
+The teleportstone can be used by simply right-clicking inside the inventory. If you are carrying an object such as a [[log]] or a [[zombie]] it will teleport with you. Currently there are 7 available locations to teleport to.  
+
+'''Note:''' You cannot use the teleportstone while in the [[Dungeon]]. 
+
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!Use in inventory
+!Location
+!Cooldown
+|-
+|{{Item|Teleportstone|1}}
+|[[Sweet Home]]<br>
+[[The Dead Horse|Dead Horse]]<br>
+[[Lighthouse]]<br>
+[[Quarry]]<br>
+[[Mountain fort|Mountain Fort]]<br>
+[[Talking Skull]]<br>
+[[Refugee camp|Refugee Camp]]
+|0:30
+|}
+
+<br />{{Navbox-Misc}}
+[[pt-br:Pedra de regresso]]

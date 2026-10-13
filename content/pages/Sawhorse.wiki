@@ -1,0 +1,70 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Sawhorse Animated.gif
+|location   = [[Workyard]]
+|technology = [[Building (Tech Tree)|saw]]
+|related    = 
+|footprint  = 4x3
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to cut [[log]]s into usable pieces.  In order to be available for crafting in the {{lcfirst:{{PAGENAME}}}} logs must be placed in a [[timber stockpile]].  It is rendered obsolete by the [[Saw|Circular Saw]].
+
+Horizontal and vertical : 4 X 3
+
+Rotation : No
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+
+|{{Item|Wooden stick|10}}
+|
+|Requires saw
+|}
+
+==Recipes==
+
+===Others===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_other.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Wood billet|4}}
+|{{Item|Log|1}}
+|{{Energy|-|15}}
+|rowspan="2"|+{{Techpoint|red|1}}
+|-
+|{{Item|Flitch|6}}
+|{{Item|Log|1}}
+|{{Energy|-|15}}
+|-
+|}
+
+===Church===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_church.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Wooden marker|1}}
+|{{Item|Flitch|2}}
+{{Item|Nails|1}}
+|{{Energy|-|10}}
+|Adds +1 {{Grave Decor}} to the grave.<br>+{{Techpoint|red|1}}
+|}
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]

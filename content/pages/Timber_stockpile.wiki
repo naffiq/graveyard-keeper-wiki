@@ -1,0 +1,40 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} infobox.gif
+|location   = [[Workyard]], [[Felling site]]
+|technology = The concept of wood
+|related    = [[Storage]]
+|footprint  = 5X4
+|rotatable  = No
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> (formerly known as the <b>wood stockpile</b>) is a construct used to store [[log]]s. It's required in order to later process these logs at a [[sawhorse]] or [[circular saw]]. It does not have any particular function of its own outside of this.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Timber Stockpile Icon.png]]
+|{{Item|Wooden stick|10}}<br>{{Item|Flitch|4}}<br>{{Item|Wooden beam|4}}
+|
+|
+|}
+
+== Note ==
+*Only 9 logs can be stored in a stockpile at a time.
+*This stockpile pointedly cannot be built at the [[Cabin in the woods]].
+**This prevents any wood from being processed at that site.
+*Its original footprint is 6x5, noticeable when first starting out.
+**There is no apparent advantage in removing it and rebuilding it.
+
+==See Also==
+*[[Stone stockpile]]
+*[[Iron ore stockpile]]
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]

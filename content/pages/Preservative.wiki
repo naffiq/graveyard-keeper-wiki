@@ -1,0 +1,52 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = 
+| study        = N/A
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]]. It is used in the production of [[preservative injection]]s.
+ 
+== Recipe ==
+{| class="wikitable" style="width:35em;"
+! colspan="3"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|Life solution|1}}<br>{{Item|Slowing extract|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Life powder|1}}<br>{{Item|Slowing solution|1}}<br>{{Item|Slowing extract|1}}
+|{{Energy|-|10}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Preservative injection|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[es:Conservante]]
+[[pt-br:Conservante]]

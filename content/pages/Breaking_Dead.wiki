@@ -1,0 +1,46 @@
+[[File:Breaking-Dead-Logo.png|alt=Bold yellow text on a green backsplash that reads 'Breaking Dead'|thumb|500x500px|Breaking Dead Logo]]
+
+==Description==
+Introducing Breaking Dead - the first expansion of Graveyard Keeper!
+Create an army of [[Zombie|undead workers]] that automate chores around your Graveyard!
+
+===What to Expect===
+
+*Automate gathering of stone, wood, and have zombies craft your items.
+*Taking care of your graveyard's garden has never been easier when zombies do it for you.
+*Create logistics chains where zombies automate sale of [[Crates|merchandise,]] for extra profit.
+*Modify and upgrade your zombies (they might need better organs) to make them more efficient.
+
+==Other Info==
+*You can start the DLC by entering the [[morgue]] at any point after the fourth {{Day|Gluttony}}; a new save is not required.
+*The Steam version of the DLC is a free expansion and part of the base-game.<ref name=":Steam News Release Post">https://store.steampowered.com/news/app/599140/view/3929910003151966726</ref>
+*On all other versions of the game, Breaking Dead is a paid DLC and not a part of the base-game. ''As of May 2024'' the Breaking Dead DLC is $5 USD on all consoles, and $3 USD as an in-game purchase for the iOS and Android releases; subject to regional pricing.<ref name=":Xbox Store DLC Page">https://www.xbox.com/en-AU/games/store/breaking-dead-dlc/9MTKX7GDJKF1/0010</ref><ref name=":PlayStation Store DLC Page">https://store.playstation.com/en-us/product/UP0097-CUSA10727_00-BREAKINGDEAD0000</ref><ref name=":Nintendo Store DLC Page">https://www.nintendo.com/us/store/products/breaking-dead-70050000012641-switch/</ref><ref name=":App Store Game Page">https://apps.apple.com/us/app/graveyard-keeper/id1461238719</ref><ref name=":Play Store Game Page">https://play.google.com/store/apps/details?id=com.tinybuild.graveyardkeeper</ref>
+
+
+==Releases==
+Breaking Dead was first teased on October 25th, 2018 on Steam; The teaser was a still image that read: "5 DAYS until resurrection"<ref name=":Steam News Post Teaser 1">https://store.steampowered.com/news/app/599140/view/3929910003151967007</ref> An image was posted each following day, counting down from 5.<ref name=":Steam News Post Teaser 2">https://store.steampowered.com/news/app/599140/view/3929910003151966949</ref><ref name=":Steam News Post Teaser 3">https://store.steampowered.com/news/app/599140/view/3929910003151966894</ref><ref name=":Steam News Post Teaser 4">https://store.steampowered.com/news/app/599140/view/3929910003151966839</ref><ref name=":Steam News Post Teaser 5">https://store.steampowered.com/news/app/599140/view/3929910003151966781</ref> 
+The post on October 27th had 2 clarifying notes: "No, we're not teasing a console release." and "The thing that is coming is related to the pictures you see."<ref name=":Steam News Post Teaser 3"/>
+The post on October 29th showed clear artwork of a zombie.<ref name=":Steam News Post Teaser 5"/><br>
+
+Breaking Dead was released on October 30th 2018 on Steam as a free expansion integrated into the base-game.<ref name=":Steam News Release Post" />
+The DLC was released as a paid expansion for: the Xbox One & Series X|S on May 30th 2019;<ref name=":Xbox Store DLC Page" /> the PlayStation 4, Nintendo Switch, iOS, and Android on June 27th 2019 alongside the base-game.<ref name=":PlayStation Store DLC Page" /><ref name=":Nintendo Store DLC Page" /><ref name=":App Store Game Page" /><ref name=":Play Store Game Page" />
+
+==Gallery==
+<center>
+{| style="text-align:center; width:50%;"
+|-
+|[[File:5 DAYS until resurrection.jpg|alt=A dark landscape with a hand holding a pickaxe near the ground emerging from behind some bushes, with the words '5 DAYS until the resurrection' near the top of the image.|none|thumb|Image Posted October 25th<ref name=":Steam News Post Teaser 1" />]]
+|[[File:4 DAYS until resurrection.jpg|alt=A dark landscape with a hand holding a  shovel near the ground emerging from behind some bushes, with the words '4 DAYS until the resurrection' near the top of the image.|none|thumb|Image Posted October 26th<ref name=":Steam News Post Teaser 2" />]]
+|[[File:3 DAYS until resurrection.jpg|alt= A dark landscape showing a leg and a hand holding an axe near the ground emerging from behind some bushes, with the words ' 3 DAYS until the resurrection' near the top of the image.|none|thumb|Image Posted October 27th<ref name=":Steam News Post Teaser 3" />]]
+|}
+{| style="text-align:center; width:35%;"
+|-
+|[[File:2 DAYS until resurrection.jpg|alt= A dark landscape showing arms emerging from behind some bushes, a flower held in one hand; with the words '2 DAYS until the resurrection' near the top of the image.|none|thumb|Image Posted October 28th<ref name=":Steam News Post Teaser 4" />]]
+|[[File:1 DAY until resurrection.jpg|alt=A dark landscape showing a green skinned zombie in tattered clothes, holding a lantern in one hand and with a figurative mountain of objects strapped to its back; with the words '1 DAY until resurrection' near the top of the image.|none|thumb|Image Posted October 29th<ref name=":Steam News Post Teaser 5" />]]
+|}
+</center>
+
+==References==
+<references />
+[[Category:DLC]]
+[[Category:Breaking Dead]]

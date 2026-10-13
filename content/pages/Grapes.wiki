@@ -1,0 +1,93 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Crop
+| consume      = {{Energy|+|20-35}}
+| nameinternal = fruit:grapes_crop:1
+| study        = {{Techpoint|Green|50}}
+| source       = [[Farming]]
+| buy          = None
+| sell         = None
+| stacksize    = 50
+| cost         = 
+}}
+[[File:Grape patch.gif|left|thumb|Grapes growing in the vineyard.]]
+<b>{{PAGENAME}}</b> are a type of crop which can be grown from [[grape seed]]s in the [[vineyard]]. Grapes are an improvable crop, meaning they have a variety of quality levels and can be improved upon with fertilizer. The quality of the grapes will affect the quality of the products made from it. For more information, see [[farming]].
+
+==Quality Levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_grapes_crop.png|quality = copper}}
+|{{Quality Sprite|image = i_grapes_crop.png|quality = silver}}
+|{{Quality Sprite|image = i_grapes_crop.png|quality = gold}}
+|-
+|{{Energy|+|20}}
+|{{Energy|+|30}}
+|{{Energy|+|35}}
+|} 
+
+==Recipe==
+{| class="wikitable" table-layout:fixed;"
+!colspan="3"|{{Item|Vine trellis}}
+|-
+!style = "width:15em;"|Item Produced
+!style = "width:15em;"|Materials Required
+!Time
+|-
+|{{Item|{{PAGENAME}}|3-5|animation}}<br>{{Item|Grape seed|2-4|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|Grape seed|4|animation}}
+|36:00
+|}
+
+==Study==
+{| class="wikitable" style="width:40em; text-align:center;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Grape pie|2|animation}}
+|{{Item|Pastry dough|1}}<br>{{Item|{{PAGENAME}}|1|animation}}
+|-
+!colspan="2"|{{Item|Vine press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pail of grape juice|1|animation}}
+|{{Item|{{PAGENAME}}|15|animation}}
+|}
+
+==Trading==
+Despite the [[Merchant]] being involved in trading the seeds, he is not interested in the produce, nor is any other known vendor. Regarding goods derived from grapes that can be bought or sold, see [[grape pie]] and [[red wine]].
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:consumable items]]
+
+[[de:Trauben]]
+[[es:Uvas]]
+[[fr:Raisin]]
+[[ja:ブドウ]]
+[[ru:Виноград]]
+[[pt-br:Uvas]]

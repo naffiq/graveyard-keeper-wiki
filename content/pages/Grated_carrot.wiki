@@ -1,0 +1,30 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|20}}
+| nameinternal = 
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+| stacksize    = 20
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a food item which restores {{Energy|+|20}} when consumed. For more information on preparing food see [[cooking]].
+
+==Recipe==
+{| class="wikitable" style="width:30em; table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Grated carrot|1}}
+|{{Item|Carrot|1}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

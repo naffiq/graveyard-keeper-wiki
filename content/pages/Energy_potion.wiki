@@ -1,0 +1,36 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| consume      = {{Energy|+|50}}
+| nameinternal = 
+| study        = N/A
+| alchemy      = 
+| buy       = [[Clotho|Clotho (T I)]]
+| sell        = 
+| source       = [[Alchemy workbench (tier I)]]
+| cost         = 50
+| quest        = 
+|stacksize=20}}
+
+Energy potions can be used to restore {{Energy||50}}. The potion can be crafted at the [[Alchemy workbench (tier I)]].
+
+Will not prevent or remove the Tired [[Effects|effect]].
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|{{PAGENAME}}|1}}
+| {{Item|Acceleration powder|1}} <br> {{Item|Acceleration solution|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[es:Poción de energía]]
+[[pt-br:Poção de energia]]

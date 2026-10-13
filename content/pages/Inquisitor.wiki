@@ -1,0 +1,63 @@
+{{NPC Infobox
+| name     = Inquisitor
+| image    = Inquisitor.png
+| day      = {{Day|Wrath}}
+| location = [[Witch Hill]]
+| role     = Inquisitor
+}}
+The [[Village]] '''Inquisitor''' is an [[NPC]] who arrives every week on {{Day|Wrath}}. You first meet the Inquisitor on the way to [[Witch Hill]] on the first {{Day|Wrath}} of the first week.  He will ask you how you came to be the village graveyard keeper and no matter how you answer he will be suspicious of the answer or accuse you of wasting his time with jokes. Afterward he will burn a witch at the stake and mentions that witch activity is on the rise again. His real name is Edward.
+
+== Quests ==
+===Come Back in a Week===
+He will ask you to be his friend and report on the the village people, then meet him again on {{Day|Wrath}}. You'll earn 10 {{Happiness}} from joining the burning.
+
+''If you don't agree to be his friend he will pay you for your services instead, but you will also have to pay him 10 silver if  you want to unlock the other side of the graveyard.''
+
+===Burn the Witch===
+He asks you to bring him {{Item|Firewood|20}} and {{Item|Flyer|10}} in preparation for the next witch trial. Both items will earn you 10 {{Happiness}} each and give you a total of 20 {{Happiness}}. You have to watch another burning for 10 {{Happiness}} and will be given access to the [[vineyard]].
+
+===Raising Morale===
+The {{PAGENAME}} tells you that he used to live at the vineyard with his wife and son before they died in the Great Blast. He will give you permission to use his family's vineyard on the west of [[Witch Hill]] in exchange for a promise that you bring {{Item|Red wine|10|silver}} to give to the soldiers (gold wine will not work). You now have access to the [[Vine trellis]] workbench as it will appear after you speak to him. Return to the {{PAGENAME}} for 10 {{Happiness}}.
+
+===Snack Time===
+He asks that you build a [[buffet tent]] and sell food and drink for the witch burning. Return to the {{PAGENAME}} after you built the tent for 10 {{Happiness}}. Business is open! 
+
+# Stock the tent and host a burning for 2-3 more weeks to earn additional {{Happiness}} with the inquisitor, money, and faith. 5 gold-star Burgers are used in each instance of the Inquisitor's [[Buffet tent|Buffet Tent]] event.
+
+For more details check the [[buffet tent]] page. 
+
+===Get Rid of the Guards===
+As soon as you reach 60 {{Happiness}} with the Inquisitor he removes the guards from the hill and you earn the [[Achievements|achievement]] "Night watch".
+
+===Convincing the Crown===
+'''Unlocked after three burnings.'''
+The king is saying nonsense about "human rights" and how it's bad to just burn people without a trial. It's possible he is possessed and the Inquisitor wants you to gather proof of evil in this world. He gives you the [[Anatomy and Alchemy (Tech Tree)|technology]] required to gather {{Item|Dark brain|1}}, {{Item|Dark heart|1}}, and {{Item|Dark intestine|1}}, which he will show to the king. The Quest is triggered after finishing the [[Bishop|Bishop's]] [[Bishop#Gold_Quality_Marble_Statues|Cathedral Quest]] he says something about fighting the Inquisition with his brother.  
+
+After delivering all three items (each increasing your {{happiness}} by 5), a week later he comes back and says that the king doesn't take those items as proof. The {{PAGENAME}} asks you if you know of anything to use as "evidence of witchcraft. Or the undead. Or any other cult stuff." You have to choose between:
+
+* "I could bring you a talking skull. His name is [[Gerry]]," 
+** The {{PAGENAME}} will decline your offer and nothing happens to [[Gerry]] (Unlocks "He trusted you..." Steam achievement).
+* "There's a dark cult shrine, in the [[Cellar]] under the regular one," or 
+** The {{PAGENAME}} gets excited saying "That's exactly what we need! We'll catch them after the ritual."
+* "I wouldn't know anything about that sort of thing." 
+** Leads to the end of conversation.
+
+You will not be able to interact with the Inquisitor anymore - at least for the moment - after either of these conversations.
+
+===Release the Gypsy Woman===
+The [[Gypsy Baron]] bids you, to ask the Inquisitor to release a friend of his. Meanwhile, you should have the 60 {{happiness}} with the Inquisitor you need for this task. Perhaps, you'll get a good story out of this. Return to the Gypsy Baron afterwards.
+
+===Attend the Ceremony at the Cathedral===
+After you upgrade the church to a cathedral, the [[Bishop]] suggests to ask the Inquisitor to join the opening service. The Inquisitor refuses and suggests [[Merchant|someone else]].
+
+===The Eternal Burning Coal===
+You can ask about the {{item|Eternal burning coal}} and he will tell you its story, but you won't get it until you've got 100 {{happiness}} with him. That's when you finish [[Snake|Snake's questline]].
+
+==Graveyard expansion==
+When you complete some tasks and the Inquisitor has 20 {{Happiness}} with you, you can ask him for permission to expand the [[graveyard]]. He will hand you a {{item|graveyard scroll}}. You can take the scroll to the west side of the graveyard and expand it. Alternatively you can buy the scroll for {{money|1000}} when not friends.
+
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[de:Inquisitor]]
+[[ru:Инквизитор]]
+[[pl:Inkwizytor]]

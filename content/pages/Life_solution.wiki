@@ -1,0 +1,75 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_2_yellow
+| study        = {{Techpoint|Blue|5}}
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = 
+| source       = [[Alchemy]]
+| stacksize    = 50
+| cost         = 75
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" "
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!style="width:16.5em;"| Item Produced
+!style="width:16.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Brain|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Maggot|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Yellow flower|1}}
+|}
+
+==Study==
+{|class="wikitable" "
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:8.25em;"| Tech Points
+!style="width:8.25em;"| Resources Required
+!style="width:8.25em;"| Energy 
+!style="width:8.25em;"| Notes
+|-
+|{{Techpoint|Blue|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Alchemy==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Growth enhancer|1}}
+|{{Item|Ash|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Glue|1}}
+|{{Item|Health powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Chaos extract|1}}
+|-
+|{{Item|Preservative|1}}
+|{{Item|Slowing powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Slowing extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+
+[[pt-br:Solução de vida (amarela)]]
+[[es:Solución vital]]

@@ -1,0 +1,32 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = 
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| source       = [[Dungeon|Dungeon]]
+| cost         = 
+| quest        = [[Snake]]
+| stacksize    = 100
+}}
+The <b>bloody nails</b> are a quest item dropped by [[Monsters#Heavy-Hitters|iron maidens]] in the [[dungeon]]. The player needs to deliver '''5x''' to [[Snake]] upon request. Alternatively, they can simply be washed at the [[cooking table]] to create ordinary [[nails]].
+
+Note that there are a finite number of bloody nails in the game, since iron maidens do not respawn; if you discard or wash all of them before delivering five to Snake, the game will become unwinnable.
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Required Materials 
+|-
+|{{Item|Nails|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|River sand|1}}<br>{{Item|Water|1}}
+|}
+
+<br>
+{{Navbox-Mob Drops}}
+[[Category:Mob drops]]
+[[ru:Кровавые гвозди]]

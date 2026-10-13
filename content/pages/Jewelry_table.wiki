@@ -1,0 +1,68 @@
+{{Workstation-Infobox
+|name       = Jewelry table
+|image      = Jewelry table.png
+|location   = [[Workyard]]
+|technology =[[Smithing (Tech Tree)|Precious Little Things]] 
+|footprint  = 5x3
+|rotatable  = True
+}}
+
+The jewelry table is where golden jewelry is created and encrusted with gems.
+
+==Cost==
+{| class="wikitable"
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|[[File:Jewelry table item.png|80x80px|center]]
+|{{Item|Jointing|2}} <br> {{Item|Steel parts|4}} <br> {{Item|Lens|2}}
+|
+|Requires Precious Little Things 
+|}
+
+==Recipes ==
+===Other===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab other.png|link=|frameless]]
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|Gold jewelry details|1}}
+|{{Item|Gold ingot|1}} <br> {{Item|Steel parts|1}} <br> {{Item|Faith|2}}
+|{{Energy|-|15}}
+|
+|-
+|{{Item|Jewelry|1}}
+|{{Item|Gold jewelry details|1}} <br> {{Item|Faceted diamond|1}} <br> {{Item|Faith|2}}
+|{{Energy|-|15}}
+|Required for [[Ms. Charm]]'s questline
+|}
+
+===Weapons===
+{|class="wikitable" style="width:50em;"
+!colspan="4"|[[file:tab_weapons.png|link=|frameless]]
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|Steel sword with gem|1}}
+|{{Item|Steel sword|1}}<br>{{Item|Gold jewelry details|1}}
+|{{Energy|-|30}}
+|Energy consumption {{Energy|-|2}}<br>20 damage
+|-
+|{{Item|Damask sword with gem|1}}
+|{{Item|Steel sword|1}}<br>{{Item|Faceted diamond|1}}<br>{{Item|Gold jewelry details|3}}
+|{{Energy|-|30}}
+|Energy consumption {{Energy|-|1}}<br>25 damage
+|}
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]

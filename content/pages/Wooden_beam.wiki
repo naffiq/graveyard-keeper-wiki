@@ -1,0 +1,119 @@
+{{Stub}}{{Item Infobox 
+| name         = Wooden beam
+| image        = Wooden beam item.png
+| type         = Wood
+| nameinternal = wood_balk_1
+| study        = {{Techpoint|Red|50}}
+| source       = [[Circular saw]]
+| buy          = [[Tress|Tress (T II)]]
+| sell         = [[Tress|Tress (T II)]]
+| cost         = 58
+| stacksize    = 10
+}}
+Wooden beams can be purchased from [[Tress]] and require the [[circular saw]] to craft yourself.
+
+At one point in time, the Saw required wooden beams to create, but that is no longer the case.
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+! colspan="3" |{{Item|Circular saw}}
+|-
+!Item Produced
+!Materials Required
+!Result
+|-
+|{{Item|Wooden beam|3}}
+|{{Item|Log|1}}<br>{{Item|Complex iron parts|1}}
+| -[[File:Energy Symbol.png|frameless]]15
+5[[File:Red Tech Symbol.png|frameless]]
+|}
+
+==Study==
+{| class="wikitable"
+! colspan="4" |{{Item|Study table}}
+|-
+! style="width:7.5em;" |Tech Points
+! style="width:12.5em;" |Resources Required
+! style="width:5em;" |Energy
+! style="width:10em;" |Notes
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Used to Craft==
+===Items===
+{| class="wikitable" style="width:40em;"
+! colspan="3" |{{Item|Carpenter's workbench II}}
+|-
+!Result
+!Resources Required
+!Energy
+|-
+|{{Item|Jointing|1}}
+|{{Item|Wooden beam|1}}<br>{{Item|Complex iron parts|1}}<br>{{Item|Nails|2}}
+|{{Energy|-|15}}
+|}
+
+===Rating Items===
+{| class="wikitable" style="width:40em;"
+! colspan="3" |[[file:I z d occulte constraction.png|32x32px|link=Dark design desk]] [[Dark design desk]]
+|-
+!Result
+!Resources Required
+!Rating
+|-
+|{{Item|Crucified skeleton|||80px}}
+|{{Item|Skull|1}} <br> {{Item|Wooden beam|2}} <br> {{Item|Pumpkin|1|silver}}
+|2{{Pentagram}}
+|-
+|{{Item|Crucified skeleton on the wall|||80px}}
+|{{Item|Skull|1}} <br> {{Item|Wooden beam|2}} <br> {{Item|Pumpkin|1|silver}}
+|1{{Pentagram}}
+|}
+
+===Work Stations===
+{| class="wikitable" style="width:40em;"
+!Result
+!Resources Required
+!Energy
+!Notes
+|-
+|[[file:Mortuary rack item.png|80x80px]] <br> [[Mortuary rack]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|10}}<br>{{Item|Wooden beam|4}}
+|{{Energy|-|18}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)|Embalming]]
+|-
+|[[file:Alchemy rack item.png|80x80px]] <br> [[Alchemy rack]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|10}}<br>{{Item|Wooden beam|4}}
+|{{Energy|-|18}}
+|Requires: [[Anatomy and Alchemy (Tech Tree)|Alchemy storage]]
+|-
+|[[file:Wooden church shrine item.png|80x80px]] <br> [[Wooden church shrine]]
+|{{Item|Wooden plank|4}} <br> {{Item|Wooden beam|4}} <br> {{Item|Simple iron parts|4}}
+|{{Energy|-|?}}
+|Requires: [[Theology (Tech Tree)|Power of Faith]]
+|}
+
+===Blockages===
+{| class="wikitable" style="width:40em;"
+! colspan="4" |{{Item|Blockage}}
+|-
+!Operation
+! style="width:15em" |Resources Required
+!Energy
+! style="width:5em" |Notes
+|-
+|{{Item|Clear the path}}
+|{{Item|Wood wedge|10}} <br> {{Item|Wooden beam|1}} <br> {{Item|Simple iron parts|4}}
+|{{Energy|-|50}}
+|the three basements of the [[church]]
+|}
+
+
+{{Navbox-Wood}}
+[[Category:wooden items]]
+[[pt-br:Viga de madeira]]
+[[de:Holzbalken]]

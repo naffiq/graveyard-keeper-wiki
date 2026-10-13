@@ -1,0 +1,16 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Adam]]
+| cost         = 
+}}
+
+{{PAGENAME}} is retrieved from [[Adam]]. Speak with him and he will ask you to bring him 3 "Vases". You then must create 3 [[Porcelain pitcher|porcelain pitchers]] and bring them back to him. When he receives them he'll tell you that they are not real vases. He will then task you with buying real vases from the [[Merchant]]. Speak with the Merchant and he'll tell you he sold it to the [[Beekeeper]]. Speak with the Beekeeper and he'll get you to go to [[Dig]] to get some poison. After speaking with Dig bring the poison back to the Beekeeper. He will then give you the vases which you will then bring back to Adam. You'll gain 20{{Happiness}} with him and he'll allow you into his home where you will be able to find the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Древние ключи от тюремной камеры]]

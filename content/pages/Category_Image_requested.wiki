@@ -1,0 +1,3 @@
+These pages require images. Include '''<nowiki>[[:Category:Image requested]]</nowiki>''' at the top of the page. 
+
+[[Category:Wiki maintenance]]

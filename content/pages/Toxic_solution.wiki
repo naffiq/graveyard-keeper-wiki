@@ -1,0 +1,66 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_2_red
+| study        = {{Techpoint|Green|5}}
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = 
+| source       = [[Alchemy]]
+| stacksize    = 50
+| cost         = 75
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable""
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!style="width:16.5em;"| Item Produced
+!style="width:16.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Orange jelly|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Red mushroom|1}}
+|}
+
+==Study==
+{|class="wikitable""
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:8.25em;"| Tech Points
+!style="width:8.25em;"| Resources Required
+!style="width:8.25em;"| Energy 
+!style="width:8.25em;"| Notes
+|-
+|{{Techpoint|Green|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Digestion potion|1}}
+|{{Item|Health powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Acceleration extract|1}}
+|-
+|{{Item|Flavor enhancer|1}}
+|{{Item|Ash|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Life extract|1}}
+|-
+|{{Item|Golden elixir|1}}
+|{{Item|Gold powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Chaos extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Solução tóxica]]
+[[es:Solución tóxica]]

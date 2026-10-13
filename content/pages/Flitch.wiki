@@ -1,0 +1,74 @@
+{{Item Infobox 
+| name         = Flitch
+| image        = i_flitch.png
+| type         = Wood
+| nameinternal = flitch
+| study        = {{Techpoint|Red|10}}
+| alchemy      = 
+| source       = [[Sawhorse]], [[Circular saw]], [[Dungeon]]
+| buy          = [[Tress|Tress (T I)]]
+| sell         = [[Tress|Tress (T I)]]
+| cost         = 5
+| stacksize    = 30
+| quest        =  
+}}
+Flitch is rough cut wood that has only been coarsely ripped into planks at the [[circular saw]] or [[sawhorse]].  Additionally, it can be obtained by salvaging broken furniture in the [[dungeon]].  It is used to construct a wide variety of the [[Work Stations]] in the game.
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Circular saw}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Flitch|7}}
+|{{Item|Log|1}}
+|-
+! colspan = "2" | {{Item|Sawhorse}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Flitch|6}}
+|{{Item|Log|1}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Carpenter's workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Wooden plank|1}}
+|{{Item|Flitch|1}}
+|-
+|{{Item|Wood repair kit|4}}
+|{{Item|Flitch|3}}<br>{{Item|Wooden plank|1}}<br>{{Item|Nails|2}}
+|-
+|{{Item|Wooden marker|1}}
+|{{Item|Flitch|2}}<br>{{Item|Nails|1}}
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+<!-- languages -->
+[[de:Balken]]
+[[ru:Доска]]
+[[pt-br:Tábua]]

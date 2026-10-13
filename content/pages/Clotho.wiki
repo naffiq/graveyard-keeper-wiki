@@ -1,0 +1,316 @@
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = {{PAGENAME}}.png
+| day      = 
+| location = Hut in [[The Swamp]]
+| vendor   = [[Alchemy|Alchemical Ingredients]]
+| role     = Witch, [[Miss Chain|Miss Chain's]] sister
+}}
+Clotho is a witch who lives in the [[swamp]] to hide from the [[inquisitor]]. She is available about 10 AM until 2 AM. In the [[Stranger sins|Stranger Sins DLC]], it is revealed that she was, in fact, the head priestess of the Ancient God.
+__TOC__
+{{clear}}
+
+== Quests ==
+===Lost Memories===
+Upon first meeting you she will tell you that she has lost her mind. She gives you a quest to help restore her mind. She asks you to either bring her {{Item|heal potion|1}} which gives you 20 {{Happiness}} or bring her the ingredients: {{Item|cauldron|1}} from the [[blacksmith]] for {{Money|1000}}, {{Item|bee|1}} and {{Item|life powder|1}} for a total of also 20 {{Happiness}} and {{item|heal potion|3}}.
+
+She unlocks the [[Anatomy and Alchemy (Tech Tree)|alchemy tech tree]] for you when you accept this mission, making various [[alchemy]]-related structures available for construction in the [[alchemy lab]].
+
+===The Merchant's Cure===
+The [[merchant]] asks you to speak to Clotho for a cure for his curse after consuming the {{item|hiccup grass}}. Clotho tells you the recipe for her cure: {{item|salt}} and {{item|health solution}}. Completing the quest will unlock the {{item|Spices}} recipe. As with all recipes, you can produce spices without having them unlocked by this quest, simply by trying it out or looking it up in this wiki.
+
+===Pumpkin Soup===
+In order to start this quest, you must unlock the [[orchard]]. If you give her a {{Item|Pumpkin|1|silver}} (has to be {{Quality|silver}}), she'll give you the recipes for various [[Cookery (Tech Tree)|soups]].
+
+===Basket of food===
+[[Miss Chain]] bids you, to deliver a {{item|basket of food}} to her sister. When you do so, you won't earn anything from it, but you've got the opportunity, to buy {{item|frog|10}} from her, you need also (12) for [[Miss Chain|Miss Chain's]] quest. For some reason, gaining a frog by purchasing it from Clotho does not unlock the recipe to make raw sliced meat from 3x frog. Rather, that recipe must be unlocked by using fishing to get a frog.
+
+=== Enchanted pumpkin ===
+During a mission from [[Game of Crone]], you will require a gold quality pumpkin to enchant (plus 50 silver), that you'll need to bring to Clotho.
+== Trades ==
+'''Note:''' It is not possible to increase your [[reputation]] with Clotho's by a {{item|Blessing of commerce}}. (This may have changed in a recent version.) (Observed that after buying something from Clotho, such blessings can be sold. This seems to reset with each new day, but the reputation increase with Clotho does persist.) It appears that "Alchemy recipe" is not available on the iOS version, needs more confirmation.
+
+===Selling===
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Golden apple}}
+|1
+|{{Money|100000}}
+|-
+|{{Item|Acid}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Glue}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Alchemy recipe}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Tree apple seedling}}
+|5
+|{{Money|300}}
+|-
+|{{Item|Bush berry seedling}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Slowing powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Acceleration powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Health powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Death powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Order powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Toxic powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Chaos powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Life powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Electric powder}}
+|2
+|{{Money|50}}
+|-
+|{{Item|Alcohol}}
+|24
+|{{Money|10}}
+|-
+|{{Item|Heal potion}}
+|10
+|{{Money|50}}
+|-
+|{{Item|Energy potion}}
+|10
+|{{Money|50}}
+|-
+|{{Item|Frog}}
+|10
+|{{Money|5}}
+|-
+|{{Item|Oil}}
+|25
+|{{Money|3}}
+|-
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Alkali}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Dark elixir}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Balsamic solution}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Golden elixir}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Preservative}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Silver elixir}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Tanning agent}}
+|2
+|{{Money|350}}
+|-
+|{{Item|Digestion potion}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Rage potion}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Speed potion}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Slowing solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Acceleration solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Health solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Death solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Order solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Toxic solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Chaos solution}}
+|2
+|{{Money|75}}
+|-
+|{{Item|Life solution}}
+|2
+|{{Money|75}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Protection potion}}
+|5
+|{{Money|200}}
+|-
+|{{Item|Berserk potion}}
+|5
+|{{Money|200}}
+|-
+|{{Item|Restoring potion}}
+|5
+|{{Money|200}}
+|-
+|{{Item|Slowing extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Acceleration extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Health extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Death extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Order extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Toxic extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Chaos extract}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Life extract}}
+|2
+|{{Money|100}}
+|}
+|}
+
+===Purchasing===
+*Will not buy back most alchemical reagents.
+*Will not buy back most alchemical products.
+*Impossible to make a profit on recipe or seedlings.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|{{Item|Alchemy recipe}}
+|{{Money|375}}
+|-
+|{{Item|Tree apple seedling}}
+|{{Money|225}}
+|-
+|{{Item|Bush berry seedling}}
+|{{Money|75}}
+|-
+|{{Item|Alcohol}}
+|{{Money|8}}
+|-
+|{{Item|Frog}}
+|{{Money|4}}
+|-
+|{{Item|Oil}}
+|{{Money|2}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Speed potion}}
+|{{Money|68}}
+|-
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|colspan="2" style="text-align:center;"|<b>N/A</b>
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+
+[[de:Clotho]]
+[[es:Clotho]]
+[[fr:Clotho]]
+[[ja:クロソ]]
+[[pt-br:Cloto]]

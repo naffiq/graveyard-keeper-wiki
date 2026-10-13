@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = Dark intestine
+| image        = Dark intestine item.png
+| type         = Bodypart
+| nameinternal = intestine_dark
+| study        = {{Techpoint|Blue|100}}
+| alchemy      =  {{Item|Death powder}}
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| quest        = [[Inquisitor]]
+}}
+{{PAGENAME}}, as well as the other variants ([[Dark brain]], [[Dark heart]]), will randomly appear on newly delivered corpses. Obtained after progressing far enough through the [[Inquisitor]] quest-line.
+
+==Quest==
+===Quest===
+The [[Inquisitor]] needs evidence for the presence of an occult in the [[town]] to convince the king of the inquisition's plans. For this, he asks you to bring him one {{PAGENAME}}, one [[Dark brain]] and one [[Dark heart]].
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Blue|100}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|3}}
+|Decomposes into<br>[[Death powder|powder]].
+|}
+
+==Alchemy==
+{| class = "wikitable" style = "width:35em; table-layout: fixed;"
+! colspan = "2" | {{Item|Alchemy mill}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Death powder|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+
+[[de:Dunkle Innereien]]

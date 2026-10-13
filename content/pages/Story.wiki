@@ -1,0 +1,111 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = N/A
+| alchemy      = 
+| source       = [[Desk]], [[Study table]], [[NPCs]], [[Confessional]], [[Vagner]], [[Organ Workbench]]
+| cost         = 
+| stacksize    = 30
+| type         = Writing
+| quest        = [[Vagner]], [[Ms. Charm]]
+| nameinternal = story
+}}
+The '''{{PAGENAME}}''' is the base resource from which all written works are generated. They are technically a complex craft, as they come in three qualities. They can be obtained through a variety of methods, though their only purpose goes towards the creation of [[notes]], the first tier of written works.
+
+==Source==
+As previously stated, Stories may be obtained through a variety of methods:
+* The player may craft their own stories at a [[desk]], after unlocking the crafting recipe.
+* A [[zombie]] may craft their own stories at a [[random text generator]].
+* They may be generated during dialogue with notable [[NPCs]], after unlocking the [[perk]] Journalist.
+* The [[confessional]] construct within the [[church]] may generate stories.
+* The poet [[Vagner]] will trade several stories for [[red wine]].
+* Chance to receive when researching an item at a [[Study table]]
+* The player may craft their own stories at the [[Organ Workbench]], with the [[Better Save Soul]] DLC
+
+==Recipe==
+Unlock the tech [[Book Writing (Tech Tree)|inventing stories]] will provide the player with a crafting recipe at either [[desk]]. The [[perks]] Writer and Playwright, as well as the [[effects|effect]] Inspiration will help improve the quality of these crafts. Alternatively, a zombie may do the work at its own station, with a randomized quality.
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Desk}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Pen and ink|1}} (1/10)<br>{{Item|Clean paper|1}}<br>{{Item|Faith|10}}
+|{{Energy|-|15}}<br>{{Quality|Copper}}+ 0.7<br>{{Techpoint|Blue|1}}
+|-
+!colspan="3"|{{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Pen and ink|1}} (1/10)<br>{{Item|Clean paper|1}}<br>{{Item|Faith|10}}
+|{{Energy|-|15}}<br>{{Quality|Copper}}+ 1.0<br>{{Techpoint|Blue|1}}
+|-
+!colspan="3"|{{Item|Random text generator}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Clean paper|3}}
+|7:30 @40%<hr>30:00 @10%
+|-
+!colspan="3"|{{Item|Organ Workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|1}}<br>{{Item|Sin Shard|2}}<br>{{Item|Faith|5}}
+|{{Energy|-|15}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Desk}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Pen and ink|1}} (1/10)<br>{{Item|Clean paper|1}}
+|{{Energy|-|20}}<br>{{Quality|Copper}}- 0.8<br>{{Techpoint|Blue|3}}
+|-
+!colspan="3"|{{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Pen and ink|1}} (1/10)<br>{{Item|Clean paper|1}}
+|{{Energy|-|10}}<br>{{Quality|Copper}}- 0.7<br>{{Techpoint|Blue|3}}
+|-
+!colspan="3"|{{Item|Organ Workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:6em;"|Notes
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|Clean paper|3}}<br>{{Item|Sin Shard|2}}<br>{{Item|Story|1|animation}}
+|{{Energy|-|20}}
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Sin Shard|2}}<br>{{Item|Story|1|animation}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+
+[[pt-br:História]]

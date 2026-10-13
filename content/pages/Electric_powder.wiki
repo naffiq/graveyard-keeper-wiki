@@ -1,0 +1,61 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{techpoint|red|5}} {{techpoint|blue|5}}
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T I)]]
+| buyer        = ???
+| source       = [[Eel]], [[Clotho]], [[Dungeon|Dungeon]]
+| cost         = 50
+| stacksize    = 50
+| type         = Advanced alchemy resource
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is an [[Alchemy|alchemy]] ingredient and can be obtained through the [[dungeon]] below the [[church]]. Electric orbs will attack the player on the floors 10 to 15, by flying towards the player and stopping nearby to detonate. After the detonation, the yellow electric powder can be collected.  {{PAGENAME}} can also be obtained by grinding eels in the alchemy mill and can be made into [[white paint]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Eel|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|5}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable<br>(already a reagent)
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|White paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+[[Category:Mob drops]]
+[[pt-br:Pó elétrico]]
+[[ru:Электрический порошок]]
+[[es:Polvo eléctrico]]

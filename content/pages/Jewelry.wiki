@@ -1,0 +1,41 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = 
+| nameinternal = 
+| study        = 
+| source       = [[Jewelry table]]
+| buy          = [[Moneylender|Moneylender (T I)]]<br>[[Ms. Charm]]
+| sell         = [[Merchant|Merchant (T III)]]<br>[[Moneylender|Moneylender (T I)]]<br>[[Ms. Charm]]
+| efficiency   = 
+| energy       = 
+| cost         = 
+}}
+
+==Uses==
+After you have reached 40{{Happiness}} with Ms. Charm and completed the two tasks related to the [[Trade Office]] (see [[Merchant|the Merchant's quest]] for more details), you could ask her to promote your veggie business by crafting a piece of {{PAGENAME}} and giving it to her. You will gain {{Item|Fame|1}} for the [[Trade Office]], 10{{Happiness}} for the [[Merchant]] and be able to buy {{PAGENAME}} for 1{{Gold Coin}} from [[Ms. Charm]] and sell it for 75{{Silver Coin}} to her.
+
+==Recipe==
+{| class = "wikitable"
+!colspan = "2"|{{Item|Jewelry table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+| {{Item|{{PAGENAME}}|1}}
+| {{Item|Gold jewelry details|1}} <br> {{Item|Faceted diamond|1}} <br> {{Item|Faith|2}}
+|}
+
+==Study==
+This Item cannot be studied.
+
+==Notes==
+[[Marquis Teodoro Jr.]] gives you 1x jewelry after completing his quest to have 7 refugees.
+
+[[Donkey]] gives you a piece of jewelry after sending him the cookbook and waiting a day.
+
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:jewelry items]]
+[[de:Schmuck]]

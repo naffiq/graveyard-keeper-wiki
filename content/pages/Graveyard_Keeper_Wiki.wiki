@@ -1,0 +1,42 @@
+<metadesc>The official wiki source of information on the cemetery management simulator Graveyard Keeper created by Lazy Bear Games and published by tinyBuild, featuring screenshots, game strategy and much more!</metadesc>
+<!-- TO EDIT MAIN PAGE CONTENT, see "Templates used on this page" below and edit:
+     * {{SITENAME}}/Top section
+     * {{SITENAME}}/Flex section
+     * {{SITENAME}}/Bottom section
+
+     This is a basic responsive front page design that adapts to the available width of the browser by 
+     rearranging the sections themselves as well as content within each section. When narrow, the three sections
+     line up vertically in a single column. When wide enough, the middle (flex) section is pulled out to become a 
+     right column.
+
+     Much of the layout and appearance is determined through styles defined in these pages:
+     * MediaWiki:Hydradark.css (for the desktop view)
+     * MediaWiki:Mobile.css (for the mobile view)
+-->
+<div id="fp-2column" class="fp-container">
+
+<div id="fp-top" class="fp-section">
+{{:{{SITENAME}}/Top section}}
+</div>
+
+<div id="fp-flex" class="fp-section">
+{{:{{SITENAME}}/Flex section}}
+</div>
+
+<div id="fp-bottom" class="fp-section">
+{{:{{SITENAME}}/Bottom section}}
+</div>
+
+</div>
+
+<div class="nomobile" style="text-align: right; margin-right: 10px;"><small>Main page sections: [[{{SITENAME}}/Top section|Top]] &#183; [[{{SITENAME}}/Flex section|Flex]] &#183; [[{{SITENAME}}/Bottom section|Bottom]]. Changes for the main page can be proposed [[Talk:{{SITENAME}}|here]]. </small></div>
+
+__NOTITLE__
+[[Category:{{SITENAME}}| ]]
+
+[[de:]]
+[[es:]]
+[[fr:]]
+[[ja:]]
+[[pt-br:]]
+[[ru:]]

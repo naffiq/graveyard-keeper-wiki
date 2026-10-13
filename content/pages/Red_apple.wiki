@@ -1,0 +1,85 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = fruit:apple_red_crop
+| consume      = {{Energy|+|5}}
+| study        = {{Techpoint|Green|10}}
+| source       = Apple trees
+| cost         = 2
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are a consumable food item, harvested from apple trees, which are either found near the [[lighthouse]] or planted by the player in the [[orchard]]. These apples can be used directly to restore {{Energy||5}}, as an ingredient in a few [[cooking]] recipes, or studied.
+
+==Source==
+{|class="wikitable"style="text-align:center;"
+|After<br>Harvesting
+!Before<br>6:00
+!After<br>6:00
+!After<br>12:00
+!After<br>18:00
+!After<br>24:00
+!After<br>30:00+
+|-
+!Apple Tree<br>([[Orchard]])
+|colspan="4"|Barren
+|Flowering
+|{{Item|{{PAGENAME}}|15}}
+|-
+!Apple Tree<br>([[Lighthouse]])
+|Barren
+|Flowering
+|{{Item|Green apple|4}}
+|colspan="3"|{{Item|{{PAGENAME}}|4}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Berry juice}}
+|{{Item|Berry|3}}<br>{{Item|{{PAGENAME}}|3}}
+|-
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Baked apple|5}}
+|{{Item|{{PAGENAME}}|5}}
+|-
+!colspan="2"|{{Item|Vine press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pail of apple juice|1}}
+|{{Item|{{PAGENAME}}|10}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+
+[[pt-br:Maçã vermelha]]
+[[de:Roter Apfel]]

@@ -1,0 +1,54 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = pickaxe_2
+| study        = {{Techpoint|red|100}}
+| source       = [[Anvil II]]
+| efficiency   = 150%
+| energy       = {{Energy|-|1}}
+| cost         = 700
+| stacksize    = 1
+}}
+The {{lcfirst:{{PAGENAME}}}} is equipped in the {{Icon|pickaxe}} slot and is used when collecting stone, clearing debris and [[mining]] deposits. The {{lcfirst:{{PAGENAME}}}} must be forged at the [[anvil II]] by the player and isn't available for sale.
+
+Efficiency reflects how much progress toward a task each use of a tool provides. An efficiency of 100% would be full speed, 200% would be double speed, and 50% would be half speed. The {{lcfirst:{{PAGENAME}}}} is 150% efficient.
+
+Energy usage reflects how much energy each action consumes. The {{lcfirst:{{PAGENAME}}}} consumes {{Energy||1}} per swing.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|100}}.
+
+==Recipe==
+{| class = "wikitable"
+!colspan = "2"|{{Item|Anvil II}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Steel ingot|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|100}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|15}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[es:Pico II]]

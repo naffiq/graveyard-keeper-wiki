@@ -1,0 +1,12 @@
+{{Item Infobox
+|image={{PAGENAME}}.png
+|name={{PAGENAME}}
+|source=[[Donkey]]
+|type=Quest item
+}}{{quote|Suspiciously reminiscent of a pile of common scrap.|Item description}}
+
+The '''{{PAGENAME}}''' item is part of the [[Game of Crone]] DLC. It is obtainable through the [[Donkey|donkey's]] questline. 
+
+It is a quest item, and will only be provided 2 by the [[Donkey|donkey]] along with the [[Revolutionary message 2]]. '''{{PAGENAME}}''' item provides the base item for creating [[Donkey combat equipment]], which is created by [[Krezvold]] when given some money. You obtain after sometime, a {{Item|Battle horseshoes|1}} and {{Item|Iron unicorn horns|1}}.
+
+{{Navbox-GameofCroneQuest}}

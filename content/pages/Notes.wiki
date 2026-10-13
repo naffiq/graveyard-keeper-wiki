@@ -1,0 +1,56 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = [[Science|4-7x Science]]
+| alchemy      = 
+| source       = [[Desk]], [[Desk II]]
+| cost         = 
+| stacksize    = 30
+| type         = [[Writing]]
+| quest        = 
+| nameinternal = 
+}}
+'''{{PAGENAME}}''' are an intermediate step in the process of turning [[story|storie]]s into [[chapter]]s, and potentially [[book]]s. To craft a chapter, the player will need at least three notes of any quality. The penalty to the overall quality in each step is significant, though there are multiple methods to overcome this.
+
+== Recipe ==
+{| class = "wikitable" style="width:40em;"
+!colspan = "4"|{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Notes|1|animation}}<br>{{Techpoint|Blue|3}}
+|{{Item|Story|1|animation}}<br>{{Item|Pen and ink|1}} (10%)<br>{{Item|Clean paper|1}}
+|0:06<br>{{Energy|-|10}}
+|}
+
+== Crafting ==
+{|class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Chapter|1|animation}}<br>{{Techpoint|Blue|5}}
+|{{Item|Notes|3|animation}}
+|0:06<br>{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Study table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Science|4-7}}
+|{{Item|Notes|1|animation}}
+|N/A
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+
+[[pt-br:Anotações]]

@@ -1,0 +1,56 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = The swamp.png
+| exits     = [[Graveyard]]
+| buildable = False
+| NPCs      = [[Clotho]]
+}}
+The Swamp is a large area west of the river which is broken up by a large number of winding paths and impassable water. In the center of the swamp lives the witch [[Clotho]] in her hut.
+
+==Accessing==
+The area is reached by repairing the [[stone bridge]] west of the [[graveyard]] which allows you to cross the [[river]].
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:stone bridge item.png|80x80px|link=stone bridge]]
+
+|{{Item|Wooden plank|1}}<br>{{Item|Flitch|4}}<br>{{Item|Nails|8}}
+|{{Energy|-|20}}
+|
+|}
+
+==Repairing the bridge==
+The circuitous and winding path through the swamp can be greatly simplified by repairing the [[swamp bridge]]. So take with you every material and energy required, as the trip there and back can be quite tedious.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Swamp bridge item.png|80x80px|link=swamp bridge]]
+|{{Item|Wooden plank|3}}<br>{{Item|Flitch|6}}<br>{{Item|Nails|10}}
+|{{Energy|-|10}}
+|
+|}
+The path that leads to the center of the swamp without having to trial and error to the center.  Some of the iron nodes are also visible. <br>
+[[File:swamp_path.png|600px]]
+
+
+
+==Areas of Interest==
+===Fishing===
+* There is a [[fishing]] spot just southwest of Clotho's hut.
+* There is a [[fishing]] spot just south of the [[waterfall]] and northeast of the swamp.
+
+===Clotho's hut===
+[[Clotho]] lives in the hut in the center of the swamp.
+
+===Mining===
+You'll find a lot of [[Iron ore|iron ore]] scattered around the landscape. Even dead ends mostly have a small deposit at the end.
+
+{{Navbox-Locations}}

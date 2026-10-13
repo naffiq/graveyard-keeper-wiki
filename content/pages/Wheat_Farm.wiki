@@ -1,0 +1,18 @@
+{{stub}}
+
+{{Location Infobox
+| name      = Wheat Farm
+| image     = Wheat farm2.jpg
+| size      = //optional, default is 250x250px
+| exits     = Road , [[Village]]
+| buildable = False
+| NPCs      = [[Miller]] , [[Farmer]]
+}}
+
+The {{PAGENAME}} lies on the road between [[Sweet Home|Home]] and [[Village|The Village]]. The [[Miller]] is located north of the farm, while the [[Farmer]] and his [[Farmer's Son|Son]] are located south.
+
+There is a grave under the tree in the North-West field that can be exhumed.
+
+
+{{Navbox-Locations}}
+[[ru:Пшеничная ферма]]

@@ -1,0 +1,75 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| source       = [[Church workbench]]
+| cost         = 112
+}}
+
+A prayer which increases character damage over several days. It can be crafted at the [[Desk]] or [[Desk II]]. The quality is dependent on the ingredients and for the sermon to be successful it needs  10{{Church Rating}}/20{{Church Rating}}/40{{Church Rating}}. To unlock the recipe you need to unlock [[Smithing (Tech Tree)|Martial Skills]] in the technology tree.
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Prayer_for_retribution_item.png|quality = copper}}
+|{{Quality Sprite|image = Prayer_for_retribution_item.png|quality = silver}}
+|{{Quality Sprite|image = Prayer_for_retribution_item.png|quality = gold}}
+|-
+|{{Church Rating}}10
+|{{Church Rating}}20
+|{{Church Rating}}40
+|-
+|{{Silver Coin}}1 (+25%)
+|{{Silver Coin}}1 (+25%)
+|{{Silver Coin}}1 (+25%)
+|-
+|[[Faith]] (x1) (+25%)
+|[[Faith]] (x2) (+25%)
+|[[Faith]] (x3) (+25%)
+|-
+| [[file:Retribution effect.png]] 36:00 min
+| [[file:Retribution effect.png]] 72:00 min
+| [[file:Retribution effect.png]] 108:00 min
+|}
+
+==Effect==
+
+If the sermon was successful, the rage buff will be applied over a certain amount of time depending on the quality of the prayer. The base duration is 36:00 minutes for a {{Quality|copper}} quality prayer and gets doubled and tripled for {{Quality|silver}} and {{Quality|gold}} quality prayer, respectively.
+
+(Note: up to v. 1.024 one day was 6 minutes long, hence the buffs applied for one, two or three weeks. Now weekdays are 9 minutes long)
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:10em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Retribution effect.png|link=Effects#Rage|Rage]]
+|You deal additional damage to monsters.
+|style="text-align:center"|36:00 {{Quality|copper}} <br> 72:00 {{Quality|silver}} <br> 108:00 {{Quality|gold}}
+|[[Effects#Rage|Rage]]
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Desk}}{{Item|Desk II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|rowspan = "2"|	{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Book|1|animation}}
+{{Item|Faith|7|}}
+
+{{Energy||10}}
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+
+[[Category:Writing]]
+[[Category:Sermons]]

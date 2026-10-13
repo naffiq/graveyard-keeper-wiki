@@ -1,0 +1,175 @@
+Collecting Data as I play but these are all the ones I've noted so far.
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="sortable mw-collapsible fandom-table"
+|+
+!'''Item'''
+!'''Craft Requirements'''
+!'''Study Requirements'''
+!'''Reward'''
+|-
+|[[File:Rusty shovel item.png|left|frameless]][[Rusty shovel]]
+|Not craftable. 
+Can be found in the [[Graveyard]] [[Trunk]] or bought from the [[Blacksmith]].
+|[[Faith|1x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|1x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|10]]'''
+|-
+|[[File:Shovel I item.png|left|frameless]][[Shovel I]]
+|[[Wooden stick|2x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Simple iron parts|2x]][[File:Simple iron parts item.png|frameless]] [[Simple iron parts|Simple iron parts]]
+
+[[Iron ingot|1x]][[File:Iron ingot item.png|frameless]] [[Iron ingot|Iron Ingot]]
+|[[Faith|3x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|3x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|30]]'''
+<br />
+|-
+|[[File:Shovel II item.png|left|frameless]][[Shovel II]]
+|[[Wooden stick|1x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Complex iron parts|2x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex Iron Parts]]
+
+[[Steel ingot|1x]][[File:Steel ingot item.png|frameless]] [[Steel ingot|Steel Ingot]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|100]]'''
+|-
+|[[File:Rusty axe item.png|left|frameless]][[Rusty axe]]
+|Not craftable. 
+Can be found in the [[Graveyard]] [[Trunk]] or bought from the [[Blacksmith]].
+|[[Faith|1x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|1x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|10]]'''
+|-
+|[[File:Axe I item.png|left|frameless]][[Axe I]]
+|[[Wooden stick|2x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Simple iron parts|2x]][[File:Simple iron parts item.png|frameless]] [[Simple iron parts|Simple iron parts]]
+
+[[Iron ingot|1x]][[File:Iron ingot item.png|frameless]] [[Iron ingot|Iron Ingot]]
+|[[Faith|3x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|3x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|30]]'''
+<br />
+|-
+|[[File:Axe II item.png|left|frameless]][[Axe II]]
+|[[Wooden stick|1x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Complex iron parts|2x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex Iron Parts]]
+
+[[Steel ingot|1x]][[File:Steel ingot item.png|frameless]] [[Steel ingot|Steel Ingot]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|100]]'''
+|-
+|[[File:Rusty pickaxe item.png|left|frameless]][[Rusty pickaxe]]
+|Not craftable. 
+Can be found in the [[Graveyard]] [[Trunk]] or bought from the [[Blacksmith]].
+|[[Faith|1x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|1x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|10]]'''
+|-
+|[[File:Pickaxe I item.png|left|frameless]][[Pickaxe I]]
+|[[Wooden stick|2x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Simple iron parts|3x]][[File:Simple iron parts item.png|frameless]] [[Simple iron parts|Simple iron parts]]
+
+[[Iron ingot|1x]][[File:Iron ingot item.png|frameless]] [[Iron ingot|Iron Ingot]]
+|[[Faith|3x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|3x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|30]]'''
+<br />
+|-
+|[[File:Pickaxe II item.png|left|frameless]][[Pickaxe II]]
+|[[Wooden stick|1x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Complex iron parts|3x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex Iron Parts]]
+
+[[Steel ingot|1x]][[File:Steel ingot item.png|frameless]] [[Steel ingot|Steel Ingot]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|100]]'''
+|-
+|[[File:Rusty hammer item.png|left|frameless]][[Rusty hammer]]
+|[[Wooden stick|1x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Complex iron parts|2x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex iron parts]]
+
+[[Iron ingot|1x]][[File:Iron ingot item.png|frameless]] [[Iron ingot|Iron Ingot]]
+|[[Faith|1x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|1x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|10]]'''
+|-
+|[[File:Iron hammer item.png|left|frameless]][[Iron hammer]]
+|[[Wooden stick|1x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Complex iron parts|2x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex iron parts]]
+
+[[Steel ingot|1x]][[File:Steel ingot item.png|frameless]] [[Steel ingot|Steel Ingot]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|100]]'''
+|-
+|[[File:Iron chisel item.png|left|frameless]][[Iron chisel]]
+|[[Wooden stick|4x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Simple iron parts|3x]][[File:Simple iron parts item.png|frameless]] [[Simple iron parts|Simple iron parts]]
+|[[Faith|3x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|3x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|30]]'''
+|-
+|[[File:Steel chisel item.png|left|frameless]][[Steel chisel]]
+|Depends on the quality of the chisel.
+|[[Faith|5x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|5x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|50]]'''
+|-
+|[[File:Rusty sword item.png|left|frameless]][[Rusty sword]]
+|Not craftable. 
+Is given to you by the [[Blacksmith]] when he requests that you kill the slimes to the north.
+|[[Faith|1x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|1x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|10]]'''
+|-
+|[[File:Sword item.png|left|frameless]][[Sword]]
+|[[Iron ingot|1x]][[File:Iron ingot item.png|frameless]] [[Iron ingot|Iron Ingot]]
+[[Complex iron parts|4x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex iron parts]]
+
+[[Hemp rope|2x]][[File:Hemp rope item.png|frameless]] [[Hemp rope|Hemp rope]]
+|[[Faith|3x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|3x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|30]]'''
+|-
+|[[File:Steel sword item.png|left|frameless]][[Steel sword]]
+|[[Steel ingot|2x]][[File:Steel ingot item.png|frameless]] [[Steel ingot|Steel Ingot]]
+[[Steel parts|2x]][[File:Steel parts item.png|frameless]] [[Steel parts|Steel parts]]
+
+[[Wooden stick|2x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+|[[Faith|5x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|5x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|50]]'''
+|-
+|[[File:Steel sword with gem item.png|left|frameless]][[Steel sword with gem]]
+|[[Steel sword|1x]][[File:Steel sword item.png|frameless]] [[Steel sword|Steel sword]]
+[[Gold jewelry details|1x]][[File:Gold jewelry details item.png|frameless]] [[Gold jewelry details|Gold jewelry details]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|100]]'''
+|-
+|[[File:Damask sword with gem item.png|left|frameless]][[Damask sword with gem]]
+|[[Steel sword|1x]][[File:Steel sword item.png|frameless]] [[Steel sword|Steel sword]]
+[[Faceted diamond|1x]][[File:Faceted diamond item.png|frameless]] [[Faceted diamond|Faceted diamond]]
+
+[[Gold jewelry details|3x]][[File:Gold jewelry details item.png|frameless]] [[Gold jewelry details|Gold jewelry details]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|150]]'''
+|-
+|[[File:Iron armor item.png|left|frameless]][[Iron armor]]
+|[[Skin|4x]][[File:Skin item.png|frameless]] [[Skin|Skin]]
+[[Simple iron parts|6x]][[File:Simple iron parts item.png|frameless]] [[Simple iron parts|Simple iron parts]]
+|[[Faith|3x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|3x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|30]]'''
+|-
+|[[File:Steel armor item.png|left|frameless]][[Steel armor]]
+|[[Wooden stick|2x]][[File:Wooden stick item.png|frameless]] [[Wooden stick|Wooden Stick]]
+[[Complex iron parts|5x]][[File:Complex iron parts item.png|frameless]] [[Complex iron parts|Complex iron parts]]
+|[[Faith|10x]] [[File:Faith item.png|frameless]][[Faith]]
+[[Science|10x]][[File:Science item.png|frameless]][[Science]]
+|[[File:Red Tech Symbol.png|frameless]]'''[[Technologies|150]]'''
+|-
+|}
+</table-progress-tracking>

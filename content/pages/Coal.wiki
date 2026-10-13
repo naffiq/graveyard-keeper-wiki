@@ -1,0 +1,75 @@
+{{Item Infobox 
+| name         = Coal
+| image        = i_coal.png
+| type         = Primary Ore
+| nameinternal = coal
+| study        = {{Techpoint|Green|20}}
+| alchemy      = 
+| source       = [[Mining]]
+| cost         = 20
+| stacksize    = 100
+| quest        = 
+}}
+The coal must be extracted with a pick. The only known deposits are on the north cliff face near the [[quarry]], in the [[Forest near the river|forest]] northwest of the [[graveyard]] and south of the [[wheat farm]]. It can also be obtained via a [[zombie ore mine]].
+
+The southern deposit is unreachable, due to it being in the [[town]], yet the icon is still given to mine when approached from above.
+
+To access the northern area, you must rebuild the [[stone bridge]] west of the [[graveyard]], and the [[Blockage|debris that blocks the road]] will have to be cleared. 
+
+A second possibility is to clear the [[blockage]] north of the [[apiary]] and use the [[river#Small Island|footbridge]] to cross the [[river]].
+
+Each time you mine the deposit you will get between 20 and 30 coal. It can be used as a fuel source in an oven or melted into graphite in a furnace.
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Fuel|160}}
+|{{Item|Coal|10}}
+|-
+!colspan="2"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Fuel|180}}
+|{{Item|Coal|10}}
+|-
+|{{Item|Graphite|1}}
+|{{Item|Coal|5}}<br>{{Item|Fuel|10}}
+|-
+!colspan="2"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Fuel|180}}
+|{{Item|Coal|10}}
+|-
+|{{Item|Graphite|2}}
+|{{Item|Coal|5}}<br>{{Item|Fuel|10}}
+|}
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+
+[[pt-br:Carvão]]

@@ -1,0 +1,89 @@
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = Refugee cook.png
+| day      = 
+| location = [[Refugee camp]]
+| vendor   = Recipe
+| role     = Cook
+}}
+[[{{PAGENAME}}]] is the cook of the [[Refugee camp]]. She is the first new refugee to show up, once an additional tent has been built by the player and a new refugee has been summoned. Through conversation with her, you receive the task of building the refugees a proper [[GoC Cooking table|kitchen]].
+
+==Quests==
+She first asks you to build a [[Camp kitchen|kitchen]] at the [[Refugee camp|camp]], so that she does not get bored and sad. This quest unlocks the ability to trade with her, but '''only''' the first two tiers are unlocked.
+
+The next assignment is to improve the [[GoC Cooking table|kitchen]], so it feels more like home to her. With it, you gain the ability to build [[Cooking table II|kitchen II]].
+
+After you built the [[Cooking table II|kitchen II]] and spoke with her about it, she'll ask you to construct [[Bee hive|Beehive]]<nowiki/>s to sweeten the taste of the foods. (Only need to build 2 of the 3 to complete the quest) After finishing this quest, she gives you 3 recipes ({{Item|Recipe In Lentil We Trust}}, {{Item|Recipe Vegetable set}}, {{Item|Honey cake}}) and unlocks the tier III trade option.
+
+==Trades==
+{|
+|- style="vertical-align:top;"
+|+'''<big>Selling</big>'''
+|
+{| class="wikitable"
+! colspan="4" |Tier I
+|-
+!Item
+!Tech
+!Qty
+!Base Cost
+|-
+|{{Item|Recipe Simple snacks}}
+|[[Cookery (Tech Tree)|Recipe: Simple snacks]]
+|1
+|'''{{Money|100}}'''
+|}
+|
+{| class="wikitable"
+! colspan="4" |Tier II
+|-
+!Item
+!Tech
+!Qty
+!Base Cost
+|-
+|{{Item|Recipe Milk processing}}
+|[[Cookery (Tech Tree)|Recipe: Milk processing]]
+|1
+|'''{{Money|250}}'''
+|-
+|{{Item|Recipe Vegetable set}}
+|[[Cookery (Tech Tree)|Recipe: Vegetable set]]
+|1
+|'''{{Money|300}}'''
+|-
+|{{Item|Recipe In Lentil We Trust}}
+|[[Cookery (Tech Tree)|Recipe: In Lentil We Trust]]
+|1
+|'''{{Money|350}}'''
+|}
+|
+{| class="wikitable"
+! colspan="4" |Tier III
+|-
+!Item
+!Tech
+!Qty
+!Base Cost
+|-
+|{{Item|Recipe Cheese dishes}}
+|[[Cookery (Tech Tree)|Recipe:  Cheese dishes]]
+|1
+|'''{{Money|650}}'''
+|-
+|{{Item|Recipe Patties}}
+|[[Cookery (Tech Tree)|Recipe Patties]]
+|1
+|{{Money|750}}
+|-
+|{{Item|Recipe Jelly desserts}}
+|[[Cookery (Tech Tree)|Recipe: Jelly desserts]]
+|1
+|{{Money|800}}
+|}
+|}
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[Category:NPCs]]
+[[Category:Refugee camp]]
+[[Category:Game of Crone]]

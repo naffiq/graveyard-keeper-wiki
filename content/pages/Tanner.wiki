@@ -1,0 +1,100 @@
+{{NPC Infobox|image={{PAGENAME}}.png|name={{PAGENAME}}|location=[[Refugee camp]]|vendor=Bags and bag techs|money=1000|levelcostII={{Happiness||70}}|levelcostIII={{Happiness||100}}}}
+
+The '''Tanner''' is part of the [[Game of Crone]] DLC. She arrives at the [[Refugee camp]] as the 11th refugee. Her questline will be available the next day.
+
+==Quests==
+The Tanner had to sell her shop and her workstation at [[The Town]] to repay her son's debt. She asks for you to build a [[Tanner's workplace|workplace]] for her at the [[refugee camp]], so she can make a few revenues here as well, because her belongings at [[The Town]] did not cover the debt entirely. Finishing this quest unlocks trading tier I.
+
+After you get the [[Tanner's workplace|workplace]] ready for her, she will need a few more ingredients. She will ask you to build an [[Fence supplies for farm|animal farm]] for her. Fence supplies requires 24 [[Flitch]],12 [[Wood billet|Wood Billet]] and 12 [[Refugee Happiness]].Finishing this quest unlocks trading tier II.
+
+For the [[Fence supplies for farm|animal farm]] to be functional, she'll ask you to settle a cow and hens. (You can get the cow from [[Rosa]] for {{Money|10000}} and the hens from the [[Fresh egg basket]] for {{Money|5000}}) Finishing this quest unlocks trading tier III and she'll give you {{Item|Recipe alchemists bag}}, {{Item|Recipe farmers bag}}, {{Item|Recipe fishermans bag}}.
+
+==Trades==
+{|
+|- style="vertical-align:top;"
+|+'''<big>Selling</big>'''
+!
+{| class="wikitable"
+! colspan="3" |Tier I
+|-
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Tool bag}}
+|1
+|{{Money|4400}}
+|-
+|{{Item|Farmer's bag}}
+|1
+|{{Money|3200}}
+|-
+|{{Item|Fisherman's bag}}
+|1
+|{{Money|2800}}
+|-
+|{{Item|Alchemist's bag}}
+|1
+|{{Money|2500}}
+|}
+!
+{| class="wikitable"
+! colspan="3" |Tier II
+|-
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Recipe tool bag}}
+|1
+|{{Money|13500}}
+|-
+|{{Item|Recipe farmers bag}}
+|1
+|{{Money|10000}}
+|-
+|{{Item|Recipe fishermans bag}}
+|1
+|{{Money|8500}}
+|-
+|{{Item|Recipe alchemists bag}}
+|1
+|{{Money|7500}}
+|-
+|{{Item|Builders bag}}
+|1
+|{{Money|10000}}
+|-
+|{{Item|Food bag}}
+|1
+|{{Money|10000}}
+|-
+|{{Item|Potion bag}}
+|1
+|{{Money|7500}}
+|}
+!
+{| class="wikitable"
+! colspan="3" |Tier II
+|-
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Recipe builders bag}}
+|1
+|{{Money|30000}}
+|-
+|{{Item|Recipe food bag}}
+|1
+|{{Money|30000}}
+|-
+|{{Item|Recipe potion bag}}
+|1
+|{{Money|22500}}
+|}
+|}
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Refugee camp]]
+[[Category:Vendors]]

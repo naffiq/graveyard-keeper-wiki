@@ -1,0 +1,63 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Morgue]], [[Cellar]], [[Trade office]], [[Souls room]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|First slice]]
+|related    = [[Storage]], [[Morgue]], [[Corpse]], [[Crates]], [[Trade office]], [[Crate factory]]
+|footprint  = 4x3
+|rotatable  = True
+}}
+
+There are two types of pallets:
+* {{item|corpse}} pallets
+* {{item|crates}} pallets
+
+==Corpse pallets==
+The pallet can be used to store one [[corpse]] with a reduced amount of decay. Each pallet increases the {{Morgue Capacity}} by one. There are also [[double pallet]]s and [[fridge pallet]]s for more elaborate corpse storage.
+
+For more information about how corpses and corpse rating works see the [[corpse]] main page and for more information about preparing bodies see the [[morgue]].
+
+==Crate pallets==
+The pallets for [[crates]] are built in the [[barn cellar]] by the [[crate factory]] or located in the [[trade office]]. They are used to deposit [[crates]] with [[items|goods]] to be sold by the [[merchant]].
+
+For more information follow the links of this section.
+ 
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:15em;"| Materials Required
+!style="width:5em;| Energy
+!Notes
+|-
+|[[file:Pallet item.png|80x80px|link=Pallet]]
+|{{Item|Flitch|6}}<br>{{Item|Nails|4}}
+|
+|Requires [[Anatomy_and_Alchemy_(Tech_Tree)|First slice]]<br>
+Adds 1 {{Morgue Capacity}}<br>
+Reduces corpse's decay
+|-
+|[[File:Double pallet item.png|80x80px|link=Double pallet]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|10}}
+|
+|Requires [[Anatomy and Alchemy (Tech Tree)|Anatomy II]]<br>
+Adds 2 {{Morgue Capacity}}<br>
+Reduces corpse's decay
+|-
+|[[File:Fridge pallet item.png|80x80px|link=Fridge pallet]]
+|{{Item|Flitch|12}}<br>{{Item|Nails|12}}<br>{{Item|Complex iron parts|5}}
+|{{Energy|-|32}}
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming II]]<br>
+Adds 2 {{Morgue Capacity}}<br>
+Halts corpse's decay completely
+|-
+|[[file:Crate pallet item.png|80x80px|link=Crate pallet]]
+|{{Item|Flitch|6}}<br>{{Item|Fame|1}}
+|
+|Requires advancing the [[Merchant|merchant's quest]]
+|}
+
+{{Navbox-Morgue}}
+[[Category:Workstations]]
+
+[[Category:Morgue workstations]]
+[[de:Pritsche]]

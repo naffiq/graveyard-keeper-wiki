@@ -1,0 +1,48 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = acid
+| study        = N/A
+| buy       = [[Clotho|Clotho (T I)]]
+| sell        = ???
+| source       = [[Alchemy]]
+| cost         = 500
+| quest        = [[Astrologer]]
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> can be obtained by either purchasing it from [[Clotho]] the witch (tier 1), or through the practice of [[Alchemy]] at the [[alchemy workbench (tier II)]]. Its primary use relates to the production of the embalming fluid [[acid injection]].  It also has a one-time use during the [[Astrologer]]'s quest in order to read some of the damaged sections of the [[keepers journal]].
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Toxic extract|1}}
+|{{Energy|-|10}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Acid injection|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[pt-br:Ácido]]
+[[es:Ácido]]

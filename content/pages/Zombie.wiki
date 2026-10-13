@@ -1,0 +1,161 @@
+Making a {{item|zombie}} can be unlocked relatively early in the game by completing a series of [[Gunter|short missions]] and unlocking the right [[technologies]]. You first have to meet [[Gunter]] and take his advice.
+
+Gunter and [[Zombie|Zombies]] were added in the [[Breaking Dead|Breaking Dead DLC]] and become available past midnight of the fourth {{Day|Gluttony}} (19.5 [[days]])
+
+==Zombie Workstations==
+Most of the stations need to be unlocked by technology. There is also one quest where you need to install a zombie as a greeter for the [[Talking Skull]] tavern ([[Stranger sins]] DLC).
+{| class="wikitable"
+!Wood
+!Ore
+!Stone / Marble
+!Crops
+!Alchemy
+!Other
+|-
+|[[Felling site|Sawmill (Felling site)]]
+|[[Zombie ore mine|Ore mine]]
+|[[Zombie stone quarry|Stone quarry]]
+|[[Zombie farm|Farm]]
+|[[Random text generator]]
+|[[Porter station]]
+|-
+|[[Circular saw]]*
+|[[Wooden anvil]]*
+|[[Zombie marble quarry|Marble quarry]]
+|[[Zombie vineyard|Vinyard]]
+|[[Zombie alchemy decomposer|Alchemy decomposer]]
+|[[Crate factory]]*
+|-
+|[[Carpenter's workbench]]*
+|[[Anvil]]*
+|[[Stone cutter]]*
+|[[Zombie-brewery|Brewery]]
+|[[Zombie alchemy workbench|Alchemy workbench]]
+|[[Potter's wheel]]*
+|-
+|[[Carpenter's workbench II]]*
+|[[Anvil II]]*
+|[[Stone cutter II]]*
+|[[Zombie-winery|Winery]]
+|
+|[[Jewelry table|Jewelry table]]*
+|-
+|[[Chopping spot]]*
+|
+|
+|
+|
+|
+|-
+|[[Sawhorse]]*
+|
+|
+|
+|
+|
+|}
+<nowiki>*</nowiki> ''These stations can be operated by both a zombie or the player.''
+
+The downsides are that you will not get any Technology points from the working zombies. To counter that you can:
+* Let zombies write point books at the [[Random text generator]]
+* Buy books from the [[Astrologer]]
+* Research graveyard items or advanced tools
+* Use [[File:Science effect.png|link=Effects|Circumspect]] [[Effects|Circumspect]] to increase points for research
+
+==Creating a zombie==
+Zombies are made on a [[resurrection table]] with a {{Item|corpse}}, {{Item|zombie juice|1}}, and {{Item|Faith|10}}. To put a zombie to work, carry it to a work station and place it where prompted. {{Skull|red}} have no effect on zombies, and {{Skull|white}} can be added to zombies later.
+
+{{Item|Zombie juice}} is crafted at an [[alchemy workbench (tier I)]]. Constructing this requires two [[advanced conical flasks]], which in turn require unlocking [[Smithing (Tech Tree)|Glass-blower II and Advanced Smelting]] for {{Techpoint|red|150}} {{Techpoint|green|50}} {{Techpoint|blue|50}}. These prerequisites pose a significant barrier in the early game. In the meantime, {{Item|zombie juice|3}} can be found in [[Gunter|Gunter’s]] cell.
+
+== Dispose a zombie ==
+It is possible to throw zombies into the river or bury them in the graveyard to dispose of subpar or not needed zombies. It is advisable to remove all {{skull|red}} before doing so. Zombies get no penalty from {{skull|red}} but a grave does.
+
+==Improving a zombie==
+Zombies have a stat called "Work Efficiency" that represents how effective their work generally is. This stat directly relates to the number of {{skull|white}} skulls, while {{skull|red}} skulls will have no effect. A zombie can be modified, much like a regular corpse, as many times as is necessary either by autopsy at the [[preparation place]] or injections at the [[embalming table]].
+
+Efficiency is compared to the players crafting speed. For example a task that take 2s if done by the player will take 20s for a 10% efficiency zombie.
+
+Efficiency doesn't have any impact on transport speed. Thus, it is a good idea not to waste injections or energy on preparing zombies that are going to be used in a [[Porter station]].
+
+{| class="wikitable"
+|-
+! Skulls !! Efficiency !! Skulls !! Efficiency !! Skulls !! Efficiency !! Skulls !! Efficiency
+|-
+| 0/1 {{skull|white}} || 2% || 8 {{skull|white}}|| 20% || 15 {{skull|white}}|| 38% || 22 {{skull|white}}|| 55%
+|-
+| 2 {{skull|white}} || 5% || 9 {{skull|white}}|| 22% || 16 {{skull|white}}|| 40% || 23 {{skull|white}}|| 58%
+|-
+| 3 {{skull|white|3}} || 8% || 10 {{skull|white}}|| 25% || 17 {{skull|white}}|| 42% || 24 {{skull|white}}|| 60%
+|-
+| 4 {{skull|white|4}} || 10%  || 11 {{skull|white}}|| 28% || 18 {{skull|white}}|| 45% || 25{{skull|white}}|| 62%
+|-
+|5 {{skull|white}}
+|12%
+|12 {{skull|white}}
+|30%
+|19 {{skull|white}}
+|48%
+|26{{skull|white}}
+|65%
+|-
+|6 {{skull|white}}
+|15%
+|13 {{skull|white}}
+|32%
+|20 {{skull|white}}
+|50%
+|
+|
+|-
+|7 {{skull|white}}
+|18%
+|14 {{skull|white}}
+|35%
+|21 {{skull|white}}
+|52%
+|
+|
+|}
+
+Maximum efficiency can be achieved by the following steps:
+* Applying {{Item|lye injection}}  (+{{skull|red}}+{{Skull|white}}), {{Item|glue injection}} (+{{Skull|white}}), {{Item|silver injection}} (-{{skull|red}}+{{Skull|white}}), &{{Item|gold injection}} (-{{skull|red}}{{skull|red}}+{{Skull|white}}{{Skull|white}}).
+* Removing {{Item|blood}} (-{{skull|red}}+{{Skull|white}}) &{{Item|fat}} (-{{skull|red}}+{{Skull|white}}).
+*while keeping {{Item|flesh}} (-{{Skull|white}}) &{{Item|skin}} (+{{skull|red}}-{{Skull|white}}).
+*Removing  {{Item|skull}} (+{{skull|red}}) &   {{Item|bone}}  will not change the zombie quality.
+* Replacing {{Item|brain}}, {{Item|heart}} , &{{Item|intestine}} with variants which provide more {{skull|white}}. 
+There is also a guide to [[12-Skull_Corpse_Preparation|preparing 12 skull corpses]].
+
+The order in which these steps are applied does not matter, although you will not be able to apply {{Item|silver injection}} and {{Item|gold injection}}, if the corpse does not have at least 1 and 2 {{skull|red}} respectively at the time. You can work around this by either temporarily replacing other organs or applying {{Item|dark injection}}.
+
+'''Preparing a 16 Skull Corpse'''
+
+* Step 1: insert a brain, intestine, and heart with the attributes to get a corpse with 4 {{skull|red}} and 9 {{skull|white}} to start with. This can be any combination, for instance:                                                        (Brain -2{{skull|red}}/+3{{skull|white}}; Intestine +3{{skull|red}}/+3{{skull|white}}; Heart +3{{skull|red}}/+3{{skull|white}})
+* Step 1.5 (optional): Use '''{{Item|Dark injection}}''' to add red skulls if necessary to reach  4 {{skull|red}} and 9 {{skull|white}}.
+* Step 2: '''{{Item|Lye injection}}''' to get 5 red skulls and 10 white skulls.
+* Step 3: '''{{Item|Glue injection}}''' to get 5 red skulls and 11 white skulls.
+* Step 4: '''{{Item|Silver injection}}''' to get 4 red skulls and 12 white skulls.
+* Step 5: '''{{Item|Gold injection}}''' to get 2 red skulls and 14 white skulls.
+* Step 6: Remove '''Blood''' to get 1 red skulls and 15 white skulls.
+* Step 7: Remove '''Fat''' to get 0 red skulls and 16 white skulls.
+
+'''Preparing a 26 Skull Corpse (DLC only)'''
+
+With the [[Better Save Soul]] DLC, the player is able to improve the {{Skull|white}} rating of regular organs (Blood, Fat, Skin, Etc.) up to a maximum of +3 {{Skull|red}}/{{Skull|white}} through the use of [[Sin Shard]]s. Follow the guide to get the maximum of '''26'''{{Skull|white}}. You can begin with more {{skull|red}} than listed, having leftover {{skull|red}} at the end, which does not negatively impact zombies.
+
+*Step 1: Remove all organs except skull, replacing the blood, fat, skin, and flesh with 3 {{skull|white}} versions of each.
+* Step 2:  Insert a brain, intestine, and heart with the combined attributes of  2 {{skull|red}} and 9 {{skull|white}} . This can be any combination, for instance:                                                        (Brain 0{{skull|red}}/+3{{skull|white}}; Intestine +2{{skull|red}}/+3{{skull|white}}; Heart +0{{skull|red}}/+3{{skull|white}}). This will get you to a corpse with  2 {{skull|red}} and 21 {{skull|white}} .
+* Step 3: '''{{Item|Lye injection}}''' to get 3 {{skull|red}}  and 22 {{skull|white}}.
+* Step 4: '''{{Item|Glue injection}}''' to get 3 {{skull|red}}  and 23 {{skull|white}}.
+* Step 5: '''{{Item|Silver injection}}''' to get 2 {{skull|red}}  and 24 {{skull|white}}.
+* Step 6: '''{{Item|Gold injection}}''' to get 0 {{skull|red}}  and 26 {{skull|white}}.
+
+== Maximum efficiency ([[Better Save Soul|Better save soul]] required) ==
+[[File:26WhiteSkulls65PercentWorkPower.png|left|frameless|800x800px]]
+<br />
+[[ru:Зомби]]
+[[pt-br:Zumbi]]
+[[de:Zombie]]
+[[Category:Breaking Dead]]
+[[Category:Stranger Sins]]
+[[Category:Better Save Soul]]
+[[Category:Large items]]

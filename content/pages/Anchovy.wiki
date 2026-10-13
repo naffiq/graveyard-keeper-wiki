@@ -1,0 +1,111 @@
+__NOTOC__{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = i_fish_anchovy.png
+| cost         = 
+| price        = 14
+| study        = {{Techpoint|Green|20}}
+| sell         = [[Lighthouse Keeper|Lighthouse Keeper (T I)]]
+| buy          = 
+| source       = Sea
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_anchovy
+}}
+The <b>{{PAGENAME}}</b> is one of sixteen(16) different [[Fishing|fish]] that can be caught, and either sold to the [[Lighthouse Keeper]], processed for [[cooking]], or - in it's particular case, akin to the [[Gudgeon]] - preferably used as [[{{PAGENAME}}#Fishing#Bait|bait]] while fishing for more valuable types of fish. The difficulty in catching it is relatively low, thus it's thought to be a relatively low-tier fish.
+
+==Fishing==
+The odds of catching most fish are usually affected by other fish in the same area, and what each are interested in; the more competition between fish, the less chance in catching a particular fish. To assist in this endeavor, the following is a table of this fish's preferences by the rod used, the selected bait, the location chosen to fish, the sub-area chosen to cast, and perhaps even the time of day.
+
+{| style="text-align:left; width:60%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Okay
+|-
+|{{Item|Good fishing rod}}
+|Good
+|-
+|{{Item|Simple fishing rod}}
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|[[file:Inverse_additem.png|34x34px|link=]]No Bait
+|Best
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Location
+|-
+!Name
+!Weight
+|-
+|Sea
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|Good
+|-
+|Night
+|Best
+|}
+|}{{clear}}
+===Bait===
+{{PAGENAME}}s can also be utilized while [[fishing]], as one of eight(8) available baits to choose from.
+*There are seven(7/16) susceptible fish; the [[Perch]], [[Sardine]], [[Tuna]], [[Pike]], [[Salmon]], [[Sturgeon]], and [[Gold crucian]].
+:{{*}}Aside from the Perch and Gold Crucian, these fish are also tempted by the two lures; [[Lure with a gem|gem'd]] and [[Steel lure|steel]].
+*The [[Gudgeon]] is practically identical to the {{PAGENAME}} in this regard.
+:{{*}}One exception is the Tuna, which appears to prefer the {{PAGENAME}} over the Gudgeon.
+*An {{PAGENAME}} (or Gudgeon) is required in order to catch the Gold Crucian.
+*The Gold Crucian is generally considered the best commodity, given an {{PAGENAME}} bait.
+:{{*}}Between its value and limited bait preference, no other fish compares.
+:{{*}}While farming, the player will undoubtedly catch a significant quantity of Pike.
+
+==Study==
+{| class="wikitable" style="text-align:center; width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|White fish fillet|1}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+
+[[pt-br:Anchova]]

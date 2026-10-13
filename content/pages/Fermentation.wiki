@@ -1,0 +1,121 @@
+This page talks about fermenting to craft various beverages
+
+==Orchards and Vineyards==
+Please look at the page on [[Farming]] for information on growing grapes, apples, berries and hops
+
+==Wine making==
+
+=== Vine Press ===
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Required
+|-
+|[[File:Vine Press Icon.png|frameless]]
+|Presses fruit into juice for fermentation into wine.
+|{{Item|Flitch|12}}
+{{Item|Complex iron parts|4}}
+
+{{Item|A piece of stone|10}}
+|[[Farming_and_Nature_(Tech_Tree)|Winemaking]]
+|}
+
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|Pail of apple juice|1}}
+|{{Item|red apple|10}}
+|5 {{Energy}}
+|Needs fermentation in the barrel
+|-
+
+|{{Item|Pail of berry juice|1}}
+|{{Item|berry|25}}
+|5 {{Energy}}
+|Needs fermentation in the barrel
+|-
+
+|{{Item|Pail of grape juice|1|animation}}
+|{{Item|grapes|15|animation}}
+|5 {{Energy}}
+|Needs fermentation in the barrel.
+|-
+|{{Item|Seed oil|1}}
+|{{Item|Hemp seed|4}}
+|5 {{Energy}}
+|
+|-
+|{{Item|oil|10}}
+|{{Item|fat|5}}
+|5 {{Energy}}
+|
+|}
+Note:all these items can be opened to reveal bottles or liquids
+
+=== Wine Making Barrel ===
+Note: Barrels can be crafted from the blueprint stand in the Cellar.
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Time
+!Notes
+|-
+|{{Item|red wine|20|animation}}
+|{{Item|Pail of grape juice|2|animation}}
+|6:00
+|{{Item|red wine||1}}: Restores +30 {{Health}} and +50 {{Energy}} Each  
+
+{{Item|red wine||silver}}: Restores +30 {{Health}} and +60 {{Energy}} Each  
+ 
+{{Item|red wine||gold}}: Restores +30 {{Health}} and +70 {{Energy}} Each
+|}
+
+==Brewing==
+=== Brewing Stand ===
+{| class="wikitable"
+!Icon
+!Ingredients
+!Recipe Source
+|-
+|[[File:Brewing Stand Icon.png|frameless]]
+|{{Item|A piece of stone|24}}
+{{Item|Simple iron parts|4}}
+|[[Farming and Nature (Tech Tree)|Brewing]]
+|}
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Time/Fuel
+!Notes
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|water|50}}
+{{Item|Hops|3|animation}}
+
+{{Item|Wheat|15}}
+| 2:00
+15{{fuel}}
+|{{Item|A mug of beer||1}} Restores +5 {{health}} and +15 {{energy}} Each
+{{Item|A mug of beer||2}} Restores +5 {{health}} and +25 {{energy}} Each
+
+{{Item|A mug of beer||3}} Restores +10 {{health}} and +30 {{energy}} Each
+|-
+|{{Item|A mug of mead|10|animation}}
+|{{Item|water|50}}
+{{Item|Hops|3|animation}}
+
+{{Item|Honey|1}}
+| 1:30
+10{{fuel}}
+|{{Item|A mug of mead||1}} Restores +5 {{health}} and +10 {{energy}} Each
+{{Item|A mug of mead||2}} Restores +5 {{health}} and +15 {{energy}} Each
+
+{{Item|A mug of mead||3}} Restores +5 {{health}} and +20 {{energy}} Each
+
+|}
+{{Navbox-Food}}
+[[Category:Topics]]

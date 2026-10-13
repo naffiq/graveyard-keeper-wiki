@@ -1,0 +1,13 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| source       = [[Royal services]]
+| quest        = [[Merchant]], [[Trade Office]]
+}}
+A trade license can be bought from the [[royal services|royal services box]] for {{money|5000}}. You must purchase the rightful citizen status for another {{money|300}} in advance.
+
+Without these papers, you won't be able to open a [[trade office]] to sell {{item|crate}}s in the [[town]] with  the [[merchant]] as your business partner.
+
+{{navbox-Quest}}
+[[Category:quest items]]

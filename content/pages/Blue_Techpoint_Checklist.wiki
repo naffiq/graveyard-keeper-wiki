@@ -1,0 +1,573 @@
+<big><b>*WORK IN PROGRESS*</b></big> The following is a checklist for the generation of <b>blue techpoints</b>, otherwise known as <b>blue points</b>, the rarest of three different techpoints that represent one's accomplishments towards more advanced [[technology]]. This list is separated into early-game, mid-game, and late-game, with sub categories of study, crafting, and miscellaneous.
+
+The primary purpose of <b>studying</b> an item is to prepare it for [[alchemy]] if applicable, though it also comes with the benefit of a one-time techpoint bonus. Meanwhile, most items in the world can be <b>crafted</b>, sometimes in great numbers if useful enough, usually yielding some amount of techpoints. Lastly, there are several <b>miscellaneous</b> sources one might come across.
+
+==Early Game==
+The following consists of blue point sources a player is able to utilize relatively quickly from the start. No technology that needs blue points to be unlocked is required, and the player need-not advance very far through any particular quest-line.
+
+===Study===
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="sortable wikitable" style="width:60em; text-align:center;"
+!Item
+!Craft Req
+!Study Req
+!Reward
+!Notes
+|-
+|{{Item|Flesh}}
+|{{Item|Corpse}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|20}}
+|rowspan="9"|All can be<br>removed from<br>a single corpse<br>once [[Anatomy and Alchemy (Tech Tree)|researched]].<hr><i>Protip; be sure to<br>fully utilize the<br>buried corpse that<br>[[Yorick]] points out.
+|-
+|{{Item|Blood}}
+|{{Item|Corpse}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Fat}}
+|{{Item|Corpse}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Skull}}
+|{{Item|Corpse}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Bone}}
+|{{Item|Corpse}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Skin}}
+|{{Item|Corpse}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Brain}}
+|{{Item|Corpse}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|50}}
+|-
+|{{Item|Heart}}
+|{{Item|Corpse}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|50}}
+|-
+|{{Item|Intestine}}
+|{{Item|Corpse}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|50}}
+|-
+|{{Item|Wooden marker}}
+|{{Item|Flitch|2}}<br>{{Item|Nails|1}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|10}}
+|rowspan="7"|All can be<br>immediately<br>found within<br>the [[Graveyard]]
+|-
+|{{Item|Wooden grave fence}}
+|{{Item|Wooden plank|1}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Wooden cross}}
+|{{Item|Wooden plank|1}}<br>{{Item|Nails|1}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Gravestone}}
+|{{Item|A piece of stone|2}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Techpoint|Blue|20}}
+|-
+|{{Item|Stone grave fence}}
+|{{Item|A piece of stone|2}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|30}}
+|-
+|{{Item|Stone cross}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|30}}
+|-
+|{{Item|Stone grave fence II}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|30}}
+|-
+!Total:
+|N/A
+|{{Item|Faith|31}}<br>{{Item|Science|31}}
+|colspan="2"|{{Techpoint|Blue|430}}
+|}
+</table-progress-tracking>
+
+===Crafting===
+{| class="wikitable" style="width:60em; text-align:center;"
+!Item
+!Craft Req
+!Workstation
+!Reward
+!Notes
+|-
+| colspan="5" |N/A
+|}
+
+===Miscellaneous===
+<table-progress-tracking table-id="2" unique-column-index="1">
+{| class="sortable wikitable" style="width:60em; text-align:center;"
+!Source
+!Requirement
+!Reward
+|-
+|[[File:Science effect.png|link=Effects|Circumspect]] [[Effects|Circumspect]]<br><i>16x Studied Items</i>
+|{{Item|Cake}}<hr>{{Item|Grape pie}}
+|{{Techpoint|Blue|16}}
+|-
+|Cleric's Beginner's Guide
+|Bring [[Bishop]] {{Item|Ceramic bowls|20}} upon request.
+|{{Techpoint|Blue|5}}
+|}
+</table-progress-tracking>
+
+==Mid-Game==
+By this stage of the game, the player has likely explored most of the gaming world, started several quests, and is on their way to mastering several - but not all - aspects of the game. For example, while marble production may still be inaccessible, the player's stone-work could be exceptional.
+
+===Studying===
+<table-progress-tracking table-id="3" unique-column-index="1">
+{| class="sortable wikitable" style="width:60em; text-align:center;"
+!Item
+!Craft Req
+!Study Req
+!Reward
+!Notes
+|-
+|{{Item|Ceramic funeral urn}}
+|{{Item|Ceramic jug|1}}<br>{{Item|Ash|5}}
+|{{Item|Faith|2}}<br>{{Item|Science|3}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|30}}
+|
+|-
+|{{Item|Incense}}
+|{{Item|Freshener|1}}
+|{{Item|Faith|1}}<br>{{Item|Science|2}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|15}}
+|
+|-
+|{{Item|Gravestone II}}
+|{{Item|A piece of stone|3}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|30}}
+|
+|-
+|{{Item|Stone cross II}}
+|{{Item|A polished brick of stone|3}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Techpoint|Blue|30}}
+|
+|-
+|{{Item|Stone plinth}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Techpoint|Blue|30}}
+|
+|-
+|{{Item|Stone sculpture}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Techpoint|Blue|50}}
+|
+|-
+|{{Item|Stone sculpture II}}
+|{{Item|A carved piece of stone|2}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Techpoint|Blue|50}}
+|
+|-
+!Total:
+|{{Item|A piece of stone|3}}<br>{{Item|A polished brick of stone|5}}<br>{{Item|A carved piece of stone|4}}<br>{{Item|Complex iron parts|6}}
+|{{Item|Faith|24}}<br>{{Item|Science|26}}
+|colspan="2"|{{Techpoint|Red|10}}<br>{{Techpoint|Blue|235}}
+|}
+</table-progress-tracking>
+
+===Crafting===
+{| class="wikitable" style="width:60em; text-align:center;"
+!Item
+!Craft Req
+!Workstation
+!Reward
+!Notes
+|-
+|{{Item|Ceramic funeral urn}}
+|{{Item|Ceramic jug|1}}<br>{{Item|Ash|5}}
+|{{Item|Cooking table}}
+|{{Techpoint|Blue|1}}
+|<i>Protip; craft 1x,<br>for studying only.</i>
+|-
+|{{Item|Hemp rope|5}}
+|{{Item|Hemp|4}}
+|rowspan="3"|{{Item|Church workbench}}
+|{{Techpoint|Blue|1}}
+|<i>Protip; maintain a<br>single stack (30x).</i>
+|-
+|{{Item|Candle (1)|2}}
+|{{Item|Fat|2}}<br>{{Item|Beeswax|2}}<br>{{Item|Hemp rope|1}}
+|{{Techpoint|Blue|2}}
+|rowspan="2"|<i>Protip; craft a few<br>for limited use only.</i>
+|-
+|{{Item|Candle (3)|2}}
+|{{Item|Fat|2}}<br>{{Item|Beeswax|2}}<br>{{Item|White paint|3}}
+|{{Techpoint|Blue|2}}
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Polishing paste|1}}<hr>{{Item|A piece of stone|1}}<br>{{Item|Iron chisel|1}}
+|rowspan="2"|{{Item|Stone cutter}} /<br>{{Item|Stone cutter II}}
+|{{Techpoint|Red|3}}<br>{{Techpoint|Green|1}}<br>{{Techpoint|Blue|1}}
+|<i>Protip; craft only<br>as needed.</i>
+|-
+|{{Item|Stone grave fence}}
+|{{Item|A piece of stone|2}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Blue|5}}
+|<i>Protip; can be used<br>to farm blue tech.</i>
+|-
+|{{Item|Stone cross|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Complex iron parts|2}}
+|rowspan="7"|{{Item|Stone cutter II}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|5}}
+|rowspan="3"|<i>Protip; craft only<br>as needed.<br>(~200 {{Graveyard Rating}} Quality)</i>
+|-
+|{{Item|Gravestone II|1}}
+|{{Item|A piece of stone|3}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|5}}
+|-
+|{{Item|Stone grave fence II|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|A polished brick of stone|1}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Blue|5}}
+|-
+|{{Item|Stone cross II|1}}
+|{{Item|A polished brick of stone|3}}<br>{{Item|Complex iron parts|2}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|3}}
+|rowspan="4"|<i>Protip; craft 1x,<br>for studying only.</i>
+|-
+|{{Item|Stone plinth|1}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|3}}
+|-
+|{{Item|Stone sculpture|1}}
+|{{Item|A polished brick of stone|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|10}}
+|-
+|{{Item|Stone sculpture II|1}}
+|{{Item|A carved piece of stone|2}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|10}}
+|-
+|{{Item|Clean paper|2}}
+|{{Item|Ruined book|1}}<br>{{Item|River sand|1}}
+|rowspan="6"|{{Item|Desk}} /<br>{{Item|Desk II}}
+|{{Techpoint|Red|1}}<br>{{Techpoint|Blue|1}}
+|Only ~8x Ruined<br>Books exist.
+|-
+|{{Item|Flyer|5}}
+|{{Item|Pen and ink|1}}<br>{{Item|Clean paper|1}}
+|{{Techpoint|Blue|2}}
+|<i>Protip; craft only<br>as needed.</i>
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Pen and ink|1}}<br>{{Item|Clean paper|1}}<br>{{Item|Faith|10}}
+|{{Techpoint|Blue|1}}
+|rowspan="4"|<i>Protip; keep crafting<br>that involves Stories<br>to a minimum until<br>two related [[perks]]<br>are unlocked<br>and the [[Prayer for imagination|Inspiration]]<br>effect is active.</i>
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|Story|1|animation}}<br>{{Item|Pen and ink|1}}<br>{{Item|Clean paper|1}}
+|{{Techpoint|Blue|3}}
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|Notes|3|animation}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for faith|1|animation}}<hr>{{Item|Prayer for donations|1|animation}}<hr>{{Item|Prayer for shoots and roots|1|animation}}<hr>{{Item|Prayer for repentance|1|animation}}<hr>{{Item|Prayer for prosperity|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Conical flasks|1}}
+|{{Item|Glass|2}}
+|rowspan="2"|{{Item|Furnace II}}
+|{{Techpoint|Red|1}}<br>{{Techpoint|Blue|1}}
+|<i>Protip; maintain<br>two stacks (60x).</i>
+|-
+|{{Item|Advanced conical flasks|2}}
+|{{Item|Conical flasks|3}}<br>{{Item|Water|1}}
+|{{Techpoint|Red|3}}<br>{{Techpoint|Blue|1}}
+|<i>Protip; craft only<br>as needed.</i>
+|}
+
+===Miscellaneous===
+{| class="wikitable" style="width:60em; text-align:center;"
+!Source
+!Requirement
+!Reward
+|-
+|[[File:Science effect.png|link=Effects|Circumspect]] [[Effects|Circumspect]]<br><i>7x Studied Items</i>
+|{{Item|Cake}}<hr>{{Item|Grape pie}}
+|{{Techpoint|Blue|7}}
+|-
+|{{Item|Book (b)}}
+|Purchased from the [[Astrologer]] for {{Money|500}}.<hr>Crafted using the [[random text generator]].
+|{{Techpoint|Blue|25}}
+|}
+
+==Late Game==
+One potential setback during the later stages of the game would be a shortage of blue techpoints, requiring an investment towards unlocking the tech that will provide further sources. Once all these sources are achieved, the player can likely start concentrating on other obstacles.
+
+===Studying===
+<table-progress-tracking table-id="4" unique-column-index="1">
+{| class="wikitable" style="width:60em; text-align:center;"
+!Item
+!Craft Req
+!Study Req
+!Reward
+!Notes
+|-
+|{{Item|Dark heart}}
+|{{Item|Corpse}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Techpoint|Blue|100}}
+|rowspan="3"|Requires progression<br>through [[Inquisitor]]'s<br>quest-line. ({{Happiness||80}})<hr>Random occurrence,<br>likely requiring<br>multiple corpses.
+|-
+|{{Item|Dark brain}}
+|{{Item|Corpse}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Techpoint|Blue|100}}
+|-
+|{{Item|Dark intestine}}
+|{{Item|Corpse}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Techpoint|Blue|100}}
+|-
+|{{Item|Porcelain funeral urn}}
+|{{Item|Porcelain pitcher|1}}<br>{{Item|Ash|5}}
+|{{Item|Faith|4}}<br>{{Item|Science|5}}
+|{{Techpoint|Red|10}}<br>{{Techpoint|Blue|50}}
+|
+|-
+|{{Item|Incense II}}
+|{{Item|Aromatizer|1}}
+|{{Item|Faith|2}}<br>{{Item|Science|4}}
+|{{Techpoint|Red|15}}<br>{{Techpoint|Blue|45}}
+|
+|-
+|{{Item|Marble grave fence}}
+|{{Item|A piece of marble|2}}
+|{{Item|Faith|7}}<br>{{Item|Science|7}}
+|{{Techpoint|Blue|80}}
+|
+|-
+|{{Item|Marble cross}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|7}}<br>{{Item|Science|7}}
+|{{Techpoint|Blue|80}}
+|
+|-
+|{{Item|Marble grave fence II}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}
+|{{Item|Faith|8}}<br>{{Item|Science|8}}
+|{{Techpoint|Blue|90}}
+|
+|-
+|{{Item|Marble cross II}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|silver}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|8}}<br>{{Item|Science|8}}
+|{{Techpoint|Blue|90}}
+|
+|-
+|{{Item|Marble plinth}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|silver}}<br>{{Item|Complex iron parts|2}}
+|{{Item|Faith|8}}<br>{{Item|Science|8}}
+|{{Techpoint|Blue|90}}
+|
+|-
+|{{Item|Marble sculpture}}
+|{{Item|A carved piece of marble|1|silver}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Faith|5}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Techpoint|Blue|100}}
+|
+|-
+|{{Item|Marble sculpture II}}
+|{{Item|A carved piece of marble|1|silver}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Faith|5}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Techpoint|Blue|100}}
+|
+|-
+|{{Item|Death solution}}
+|{{Item|Black jelly|1}}<br>{{Item|Dark brain|1}}<br>
+|{{Item|Faith|?}}<br>{{Item|Science|?}}
+|{{Techpoint|Blue|5}}
+|
+|-
+|{{Item|Electric powder}}
+|{{Item|Eel|1}}<br>
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Techpoint|Blue|5}}
+|
+|-
+|{{Item|Chaos extract}}
+|{{Item|Butterfly|1}}<br> {{Item|Moth|1}}
+|{{Item|Science|1}}
+|{{Techpoint|Blue|5}}
+|
+|-
+!Total:
+|{{Item|A piece of marble|4}}<br>{{Item|A polished brick of marble|4}}<br>{{Item|A carved piece of marble|4|silver}}<br>{{Item|Complex iron parts|10}}<br>{{Item|Faith|10}}
+|{{Item|Faith|79}}<br>{{Item|Science|82}}
+|colspan="2"|{{Techpoint|Red|25}}<br>{{Techpoint|Blue|1025}}
+|}
+</table-progress-tracking>
+
+===Crafting===
+{| class="wikitable" style="width:60em; text-align:center;"
+!Item
+!Craft Req
+!Workstation
+!Reward
+!Notes
+|-
+|{{Item|Porcelain funeral urn|1}}
+|{{Item|Porcelain pitcher|1}}<br>{{Item|Ash|5}}
+|{{Item|Cooking table}}
+|{{Techpoint|Blue|2}}
+|<i>Protip; craft 96x<br>in total, for<br>[[Marble columbarium|columbariums]].</i>
+|-
+|{{Item|Acid injection|4}}<hr>{{Item|Lye injection|4}}<hr>{{Item|Glue injection|4}}<hr>{{Item|Preservative injection|4}}<hr>{{Item|Restore injection|4}}<hr>{{Item|Dark injection|4}}<hr>{{Item|Silver injection|4}}<hr>{{Item|Gold injection|4}}
+|{{Item|Acid|1}}<hr>{{Item|Alkali|1}}<hr>{{Item|Glue|1}}<hr>{{Item|Preservative|1}}<hr>{{Item|Balsamic solution|1}}<hr>{{Item|Dark elixir|1}}<hr>{{Item|Silver elixir|1}}<hr>{{Item|Golden elixir|1}}<br>+<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|rowspan="2"|{{Item|Church workbench}}
+|{{Techpoint|Blue|3}}
+|<i>Protip; craft only<br>as needed.</i>
+|-
+|{{Item|Candle (4)|2}}
+|{{Item|Beeswax|4}}<br>{{Item|White paint|3}}<br>{{Item|Hemp rope|1}}
+|{{Techpoint|Blue|2}}
+|rowspan="2"|<i>Protip; mass<br>produce.</i>
+|-
+|{{Item|A piece of marble|3}}
+|{{Item|Marble block|1}}<br>{{Item|Wood wedge|3}}
+|rowspan="2"|{{Item|Stone cutter}} /<br>{{Item|Stone cutter II}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Green|1}}<br>{{Techpoint|Blue|1}}
+|-
+|{{Item|A polished brick of marble|1}}
+|{{Item|Iron chisel|1}}<br>{{Item|A piece of marble|1}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Green|1}}<br>{{Techpoint|Blue|1}}
+|<i>Protip; maintain a<br>single stack (30x).</i>
+|-
+|{{Item|A carved piece of marble|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Faith|5}}
+|rowspan="8"|{{Item|Stone cutter II}}
+|{{Techpoint|Red|3}}<br>{{Techpoint|Green|1}}<br>{{Techpoint|Blue|2}}
+|<i>Protip; craft only<br>as needed.</i>
+|-
+|{{Item|Marble grave fence|1}}
+|{{Item|A piece of marble|2}}
+|{{Techpoint|Red|5}}
+|rowspan="2"|<i>Protip; craft 1x,<br>for studying only.</i>
+|-
+|{{Item|Marble cross|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}<br>{{Item|Complex iron parts|2}}
+|{{Techpoint|Red|5}}
+|-
+|{{Item|Marble grave fence II|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}
+|{{Techpoint|Red|5}}
+|<i>Protip; craft 84x<br>in total, for<br>[[gravesite]]s.</i>
+|-
+|{{Item|Marble cross II|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}
+|{{Techpoint|Red|5}}
+|rowspan="2"|<i>Protip; craft 1x,<br>for studying only.</i>
+|-
+|{{Item|Marble plinth|1}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|15}}
+|-
+|{{Item|Marble sculpture|1}}
+|{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}<br>{{Item|faith|5}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|15}}
+|rowspan="2"|<i>Protip; craft 84x<br>in total, for<br>[[gravesite]]s.</i>
+|-
+|{{Item|Marble sculpture II|1}}
+|{{Item|A carved piece of marble|1|2}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Faith|5}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|15}}
+|-
+|{{Item|Hard cover|1|copper}}
+|{{Item|Softcover|1}}<br>{{Item|Tanning agent|1}}<br>{{Item|Faith|1}}
+|rowspan="3"|{{Item|Church workbench}}
+|{{Techpoint|Red|1}}<br>{{Techpoint|Blue|5}}
+|rowspan="2"|<i>Protip; craft only<br>as needed.</i>
+|-
+|{{Item|Hard cover|1|silver}}
+|{{Item|Hard cover|1|copper}}<br>{{Item|Steel parts|2}}<br>{{Item|Faith|2}}
+|{{Techpoint|Red|1}}<br>{{Techpoint|Blue|5}}
+|-
+|{{Item|Hard cover|1|gold}}
+|{{Item|Hard cover|1|silver}}<br>{{Item|Gold jewelry details|2}}
+|{{Techpoint|Red|1}}<br>{{Techpoint|Blue|5}}
+|<i>Protip; don't craft</i>
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Softcover|1}}<br>{{Item|Chapter|1|animation}}<hr>{{Item|Hard cover|1|animation}}<br>{{Item|Chapter|1|animation}}
+|rowspan="2"|{{Item|Desk}} /<br>{{Item|Desk II}}
+|{{Techpoint|Blue|15}}
+|rowspan="2"|<i>Protip; craft only<br>as needed.</i>
+|-
+|{{Item|Combo prayer|1|animation}}<hr>{{Item|Prayer for repose|1|animation}}<hr>{{Item|Prayer for retribution|1|animation}}<hr>{{Item|Prayer for protection|1|animation}}<hr>{{Item|Prayer for imagination|1|animation}}<hr>{{Item|Prayer for excellence|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Steel parts|3}}
+|{{Item|Steel ingot|1}}<br>{{Item|Ceramic bowls|2}}
+|{{Item|Furnace III}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Blue|1}}
+|<i>Protip; maintain a<br>single stack (30x).</i>
+|-
+|{{Item|Lens|4}}
+|{{Item|Glass|2}}<br>{{Item|Polishing paste|1}}<br>{{Item|Faith|2}}
+|rowspan="4"|{{Item|Carpenter's workbench II}}
+|{{Techpoint|Red|5}}<br>{{Techpoint|Blue|2}}
+|<i>Protip; maintain a<br>single stack (30x).</i>
+|-
+|{{Item|Steel chisel|1|copper}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel parts|1}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Blue|1}}
+|
+|-
+|{{Item|Steel chisel|1|silver}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel parts|1}}<br>{{Item|Lens|1}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Blue|1}}
+|
+|-
+|{{Item|Steel chisel|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>{{Item|Steel parts|1}}<br>{{Item|Lens|1}}
+|{{Techpoint|Red|2}}<br>{{Techpoint|Blue|1}}
+|
+|}
+
+===Miscellaneous===
+{| class="wikitable" style="width:60em; text-align:center;"
+!Source
+!Requirement
+!Reward
+|-
+|[[File:Science effect.png|link=Effects|Circumspect]] [[Effects|Circumspect]]<br><i>12x Studied Items</i>
+|{{Item|Cake}}<hr>{{Item|Grape pie}}
+|{{Techpoint|Blue|12}}
+|-
+|{{Item|Great book (b)}}
+|Purchased from the [[Astrologer]] for {{Money|1000}}.
+|{{Techpoint|Blue|50}}
+|-
+|{{Item|Golden apple}}
+|Progression through [[Snake]]'s quest-line; ({{Happiness||80}})<br>agree to lick the apple.
+|{{Techpoint|Blue|107}}
+|}
+
+[[Category:Guides]]

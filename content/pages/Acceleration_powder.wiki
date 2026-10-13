@@ -1,0 +1,78 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_1_d_blue
+| study        = {{Techpoint|Green|5}}
+| buy       = [[Clotho|Clotho (T I)]]
+| sell        = 
+| source       = [[Alchemy]]
+| cost         = 50
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Hemp|1}}
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Honey|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Energy potion|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Acceleration solution|1}}
+|-
+|{{Item|Energy elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Slowing solution|1}}
+|-
+|{{Item|Blue Paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1|}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Speed potion|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Blood|1}}
+|-
+|{{Item|Aromatizer|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Alcohol|1}}<br>{{Item|Life extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[fr:Poudre d'Accélération]]
+[[de:Beschleunigungspuder]]
+[[pt-br:Pó de aceleração]]

@@ -1,0 +1,112 @@
+
+==Technology points==
+Technology is unlocked by three types of technology points. These points are obtained by different actions, as well as items and study of items. Essential to progress are the [[study table]] in the [[church]] basement and the science and faith points that are used to study items. Eating [[cake]] or [[Grape pie]] gives the player a temporary buff that provide a flat +1 blue points to any research.
+
+====[[File:Red Tech Symbol.png|frameless]] Red====
+"Hand-crafting skills, and your ability to work with materials". Anything involving physical labor generates {{Techpoint|red}} points. Actions include operating machines in the farm, cutting down trees, and mining [[A piece of stone|stone]] and [[coal]].
+
+====[[File:Green Tech Symbol.png|frameless]] Green====
+"Knowledge about the nature of things, and of nature itself". Anything involving organic materials generates green points. This means cutting down weeds, gathering wood and farming. 
+
+====[[File:Blue Tech Symbol.png|frameless]] Blue====
+"Spiritual knowledge of the immaterial world". Blue tech points are often among the hardest to earn in the early game. Tasks involving the [[morgue]], [[graveyard]], [[writing]] and [[alchemy]] often generate them but many of these aren't options until later. The best early source of them is the [[study table]]. Organs are studied to gain {{Techpoint|blue}} as well as gravestones, fences and some [[Alchemy|alchemical]] substances. The [[study table]] is unlocked after the player gets access to the [[church]].
+
+Another way to gain those points is producing [[hemp rope]]s, [[A polished brick of stone|polished stone bricks]], [[steel parts]], [[conical flasks]] or [[advanced conical flasks]]. Each one of these items provides {{Techpoint|blue|1}} when crafted.
+
+Some players claim that the ultimate way to gain them is [[astrologer|buying]] or [[Random text generator|producing]] blue [[techbook]]s, which provide {{Techpoint|blue|25 or 50}}. 
+
+Another viable way is to exchange {{Item|A piece of stone|2}} into  5 [[File:Blue Tech Symbol.png|frameless]] points  by crafting {{Item|Stone grave fence|1}}. Afterwards it could be recycled into {{Item|A piece of stone|1}}. This is time-consuming, but a rather cheap way to obtain [[File:Blue Tech Symbol.png|frameless]] tech points, especially after having setup a working {{Item|Zombie stone quarry}}.
+
+Even ''without'' that tech, however, any zombie can be assigned to a yard workstation.  Two zombies on two cheap, type I Stone Cutters, with one cued up building many dozens of Stone Grave Fences, and another cued up many dozens of breaking them down into stone (and a trunk with enough space for these) would keep running quite a while, during which one can run about gathering stone to feed their Blue Tech Point Factory operation. ''(NOTE: This will not work in current game with all DLC's, as items no longer drop tech points when crafted by Zombies.  One can still focus on breaking the fences down into stone while the player does the fence-making personally, though.  It is unclear if this changed due to base game updates or if it was an effect of one of the DLC's- more data needed.  With the Better Save Souls expansion, one '''can''' use Soul Gratitude to run the crafting stations and still get the tech points as if one made the items themselves, but it will probably take longer to unlock that ability than it does for Zombie labor.)''
+
+See also: [[Blue Techpoint Checklist]]
+
+==Study table==
+Once you progress through the main [[Quests|quest]] to unlock the church and give [[sermon]]s or upon clearing debris in the tunnels under [[Sweet Home|your home]], you unlock the [[study table]]. It can be found beneath the [[church]] in the [[Alchemy Lab|alchemy lab]].
+
+The study table is used to study items. After an item has been studied it cannot be studied again and you will obtain both technology points as well as possible [[Alchemy|decomposition products]]. Organic materials tend to generate {{Techpoint|green}} points, inorganic materials (iron, stone, tools) generate {{Techpoint|red}} points, and mortuary, graveyard, and alchemy items generate {{Techpoint|blue}} points.  What an item provides when studied is seen next to the "Study Not Complete" text when hovering over an item.
+
+Studying most items requires {{item|faith}} (except most alchemy items) and {{item|science}}. {{item|faith}} can be obtained by holding [[sermon]]s in the [[church]] on {{Day|Pride}} or from a [[confessional]]. {{item|Science}} can be obtained by decomposing [[clean paper|paper]], [[notes]], [[chapter]]s, [[lens]]es, or [[book]]s on the [[study table]].
+
+== Books ==
+The [[astrologer]] sells [[techbook|books]] and [[techbook|great books]], that can be used to instantly gain 25 (standard) or 50 (great) techpoints of one of three colours. Those books can also be crafted by {{item|zombie}}s on the [[random text generator]].
+<center>
+<gallery mode="nolines">
+File:Techbook item.png|standard variant
+File:Techbook 2 item.png|great variant
+</gallery>
+</center>
+
+==Technology Tree==
+The technology tree is sorted by related technology branches. 
+
+===Anatomy and Alchemy===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 1.png|frameless|link=Anatomy and Alchemy (Tech Tree)]]
+|[[Anatomy and Alchemy (Tech Tree)|Anatomy and Alchemy]] tree deals with [[Corpse|autopsies]] and acquired organs. [[Alchemy]] is unlocked upon speaking to the [[Clotho|old woman]] in the swamp.  As you unlock items along this branch, you gain access to better autopsy resources and techniques, alchemical equipment, and products.
+|}
+
+===Theology===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 2.png|frameless]]
+|[[Theology (Tech Tree)|Theology]] deals with the [[church]] and [[graveyard]]. It unlocks better gravestones and fences to increase graveyard rating {{Graveyard Rating}}, new church items and sermons to boost church rating {{Church Rating}} with unique bonuses.
+|}
+
+===Book Writing===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 3.png|frameless|link=Book Writing (Tech Tree)]]
+|[[Book Writing (Tech Tree)|Book Writing]] deals with the production of knowledge and science. The early stages of the tree involve paper making and ink but later levels change how you can use [[story|stories]] to create more complex written resources for use in top-tier [[sermon]]s and crafting.
+|}
+
+===Farming and Nature===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 4.png|frameless|link=Farming and Nature (Tech Tree)]]
+|[[Farming and Nature (Tech Tree)|Farming and Nature]] deals with farming and the manipulation of nature. This involves growing crops, fruit trees, beekeeping, wine and beer production, and fishing.
+|} 
+
+===Smithing===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 5.png|frameless|link=Smithing (Tech Tree)]]
+|The [[Smithing (Tech Tree)|Smithing]] tree deals with the processing of iron and sand into metal parts, tools, and glass.
+|}
+
+===Building===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 6.png|frameless|link=Building (Tech Tree)]]
+|[[Building (Tech Tree)|Building]] deals with processing of wood and stone into wooden and stone products.
+|}
+
+===Cookery===
+{|
+|-style = "vertical-align:top;" |
+|[[File:I tbranch 7.png|frameless|link=Cookery (Tech Tree)]]
+|[[Cookery (Tech Tree)|Cookery]] deals with the preparation of various food items.
+|}
+
+[[Category:Technologies| ]]
+[[Category:Graveyard Keeper]]
+[[Category:Main Pages]]
+
+===Spiritualism===
+{|
+|-style = "vertical-align:top;" |
+|[[File:Spiritualism-book.png|frameless]]
+|[[Spiritualism (Tech Tree)|Spiritualism]] deals with the purification of souls.
+|}
+
+[[Category:Technologies| ]]
+[[Category:Graveyard Keeper]]
+[[Category:Main Pages]]
+
+[[pt-br:Tecnologias]]
+[[fr:Technologies]]
+[[es:Tecnologías]]
+[[ja:テクノロジー]]
+[[de:Technologien]]
+[[ru:Технологии]]

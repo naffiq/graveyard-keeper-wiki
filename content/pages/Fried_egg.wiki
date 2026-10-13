@@ -1,0 +1,29 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|11}}
+| nameinternal = snack:fried_egg
+| study        = 
+| source       = [[Cooking]]
+| cost         = 11
+}}
+
+A food item which restores {{Energy|+|11}} when consumed.  Since the items which can be used to craft a {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Fried egg|1}}
+|{{Item|Chicken egg|1}}
+{{Item|Fuel|1}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]

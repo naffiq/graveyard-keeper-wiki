@@ -1,0 +1,25 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Graveyard]]
+|technology = [[Theology (Tech Tree)|Graveyard enhancement]]
+|footprint  = 2X2
+|rotatable  = False
+}}
+<!-- Put page content here -->
+Gives a static +2 {{Graveyard Rating}} when built. There can be maximum of 9 Wooden prayer stations at the graveyard. Shares the same 9 slots with the {{Item|Lantern}} , {{Item|Flowerbed}} and {{Item|Stone prayer station}} in the graveyard.
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|7}}<br>{{Item|Nails|4}}<br>{{Item|Book|1}}
+|?{{Energy}} (Hammer)
+|[[Theology (Tech Tree)|Graveyard enhancement]]
+|}
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+[[Category:Graveyard workstations]]

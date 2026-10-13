@@ -1,0 +1,48 @@
+The '''Misty Quagmire''' is an area only obtainable after you get to a certain point in [[Marquis Teodoro Jr.]]'s quest. After you reach this point, you will be able to ask him about the Misty Quagmire, and he will take you there. It is not accessible from anywhere else.  
+
+You will find yourself in an unknown area. The marquis will ask you to hurry up and do your thing. Using the [[Witcher's Eye]], you will view scenes from the past. 
+
+A mound of dirt will appear and you can dig it up to gain the [[bone leg]].  
+
+A second mound of dirt will appear and you can dig it up to gain the [[Charred vampire shoe|Charred Vampire Shoe]].  
+
+After you have viewed all the scenes, talk to the marquis and you can leave.  
+
+'''NOTE''': There is currently a glitch where you may get stuck in the Misty Quagmire¹ and the clouds may disappear. The only known way to fix this is to leave and re-enter the game. It is recommended that you save the game before entering. It may be possible to open your universal bags and rearrange your inventory to make sure the Witcher's Eye is in your main inventory to have the clouds reappear.
+
+¹ If you are in possession of the [[Universal bag]] make sure, you have enough space in your main inventory for the [[bone leg]] and the [[Charred vampire shoe|Charred Vampire Shoe]]. The [[Marquis_Teodoro_Jr]] won't let you leave, if one or both of the items are in your [[Universal bag]].
+
+If you wander around the back right of the immediate area you can at first explore in the quagmire, you'll find a "craft" option to craft a shortcut to nowhere. It could be a glitch, but it is currently unknown if it is intentional. In this area, you'll see the outline of the current map you're in(into which you can endlessly walk through a black misty void). At the top middle of the void, directly in line with the Marques Teodoro Jr. you'll see a version of him with black eyes. You can't interact with him, but he's there. If you continue past him for a minute and twenty-seven seconds, you'll see the void turn dark red and your character will disappear. You can keep going past this point, but it's unknown why you'd want to.
+
+After going through the craftable spot if you go south from the south east corner of Misty Quagmire for ~1 minute (with speed potion applied, which does not count down in this Mist Quagmire), you will find some swamp textures in the blackness. This is the western edge of the main map, next to Witch’s Land. 
+
+if you follow the northern edge of the main map you will see any Zombies you might have working at The Quarry. About 3/4 of the way along the northern edge Quarry. 
+
+About 3/4 along the northern edge is a spy glass icon that is usually at clearable areas. The Gravekeeper only has dialog saying “I am not able to clear that.” No materials or options to clear it pop up. 
+
+There is a watchtower and wall barring entry into the Mountain Fort at the north eastern corner of the map. 
+
+The eastern edge of the map, the water, has an invisible wall barring you from entering the main map along the beach.
+
+No way was found onto the main map.
+
+Along the southern edge of the map you will find the road to The Town.
+
+If you get too close the Gravekeeper will be struck by lightning and be transported to Sweet Home. Here you will be in same cutscene with Gerry as when you try to go to The Town during the main storyline. The mist will still be there, you will not be able to leave Sweet Home through the front door or trapdoor, nor use any teleportation. 
+
+Whether the game will hard lock and glitch your save if you use the bed in this state needs further testing.
+
+South of the road to The Town, along the southern edge of the map, you will find all of the characters that come and go on the daily schedule. To the left of them is the Inquisitor Beatrice. They will have whatever dialog you have unlocked, as well as trade. 
+
+Just south of these characters is the underground portion of Sweet Home. You can enter this portion by following the edge to and selecting the dungeon entrance. Upon leaving you will be in the underground portion of Sweet Home. This will soft lock you and force you to quit to main menu as all exits have the dialog of “Not yet.” 
+
+At the Archaeological time machine. After selecting and watching a cutscene, which plays normally without mist, the screen turns red and the mist is gone. 
+
+Just to the right of The Laughing Skull basement is The Laughing Skull. 
+
+On the left side of Sweet Homes underground is Dead Horse, then the Church. 
+
+All internal areas of the game might be set outside of the main map, however anything beyond what is listed here needs further exploration in the darkness. 
+
+[[Category:Locations]]
+[[Category:Game of Crone]]

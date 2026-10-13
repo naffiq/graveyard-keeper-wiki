@@ -1,0 +1,61 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Mob Drop
+| nameinternal = 
+| study        = {{Techpoint|Green|10}}
+| alchemy      = {{Item|Slowing powder}}, {{Item|Slowing extract}}
+| source       = [[Dungeon]]
+| cost         = 
+| quest        = 
+}}
+<b>{{PAGENAME}}</b> is obtained by killing [[Monsters|spiders]] in the [[dungeon]]. Its only known purpose is as a product of alchemy; once studied, it can be broken down into the Slowing variants of [[Slowing powder|powder]] and [[Slowing extract|extract]].
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Slowing powder|powder]] and [[Slowing extract|essence]].
+|}
+
+==Alchemy==
+Spider web can be decomposed to [[slowing powder|powder]] and [[slowing extract|extract]] with the [[alchemy mill]] and either [[Distillation cube|distillation]] [[Distillation cube II|cube]], respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Slowing powder|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Slowing extract|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Slowing extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Mob_Drops}}
+[[Category:Mob drops]]
+[[ru:Паутина]]

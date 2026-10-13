@@ -1,0 +1,65 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.gif
+|location   = [[Barn cellar]], [[Cabin in the woods]], [[Felling site]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Zombie logistics]]
+|related    = [[Zombie]]s
+|footprint  = 3x4
+|rotatable  = No
+}}
+
+You can put your {{item|zombie}}s at work to transport your goods. The [[crate factory]] and the [[sawmill]] comes with a built-in porter station, for the [[cabin in the woods]] and [[vineyard]], you've got to build your own. 
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80px]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Clean paper|2}}
+|none
+|Comes already fully assembled.
+|}
+
+==Graphic interface==
+Type "E" at the porter station to select whether a certain type of good should be transported or not. Click on the item to add/remove the green checkmark:<br>
+[[file:porter station 1.png|200px|link=crate factory|This is how it looks for the crate factory|left]]
+You can select silver, gold or [[items|goods]] [[crates]] at the [[crate factory]].
+{{clear}}
+
+[[file:porter station 3.png|200px|link=cabin in the woods|This is how it looks for the cabin in the woods|left]]
+You can select different kind of [[mining]] produce at the [[cabin in the woods]].
+{{clear}}
+
+[[file:porter station 4.png|200px|link=felling site|This is how it looks for the felling site|left]]
+You can only select [[log]]s at the [[sawmill]].
+{{clear}}
+
+[[file:porter station 5.png|200px|link=vineyard|This is how it looks for the vineyard|left]]
+You can select [[hops]] and [[grapes]] at the [[vineyard]].
+
+[[file:porter station 2.png|200px|link=zombie|This is how it looks if no worker is assigned|left]]
+Pick up a {{item|zombie}} and type "E" at the porter station to assign it to work. As soon as a crate shows up at the [[pallet]], or an [[items|item]] is added to the respective stockpile or put into a [[trunk]], it will be transported to the destination, if there's an empty space available.
+
+Clicking the porter station opens the interface above, showing the stats of the assigned [[zombie]].
+{{clear}}
+
+==Porter==
+[[file:Zombie porter.png|200px|link=zombie|This is how it looks when a zombie is hauling stuff around|left]]
+Porter [[zombie]]s look like this. They pick up the selected goods at their porter station, if available, and haul those over to their destination (your [[workyard]] from the [[felling site]] and [[cabin in the woods]], your [[trade office]] from the cellar of your [[crate factory]], and your [[cellar]] from your [[vineyard]]). They put [[crate]]s onto empty [[pallet]]s, big blocks onto their respective stockpile and smaller [[items]] into a [[trunk]], that has already this kind of item in it. If there's no space, they wait until you've made space enough to get rid of the goods.
+{{clear}}
+
+==Unemploying==
+[[file:porter station image 1.png|150px|link=zombie|The zombie is on the road|left]][[file:porter station image 2.png|150px|link=zombie|The zombie is back home|right]]
+If you want to get a [[zombie]] off its work, you can deselect all items and wait until it's back to the station. It enters there and waits for further commands. You can then hit "E" to get it off the station.
+
+The other possibility is to intercept a porter zombie, stand in its way, and talk to it by hitting "E". In this case, the porter drops all the goods it's currently hauling around.
+{{clear}}
+{{Navbox-Cabin in the woods}}
+[[Category:Workstations]]
+
+[[Category:Cabin in the woods workstations]]
+[[de:Transportstation]]

@@ -1,0 +1,51 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Digestion potion item.png
+| type         = Alchemy Product
+| consume      = [[File:Cooking effect.png]]
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 100
+| quest        =  
+}}
+
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]]. When used the potion applies the {{lcfirst:{{PAGENAME}}}} buff, increasing the restorative effect of {{Energy}} through food.
+
+==Effect==
+
+On use, digestion potion will apply the digestion potion buff for a duration of 5 minutes. This buff allows the player to regenerate more energy points from food. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Cooking effect.png|link=Effects#Digestion|Digestion]]
+|Food gives you more {{Energy}}.
+|style="text-align:center"|5:00
+|[[Effects#Digestion|Digestion]]
+|}
+
+== Recipe ==
+
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Health powder|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Acceleration extract|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[es:Poción de digestión]]
+[[pt-br:Poção de digestão]]

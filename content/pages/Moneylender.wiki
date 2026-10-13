@@ -1,0 +1,97 @@
+{{NPC Infobox
+|image=Moneylender.png
+|name=Moneylender
+|location=[[Refugee camp]]
+|vendor=Jewelry Materials
+|money=14988}}
+<b>{{PAGENAME}}</b> is an NPC vendor, introduced with the ''[[Game of Crone]]'' DLC. He will appear at the [[refugee camp]] after the player summons a third 'new refugee', for a total population of 7. In addition to his trades, he offers a one-time {{Money|10000}} loan at 1% daily interest, which you can pay back at any point upon returning to the camp during the daytime and talking with him. You will be unable to trade with him while you have outstanding debt.
+
+==Trades==
+===Selling===
+*The cost of [[jewelry]] is identical to [[Ms. Charm]]'s rates.
+*The cost of [[gold jewelry details]] is identical to [[Merchant]]'s rates.
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Jewelry}}
+|5
+|{{Money|10000}}
+|-
+|{{Item|Gold ingot}}
+|2
+|{{Money|5000}}
+|-
+|{{Item|Gold jewelry details}}
+|5
+|{{Money|5000}}
+|-
+|{{Item|Gold nugget}}
+|4
+|{{Money|2200}}
+|-
+|{{Item|Silver ingot}}
+|2
+|{{Money|2000}}
+|-
+|{{Item|Gold powder}}
+|6
+|{{Money|1000}}
+|-
+|{{Item|Silver nugget}}
+|6
+|{{Money|700}}
+|-
+|{{Item|Silver powder}}
+|4
+|{{Money|400}}
+|}
+|}
+
+===Buying===
+*The price of [[jewelry]] is identical to [[Ms. Charm]]'s rates.
+*The price of [[gold jewelry details]] and [[silver ingot]]s is identical to [[Merchant]]'s rates.
+*Selling powders gradually is much more profitable when compared to nuggets, or even ingots.
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Base Price
+|-
+|{{Item|Jewelry}}
+|{{Money|7500}}
+|-
+|{{Item|Gold ingot}}
+|{{Money|3062}}
+|-
+|{{Item|Gold jewelry details}}
+|{{Money|3423}}
+|-
+|{{Item|Gold nugget}}
+|{{Money|1476}}
+|-
+|{{Item|Silver ingot}}
+|{{Money|1225}}
+|-
+|{{Item|Gold powder}}
+|{{Money|694}}
+|-
+|{{Item|Silver nugget}}
+|{{Money|486}}
+|-
+|{{Item|Silver powder}}
+|{{Money|268}}
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Refugee camp]]
+[[Category:Game of Crone]]
+[[Category:Vendors]]

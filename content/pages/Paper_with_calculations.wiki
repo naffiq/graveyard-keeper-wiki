@@ -1,0 +1,30 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = 
+| source       = 
+| quest        =
+}}
+
+The {{PAGENAME}} is a single-use item which is required to fix the [[Mill]]. It can be obtained by talking to the [[Astrologer]] when
+continuing [[Ms. Charm]]'s quest line. You need 60 Reputation with [[Astrologer]] to get the calculations.
+
+The calculations have to be used at the door of the mill, not at the door of the mill-house.
+ 
+== Crafting ==
+{| class = "wikitable" style = "width:30em"
+|-
+! Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+|-
+|[[File:Mill item.png|center|80x80px]]
+|{{Item|Complex iron parts|5}} <br> {{Item|Wooden plank|6}} <br> {{Item|Paper with calculations|1}}
+|{{Energy|-|30}}
+|-
+|}
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

@@ -1,0 +1,33 @@
+{{stub}}
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = {{PAGENAME}}.png
+}}
+'''{{PAGENAME}}''' is an NPC of the ''[[Better Save Soul]]'' DLC. He can be found in the [[Souls room]] through [[Euric]]'s questline. He will require a single [[berry pie]] to complete a side quest.
+
+After the berry pie quest, you will unlock the Soul Healer followed by the Soul Portal. You will be able to use the full potential of the [[Souls room]] after this is done.
+
+==Quests==
+===Bring  Smiler a Berry Pie===
+After the cutscene where [[Euric]] asks you [[Seed oil]], you can talk with Smiler who will ask a [[Berry pie]] to give you some information.
+
+===Healing from Pride===
+After unlocking Healer Enthusiast in the Spiritualism tech tree and building the appropriate extensions, speak to Smiler. He tells you that you need to find someone with a strong sense of pride in order to complete the healing session. You are unable to think of such a person, but you determine that [[Horadric]] likely knows, so speak to him at the [[Dead Horse]]. He tells you that [[Bishop]] is likely who you are looking for. Speak to Euric. The two of you determine that Bishop is unlikely to just agree outright and will require persuasion, and that the healing session may require Bishop to express his sin - that of Pride. In order to do so, you speak to Vagner, who gives you an Ode to Bishop. Recite the Ode to Bishop next {{Day|Pride}} (this requires a [[Sin Shard]]). You will receive a charged Sin Shard, which you take to Euric for his first healing session. The next day, Euric has left a note for you in his room.
+
+===Healing from Wrath & Gluttony===
+After unlocking Experienced healer on the Spirituality tech tree, talk to Euric again and you will begin to pursue the Wrath and Gluttony charged Sin Shards.
+
+====Wrath====
+Discuss Wrath with Euric and you will identify [[Inquisitor]] as the next target. You and Euric decide to present him with the ashes of a dead witch, which you then obtain from [[Clotho]] in exchange for two [[Honey]]. Give the Unusual ash and a Sin Shard to Inquisitor. Turns out all those witch burnings Inquisitor demanded allegedly helped witches do more evil things. You will receive a Wrath charged Sin Shard.
+
+====Gluttony====
+Discuss Gluttony with Euric and you will identify [[Merchant]] as the next target. Euric tells you to get to him through food. You talk to Clotho, who gives you a recipe for a sauce to give to Merchant. Make the Mysterious food sauce at the [[Church workbench]] (requires 1x [[Seed oil]], 2x [[Chicken egg]], and 1x [[Salt]]) and take it to Merchant with one Sin Shard. He gives you a charged Sin Shard.
+
+Take both the Wrath and Gluttony Sin Shards back to Euric for his cutscene. Find another note in his room, then speak with Horadric to get a cutscene. 
+
+===Send Smiler through the Soul portal===
+After certain events have passed, Smiler will ask you to let him depart to the afterlife.
+
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Better Save Soul]]

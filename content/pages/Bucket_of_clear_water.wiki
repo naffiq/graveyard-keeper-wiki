@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Misc
+| nameinternal = pail_water
+| study        = 
+| source       = [[Well]]
+| cost         = 
+| stacksize    = 5
+}}
+{{PAGENAME}} is obtained from the well in the workyard. This can be reduced to x20 [[water]] simply by clicking on it in the inventory and selecting <b>Use</b>.
+
+It is used in making paper glop in the church workbench.
+
+{{Navbox-Misc}}

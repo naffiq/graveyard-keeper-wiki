@@ -1,0 +1,18 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = 
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| source       = 
+| cost         = 
+| quest        = Bring to [[Snake]]
+}}
+
+==Quest==
+===Bring the Necronomicon===
+[[Snake]] failed the summoning. He needs you to get the original summoning book, the [[Necronomicon]], from the [[Astrologer]]. Speak to the [[Astrologer]] and he'll say that he gave it to the [[Lighthouse Keeper]]. Speak to the [[Lighthouse Keeper]] and give him 5 [[Maggot|Maggots]] in exchange for the [[Necronomicon]]. Return to Snake for 10 {{Happiness}}. In Stranger Sins you learn that [[Clotho]] ordered [[Dig]] to write it so she could enact vengeance upon the townspeople.
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

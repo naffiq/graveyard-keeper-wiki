@@ -1,0 +1,53 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = ink.png
+| cost         = 150
+| price        = 
+| study        = 
+| alchemy      = 
+| source       = [[Church workbench]]
+| vendor       = [[Astrologer|Astrologer (T I)]]
+| buyer        = ???
+| type         = Writing Resource
+| stacksize    = 30
+| quest        = [[Vagner]] the actor
+| nameinternal = ink_jar_0
+}}
+<b>{{PAGENAME}}</b> is a writing resource, that can be made by combining [[black paint]], [[water]], and [[conical flasks]] in the church workbench and requires the Writing Supplies [[technology]].  Alternatively it can be purchased from the [[Astrologer]] for {{Money|150}}.  A bottle of ink is required to complete [[Vagner]] the Actor's request for writing supplies so that he can write a poem to [[Ms. Charm]].  For each bottle of ink it's possible to craft 3x [[pen and ink]] which are used for writing.
+
+== Recipe ==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Ink|5}}
+|{{Item|Black paint|1}}<br>{{Item|Conical flasks|1}}<br>{{Item|Water|1}}
+|}
+
+== Crafting ==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pen and ink|3}}
+|{{Item|Feather|3}}<br>{{Item|Ink|1}}
+|-
+!colspan="2"|{{Item|Printing press}} / {{Item|Printing press II}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Flyer|10}}
+|{{Item|Clean paper|2}}<br>{{Item|Ink|1}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:writing]]
+[[Category:writing resources]]
+
+[[pt-br:Tinta]]

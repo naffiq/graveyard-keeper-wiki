@@ -1,0 +1,65 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = flw_chamomile
+| study        = {{Techpoint|Green|10}}
+| alchemy      =  {{Item|Order extract}} <br>  {{Item|Order solution}}
+| source       = Foraging
+| consume      = {{energy|+|3}}
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are a forageable item found in most outdoor areas. It does not require any technologies to collect. After unlocking the Insects technology of the [[Farming and Nature (Tech Tree)|Farming and Nature tech tree]], collecting White Flowers may also yield [[butterfly|butterflies]] during the day or [[moth|moths]] at night.
+
+==Study==
+{| class = "wikitable" style = "width:40em"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}} <br> {{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes Into:<br>[[Order solution|liquid]] and [[Order extract|essence]]
+|}
+
+==Alchemy==
+{{PAGENAME}} is decomposable into [[Order solution|solution]] and [[Order extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked the [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation.
+ 
+{| class = "wikitable" style = "width:100%; max-width:40em; table-layout: fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+| {{Item|Order solution|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" | {{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+| {{Item|Order extract|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" | {{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+| {{Item|Order extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Flor branca]]

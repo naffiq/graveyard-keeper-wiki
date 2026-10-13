@@ -1,0 +1,58 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = dough_2
+| study        = 
+| source       = [[Cooking]]
+| cost         = 13
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is an ingredient used in cooking, able to be crafted at the [[cooking table]]. For the main page on preparing food, see [[cooking]].
+
+==Recipe==
+{|class="wikitable" style="Width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Flour|2}}<br>{{Item|Jug of milk|1}}<br>{{Item|Chicken egg|1}}
+|}
+
+==Crafting==
+{|class="wikitable" style="Width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pancakes|5|silver}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Jug of milk|1}}<br>{{Item|Butter|1}}
+|-
+|{{Item|Cake|1|gold}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Honey|1}}<br>{{Item|Berry|5}}
+|-
+|{{Item|Berry pie|2|copper}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Berry juice|1}}
+|-
+|{{Item|Grape pie|2|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Grapes|1|animation}}
+|-
+|{{Item|Cheese pie|2}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Cheese|1}}
+|-
+|{{Item|Cheese cake|2}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Cheese|1}}<br>{{Item|Honey|1}}
+|-
+|{{Item|Honey cake|2}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Honey|1}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+
+[[pt-br:Massa folhada]]

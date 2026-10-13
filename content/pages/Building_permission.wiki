@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| source       = [[Royal services]]
+| quest        = [[Bishop]]
+}}
+The building permission is an item bought from the [[royal services]] located next to the [[church]] entrance for {{money|2000}}.
+
+In order to be able to buy it, you will need to buy the citizen status for {{money|50}} first.
+
+Hand the permission over to the [[bishop]] to upgrade the [[church]].
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

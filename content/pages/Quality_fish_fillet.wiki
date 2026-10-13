@@ -1,0 +1,98 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| source       = [[Cooking table]]
+| buy          = [[Lighthouse Keeper]]
+| cost         = 70
+| stacksize    = 30
+| type         = Food Resource
+| quest        = [[Bishop]], [[Gypsy Baron]]
+| nameinternal = fillet_fish_red
+}}
+<b>{{PAGENAME}}s</b> (formerly known as <b>Red fish fillets</b>) are a [[cooking]] resource used in various [[Fishing|fish]]-related recipes. It can either be crafted at the cooking table or purchased from the [[Lighthouse Keeper]]. The [[Bishop]] will request 4x {{Quality|Copper}} for a quest, and the [[Gypsy Baron]] will request 4x {{Quality|Silver}} for a side-quest.
+
+As of the official release of the game, the gold-quality quality-fish-fillets are not available, as none of the fish that provide these fillets will ever spawn with a gold-quality.
+
+==Quality Levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image=i_fillet_fish_red.png|quality=copper}}
+|{{Quality Sprite|image=i_fillet_fish_red.png|quality=silver}}
+|{{Quality Sprite|image=i_fillet_fish_red.png|quality=gold}}
+|-
+|{{Money|70}}
+|{{Money|100}}
+|N/A
+|}
+
+==Recipe==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|[[Cooking table]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Bream|1|animation}}
+|rowspan="3"|{{Energy|-|5}}
+|-
+|rowspan="2"|{{Item|{{PAGENAME}}|2|animation}}
+|{{Item|Tuna|1|animation}}
+|-
+|{{Item|Sardine|1|animation}}
+|-
+|{{Item|{{PAGENAME}}|3|animation}}
+|{{Item|Pike|1|animation}}
+|{{Energy|-|8}}
+|-
+|{{Item|{{PAGENAME}}|3|animation}}<br>{{Item|Silver nugget|1}}
+|{{Item|Silver crucian|1|animation}}
+|{{Energy|-|9}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Baked salmon|3|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Cabbage|1}}
+|1:05<br>{{Fuel|-|5}}
+|-
+!colspan="3"|{{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Baked kebab|6|animation|variant=pumpkin}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Pumpkin|2|animation}}
+|0:45<br>{{Fuel|-|25}}
+|-
+|{{Item|Baked kebab|6|animation|variant=onion}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Onion|2|animation}}
+|0:55<br>{{Fuel|-|20}}
+|-
+|{{Item|Baked kebab|6|animation|variant=mushroom}}
+|{{Item|{{PAGENAME}}|1|animation}}<br>{{Item|Edible mushroom|5}}
+|1:10<br>{{Fuel|-|20}}
+|}
+
+==See Also==
+*{{Item|White fish fillet}}
+*{{Item|Blue fish fillet}}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+
+[[pt-br:Qualidade do filé de peixe]]

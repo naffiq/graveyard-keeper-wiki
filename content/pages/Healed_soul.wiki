@@ -1,0 +1,5 @@
+A '''Healed soul''' is a new item presented in the Better Save Soul DLC. First, a [[Harmed soul]] is acquired by extracting it out of a [[Corpse|Corpse]] with the help of the [[Soul extractor|Soul extractor]]. Then, the [[Harmed soul]] can be turned into a Healed soul with the help of a [[Soul healer]], creating [[Sin Shard|Sin shards]] depending on the number of bodyparts used in the Soul's cleansing.
+
+''Each [[Sin Shard]] stored in a [[Soul container I|Soul Container]] passively increases the maximum [[Soul Gratitude]] you can store by one.''
+
+''Any Healed soul left outside a [[Soul container I|Soul container]] will deteriorate slowly, eventually turning into a [[Sin Shard|Sin shard]]. In turn, [[Harmed soul|Harmed souls]] will deteriorate much faster.''

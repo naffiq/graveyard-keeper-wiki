@@ -1,0 +1,43 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = {{PAGENAME}} Infobox.png
+| size      = 
+| exits     = [[Souls room]]
+| buildable = False
+| NPCs      = [[Euric]]
+}}
+[[Euric]] will move into a cellar under the [[Souls room]], but you will need to repair the broken furniture in his room. Upon completeing the room's repairs, you will receive {{Money|10000}} and a large cathedral window that will be automatically installed in the [[Church]]. After using the charged sins on [[Euric]], you can then add them to the cathedral window. Each of the charged sins will depict a scene from the history of the person you got each sin from.
+
+==Broken Furniture==
+{| class="wikitable"
+! style="width:16em;" |Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+|-
+|[[File:Repair.png|60px]] Repair woodbox
+|{{Item|Flitch|3}}<br/>{{Item|Nails|3}}
+|{{Energy|-|5}}
+|-
+|[[File:Repair.png|60px]] Repair broken table
+|{{Item|Wooden plank|4}}<br/>{{Item|Wooden stick|4}}
+
+{{Item|Nails|6}}
+|{{Energy|-|7}}
+|-
+|[[File:Repair.png|60px]] Repair side rack
+|{{Item|Flitch|4}}<br/>{{Item|Nails|3}}<br/>{{Item|Wooden beam|1}}
+|{{Energy|-|7}}
+|-
+|[[File:Repair.png|60px]] Repair old carpet
+|{{Item|Skin|3}}
+|{{Energy|-|4}}
+|-
+|[[File:Repair.png|60px]] Repair old bed
+|{{Item|Flitch|4}}<br/>{{Item|Nails|6}}
+|{{Energy|-|7}}
+|}
+
+
+{{Navbox-Locations}}
+[[Category:Better Save Soul]]
+[[de:Eurics Raum]]

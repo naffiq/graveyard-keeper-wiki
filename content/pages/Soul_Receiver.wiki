@@ -1,0 +1,48 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      =Soul Receiver.png 
+|technology = [[Spiritualism (Tech Tree)|Healer Enthusiast]]
+|location   = [[Souls room]]
+|buildable  = True
+|rotatable  = False
+|footprint  = 2x2
+|related    = [[Spiritualism (Tech Tree)]]
+}}
+The Soul Receiver is a workstation that can be built in all locations that allows for remote crafting from the map at the cost of gratitude points.
+
+Current locations include:
+
+* [[Quarry]]
+* [[Refugee camp]] ([[Game of Crone]] DLC)
+* Old Graveyard
+*# [[Alchemy Lab]]
+*# [[Church]]
+* Morgue
+*# [[Mortuary]]
+*# [[Souls room]]
+* Sweet Home
+*# [[Workyard]]
+*# [[Cellar]]
+*# [[Home Sweet Home]]
+* [[Kitchen Garden]]
+* [[Vineyard]]
+* [[Talking Skull]] ([[Stranger sins|Stranger Sins]] DLC)
+
+A total of 12 Soul Receivers can be built to fill the map.
+
+== Cost ==
+{| class="wikitable" style="width:40em;"
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+| style="text-align:center" |[[File:Soul Receiver Icon.png]]
+|{{Item|Simple iron parts|3}}<br/>{{Item|Conical flasks|1}}<br/>{{Item|Wooden plank|1}}
+|{{Energy||0}}
+|Requires Tech:
+[[Spiritualism (Tech Tree)| Useful equipment]]
+|}
+
+{{Navbox-Souls room}}
+[[de:Seelenempfänger]]

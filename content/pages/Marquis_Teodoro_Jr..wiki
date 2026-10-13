@@ -1,0 +1,39 @@
+{{stub}}
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = Marquis_Teodoro_Jr.png
+| day      = 
+| location = [[Refugee camp]]
+| role     = Camp leader
+}}
+
+[[{{PAGENAME}}]] is part of the [[Game of Crone]] DLC. He is the leader of the [[Refugee camp]] and guides you through the Game of Crone main questline. He appears at your bedside when you wake up, the first time you sleep after unlocking the Church, and brings you to the [[Refugee camp]], where he spends his time. The Marquis actually has asthma, as evidenced by hearing him periodically cough when near him, and him mentioning he has an illness affecting his lungs that his father built a device similar to an inhaler to help with.
+
+==Quests==
+
+=== First task ===
+Teodoro first asks you to build :
+* a [[Water well I]] ({{Item|A piece of stone|12}}, {{Item|Simple iron parts|2}}, {{Item|Refugee Happiness|3}} Refugee happiness),
+* a [[Residential tent]] ({{Item|Wooden stick|4}}, {{Item|Silk|2}}, {{Item|Refugee Happiness|2}}) for the camp. 
+
+Second task
+For the next task, he asks yout to build :
+* a second [[Residential tent]] ({{Item|Wooden stick|4}}, {{Item|Silk|2}}, {{Item|Refugee Happiness|5}}),
+* a [[Fence supplies for garden]] ({{Item|Flitch|24}}, {{Item|Wood billet|12}}, {{Item|Refugee Happiness|2}}).e
+** Once the garden is built, up to 4 beds can be built to grow veggies for {{Item|Flitch|6}}, {{Item|Peat|8}}, {{Item|Refugee Happiness|2}} each.
+** Optionally, you can offer to build the Cooking table for {{Item|Flitch|6}}, {{Item|Nails|12}}, {{Item|Refugee Happiness|6}}.
+*** Once built and after talking to Cook, the Cooking Table II becomes available for {{Item|Wooden plank|12}}, {{Item|Nails|18}}, {{Item|Refugee Happiness|8}}.
+*** Finally, Cook wants something sweet for her kitchen, leading to the building of up to 3 beehives for {{Item|Flitch|4}}, {{Item|Bee|10}}, {{Item|Refugee Happiness|2}} each.
+** Once the tent and garden are built, he will ask for a [[Water well II]] ({{Item|Flitch|8}}, {{Item|Simple iron parts|4}}, {{Item|Refugee Happiness|6}}) and a total of 7 people in the camp.
+* Once these are completed, Teodoro will give you {{Money|5000}}, [[Witchers eye]], {{Item|porcelain pitcher|15}}, and {{Item|Jewelry|1}}.  
+
+After you meet [[Lady Beatrice]] and inform Teodoro about her, Teodoro will ask you to build an additional [[Residential tent]], [[Storehouse II]], and [[Campfire II]]. 
+
+Once the aforementioned is completed, Teodoro asks you to build one more tent and [[Teodoro's Workplace]]. He also wants there to be a total of 11 people in the camp. Afterwards, he rewards you with a {{Item|Universal Bag}}, the recipe for Universal Bags, {{Item|A carved piece of marble|3|gold}}, {{Item|Gold ingot|1}}, and {{Item|Book|1|Gold|variant=gold}}. 
+
+After [[Lady Beatrice]]'s guards confront you in your house, Teodoro asks you to build [[Stakes]] around the camp (48 Flitch, 24 wooden sticks, 11 Happiness). He then asks you to build a [[Rack of Swords]] (5 Steel swords, 4 Flitch, 12 Happiness), and finally the [[Observation Tower]] (12 Beams, 18 Flitch, 13 Happiness). He rewards you with {{Item|Great book (g)|1}}, {{Item|Great book (b)|1}}, {{Item|Great book (r)|1}}, {{Item|Big universal bag|1}}, and the recipe for Big universal bags.
+
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+[[Category:Refugee camp]]
+[[Category:Game of Crone]]

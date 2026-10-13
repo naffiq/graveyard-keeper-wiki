@@ -1,0 +1,48 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = 
+| consume      = [[File:Health increased effect.png]]
+| study        = 
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T III)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 200
+| quest        =  
+}}
+<b>{{PAGENAME}}</b> is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]] and can be consumed to regenerate {{Health}} over time.
+
+==Effect==
+On use, the potion will apply the {{lcfirst:{{PAGENAME}}}} buff for a duration of 1 minute. This buff restores {{Health||1}} every 1.5 seconds (restoring {{Health||40}} in 1:00). For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[File:Health increased effect.png|link=Effects#Restoring|Restoring]]
+|Restore your {{Health}} over time.
+|style="text-align:center"|1:00
+|[[Effects#Restoring|Restoring]]
+|}
+
+==Recipe==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Order powder|1}}<br>{{Item|Health solution|1}}<br>{{Item|Health extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[es:Poción de restauración]]
+[[pt-br:Poção de recuperação]]

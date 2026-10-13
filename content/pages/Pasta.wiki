@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|50}}; [[File:Chopping effect.png]]
+| nameinternal = 
+| study        = 
+| source       = [[Cooking]]
+| cost         = 25
+}}
+
+A food item which restores {{Energy|+|50}} and applies the hard worker buff when consumed. Since the items which can be used to craft {{lc:{{PAGENAME}}}} lack quality levels they can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]]. 
+
+==Effect==
+
+On use, Pasta will apply the hard worker buff for a duration of 2 minutes reducing the amount of energy spent mining and woodcutting by 49%. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Chopping effect.png|link=Effects#Hard worker|Hard worker]]
+|You spend less energy working with axes and pickaxes.
+|style="text-align:center"|2:00
+|[[Effects#Hard worker|Hard worker]]
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Dough|3}}
+{{Item|Cheese|1}}
+
+{{Item|Fuel|40}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

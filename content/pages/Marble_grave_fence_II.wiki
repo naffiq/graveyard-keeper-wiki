@@ -1,0 +1,43 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Grave Fence
+| nameinternal = 
+| study        = {{Techpoint|Blue|90}}
+| source       = [[Stone cutter II]]
+| quest        = 
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a grave decoration which provides +5 {{Grave Decor}} when placed on a [[gravesite]], after a [[corpse]] has been buried there. Installing or uninstalling any grave decoration costs {{Energy|5}}. Unlike lower-tier decorations, marble decor can ''not'' be recycled. For more information, see [[graveyard]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|A polished brick of marble|1}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|5}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Blue|90}}
+|{{Item|Faith|8}}<br>{{Item|Science|8}}
+|{{Energy|-|10}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Graves}}
+[[Category:Grave fences]]
+[[Category:Graveyard items]]

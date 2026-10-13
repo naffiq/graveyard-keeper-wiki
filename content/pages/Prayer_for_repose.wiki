@@ -1,0 +1,82 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Desk]] / [[Desk II]]
+| cost         = 112
+}}
+
+A prayer which provides the Repose buff over several days. New corpses delivered by Donkey now will have more {{Skull|Red}} and {{Skull|White}}.
+
+It is unlocked via "[[Technologies|Embalming]]" in the tech tree, and can be crafted at the [[Desk]] or [[Desk II]].
+
+As with all sermons you need to reach the minimum {{Church Rating}} to get the effect and bonus faith/donations
+
+==Sermon==
+{| class = "wikitable"
+!Quality
+!Minimum {{Church Rating}}
+!Faith
+!Money
+!Donations
+!Effect
+|-
+|{{Quality Sprite|image = Prayer for Repose Sermon.png|quality = Copper}}
+|20 {{Church Rating}}
+|x1
+|{{Money|100}} 
+| +25%
+|[[File:Prayer_for_repose_effect.png]] 18:00 min (2 days)
+|-
+|{{Quality Sprite|image = Prayer for Repose Sermon.png|quality = Silver}}
+|40 {{Church Rating}}
+|x2
+|{{Money|200}} 
+| +50%
+|[[File:Prayer_for_repose_effect.png]] 36:00 min (4 days)
+|-
+|{{Quality Sprite|image = Prayer for Repose Sermon.png|quality = Gold}}
+|50 {{Church Rating}}
+|x3
+|{{Money|300}} 
+| +75%
+|[[File:Prayer_for_repose_effect.png]] 54:00 min (6 days)
+|}
+
+==Effect==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:10em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Prayer_for_repose_effect.png|48x48px|link=Effects#Difficult corpses|Difficult corpses]]
+|Causes Donkey to bring new corpses with more {{Skull|Red}} and {{Skull|White}}.
+|style="text-align:center"|{{Quality|copper}} 18:00  (2 days)   <br>{{Quality|silver}} 36:00 (4 days)   
+{{Quality|gold}} 54:00 (6 days)  
+|[[Effects#Difficult corpses|Difficult corpses]]
+|}
+
+==Recipe==
+{| class = "wikitable"
+!colspan = "4"| {{Item|Desk}}  {{Item|Desk II}}
+|-
+! Tab
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|[[file:tab_book.png|link=|frameless|center]]
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Book|1|animation}}
+{{Item|Faith|7}}
+|{{Energy|-|10}}
+|}
+{{Navbox-Church}}
+[[Category:church items]]
+[[Category:sermons]]
+
+[[Category:Writing]]

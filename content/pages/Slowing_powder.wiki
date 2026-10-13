@@ -1,0 +1,78 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_1_brown
+| study        = {{Techpoint|Green|5}}
+| buy       = [[Clotho|Clotho (T I)]]
+| sell        = 
+| source       = [[Alchemy]]
+| stacksize    = 50
+| cost         = 50
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Hops|1|animation}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Spider web|1}}
+|-
+!colspan="2"|Unimplemented
+|-
+|{{Item|{{PAGENAME}}|?}}
+|{{Item|Pyrite|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Energy elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Acceleration solution|1}}
+|-
+|{{Item|Brown Paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1|}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Preservative|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Life solution|1}}<br>{{Item|Slowing extract|1}}
+|-
+|{{Item|Tanning agent|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Death solution|1}}<br>{{Item|Order extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Pó de retardamento]]

@@ -1,0 +1,814 @@
+This section lists all of the achievements in Graveyard Keeper. Some of the descriptions are limited to avoid spoilers, but for information on how to complete these achievements, see [[100% Achievement Guide]].
+
+==Main Game==
+{| class="wikitable"
+! colspan="3" |Achievements
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+
+|[[File:First slice.jpg|frameless]]
+|First slice
+|Got your first slice of meat. Smells a little strange, but looks like ordinary meat...
+|-
+|-
+
+
+|[[File:Novice gravedigger.jpg|frameless]]
+|Novice gravedigger
+|Buried your first body.
+|-
+|-
+
+
+|[[File:Sweetheart Bishop.jpg|frameless]]
+|Sweetheart Bishop
+|Met Bishop. His motto - Pray, preach, and look like you won the lottery.
+|-
+|-
+
+
+|[[File:Shady Snake.jpg|frameless]]
+|Shady Snake
+|Met Snake. He seems dangerous. You get why everybody calls him Snake.
+|-
+|-
+
+
+|[[File:Holy Inquisition.jpg|frameless]]
+|Holy Inquisition
+|Met the Lord Inquisitor. An unwavering kind of guy. You definitely wouldn't want to be his enemy.
+|-
+|-
+
+
+|[[File:Charm itself.jpg|frameless]]
+|Charm itself
+|Met Ms Charm. There's something about this woman that you can't understand.
+|-
+|-
+
+
+|[[File:Even here.jpg|frameless]]
+|Even here
+|Fixed the garden. You'll spend a lot of time here...
+|-
+|-
+
+
+|[[File:Wealthy merchant.jpg|frameless]]
+|Wealthy merchant
+|Met Merchant. He's always ready to do business. Except around dinner time.
+|-
+|-
+
+
+|[[File:Old Astrologer.jpg|frameless]]
+|Old Astrologer
+|Met Astrologer. He's wise and tired of everything, even life.
+|-
+|-
+
+
+|[[File:Bridge builder.jpg|frameless]]
+|Bridge builder
+|Fixed the bridge. Whatever else happens, you'll always be remembered as a great bridge builder!
+|-
+|-
+
+
+|[[File:A perfect gift.jpg|frameless]]
+|A perfect gift
+|Gave a skull to Astrologer. A skull makes a nice present indeed!
+|-
+|-
+
+
+|[[File:Advanced gravedigger.jpg|frameless]]
+|Advanced gravedigger
+|Buried 10 bodies.
+|-
+|-
+
+
+|[[File:Just red points.jpg|frameless]]
+|Just red points
+|Collected 1000 red points. They do not decay at midnight. So that was easy.
+|-
+|-
+
+|[[File:Just green points.jpg|frameless]]
+|Just green points
+|Collected 1000 green points. They do not decay at midnight. So that was easy.
+|-
+|-
+
+|[[File:Summon a chicken.jpg|frameless]]
+|Summon a chicken
+|Snake summoned a chicken. Well... it's a start. Better than nothing.
+|-
+|-
+
+|[[File:His house.jpg|frameless]]
+|His house
+|Upgraded the church.
+|-
+|-
+
+|[[File:Marble.jpg|frameless]]
+|Marble
+|Got the marble quarry ready. Marble is better than stone.
+|-
+|-
+
+|[[File:A book with funny pictures.jpg|frameless]]
+|A book with funny pictures
+|Gave the Necronomicon to Snake. Hope nobody uses it as cookbook!
+|-
+|-
+
+|[[File:Not far from the ground.jpg|frameless]]
+|Not far from the ground
+|Dungeon level 5 cleared!
+|-
+|-
+
+|[[File:Kitchen boy.jpg|frameless]]
+|Kitchen boy
+|Cooked 10 different dishes or drinks.
+|-
+|-
+
+|[[File:More red points!.jpg|frameless]]
+|More red points!
+|Collected 3000 red points. Ok. Now that's impressive.
+|-
+|-
+
+|[[File:Stone fence.jpg|frameless]]
+|Stone fence
+|Built a stone fence around the graveyard. Your graveyard is well protected now.
+|-
+|-
+
+|[[File:Graveyard Veggies.jpg|frameless]]
+|Graveyard Veggies
+|Started a company with Merchant. A great name for a successful company!
+|-
+|-
+
+|[[File:Sashimi master.jpg|frameless]]
+|Sashimi master
+|Made 30 slices. You've got the perfect size slice pretty much down.
+|-
+|-
+
+|[[File:A fish a day!.jpg|frameless]]
+|A fish a day!
+|Caught 6 different types of fish. One fish for every day!
+|-
+|-
+
+|[[File:Just blue points.jpg|frameless]]
+|Just blue points
+|Collected 1000 blue points. They do not decay at midnight. So that was easy.
+|-
+|-
+
+
+|[[File:Perfume.jpg|frameless]]
+|Perfume
+|Gave some perfume to Ms Charm. It smells nice, and wasn't tested on animals.
+|-
+|-
+
+|[[File:Night watch.jpg|frameless]]
+|Night watch
+|Got rid of the guardsmen's ambush. Now you are the Witch Hill Keeper too!
+|-
+|-
+
+|[[File:Winemaker.jpg|frameless]]
+|Winemaker
+|Made a gold-star wine.
+|-
+|-
+
+|[[File:Simple but stylish.jpg|frameless]]
+|Simple but stylish
+|Decorated a Dark Shrine. Looks better than your first apartment!
+|-
+|-
+
+|[[File:Dream dinner.jpg|frameless]]
+|Dream dinner
+|Made a gold-star dinner.
+|-
+|-
+
+|[[File:Apprentice.jpg|frameless]]
+|Apprentice
+|Discovered 5 alchemy recipes. You're getting to know how things work in the lab.
+|-
+|-
+
+|[[File:MacPlayer.jpg|frameless]]
+|MacPlayer
+|There can be only one.
+|-
+|-
+
+|[[File:On every shelf.jpg|frameless]]
+|On every shelf
+|Your company achieved 5 Fame. When you want quality vegetables -- you go to the graveyard!
+|-
+|-
+
+|[[File:Golden pumpkin.jpg|frameless]]
+|Golden pumpkin
+|Harvested a gold-star pumpkin.
+|-
+|-
+
+|[[File:More green points!.jpg|frameless]]
+|More green points!
+|Collected 3000 green points. Ok. Now that's impressive.
+|-
+|-
+
+|[[File:Tastes like home.jpg|frameless]]
+|Tastes like home
+|Ate a fish stick. It reminded you of home...
+|-
+|-
+
+|[[File:Not a hot dog.jpg|frameless]]
+|Not a hot dog
+|Sold burgers at the burning ceremony. It's a mystery why you didn't make hotdogs.
+|-
+|-
+
+|[[File:His mansion.jpg|frameless]]
+|His mansion
+|Upgraded the church for the second time.
+|-
+|-
+
+|[[File:The Mill.jpg|frameless]]
+|The Mill
+|Fixed the mill. No further need to grind everything by hand.
+|-
+|-
+
+|[[File:Scary dungeon depths.jpg|frameless]]
+|Scary dungeon depths
+|Dungeon level 10 cleared!
+|-
+|-
+
+|[[File:Side quest.jpg|frameless]]
+|Side quest
+|You killed a Vampire Hunter. In life, there are no side quests.
+|-
+|-
+
+|[[File:Fish collector.jpg|frameless]]
+|Fish collector
+|Caught 10 different types of fish.
+|-
+|-
+
+|[[File:Shovel master.jpg|frameless]]
+|Shovel master
+|Buried 50 bodies.
+|-
+|-
+
+|[[File:Match 3.jpg|frameless]]
+|Match 3
+|Collected three dark organs. Three in a row! The Inquisition is going to get a prize!
+|-
+|-
+
+|[[File:Alchemist.jpg|frameless]]
+|Alchemist
+|Discovered 10 alchemy recipes. Just remember, the Philosopher's Stone is a lie.
+|-
+|-
+
+|[[File:Nothing underneath.jpg|frameless]]
+|Nothing underneath
+|Dungeon level 15 cleared!
+|-
+|-
+
+|[[File:A father and a son.jpg|frameless]]
+|A father and a son
+|Helped Snake with his dark ceremony.
+|-
+|-
+
+|[[File:Ideal song.jpg|frameless]]
+|Ideal song
+|Got an Ideal Song from Vagner. Now you know how you'll make a million bucks, once you get back home.
+|-
+|-
+
+|[[File:Two brothers.jpg|frameless]]
+|Two brothers
+|Helped Merchant forgive his brother.
+|-
+|-
+
+|[[File:Cook.jpg|frameless]]
+|Cook
+|Cooked 20 different dishes or drinks.
+|-
+|-
+
+|[[File:Best seller.jpg|frameless]]
+|Best seller
+|Gave a gold-star book to Astrologer. You should consider writing six more...
+|-
+|-
+
+|[[File:More blue points!.jpg|frameless]]
+|More blue points!
+|Collected 3000 blue points. Ok. Now that's impressive.
+|-
+|-
+
+|[[File:Back home.jpg|frameless]]
+|Back home
+| ...
+|-
+|-
+
+|[[File:Prodigal father.jpg|frameless]]
+|Prodigal father
+|Helped Astrologer reunite with his family.
+|-
+|-
+
+|[[File:Gold fish.jpg|frameless]]
+|Gold fish
+|Got a gold fish. Want to make a wish?
+|-
+|-
+
+|[[File:Health care.jpg|frameless]]
+|Health care
+|50 health potions. -- And all of them red!
+|-
+|-
+
+|[[File:He trusted you....jpg|frameless]]
+|He trusted you...
+| Betrayed Gerry. That's not something you should be super-proud of.
+|-
+|-
+
+|[[File:Chef.jpg|frameless]]
+|Chef
+|Cooked 30 different dishes or drinks. You can call yourself a Chef now.
+|-
+|-
+
+|[[File:Master alchemist.jpg|frameless]]
+|Master alchemist
+|Discovered 20 alchemy recipes. Now it's time to buy a white van and drive into the desert.
+|-
+|-
+
+|[[File:Ichthyologist.jpg|frameless]]
+|Ichthyologist
+|Caught 15 types of fish! You know everything about fish. They feel uncomfortable about it...
+|-
+|-
+
+|[[File:Brutal fisherman.jpg|frameless]]
+|Brutal fisherman
+|Caught 200 fish. Your name is used to terrify misbehaving fish larvae.
+|-
+|-
+
+|}
+
+==Stranger Sins DLC==
+{| class="wikitable"
+! colspan="3" |Achievements
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+|[[File:Landlord.jpg|frameless]]
+|Landlord
+|Bought your first land in the Village. By cheating a sick and helpless old man.
+|-
+|-
+
+|[[File:Employee of the month.jpg|frameless]]
+|Employee of the month
+|Yorick became your bartender. For no salary. Slavery? No, he's made of wood!
+|-
+|-
+
+|[[File:Forward to the past.jpg|frameless]]
+|Forward to the past
+|Used the archaeological time machine for the first time. And didn't go mad.
+|-
+|-
+
+|[[File:First party.jpg|frameless]]
+|First party
+|Threw your first alco-party. The guests remember nothing, but they enjoyed it.
+|-
+|-
+
+|[[File:Open mic.jpg|frameless]]
+|Open mic
+|Put on your first Comedy Show. The guests laughed on command, so everything went good.
+|-
+|-
+
+|[[File:Witnessed him.jpg|frameless]]
+|Witnessed him
+|Watched the Master being summon. Is that Grace you feel?
+|-
+|-
+
+|[[File:A nation divided.jpg|frameless]]
+|A nation divided
+|Watched the scene at the Coliseum. Unemployment benefits is everything.
+|-
+|-
+
+|[[File:Rat race.jpg|frameless]]
+|Rat race
+|Organized your first rat race. The winning rat got a giant piece of cheese, choked on it, and died.
+|-
+|-
+
+|[[File:Locking up the sun.jpg|frameless]]
+|Locking up the sun
+|Put on your first concert. Ms. Charm's fans fell into ecstasy and a brawl broke out.
+|-
+|-
+
+|[[File:Viva la King.jpg|frameless]]
+|Viva la King
+|Watched the destruction of the Bridge. Always think before destroying bridges!
+|-
+|-
+
+|[[File:Read before signing.jpg|frameless]]
+|Read before signing
+|Witnessed the Contract signing. Who are "truly guilty men"?
+|-
+|-
+
+|[[File:King Gerry.jpg|frameless]]
+|King Gerry
+|Watched the scene in the bath house. You saw that one coming, didn't you?
+|-
+|-
+
+|[[File:The show must go on.jpg|frameless]]
+|The show must go on
+|Organized 15 events. You're a natural-born event manager!
+|-
+|-
+
+|[[File:Talking Skull.jpg|frameless]]
+|Talking Skull
+|Built the tavern. Horadric wishes you were dead now.
+|-
+|-
+
+|[[File:Good skull.jpg|frameless]]
+|Good skull
+|Your tavern's quality is 20! Wow!
+|-
+|-
+
+|[[File:Well-known skull.jpg|frameless]]
+|Well-known skull
+|Your tavern's quality is 40! Double Wow!
+|-
+|-
+
+|[[File:Epic skull.jpg|frameless]]
+|Epic skull
+|Your tavern's quality is 80! Ultra Wow!
+|-
+|-
+
+|}
+
+== Game of Crone DLC ==
+{| class="wikitable"
+! colspan="3" |Achievements
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+|[[File:An unexpected guest.png|frameless]]
+|An unexpected guest
+|Met marquis Teodoro Jr. An aristocrat in danger - what could be more profitable!
+|-
+|-
+
+|[[File:Vampires in the Village.png|frameless]]
+|Vampires in the Village
+|A vampire is terrorizing the villagers? Solution: an army of carnivorous bees.
+|-
+|-
+
+|[[File:The face of the enemy.png|frameless]]
+|The face of the enemy
+|Exposed the vampire. Time to play Van Helsing!
+|-
+|-
+
+|[[File:To stop an Ancient Curse.png|frameless]]
+|To stop an Ancient Curse
+|Alaric convinced you to help. Refusal would have been dangerous to your health.
+|-
+|-
+
+
+|[[File:One more inquisitor.png|frameless]]
+|One more inquisitor
+|Met lady Beatrice. Technically, you resisted her charms. But in your imagination...
+|-
+|-
+
+
+|[[File:Blood supplier.png|frameless]]
+|Blood supplier
+|Brought corpse blood to the vampire. Not very tasty, but better than many popular diets!
+|-
+|-
+
+
+|[[File:Vampires are over.png|frameless]]
+|Vampires are over
+|Told Horadric the vampire was no more. Oh, if only everyone were so trusting!
+|-
+|-
+
+
+|[[File:Mysterious woman.png|frameless]]
+|Mysterious woman
+|Watched a scene from the past. Nothing is clear but it's quite intriguing...
+|-
+|-
+
+
+|[[File:Spirit summoner.png|frameless]]
+|Spirit summoner
+|Brought some smelly and useless filth into Dungeon, giving all the local ghosts a laugh.
+|-
+|-
+
+
+|[[File:Awkward interrogation.png|frameless]]
+|Awkward interrogation
+|Interrogated vampire Carl, leaving Carl greatly enlightened.
+|-
+|-
+
+
+|[[File:Between worlds.png|frameless]]
+|Between worlds
+|Worked on someone's memory. Time to add "Neurosurgeon" to your CV.
+|-
+|-
+
+
+|[[File:Lesser evil.png|frameless]]
+|Lesser evil
+|Lady Beatrice made you an offer you can't refuse. Unless you decide to refuse.
+|-
+|-
+
+
+|[[File:Refugees are safe.png|frameless]]
+|Refugees are safe
+|You rescued the refugees. Welcome to the Inquisition's blacklist!
+|-
+|-
+
+
+|[[File:Revolution begins.png|frameless]]
+|Revolution begins
+|It's your last chance to join the workers and peasants. To be more specific, the donkeys and rats.
+|-
+|-
+
+
+|[[File:Cook of Revolution.png|frameless]]
+|Cook of Revolution
+|You've helped the revolutionaries. Let's spread donkey communism across the world!
+|-
+|-
+
+
+|[[File:Writer of Revolution.png|frameless]]
+|Writer of Revolution
+|You've helped the revolutionaries again. They'll be hard pressed to hang you as a "dirty exploiter".
+|-
+|-
+
+
+|[[File:Ideologist of Revolution.png|frameless]]
+|Ideologist of Revolution
+|You've helped revolutionaries a third time. Who is next in line for General Secretary?
+|-
+|-
+
+
+|[[File:Long live the Revolution.png|frameless]]
+|Long live the Revolution
+|The Revolution has come to pass. It's time to look back on why you started it.
+|-
+|-
+
+
+|[[File:Camp ico.png|frameless]]
+|Camp
+|Now you have your own camp! And hundreds of potential enemies -- in the form of Inquisitors.
+|-
+|-
+
+
+|[[File:Developed camp.png|frameless]]
+|Developed camp
+|You've improved your camp. The chances that the refugees will die of starvation got lower.
+|-
+|-
+
+
+|[[File:Strengthened camp.png|frameless]]
+|Strengthened camp
+|You've provided the camp with some fortifications. They look dubious, but the settlers like them.
+|-
+|-
+
+
+|[[File:Paradise.png|frameless]]
+|Paradise
+|Your camp is flawless. You should write a guide to camp management!
+|-
+|-
+
+
+|[[File:Raccoon thyroid stew.png|frameless]]
+|Raccoon thyroid stew
+|The cook has recovered her peace of mind. Now her friends won't avoid obesity and gastritis.
+|-
+|-
+
+
+|[[File:Beheaded horse.png|frameless]]
+|Beheaded horse
+|You helped the undertaker deal with her dead husband's relatives. The funeral mass is soon.
+|-
+|-
+
+
+|[[File:More forest thugs.png|frameless]]
+|More forest thugs
+|You provided the tanner's son with the bright and happy future of a forest thug. Nice work!
+|-
+|-
+
+
+|[[File:Exterminate.png|frameless]]
+|Exterminate!
+|All the ambushes have been cleared out. The Terminator and Rambo would have been proud.
+|-
+|}
+
+==Better Save Soul DLC==
+{| class="wikitable"
+! colspan="3" |Achievements
+|-
+! Icon
+! Name
+! Description
+|-
+|-
+
+|[[File:Strange delivery.jpg|frameless]]
+|Strange delivery
+|Someone had to become the first client of the Donkey Express.
+|-
+|-
+
+|[[File:A locked ghost from the past.jpg|frameless]]
+|A locked ghost from the past
+|How could someone not be crazy after all this time?
+|-
+|-
+
+|[[File:A habitable room.jpg|frameless]]
+|A habitable room
+|Not a 5-star suite, but it will do.
+|-
+|-
+
+|[[File:A lost stained glass window.jpg|frameless]]
+|A lost stained glass window
+|It belongs in the church.
+|-
+|-
+
+|[[File:Long-awaited appreciation.jpg|frameless]]
+|Long-awaited appreciation
+|Fill the Bishop.. with pride.
+|-
+|-
+
+|[[File:The first session of curing therapy.jpg|frameless]]
+|The first session of curing therapy
+|Start Euric's treatment.
+|-
+|-
+
+|[[File:A controlled ignition.jpg|frameless]]
+|A controlled ignition
+|Fire is so mesmerizing - even moreso when there's a boiling Inquisitor involved.
+|-
+|-
+
+|[[File:A fortunate gift.jpg|frameless]]
+|A fortunate gift
+|Share the secrets of haute cuisine with the Merchant.
+|-
+|-
+
+|[[File:The second session of curing therapy.jpg|frameless]]
+|The second session of curing therapy
+|Continue Euric's treatment. He says he's feeling better. Probably.
+|-
+|-
+
+|[[File:Endless sadness.jpg|frameless]]
+|Endless sadness
+|Practice makes perfect! Even if it's the sadness of the Astrologer.
+|-
+|-
+
+|[[File:The birth of passion.jpg|frameless]]
+|The birth of passion
+|Witness an embarrassingly hot scene.
+|-
+|-
+
+|[[File:A vulnerability for authority.jpg|frameless]]
+|A vulnerability for authority
+|Even the strongest and most unswerving have their weakness.
+|-
+|-
+
+|[[File:The third session of curing therapy.jpg|frameless]]
+|The third session of curing therapy
+|The treatment is over, but Euric doesn't look so cured.
+|-
+|-
+
+|[[File:Dissatisfied villagers.jpg|frameless]]
+|Dissatisfied villagers
+|The villagers are unhappy about something. Pray it's not your fault.
+|-
+|-
+
+|[[File:Help the villagers.jpg|frameless]]
+|Help the villagers
+|They should be satisfied. At least for now.
+|-
+|-
+
+|[[File:Return to the beginning.jpg|frameless]]
+|Return to the beginning
+|Nothing is keeping Smiler here any longer. Let him continue his journey - to a new beginning.
+|-
+|-
+
+|}
+
+
+[[de:Errungenschaften]]
+[[Category:Achievements]]
+[[Category:Hidden]]

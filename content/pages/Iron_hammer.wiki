@@ -1,0 +1,52 @@
+<!--  The icon here is not the one that appears in game, but is the proper icon for the item.  This is an intentional deviation as this bug will very likely be fixed as of the game's full release. -->
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = hammer_1
+| study        = {{Techpoint|red|100}}
+| source       = [[Krezvold]], [[Anvil]]
+| efficiency   = 100%
+| energy       = {{Energy|-|1}}
+| cost         = 500
+}}
+The {{lcfirst:{{PAGENAME}}}} equips to the {{Icon|hammer}} slot and is used when constructing [[blueprints]] and during several other select operations.  The {{lcfirst:{{PAGENAME}}}} can be forged at the [[anvil]] or can be purchased from the [[blacksmith]].  The hammer tool progression maybe bugged as [[Rusty hammer]] could only be crafted at the [[Anvil II]] and Iron hammers require steel and have the Steel Hammer sprite in-game.
+
+Efficiency represents how much progress toward an operation each swing of the Hammer provides.  The {{lcfirst:{{PAGENAME}}}} provides 100% efficiency. 
+
+Energy usage represents how much energy each operation consumes. The {{lcfirst:{{PAGENAME}}}} requires {{Energy|-|1}} per swing.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|100}}.
+
+==Recipe==
+{|class="wikitable"
+!colspan="2"|{{Item|Anvil II}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|100}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|15}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]

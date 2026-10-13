@@ -1,0 +1,16 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = stamp
+| source       = [[Royal services]], [[Snake]]
+| quest        = [[Horadric]]
+}}
+
+Can either be purchased from [[Royal services]] for {{Silver Coin}}50, or received from [[Snake]] at {{Happiness|30}}. The stamp allows creating {{Item|Package of meat}} which allows selling meat to [[Horadric]] and complete his quests.
+
+After obtaining the Stamp, telling Horadric about it, and then inserting the Stamp in the [[Cooking table]], the recipe for packages of meat is unlocked. 
+
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

@@ -1,0 +1,36 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Stone
+| source       = [[Stone Deposit]]
+}}
+
+Stone Blocks can be obtained from large Stone Deposits (You can find the Locations here: [[Mining]]), to process them further they need to be packed on the [[Stone stockpile|Stone Stockpile]]. 
+
+==Recipes==
+{| class="wikitable"
+!style="width:12em;| Item
+!style="width:20em;"|Notes
+|-
+|{{Item|Stone block|1}}
+| Need a {{Item|Rusty pickaxe}} or better ones.
+|}
+
+==Crafting==
+{| class = "wikitable" style = "table-layout:fixed;"
+! colspan = "4" | {{Item|Stone cutter}}  {{Item|Stone cutter II}}  
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|{{Item|A piece of stone|6}}
+|{{Item|Stone block|1}}
+|[[file:Mason Perk.png|40px]][[Perks|Mason:]] {{Item|A piece of stone|+2}}
+|}
+{{Navbox-Stone}}
+
+[[Category:large items]]
+[[Category:stone items]]
+
+[[pt-br:Stone block]]

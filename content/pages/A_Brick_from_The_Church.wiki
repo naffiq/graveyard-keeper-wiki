@@ -1,0 +1,20 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Graveyard]]
+| cost         = 
+}}
+
+{{PAGENAME}} is found in the [[Graveyard]] in a marked spot behind the blueprint table. You just have to pick it up.
+
+After watching the cut-scene, you'll be able to dig up {{Money|100000}} from a dig spot behind your tavern to the left.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[Category:Stranger Sins]]
+
+[[pt-br:Um tijolo da igreja]]

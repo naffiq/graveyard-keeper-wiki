@@ -1,0 +1,20 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = ???
+| vendor       = [[Clotho| Clotho (T I)]]
+| buyer        = none
+| source       = [[Dungeon]] or [[Woodcutter]]
+| cost         = 100000
+| quest        = [[Snake]]
+}}
+
+[[Snake]] asks you to retrieve the {{PAGENAME}} from the [[Dungeon]] on level 15. It can be bought alternatively from the [[Witch]] for {{Money|100000}}. It can also be gained as a quest reward from both the [[Woodcutter]] and [[Master Alaric]] (requires the [[Game of Crone]] DLC).
+
+
+{{Navbox-Quest}}
+[[Category:Quest items]]
+
+[[ru:Золотое яблоко]]
+[[es:Manzana dorada]]

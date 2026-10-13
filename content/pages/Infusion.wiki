@@ -1,0 +1,39 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Beverage
+| consume      = {{Health|-|20}}, {{Energy|+|80}}
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| source       = [[Alcohol distiller]]
+| cost         = 
+| quest        = 
+}}
+
+A drink which removes {{Health|-|20}} and restores {{Energy|+|80}} when consumed. Infusion can be crafted at the [[Alcohol distiller]] in the [[Cellar]] and is needed for a quest with [[Vagner]].
+
+==Quest==
+===Write a song to Ms. Charm===
+[[Ms. Charm]] asks you to write her a song. Since you are no poet, you can't do it yourself. You know a poet though, so you ask [[Vagner]] if he is willing to help his love. He immediately agrees to write not just any song - but the best song he's ever created. To do that he needs a special kind of creative boost, and requests a unique recipe he heard about from the University. 1x{{Item|Booze}} and 3x{{Item|Red mushroom}}, mixed at the [[Alcohol distiller|Alcohol Distiller]], should do the trick. Brew this mix and bring it to [[Vagner]]. He will chug it, smile widely and ask to wait. Come visit him the next day.
+
+==Recipe==
+
+{| class="wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alcohol distiller}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Booze|1}} <br> {{Item|Red mushroom|3}}
+|}
+
+{{Navbox-Food}}
+
+[[Category:food]]
+[[Category:quest items]]
+[[Category:beverages]]
+[[Category:consumable items]]
+
+[[pt-br:Infusão]]

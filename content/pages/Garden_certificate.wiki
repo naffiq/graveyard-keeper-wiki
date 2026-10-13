@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = building_permission
+| source       = [[Horadric]]
+| quest        = [[Merchant]]
+}}
+
+Obtained from [[Horadric]] after you ask about the garden. Afterward this can be used to unlock the blueprint table in the [[Kitchen Garden]] allowing you to build and plant there.
+
+You still need the final permission from the [[Merchant]] to advance the questline.
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

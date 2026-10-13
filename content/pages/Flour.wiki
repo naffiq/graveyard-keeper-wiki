@@ -1,0 +1,73 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = flour.png
+
+| study        = N/A
+
+| source       = [[Cooking table]]
+| vendor       = [[Miller|Miller (T I)]], [[Farmer|Farmer (T I)]]
+| buyer        = [[Miller|Miller (T I)]], [[Farmer|Farmer (T I)]]
+| cost         = 12
+| stacksize    = 100
+| type         = Food Resource
+| quest        = 
+| nameinternal = flour
+}}
+{{PAGENAME}} is a cooking resource, made from [[wheat]], used for the production of [[dough]] and [[pastry dough]].
+
+==Recipe==
+{| class = "wikitable" style="width:35em;"
+!colspan = "3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;" |Energy
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Wheat|4}}
+|{{Energy|-|8}}
+|-
+!colspan = "3"|{{Item|Mill}} (once repaired)
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;" |Energy
+|-
+|{{Item|{{PAGENAME}}|15}}
+|{{Item|Wheat|10}}
+|N/A
+|}
+
+==Crafting==
+{| class = "wikitable" style="width:35em;"
+!colspan = "3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;" |Energy
+|-
+|{{Item|Dough|4}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Water|3}}<br>
+|{{Energy|-|4}}
+|-
+|{{Item|Pastry dough|4}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Jug of milk|1}}<br>{{Item|Chicken egg|1}}
+|{{Energy|-|6}}
+|}
+
+== Selling ==
+{| class="wikitable sortable"
+!PNJ
+!Price
+!Tier required
+|-
+|[[Farmer]]
+|[[File:Copper Coin Symbol.png|frameless|22x22px]][[Currency|9]]
+|Tier I
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+[[Category:Sellable]]

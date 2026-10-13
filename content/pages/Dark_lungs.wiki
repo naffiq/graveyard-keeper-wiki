@@ -1,0 +1,16 @@
+{{Stub}}
+{{Item Infobox 
+| name         = Dark lungs
+| image        = Dark lungs item.png
+| type         = Bodypart
+| nameinternal = lungs_dark
+| study        = 
+| alchemy      = 
+| source       = None
+| cost         = 
+| quest        =  
+}}
+
+Not obtainable. These appear in the [[Achievements|Match 3 achievement]] as one of the dark organs, suggesting that these were once a replacement for intestines.
+
+{{Navbox-Bodyparts}}

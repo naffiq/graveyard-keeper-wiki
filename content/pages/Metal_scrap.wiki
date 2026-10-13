@@ -1,0 +1,56 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = N/A
+| alchemy      = 
+| source       = Workstations, [[Dungeon]], [[Monsters#Heavy-Hitters|Iron Maiden]]
+| buy          = None
+| sell         = None
+| cost         = 
+| stacksize    = 99
+| type         = Metal
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is a byproduct of breaking down any workstation that originally required metallic materials. Alternatively, it's also found within the [[Dungeon]] as dropped loot, either from defeating an [[monster#Heavy-Hitters|Iron Maiden]] or by destroying certain objects. While it cannot be bought, sold, or studied, it can be smelted back into an [[Iron ingot]] using any available furnace.
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Iron ingot|1}}
+|{{Item|{{PAGENAME}}|10}}
+|0:40<br>{{Fuel|-|15}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Iron ingot|1}}
+|{{Item|{{PAGENAME}}|10}}
+|0:35<br>{{Fuel|-|10}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produceed
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Iron ingot|1}}
+|{{Item|{{PAGENAME}}|10}}
+|0:30<br>{{Fuel|-|10}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Metallschrott]]
+[[pt-br:Sucata]]

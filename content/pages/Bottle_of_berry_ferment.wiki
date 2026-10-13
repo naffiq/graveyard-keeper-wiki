@@ -1,0 +1,42 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Beverage
+| consume      = {{Energy|+|24}}
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| stacksize    = 20
+| source       = [[Fermentation barrel]]
+| cost         = 27
+| quest        = 
+}}
+<b>{{PAGENAME}}</b> is a consumable product, crafted using processed berries at a [[fermentation barrel]]. On use, it will restores {{Energy|+|24}}, increased to {{Energy|+|34}} if the [[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]][[Perks|Wine Master]] perk has been unlocked.
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Fermentation barrel}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Pail of berry juice|2}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alcohol distiller}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Booze|1}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|Fuel|10}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:beverages]]
+[[Category:consumable items]]

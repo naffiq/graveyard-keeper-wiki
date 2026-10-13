@@ -1,0 +1,33 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Stone
+| nameinternal = bust_marble
+| study        = 
+| source       = None
+}}
+Three gold-star marble busts are required by the Bishop in his quest to procure marble statues, and two silver-star marble busts are required in the creation of marble columbariums.
+
+
+==Recipe==
+<!-- Placeholder for crafting recipe
+{| class = "wikitable" style = "width:40em;"
+! colspan = "2" | [[Workstation]]
+|-
+|{{Item| |1}}
+|{{Item| |1}}
+|}
+-->
+
+
+==Crafting==
+<!-- Placeholder for crafting recipe
+{| class = "wikitable" style = "width:40em;"
+! colspan = "2" | [[Workstation]]
+|-
+|{{Item| |1}}
+|{{Item| |1}}
+|}
+-->
+
+{{Navbox-Stone}}

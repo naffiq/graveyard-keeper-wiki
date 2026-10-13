@@ -1,0 +1,101 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = {{PAGENAME}} inside.png
+| exits     = [[Swamp]], [[Forest near the river]], [[Quarry]], [[River]]
+| buildable = True
+}}
+The cabin in the woods is a cozy new place that was introduced in the full release of the game.
+
+The player may sleep inside (and save the game) as there is a bed available.
+
+== Unlocking ==
+There are 2 ways to unlock this area:
+
+* After you repair the [[stone bridge]] that leads to the [[swamp]], you follow the road until it ends. You'll find a path that's [[Blockage|blocked]] by some rocks. You need to clear that path and go straight north.
+* Follow the path north of the [[graveyard]] (or north-west of [[Sweet Home|your home]]), into the [[Forest near the river|forest]]. There's a path that's [[Blockage|blocked]] by some rocks. Once you clear that path, go north-west again, following the [[river]], there will be a small footbridge that allows you to cross the [[river]].
+
+== Mining ==
+There are five infinite resources available for [[mining]] in this area (from west to east):
+
+* One big [[iron ore deposit]], which gives {{Item|Iron block}} when mined.
+* One big [[stone quarry]], which gives {{Item|Stone block}} when mined. You will need {{Item|Wood wedge|4}} for two blocks. You can also employ [[zombie]]s here.
+* One big [[marble quarry]] (has to be built in advance), to allow gathering of {{Item|Marble block}}. You will need {{Item|Wood wedge|4}} for two blocks. You can also employ [[zombie]]s here.
+* One combined {{Item|Iron ore}} and {{Item|Coal}} deposit, where you can set up a [[zombie ore mine]] as soon as you've unlocked [[zombie]]s.
+* One big [[coal deposit]], which gives 20-30 {{Item|Coal}} when mined.
+
+== Workstations ==
+The workbench for placing all the workstations is located in the northwest corner of the workyard. For most stations, you have to unlock the related [[technologies|technology]] first. 
+{| class = "wikitable"
+!colspan=5|[[file:Cabin in the woods workbench.png|64px|link=Cabin in the woods]] [[Cabin in the woods]]
+|-
+!style="width:5em;" colspan=2|Blueprint
+!style="width:15em;"|Materials
+!Footprint
+!Notes
+|-
+|[[file:Trunk item.png|64px|link=trunk]]
+|[[Trunk]]
+|{{Item|Flitch|4}} <br> {{Item|Nails|4}} <br> {{Item|Simple iron parts|5}}
+|2x3 or 3x2
+|
+|-
+|[[file:Iron ore stockpile item.png|64px|link=Iron ore stockpile]]
+|[[Iron ore stockpile]]
+|{{Item|Flitch|4}}
+|6x5
+|
+|-
+|[[file:Stone stockpile item.png|64px|link=Stone stockpile]]
+|[[Stone stockpile]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|8}}
+|5x4
+|
+|-
+|[[file:Stone cutter item.png|64px|link=Stone cutter]]
+|[[Stone cutter]]
+|{{Item|Flitch|4}} <br> {{Item|Nails|4}}
+|5x3
+|
+|-
+|[[file:Zombie stone quarry item.png|64px|link=Stone cutter]]
+|[[Zombie stone quarry]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Pickaxe I|1}}
+|
+|
+|-
+|[[file:Zombie marble quarry item.png|64px|link=Stone cutter]]
+|[[Zombie marble quarry]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Pickaxe I|1}}
+|
+|
+|-
+|[[file:Zombie ore mine item.png|64px|link=Stone cutter]]
+|[[Zombie ore mine]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Pickaxe I|1}}
+|
+|
+|-
+|[[file:Porter station item.png|64px|link=Stone cutter]]
+|[[Porter station]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Clean paper|2}}
+|
+|
+|-
+|[[file:Lantern network item.png|64px|link=Stone cutter]]
+|[[Lantern network]]
+|
+|
+|
+|-
+|[[file:Place for lantern item.png|64px|link=Stone cutter]]
+|[[Place for lantern]]
+|
+|
+|Clearing the space is free but the lanterns themselves have a cost.
+|-
+|}
+
+{{Navbox-Locations}}
+
+[[Category:locations]]
+[[es:Cabaña del bosque]]

@@ -1,0 +1,77 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = shr_boletus
+| study        = {{techpoint|green|10}}
+| source       = Foraging
+| cost         = 2
+| consume      = {{health|-|1}} {{energy|+|5}}
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are forageable items located in all outdoor locations on the [[Locations|map]]. The closest location to the [[Sweet Home]] is to the south west in the small grove of trees. They can be consumed, which restores {{energy|+|5}} at the cost of {{health|-|1}}, or used as in ingredient in [[cooking]].  
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Cooking==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Oven}} / {{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!Cost
+!Effect
+|-
+|{{Item|Baked mushrooms|3}}
+|{{Item|{{PAGENAME}}|5}}
+| 0:25<br>{{Fuel|-|5}}
+|{{Energy|+|12}}
+|-
+!colspan="4"|{{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!Cost
+!Effect
+|-
+|{{Item|Baked kebab|6|animation|variant=mushroom}}
+|{{Item|Quality fish fillet|1|animation}}<br>{{Item|{{PAGENAME}}|5}}<hr>{{Item|Blue fish fillet|1|animation}}<br>{{Item|{{PAGENAME}}|5}}
+|1:10<br>{{Fuel|-|20}}
+|{{Quality|copper}}{{energy|+|24}}<hr>{{Quality|silver}}{{Energy|+|30}}<hr>{{Quality|gold}}{{Energy|+|42}}<br>+<br>[[File:Protection effect.png|link=Effects|Tough Mood]] 2:00
+|-
+!colspan="4"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!Cost
+!Effect
+|-
+|{{Item|Mushroom patty|6}}
+|{{Item|{{PAGENAME}}|6}}<br>{{Item|Dough|2}}
+| 0:35<br>{{Fuel|-|20}}
+|{{Energy|+|8}}
+|-
+|{{Item|Cream of Mushroom Soup|4}}
+|{{Item|{{PAGENAME}}|6}}<br>{{Item|Jug of milk|1}}
+| 0:45<br>{{Fuel|-|15}}
+|{{Energy|+|13}}+<br>[[File:Protection effect.png|link=Effects|Tough Mood]] 2:00
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]

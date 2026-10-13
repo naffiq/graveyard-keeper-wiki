@@ -1,0 +1,29 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|24}}
+| nameinternal = meal:omelette
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 20
+| stacksize    = 25
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a food item which restores {{Energy|+|24}} when consumed. Since the items which can be used to craft an {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]]. {{PAGENAME}}s can also be purchased from [[Horadric]] in [[The Dead Horse]].
+
+==Recipe==
+{| class="wikitable" style="width:30em; table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Omelette|3}}
+|{{Item|Chicken egg|3}}<br>{{Item|Jug of milk|1}}<br>{{Item|Fuel|5}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

@@ -1,0 +1,102 @@
+{{Item Infobox
+| name         = Silver Crucian
+| image        = i_fish_crucian_silver.png
+| cost         = 
+| price        = 98
+| study        = {{Techpoint|Green|50}}
+
+| source       = Village
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_crucian_silver
+}}
+The <b>Silver Crucian</b> is one of sixteen(16) different [[Fishing|fish]] that can be caught, and either processed for [[cooking]] or sold to the [[Lighthouse Keeper]]. It's thought to be a relatively mid-tier fish, thus the difficulty in catching it is moderate. It also has the unique by-product of a single [[silver nugget]].
+
+== Fishing ==
+The odds of catching a fish are affected primarily by the other fish in the area at that time.  More competition means your chance of catching a particular fish over another is lowered.  Below is a table of this fish's preferences by the bait used, the place you choose to fish, where you choose to cast, the rod you use, and the time of day.   You have the same chance of catching a Silver Crucian using a good rod as you would with an excellent rod, but the quality of fish available will be lower.  For that reason it's not recommended to use the gem lure or a good rod.   If a method isn't listed below it's impossible to catch this fish using it. 
+
+WARNING: Though one would assume that using the Professional Kitchen in the [[Talking Skull Cellar]] to prepare larger numbers of Silver Crucian would be an efficient use of stamina, this method does '''''not''''' produce [[Silver nugget]]s. Prepare them one at a time on the cooking table at [[Sweet Home]].
+
+{| style="text-align:left; width:60%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Best
+|-
+|{{Item|Good fishing rod}}
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Lure with a gem}}
+|Good
+|-
+|{{Item|Steel lure}}
+|Best
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+! colspan="2" |Location
+|-
+!Name
+!Weight
+|-
+|Village
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|None
+|-
+|Night
+|Best
+|}
+|}
+
+==Study==
+{| class="wikitable" style="text-align:center; width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|Quality fish fillet|3|animation}}<br>{{Item|Silver nugget|1}}
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Energy|-|9}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+
+[[pt-br:Prussiano prateado]]

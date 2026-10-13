@@ -1,0 +1,65 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Workyard]]
+|technology = [[Building (Tech Tree)|Firewood]]
+|related    = 
+|footprint  = 5x3
+|rotatable  = Mirror
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to cut [[wood billet]]s into usable pieces such as [[wood wedge]]s or [[firewood]].
+
+Horizontal and vertical : 5 X 3
+
+Rotation : Mirror
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wood billet|5}}
+|
+|Requires firewood
+|}
+
+==Recipes==
+
+===Wood===
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:6em;"| Notes
+|-
+|{{Item|Firewood|10}}
+|{{Item|Wood billet|1}}
+|{{Energy|-|6}}
+|rowspan="2"|[[file:Axeman Perk.png|40px|link=Perks#Axeman Perk]] +5
++{{Techpoint|red|1}}
+|-
+|{{Item|Wood wedge|10}}
+|{{Item|Wood billet|1}}
+|{{Energy|-|6}}
+|-
+|{{Item|Firewood|4}}
+|{{Item|Wooden cross|1}}
+|{{Energy|-|4}}
+|rowspan="3"|+{{Techpoint|red|1}}
+|-
+|{{Item|Firewood|4}}
+|{{Item|Wooden marker|1}}
+|{{Energy|-|4}}
+|-
+|{{Item|Firewood|4}}
+|{{Item|Wooden grave fence|1}}
+|{{Energy|-|3}}
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]

@@ -1,0 +1,103 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| cost         = 
+| price        = 
+| consume      = 
+| study        = {{Techpoint|Green|10}}
+| alchemy      = 
+| source       = [[Place for burning corpses]], [[Goo]], [[Wall Crematorium]]
+| type         = Advanced Alchemy Resource
+| stacksize    = 100
+| quest        = 
+| nameinternal = ash
+}}
+<b>{{PAGENAME}}</b> is a resource primarily used in [[alchemy]] for the production of [[Farming#Fertilizer|quality fertilizer]], though is likely best known for being a requirement in crafting funeral urns. Its only source being the cremation of [[corpse]]s and ash [[goo]], which itself can be consistently gained by combining [[water]] and [[life solution]] at the [[alchemy workbench (tier I)|alchemy workbench]].
+
+==Recipe==
+{|class="wikitable" "
+!colspan="2"|{{Item|Place for burning corpses}}
+|-
+!style="width:16.5em;"| Item Produced
+!style="width:16.5em;"| Materials Required
+|-
+|{{Item|Burial certificate|1}}<br>{{Item|Salt|2}}<br>{{Item|{{PAGENAME}}|5}}
+|{{Item|Wood billet|8}}<br>{{Item|Corpse|1}}
+|-
+! colspan=2 | {{Item|Wall Crematorium}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Burial certificate|1}}<br>{{Item|{{PAGENAME}}|3}}<br>{{Item|Salt|2}}
+|{{Fuel|20|Fuel}}<br>{{Item|Corpse|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable<br>(already a reagent)
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Ceramic funeral urn|1}}
+|{{Item|Ceramic jug|1}}<br>{{Item|{{PAGENAME}}|5}}
+|-
+|{{Item|Porcelain funeral urn|1}}
+|{{Item|Porcelain pitcher|1}}<br>{{Item|{{PAGENAME}}|5}}
+|-
+!colspan="2"|{{Item|Organ Workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Quality fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|2}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Quality fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|4}}<br>{{Item|{{PAGENAME}}|3}}
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Black paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1}}
+|-
+|{{Item|Growth enhancer|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Life solution|1}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Flavor enhancer|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Life extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Ash]]
+[[es:Ceniza]]

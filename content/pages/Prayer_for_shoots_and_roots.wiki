@@ -1,0 +1,79 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Desk]]
+| cost         = 75
+}}
+
+[[File:Update Alert.png|link=|frameless]] Broken – no apparent effect (''Confirmed v1.124'')
+
+Performing this sermon will provide you with the fertility [[effects|effect]] which is supposed to increase the yield and growth rates of [[farming|crops]].  The sermon provides a standard boost to faith and donations depending on the quality.
+
+==Sermon==
+{| class = "wikitable"
+!Quality
+!Minimum {{Church Rating}}
+!Money
+!Donations
+!Faith
+!Effect
+|-
+|{{Quality Sprite|image = Prayer For Shoots and Roots Sermon.png|quality = Copper}}
+|10 {{Church Rating}}
+|{{Money|100}} 
+| +25%
+|x1
+|[[file:Prayer for shoots and roots effect.png]] Fertility: 27:00
+|-
+|{{Quality Sprite|image = Prayer For Shoots and Roots Sermon.png|quality = Silver}}
+|20 {{Church Rating}}
+|{{Money|200}} 
+| +25%
+|x2
+|[[file:Prayer for shoots and roots effect.png]] Fertility: 54:00
+|-
+|{{Quality Sprite|image = Prayer For Shoots and Roots Sermon.png|quality = Gold}}
+|30 {{Church Rating}}
+|{{Money|300}} 
+| +25%
+|x3
+|[[file:Prayer for shoots and roots effect.png]] Fertility: 81:00
+|}
+
+==Effect==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:10em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Prayer for shoots and roots effect.png|48x48px|link=Effects#Fertility|Fertility]]
+|Vegetables grow faster.
+|style="text-align:center"|36:00 {{Quality|copper}} <br> 72:00 {{Quality|silver}} <br> 108:00 {{Quality|gold}}
+|[[Effects#Fertility|Fertility]]
+|}
+
+==Recipe==
+{| class = "wikitable"
+!colspan = "4"| {{Item|Desk}}
+|-
+! Tab
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|[[file:tab_book.png|link=|frameless|center]]
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Chapter|1|animation}}
+{{Item|Faith|5}}
+|{{Energy|-|10}}
+|}
+{{Navbox-Church}}
+[[Category:church items]]
+
+[[Category:Writing]]
+[[Category:Sermons]]

@@ -1,0 +1,64 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = 
+| nameinternal = 
+| study        = 
+| source       = 
+| stacksize    = 30
+| cost         = 100
+}}
+<b>{{PAGENAME}}</b> is a building material that may only be acquired from the [[Merchant]]. Its original singular purpose is the crafting of high-tier [[church]] furniture, a total of 12 pieces being necessary for all available bench slots.
+
+With the implementation of DLC, silk is now necessary in a variety of limited applications, such as [[curtains]] for the [[Woodcutter]]. In addition, during ''[[Stranger sins|Stranger Sins]]'', [[Koukol]] will ask you to improve your tavern's tables.
+
+It's also used to make carpets and bedspreads to decorate your home.
+
+==Building==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Soft church bench}}
+|{{Item|Wooden plank|8}}<br>{{Item|Jointing|4}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Tavern table II}}
+|{{Item|Wooden beam|4}}<br>{{Item|Wooden plank|8}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Curtains}}
+|{{Item|Silk|1}}<br>{{Item|White paint|1}}<br>{{Item|Acceleration powder|2}}
+|-
+|[[File:GoC Residential tent.png|link=http://graveyardkeeper.gamepedia.com/File:GoC_Residential_tent.png]][[Residential tent]]
+|{{Item|Wooden stick|4}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Refugee Happiness|2-10}}
+|-
+|[[File:Storehouse II.png|link=http://graveyardkeeper.gamepedia.com/File:Storehouse.png]] [[Storehouse|Storehouse II]]
+|{{Item|Flitch|12}}<br>{{Item|Silk|5}}<br>{{Item|Refugee Happiness|6}}
+|-
+|Common Bedspread
+|1x [[Silk]]
+|-
+|Common Carpet
+|1x [[Silk]]
+|-
+|Colored Bedspread
+|1x any paint
+1x  [[Silk]]
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+! NPC !! Buy Tier !! Base Cost !! Qty !! Sell Tier !! Base Price
+|-
+|{{NPC|Merchant}}
+|II
+|{{Money|100}}
+|18x
+|II
+|{{Money|73}}
+|}
+
+<br>
+{{Navbox-Misc}}
+[[ru:Шёлк]]

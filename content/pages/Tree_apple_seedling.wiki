@@ -1,0 +1,41 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seedling
+| nameinternal = seedling_tree_apple
+| study        = None
+| buy         = [[Clotho|Clotho (T I)]]
+| sell         = [[Clotho|Clotho (T I)]]
+| source       = None
+| cost         = 300
+}}
+
+
+Sold by the witch [[Clotho|Clotho]] in the [[The Swamp|west swamp.]] Seedlings can be planted in the garden south of the player's home, also referred to as the [[Farming|Orchard]].
+
+[[File:Graveyard Keeper Orchard.png|
+[[|frameless|right]]]]
+==Crafting==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{item|Place for the apple tree}}
+|-
+! style="width:17.5em;"| Produced item
+! style="width:17.5em;"| Materials required
+|-
+
+|{{item|Apple}}
+
+| {{item|Tree apple seedling|1}}
+{{item|Peat|3}}
+{{item|Wooden stick|2}}
+|}
+
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seedlings]]
+
+
+[[fr:Jeune Plant de Pommier]]
+[[pt-br:Mudas de macieira]]
+[[es:Vástago de manzano]]

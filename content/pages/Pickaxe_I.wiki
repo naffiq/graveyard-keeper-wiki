@@ -1,0 +1,55 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = pickaxe_1
+| study        = {{Techpoint|red|30}}
+| source       = [[Krezvold]], [[Wooden anvil]], [[Anvil]], [[Anvil II]]
+| efficiency   = 100%
+| energy       = {{Energy|-|1}}
+| cost         = 300
+| stacksize    = 1
+}}
+
+The {{PAGENAME}} is equipped in the {{Icon|pickaxe}} slot and is used when collecting stone, clearing debris and [[mining]] deposits.  The {{PAGENAME}} can be forged at the [[wooden anvil]] or better and can be optionally purchased from the [[Blacksmith]].
+
+Efficiency reflects how much progress toward a task each use of a tool provides. An efficiency of 100% would be full speed, 200% would be double speed, and 50% would be half speed. The {{PAGENAME}} is 100% efficient.
+
+Energy usage reflects how much energy each action consumes. The {{PAGENAME}} consumes {{Energy||1}} per swing.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|30}}.
+
+== Recipe ==
+{| class = "wikitable"
+! colspan="2" |{{Item|Wooden anvil}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|2}}
+{{Item|Simple iron parts|3}}
+{{Item|Iron ingot|1}}
+|}
+
+==Study==
+{| class = "wikitable" table-layout:fixed;"
+! colspan = "4" | {{Item|Study table}}
+|-
+!style="width:10em;"| Tech Points
+!style="width:17.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}}
+{{Item|Science|3}}
+| {{Energy|-|5}}
+|Not decomposable
+|}
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]

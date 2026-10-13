@@ -1,0 +1,18 @@
+This page is about the art of beekeeping. {{item|bee}}s can be used in [[alchemy]],{{item|honey}} in [[cooking]] and [[Alchemy]] and the {{item|beeswax}} in [[alchemy]] and making [[candle]]s.
+
+==Locations==
+There are several locations in the game, where [[bee]]s can be found:
+* The [[beekeeper]] in the western part of the [[The Village|village]] sells [[bee]]s, [[honey]] and [[beeswax|wax]]. There are also some (inaccessible) hives and two wild hives nearby.
+* The [[#Bee Garden|apiary]] (or beegarden) is northwest of [[Sweet Home|your home]]. You can find two wild hives nearby. After some [[Farming and Nature (Tech Tree)|study]] and [[Beekeeper workbench|repair]] work, you can build your own hives there.
+* Scattered around the landscape, you'll find a lot of trees with wild bee hives in them. After some [[Farming and Nature (Tech Tree)|studies]], [[honey]], [[bee]]s and [[beeswax|wax]] can be harvested there. There are three hives in the [[forest near the river]] near the refugee camp.
+
+==Apiary==
+The apiary - or bee garden - is located north of the graveyard on the hill. 
+
+The [[Beekeeper workbench|workbench]] starts out damaged and needs to be repaired, requiring {{Item|Wooden plank|4}}, {{Item|Simple iron parts|4}}, and {{Item|Clean paper|2}}. It cannot be repaired until [[Farming_and_Nature_(Tech_Tree)|bee domestication]] has been researched.
+
+After the repair, seven spots are available for putting up [[bee hive]]s.
+
+{{Navbox-Locations}}
+[[Category:Topics]]
+[[Category:Locations]]

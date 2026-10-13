@@ -1,0 +1,50 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| source       = [[Church workbench]], [[Bishop]]
+| cost         = 112
+}}
+A prayer which increases [[Faith]] and donations by 50%/100%/150%. It can be crafted at the [[Desk]] or [[Desk II]]. The quality is dependent on the ingredients and for the sermon to be successful it needs  15{{Church Rating}}/30{{Church Rating}}/60{{Church Rating}}. The Combo prayer is as effective as the [[Prayer for donations]] and better than the [[Prayer for faith]].
+==Quality levels== 
+{| class = "wikitable" style = "text-align:center"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = copper}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = silver}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = gold}}
+|-
+|{{Church Rating}}15
+|{{Church Rating}}30
+|{{Church Rating}}60
+|-
+|{{Silver Coin}}1 (+50%)
+|{{Silver Coin}}2 (+100%)
+|{{Silver Coin}}3 (+150%)
+|-
+|[[Faith]] (x1) (+50%)
+|[[Faith]] (x2) (+100%)
+|[[Faith]] (x3) (+150%)
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Desk}}{{Item|Desk II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|rowspan = "2"|	{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Book|1|animation}}
+{{Item|Faith|7|}}
+
+{{Energy||10}}
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+[[Category:Writing]]
+[[Category:Sermons]]

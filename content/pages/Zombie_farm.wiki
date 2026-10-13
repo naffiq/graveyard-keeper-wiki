@@ -1,0 +1,116 @@
+__NOTOC__{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Kitchen garden]]
+|technology = [[Farming and Nature (Tech Tree)|Zombie Gardening]]
+|related    = [[Zombie]]s, [[Farming]]
+|footprint  = 9x9
+|rotatable  = False
+}}
+A {{lcfirst:{{PAGENAME}}}} is a place where you can have a {{item|zombie}} grow your crops. Those farms come in 3 tiers: {{quality|copper}}, {{quality|silver}} and {{quality|gold}}, where you can only grow basic crops or crops of that tier or below.{{clear}}
+
+==Cost==
+'''Note:''' The fields must '''not''' be tilled before, otherwise you are not able to build the farm. You can remove tilled fields using the [[kitchen garden]] workbench.
+{| class="wikitable" style="text-align:center;width:40em;"
+!colspan=4|[[file:kitchen garden workbench.png|64px|link=kitchen garden]] [[Kitchen garden]]
+|-
+!style="width:5em;"|Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|[[file:{{PAGENAME}} item.png|64px|{{PAGENAME}} tier I]]<br>tier 1
+|{{Item|Wooden plank|5}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Nails|10}}
+|{{Energy|-|20}}<br>+<br>{{Energy|-|24}}
+|ground tilled<br>+<br>structures built
+|-
+|[[file:{{PAGENAME}} u2 item.png|64px|Upgrade to tier II]]<br>tier 2
+|{{Item|Quality fertilizer I|12}}
+|N/A
+|Upgraded from<br>tier 1 farm.
+|-
+|[[file:{{PAGENAME}} u3 item.png|64px|Upgrade to tier III]]<br> tier 3
+|{{Item|Quality fertilizer II|12}}
+|N/A
+|Upgraded from<br>tier 2 farm.
+|}
+
+==Upgrading the Farm==
+You need to build a tier I farm first. Then you may upgrade it to tier II and afterwards to tier III. You have to use the [[fertilizer]] only once to upgrade the farm, it lasts forever.
+
+Upgrading the farm to a higher tier has the following effects:
+
+{| class="wikitable" style="text-align:center;width:40em;"
+!style="width:5em;|Icon
+!Available<br>crops
+!Basic crop<br>yield
+!Complex crop<br>yield
+!Craft speed
+|-
+|[[file:{{PAGENAME}} item.png|64px|{{PAGENAME}} tier I]]<br>tier 1
+|Basic<br>{{quality|copper}}
+|32
+|20
+|12:30 @ 40%e<br>7:41 @ 65%e<br>6:27 @ 77.5%e<hr>5:00 Base*
+|-
+|[[file:{{PAGENAME}} u2 item.png|64px|{{PAGENAME}} tier II]]<br>tier 2
+|Basic<br>{{quality|copper}} {{quality|silver}}
+|36
+|24
+|10:00 @ 40%e<br>6:09 @ 65%e<br>5:10 @ 77.5%e<hr>4:00 Base*
+|-
+|[[file:{{PAGENAME}} u3 item.png|64px|{{PAGENAME}} tier III]]<br>tier 3
+|Basic<br>{{quality|copper}} {{quality|silver}} {{quality|gold}}
+|40
+|28
+|7:30 @ 40%e<br>4:37 @ 65%e<br>3:52 @ 77.5%e<hr>3:00 Base*
+|}* <small>The time which was arbitrarily chosen for this craft, diminished by the inefficiency of the given zombie.</small>
+
+==Working the Farm==
+Take a {{item|zombie}} near the farm, hit "E" to put it to work, and "E" again to remove it from the farm. Stand next to the zombie, hit "E" to select, and then select which crop should be produced or upgrade the farm.
+
+It takes a while for the crops to be produced - the higher the tier of the farm and the higher the work effiency of the zombie, the faster they work. You'll see a progress bar below the crop that's currently produced. After a while the products are stored automatically in a [[trunk]] of the [[kitchen garden]]. This sign [[file:work blocked.png|work blocked]] on the farm means that the trunk is full (or missing) and the work is blocked until some storage space is freed up (or constructed).
+
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|{{Item|Beet|32-40}}<br>{{Item|Beet seed|24}}
+|{{Item|Beet seed|24}}
+|
+|-
+|{{Item|Cabbage|32-40}}<br>{{Item|Cabbage seed|24}}
+|{{Item|Cabbage seed|24}}
+|
+|-
+|{{Item|Carrot|32-40}}<br>{{Item|Carrot seed|24}}
+|{{Item|Carrot seed|24}}
+|
+|-
+|{{Item|Wheat|32-40}}<br>{{Item|Wheat seed|24}}
+|{{Item|Wheat seed|24}}
+|
+|-
+|{{Item|Hemp}}
+|N/A
+|Can not be farmed by zombies.
+|-
+|{{Item|Lentils|20-28|animation}}<br>{{Item|Lentil seed|24|animation}}
+|{{Item|Lentil seed|24|animation}}
+|High quality crops need farm of appropriate tier.
+|-
+|{{Item|Onion|20-28|animation}}<br>{{Item|Onion seed|24|animation}}
+|{{Item|Onion seed|24|animation}}
+|High quality crops need farm of appropriate tier.
+|-
+|{{Item|Pumpkin|20-28|animation}}<br>{{Item|Pumpkin seed|24|animation}}
+|{{Item|Pumpkin seed|24|animation}}
+|High quality crops need farm of appropriate tier.
+|}
+'''Note:''' The number of crops produced, that are shown in this table and in the GUI of the farm, are only '''averages'''. The real numbers differ by a small random amount from those. Also the number of seeds varies around 24. 
+
+<br>
+{{Navbox-Kitchen garden}}
+[[Category:Workstations]]
+[[Category:Kitchen garden workstations]]

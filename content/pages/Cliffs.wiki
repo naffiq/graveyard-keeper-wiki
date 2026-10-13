@@ -1,0 +1,9 @@
+The cliffs are a lonesome place, where the graveyard keeper can rest after a long day's toil and gaze out over the vast [[sea]]. This area is located in the far north east corner of the world, near the [[mountain fort]] and the [[Beach|ocean beach]].
+
+The cliffs wouldn't be worth mentioning at all, if it was not where you need to meet [[Vagner]] for a [[quest]]. Walking towards the area at the right time of day will trigger the cutscene.
+
+[[file:cliffs.png|400px|The graveyard keeper on top of the cliffs]]
+
+{{navbox-Locations}}
+
+[[Category:Locations]]

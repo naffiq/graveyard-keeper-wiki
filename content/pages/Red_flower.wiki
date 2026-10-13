@@ -1,0 +1,62 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = flw_poppy
+| study        = {{Techpoint|Green|10}}
+| alchemy      = {{item|Toxic powder|1}}
+| source       = Foraging
+| consume      = {{energy|+|3}}
+| stacksize    = 30
+}}
+'''{{PAGENAME}}s''' are a forageable item found in most outdoor areas. It does not require any technologies to collect. After unlocking the Insects technology of the [[Farming and Nature (Tech Tree)|Farming and Nature tech tree]], collecting Red Flowers may also yield {{item|butterfly}} during the day or {{item|moth}} at night.
+
+==Study==
+{| class = "wikitable" style = "width:40em"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Toxic powder|powder]]
+|}
+
+==Crafting==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"| Quality provided
+!style="width:10em;"|Notes
+|-
+|{{item|Flowerbed}}
+|{{Item|A piece of stone|2}}<br>{{Item|Peat|1}}<br>{{Item|{{PAGENAME}}|2}}
+|
+| +2 {{Graveyard Rating}}
+|No technologies required.
+|}
+
+==Alchemy==
+{{PAGENAME}} decomposes into [[Toxic powder|powder]] at the [[alchemy mill]]. Having unlocked the [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent.
+ 
+{| class = "wikitable" style = "width:40em"
+! colspan = "2" | {{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Toxic powder|1}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+[[Category:decomposable items]]

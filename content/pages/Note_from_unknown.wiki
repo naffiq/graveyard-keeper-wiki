@@ -1,0 +1,64 @@
+{{See|Quests|Lady Beatrice}} <!-- when the quests live somewhere nice please update this link and the link below-->
+{{Stub}} <!-- Remove this when the information is here -->
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = i_scroll_3
+
+| source       = [[Corpse]]
+}}
+'''{{PAGENAME}}''' is a message whose contents change depending on which ending you obtain at the end of the [[Quests|Beatrice's Offer]] questline.
+
+== Helping Beatrice ==
+When you do not betray [[Lady Beatrice]] to [[Koukol]] you will find the '''{{PAGENAME}}''' on one of the 3 [[Corpse|corpses]] that appear in the [[Morgue]].
+
+=== Dialogue ===
+After entering the morgue, The Keeper will comment that: "''Mmmm... Donkey never leaves corpses here. How Strange''"<br>
+The note will then drop form one of the corpses.
+
+The note then reads: 
+{|
+|-
+| "''A tiny request my dear ~''"
+|-
+| "''the soldiers refused their injections.''"
+|-
+| "''Whether they knew the truth or not, keeping them alive was an unnecessary risk.''"
+|-
+| "''Get rid of the bodies as soon as possible.''"
+|-
+| "''A thousand kisses, and stay in touch, our work together has just begun!''"
+|}
+
+The keeper then comments: "''Oh Crap...''".
+
+''After reading you will immediately receive the [[Perks#Progression_Perks|Industriousness Perk]].''
+
+== Betraying Beatrice ==
+When you betray [[Lady Beatrice]] to [[Koukol]] you will find the '''{{PAGENAME}}''' in the [[Donation box]] after performing your next [[Sermon]].
+
+The note reads:
+{|
+|-
+| "''You survived. my dear. What an amazing surprise.''"
+|-
+| "''You survived - and dash all my plans.''"
+|-
+| "Not bad! But don't be surprised if your life soon turns into a nightmare."
+|-
+| "''See you soon.''"
+|}
+
+The keeper then comments: "''Well, at least... That's to be expected.''"
+
+
+After reading you will immediately receive the [[Perks#Progression_Perks|Eloquence Perk]].
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]
+
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]

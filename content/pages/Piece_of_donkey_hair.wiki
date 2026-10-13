@@ -1,0 +1,32 @@
+{{Item Infobox 
+| name         = Piece of donkey hair
+| image        = Piece of donkey hair.png
+| type         = Quest item
+| nameinternal = piece of donkey hair
+| source       = 
+| cost         = 0
+| quest        = 
+}}
+
+The '''''Piece of Donkey''''' hair is required to make the [[Pagan amulet of spirit summoning]] at the [[Church workbench]] with 1 [[Intestine]] and 1 [[Beeswax]]. It is obtained from a cutscene with [[Donkey]].
+
+It is used to make the [[Pagan amulet of spirit summoning]]. 
+
+==Notes==
+
+*In patch 1.400, Donkey gives [[Piece of donkey hair]] after receiving [[Revolutionary message]] 2.
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Church workbench}}
+|-
+|{{Item|Pagan amulet of spirit summoning|1}}
+|{{Item|Intestine|1}}
+{{Item|Beeswax|1}}
+{{Item|{{PAGENAME}}|1}}
+|-}
+
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Quest items]]

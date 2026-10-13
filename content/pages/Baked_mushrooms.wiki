@@ -1,0 +1,33 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|12}}
+| nameinternal = snack:baked_kebab_7
+| study        = 
+| source       = [[Cooking]]
+| cost         = 6
+| stack size   = 20
+}}
+
+'''{{PAGENAME}}''' are a food item which restores {{Energy|+|12}} when consumed. The recipe is located inside the trunk of the [[cellar]] of [[Sweet Home]]. For more information on preparing food, see [[cooking]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Oven}} / {{Item|Bonfire}}
+|-
+!Item Produced
+!Materials required
+!Cost
+|-
+|{{Item|Baked mushrooms|3}}
+|{{Item|Edible mushroom|5}}
+| 0:25<br>{{Fuel|-|5}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]
+[[es:Champiñones asados]]

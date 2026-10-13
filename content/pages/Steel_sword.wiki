@@ -1,0 +1,68 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Weapon
+| nameinternal = sword_steel
+| study        = {{Techpoint|red|50}}
+| source       = [[Anvil II]], [[Koukol]], [[Krezvold]]
+| efficiency   =
+| energy       = {{Energy|-|2}}
+| damage       = {{Health|-|15}}
+| cost         = 4000
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a mid-tier weapon, which inflicts {{Health|-|15}} of damage to enemies. It can either be crafted at an advanced [[Anvil II|anvil]], or purchased from either [[Koukol]] near the [[mountain fort]] or [[Krezvold]] the blacksmith. It's unique among weapons as being a required material for the crafting of higher-tiered weaponry.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Steel ingot|2}}<br>{{Item|Steel parts|2}}
+|{{Energy|-|30}}<br>{{Techpoint|Red|2}}{{Techpoint|Blue|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable"
+!colspan="3"|{{Item|Jewelry table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|Steel sword with gem|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Gold jewelry details|1}}
+|{{Energy|-|30}}<br>{{Techpoint|Red|3}}{{Techpoint|Blue|1}}
+|-
+|{{Item|Damask sword with gem|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Faceted diamond|1}}<br>{{Item|Gold jewelry details|3}}
+|{{Energy|-|30}}<br>{{Techpoint|Red|3}}{{Techpoint|Blue|1}}
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:weapons]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[pt-br:Espada de aço]]
+[[es:Espada de acero]]

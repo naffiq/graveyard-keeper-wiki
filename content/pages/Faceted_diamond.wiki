@@ -1,0 +1,34 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| source       = [[Dungeon]], [[Souls room]]
+| cost         = 3000
+| stacksize    = 10
+| type         = Miscellaneous
+| quest        = [[Ms. Charm]]; [[Jewelry]]
+| nameinternal = <!-- Name of the items in the internal game files. --> 
+}}
+<b>{{PAGENAME}}s</b> are miscellaneous crafting materials, mined from outcroppings found in the dungeon, on levels 8, 11, 13 and 15. One node of Diamond can also be found in the [[Souls room|Souls Room]]. These crystal protrusions require a pick axe to be mined, as well as the appropriate [[Building (Tech Tree)|technology]] to be unlocked. Each of these crystals will yield 4x diamonds (or 5x with the Jeweler [[perk]]). 
+
+In [[Versions|v1.3]], a bug was temporarily introduced where the [[merchant]] was unable to sell or buy this item. In [[Versions|v1.4]], this is once again possible.<ref>[https://store.steampowered.com/news/app/599140/view/3106914346358961385 Release notes for v1.4]</ref>
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Jewelry table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Jewelry|1}}
+|{{Item|Gold jewelry details|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Faith|2|}}
+|-
+|{{Item|Damask sword with gem|1}}
+|{{Item|Steel sword|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Gold jewelry details|3}}
+|}
+
+<br>
+== References ==
+<references/>
+<br>
+{{Navbox-Misc}}

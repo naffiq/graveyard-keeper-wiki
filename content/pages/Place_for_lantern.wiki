@@ -1,0 +1,46 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Cabin in the woods]], [[Forest near the river]]
+|technology = [[Smithing (Tech Tree)|Rules of Burning]]
+|related    = [[Lantern network]]
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} can be either constructed using the workbench near the [[cabin in the woods]] or by setting up a [[lantern network]] in the [[Forest near the river|forest]] first.
+
+Around the [[cabin in the woods]], you can construct up to three spots, where you can build lanterns. The [[lantern network]] sets up eight spots for them.
+__NOTOC__
+{{clear}}
+
+==Cost==
+Setting up the spots is free, but building the different types of lanterns there, needs some materials:
+
+{| class="wikitable"
+! Item Produced
+! Materials Required
+! Energy
+! Notes
+|-
+| style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+| No materials needed.
+| {{Energy||0}}
+| 
+|-
+| style="text-align:center"|[[file:Torch item.png|64px|link=Torch]]
+| {{Item|Wooden beam|1}}<br>{{Item|Wooden stick|1}}<br>{{Item|Hemp rope|1}}
+| {{Energy|-|5}}
+| 
+|-
+| style="text-align:center"|[[file:Wooden lantern item.png|64px|link=Wooden lantern]]
+| {{Item|Wooden beam|1}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Glass|2}}
+| {{Energy|-|10}}
+| 
+|-
+| style="text-align:center"|[[file:Lantern item.png|64px|link=Lantern]]
+| {{Item|A piece of stone|4}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Glass|2}}
+| {{Energy|-|15}}
+|
+|}
+
+{{Navbox-Cabin in the woods}}

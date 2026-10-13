@@ -1,0 +1,132 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Stone
+| nameinternal = stone_plate_2
+| study        = {{Techpoint|Red|30}}
+| source       = [[Stone cutter]], [[Stone cutter II]]
+| buy          = [[Cory|Cory (T II)]]
+| sell         = [[Cory|Cory (T II)]]
+| cost         = 89
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}</b> is a crafting material that, among other things, can be further refined into [[a carved piece of stone]]. It's also used to craft higher-level stone-work for the [[Graveyard]]. It can either be crafted at the [[stone cutter]] or bought from (and sold to) the vendor [[Cory]].
+
+==Recipe==
+{| class="wikitable" "
+!colspan="3"|{{Item|Stone cutter}}
+|-
+!style="width:14em;"| Item Produced
+!style="width:14em;"| Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Polishing paste|1}}
+|{{Energy|-|15}}
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Iron chisel|1}}
+|{{Energy|-|15}}
+|-
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Polishing paste|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Iron chisel|1}}
+|{{Energy|-|10}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em; text-align:center;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em;"
+!colspan="3"|{{Item|Stone cutter II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|A carved piece of stone|1}}
+|{{Item|Iron chisel|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Faith|3}}
+|{{Energy|-|15}}
+|-
+|{{Item|Stone cross|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|30}}
+|-
+|{{Item|Stone grave fence II|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|15}}
+|-
+|{{Item|Stone cross II|1}}
+|{{Item|{{PAGENAME}}|3}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|-
+|{{Item|Stone plinth|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|25}}
+|-
+|{{Item|Stone sculpture|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|40}}
+|}
+
+==Building==
+{| class="wikitable" style="width:40em; table-layout:fixed;"
+!colspan="2"|[[Church]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Incense burner}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|Simple iron parts|4}}
+|-
+!colspan="2"|[[Graveyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Stone prayer station}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|Book|variant=silver|1|Silver}}
+|-
+|{{Item|Stone columbarium}}
+|{{Item|Wooden beam|4}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Ceramic funeral urn|12}}
+|-
+|{{Item|Build stone fence}}
+|{{Item|{{PAGENAME}}|24}}<br>{{Item|A carved piece of stone|2}}<br>{{Item|Complex iron parts|12}}
+|-
+!colspan="2"|[[Alchemy Lab]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alchemy mill}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Wooden plank|6}}<br>{{Item|Simple iron parts|4}}
+|-
+|{{Item|Zombie alchemy decomposer}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Wooden plank|10}}<br>{{Item|Simple iron parts|6}}
+|}
+
+<br>
+{{Navbox-Stone}}
+[[Category:stone items]]

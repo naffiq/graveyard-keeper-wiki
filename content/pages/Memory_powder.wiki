@@ -1,0 +1,27 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Memory_powder.png
+| type         = Quest item
+| nameinternal =
+| source       = [[Clotho]]
+| cost         = 1000
+| quest        = 
+| stacksize    = 10
+}}
+<b>{{PAGENAME}}</b> is a quest item from the [[Game of Crone]] DLC. It is only used in the creation of {{Item|Memory tincture}}. After obtaining the [[Vampires jaw]] and talking to [[Clotho]], she gives you three memory powder and the recipe for memory tincture. Additional memory powders can be bought from her for {{Money|1000}} each. 
+
+==Alchemy==
+{|class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Memory tincture|1}}
+|{{Item|Memory powder|1}}<br>{{Item|Silver powder|1}}<br>{{Item|Gold powder|1}}
+|}
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]

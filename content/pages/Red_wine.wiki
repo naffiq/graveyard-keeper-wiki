@@ -1,0 +1,102 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Health|+|30}}, {{Energy|+|60}}/{{Energy|+|72}}/{{Energy|+|84}}
+| study        = 
+| alchemy      = 
+| source       = [[Wine making barrel]]
+| cost         = 92
+| price        = 67
+| stacksize    = 20 
+| type         = Food; Beverage
+| quest        = [[Inquisitor]], [[Gerry]], [[Vagner]]
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is a consumable product, able to restore a relatively moderate amount of health and a large amount of energy. It's crafted by combining 2x [[pail of grape juice]] of varying qualities at the [[wine making barrel]]. The silver-quality wine specifically is required to complete a number of quests, including a primary quest-line involving the [[Inquisitor]].
+
+==Quality levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Wine.png|quality = copper}}
+|{{Quality Sprite|image = Wine.png|quality = silver}}
+|{{Quality Sprite|image = Wine.png|quality = gold}}
+|-
+|{{Money|150}}
+|{{Money|200}}
+|{{Money|250}}
+|-
+|{{Health|+|30}} {{Energy|+|60}}
+|{{Health|+|30}} {{Energy|+|72}}
+|{{Health|+|30}} {{Energy|+|84}}
+|-
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|25}}
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|30}}
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|30}}
+|}
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Wine making barrel}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Red wine|20|animation}}
+|{{Item|Pail of grape juice|2|animation}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alcohol distiller}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Booze|1}}
+|{{Item|{{PAGENAME}}|3|animation}}<br>{{Item|Fuel|10}}
+|}
+
+==Trading==
+With the DLC ''[[Stranger sins|Stranger Sins]]'', red wine - as with most beverages - may be sold regularly, either passively by being stored in the [[Talking Skull]]s cellar, or actively by being stored in the [[Barman]]s inventory and triggering an event.
+
+{|class="wikitable" style="text-align:center;"
+|-
+! NPC !! Quality !! Buy Tier !! Base Cost !! Qty !! Sell Tier !! Base Price !! Consumption
+|-
+|rowspan="2"|{{NPC|Horadric}}
+|[[file:Bronze Star.png]]
+|II
+|{{Money|150}}
+|6x
+|II
+|{{Money|104}}
+|2x per day<br>(if >20x)
+|-
+|[[file:Silver Star.png]]
+|II
+|{{Money|200}}
+|6x
+|II
+|{{Money|139}}
+|2x per day<br>(if >20x)
+|-
+|{{NPC|Merchant}} 
+|[[file:Gold Star.png]]
+|III
+|N/A
+|4x
+|III
+|{{Money|168}}
+|6x per week
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:beverages]]
+[[Category:consumable items]]
+
+[[pt-br:Vinho tinto]]

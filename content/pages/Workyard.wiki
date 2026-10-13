@@ -1,0 +1,179 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = {{PAGENAME}}.png
+| size      = //optional, default is 250x250px
+| exits     = [[Apiary]], [[Sweet Home]], [[Garden]], [[Morgue]], [[Graveyard]]
+| buildable = True
+| NPCs      = 
+}}
+
+The '''Workyard''' is the area directly south of [[Sweet Home|your home]] and is where you'll build most of the building and smithing workstations using the blueprint desk. The Workyard can quickly get a bit crowded without the [[Increase yard space|increased yard space]], so its a good idea to place workstations carefully.
+
+Your starting Workyard has a 6x9 area containing a [[timber stockpile]] and a [[stone stockpile]], a 11x6 area, and a third area shaped like a 15x9 area with a 6x5 area in the bottom left corner missing. <!-- would like photos of the building gird --> The swampy area to the north of the Workyard will have several [[Monsters#Slimes|green slimes]] at day time (they despawn at noon) and several [[Monsters#Flyers|bats]] at night (they despawn at midnight).
+
+{{clear}}
+
+==Work stations==
+The workbench for placing all the workstations is located in the northwest corner of the Workyard. For most stations, you first have to unlock the related [[Building (Tech Tree)|technology]]. 
+{| class = "wikitable" style="width:70%"
+!style="width:5em"|Blueprint
+!style="width:5em"|Name
+!style="width:12em"|Resources Required
+!style="width:3em"|X by Y
+!style="width:10em"|Notes
+|-
+|[[file:Trunk item.png|64px|link=trunk]]
+|[[Trunk]]
+|{{Item|Flitch|4}} <br> {{Item|Nails|4}} <br> {{Item|Simple iron parts|4}}
+|2x3 or 3x2
+|
+|-
+|[[file:Stone stockpile item.png|64px|link=Stone stockpile]]
+|[[Stone stockpile]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|8}}
+|5x4
+|
+|-
+|[[file:Timber stockpile item.png|64px|link=Timber stockpile]]
+|[[Timber stockpile]]
+|{{Item|Wooden stick|10}} <br> {{Item|Flitch|4}} <br> {{Item|Wooden beam|4}}
+|5x4
+|
+|-
+|[[file:Iron ore stockpile item.png|64px|link=Iron ore stockpile]]
+|[[Iron ore stockpile]]
+|{{Item|Flitch|4}}
+|6x5
+|
+|-
+|[[file:Increase yard space item.png|64px|link=Increase yard space]]
+|[[Increase yard space]]
+|{{Item|Complex iron parts|10}} <br> {{Item|Wooden plank|8}} <br> {{Item|Nails|4}}
+|N/A
+|Adds 5 new areas for building:  
+9x6, 9x9, 9x6, 9x9, and 6x17
+|-
+|[[file:Stone cutter item.png|64px|link=Stone cutter]]
+|[[Stone cutter]]
+|{{Item|Flitch|4}} <br> {{Item|Nails|4}}
+|5x3
+|
+|-
+|[[file:Stone cutter II item.png|64px|link=Stone cutter II]]
+|[[Stone cutter II]]
+|{{Item|Wooden plank|5}} <br> {{Item|Flitch|8}} <br> {{Item|Nails|18}}
+|6x5
+|
+|-
+|[[file:Furnace item.png|64px|link=Furnace]]
+|[[Furnace]]
+|{{Item|Flitch|4}} <br> {{Item|A piece of stone|14}} <br> {{Item|Simple iron parts|4}}
+|7x5
+|Note that this is not rotatable, and is large enough to be inconvenient to place around other items.
+|-
+|[[file:Furnace II item.png|64px|link=Furnace II]]
+|[[Furnace II]]
+|{{Item|A piece of stone|20}} <br> {{Item|Complex iron parts|8}} <br> {{Item|Pigskin paper|2}}
+|7x5
+|
+|-
+|[[file:Furnace III item.png|64px|link=Furnace III]]
+|[[Furnace III]]
+|{{Item|A piece of stone|20}} <br> {{Item|Complex iron parts|10}} <br> {{Item|Pigskin paper|2}}
+|7x5
+|
+|-
+|[[file:Wooden anvil item.png|64px|link=Wooden anvil]]
+|[[Wooden anvil]]
+|{{Item|Wood billet|2}} <br> {{Item|Simple iron parts|2}}
+|3x3
+|
+|-
+|[[file:Anvil item.png|64px|link=Anvil]]
+|[[Anvil]]
+|{{Item|Iron ingot|4}}
+|3x3
+|
+|-
+|[[file:Anvil II item.png|64px|link=Anvil II]]
+|[[Anvil II]]
+|{{Item|Iron ingot|2}} <br> {{Item|Steel ingot|2}}
+|3x3
+|
+|-
+|[[file:Carpenter's workbench item.png|64px|link=Carpenter's workbench]]
+|[[Carpenter's workbench]]
+|{{Item|Flitch|5}} <br> {{Item|Simple iron parts|2}}
+|6x4 or 4x6
+|
+|-
+|[[file:Carpenter's workbench II item.png|64px|link=Carpenter's workbench II]]
+|[[Carpenter's workbench II]]
+|{{Item|Wooden plank|8}} <br> {{Item|Complex iron parts|4}} <br> {{Item|Wooden beam|2}}
+|6x4 or 4x6
+|
+|-
+|[[file:Vine press item.png|64px|link=Vine press]]
+|[[Vine press]]
+|{{Item|Flitch|12}} <br> {{Item|Complex iron parts|4}} <br> {{Item|A piece of stone|10}}
+|5x4
+|
+|-
+|[[file:Sawhorse item.png|64px|link=Sawhorse]]
+|[[Sawhorse]]
+|{{Item|Wooden stick|10}}
+|4x3
+|
+|-
+|[[file:Circular saw item.png|64px|link=Circular saw]]
+|[[Circular saw]]
+|{{Item|Complex iron parts|10}} <br> {{Item|Wooden plank|8}} <br> {{Item|Nails|4}}
+|5x4
+|
+|-
+|[[file:Chopping spot item.png|64px|link=Chopping spot]]
+|[[Chopping spot]]
+|{{Item|Wood billet|5}}
+|5x3
+|
+|-
+|[[file:Potters wheel item.png|64px|link=Potters wheel]]
+|[[Potters wheel]]
+|{{Item|Flitch|4}} <br> {{Item|A piece of stone|2}} <br> {{Item|Nails|6}}
+|3x3
+|
+|-
+|[[file:Paper press item.png|64px|link=Paper press]]
+|[[Paper press]]
+|{{Item|Flitch|4}} <br> {{Item|Simple iron parts|2}} <br> {{Item|Nails|6}}
+|3x4 or 4x3
+|
+|-
+|[[file:Jewelry table item.png|64px|link=Jewelry table]]
+|[[Jewelry table]]
+|{{Item|Jointing|2}} <br> {{Item|Steel parts|4}} <br> {{Item|Lens|2}}
+|5x3 or 3x5
+|
+|-
+|[[file:Well item.png|64px|link=Well]]
+|[[Well]]
+|N/A
+|6x5
+|Not buildable
+|-
+|[[file:Water pump item.png|64px|link=Water pump]]
+|[[Water pump]]
+|{{Item|flitch|8}} <br> {{Item|nails|4}} <br> {{Item|Simple iron parts|2}}
+|3x3
+|Added to the well
+|-
+|[[file:Crate factory item.png|64px|link=Crate factory]]
+|[[Crate factory]]
+|{{Item|flitch|12}} <br> {{Item|Simple iron parts|4}} <br> {{Item|A piece of stone|12}}
+|6x5
+|Has a fixed place near the [[Kitchen Garden|garden]]. The [[cellar]] gets a chute, pallets and a [[porter station]].
+|}
+
+{{Navbox-Locations}}
+
+[[pt-br:Pátio]]

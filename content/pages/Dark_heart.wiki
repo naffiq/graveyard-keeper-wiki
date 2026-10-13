@@ -1,0 +1,60 @@
+{{Item Infobox 
+| name         = Dark heart
+| image        = Dark heart item.png
+| type         = Bodypart
+| nameinternal = heart_dark
+| study        = {{Techpoint|Blue|100}}
+| alchemy      =  {{Item|Death extract}}
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| quest        = [[Snake]], [[Inquisitor]]
+}}
+{{PAGENAME}}, as well as the other variants ([[Dark brain]], [[Dark intestine]]), will randomly appear on newly delivered corpses. Obtained after progressing far enough through the [[Inquisitor]] quest-line.
+
+==Quest==
+[[Snake]] asks you to bring him a {{PAGENAME}} for his final ceremony.
+
+This is requested by the Witch [[Clotho]] to heal [[Koukol]]'s curse.
+
+The [[Inquisitor]] needs evidence for the presence of an occult in the [[town]] to convince the king of the inquisition's plans. For this he asks you to bring him one {{PAGENAME}}, one [[Dark brain]] and one [[Dark intestine]].
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Blue|100}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|3}}
+|Decomposes into<br>[[Death extract|extract]].
+|}
+
+==Alchemy==
+{| class = "wikitable" style = "width:35em; table-layout: fixed;"
+! colspan = "2" | {{Item|Distillation cube}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Death extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+! colspan = "2" | {{Item|Distillation cube II}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Death extract|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+
+[[de:Dunkles Herz]]

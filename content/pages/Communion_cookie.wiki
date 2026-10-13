@@ -1,0 +1,18 @@
+{{Item Infobox
+| name         = Communion Cookies
+| image        = i_communion_cookie.png
+| type         = Church Item
+| consume      = {{Energy|+|1}}
+| nameinternal = communion_cookies
+| study        = 
+| alchemy      = 
+| source       = [[Bishop]]
+| cost         = 5
+| quest        =  
+}}
+
+Can be bought from the [[Bishop]] as a Tier I [[Items|Item]]. They can be used either as food - but their energy capacity is nothing, or as a way to progress Bishop trading tier to Tier II - though in this case it is better to do that with candles, at least they can be used in Church to boost {{Church Rating}}. However, since cookies can be sold back, an arbitrarily large amount of progress can be generated in one day.
+
+{{Navbox-Food}}
+[[Category:church items]]
+[[de:Hostien]]

@@ -1,0 +1,153 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = a piece of stone item.png
+| type         = Resource
+| nameinternal = stone_plate_1
+| study        = {{techpoint|Red|20}}
+| alchemy      = 
+| source       = [[Mining]], [[Stone cutter]], [[Stone cutter II]]
+| buy          = [[Cory|Cory (T I)]]
+| sell         = [[Cory|Cory (T I)]]
+| cost         = 29
+| stacksize    = 30
+| quest        = 
+}}
+<b>{{PAGENAME}}</b> is a building material, that can either be [[mining|mined]] or purchased from [[Cory]], the stone vendor. Its primary purpose is the construction of certain [[Work Stations|workstations]] and mid-tier grave decor. Large stone blocks can be broken into pieces at the [[stone cutter]], after they're deposited at a [[Stone stockpile|stockpile]].
+
+==Study==
+{|class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+{{clear}}
+==Recipe==
+{|class="wikitable" style="table-layout:fixed;"
+!colspan="4"|{{Item|Stone cutter}} / {{Item|Stone cutter II}}  
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|{{PAGENAME}}|6}}
+|{{Item|Stone block|1}}
+|{{Energy|-|15}}
+|[[file:Mason Perk.png|40px]][[Perks|Mason:]] <b>+2x</b>
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Gravestone|1}}
+|{{energy|-|10}}
+|Recycled
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Stone grave fence|1}}
+|{{energy|-|10}}
+|Recycled
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Gravestone II|1}}
+|{{energy|-|10}}
+|Recycled
+|-
+|}
+
+==Crafting==
+{|class="wikitable" style="table-layout:fixed;"
+!colspan="4"|{{Item|Stone cutter}} 
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Polishing paste|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|15}}
+|Provides {{Techpoint|red|3}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Iron chisel|1}} (10%)<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|15}}
+|Provides {{Techpoint|red|3}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|Stone repair kit|4}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Clay|1}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|Gravestone|1}}
+|{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|20}}
+|Adds {{Grave Decor}}2 to a grave.<br>Provides {{Techpoint|red|5}}
+|-
+|{{Item|Stone grave fence|1}}
+|{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|20}}
+|Adds {{Grave Decor}}2 to a grave.<br>Provides {{Techpoint|red|2}} {{Techpoint|blue|5}}
+|-
+!colspan="4"|{{Item|Stone cutter II}} 
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Polishing paste|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|Provides {{Techpoint|red|3}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|Iron chisel|1}} (10%)<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|Provides {{Techpoint|red|3}} {{Techpoint|green|1}} {{Techpoint|blue|1}}
+|-
+|{{Item|Stone repair kit|4}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Clay|1}}
+|{{Energy|-|8}}
+|
+|-
+|{{Item|Gravestone|1}}
+|{{Item|A piece of stone|2}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}2 to a grave.<br>Provides {{Techpoint|red|5}}
+|-
+|{{Item|Stone grave fence|1}}
+|{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}2 to a grave.<br>Provides {{Techpoint|red|2}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone cross|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A polished brick of stone|1}}<br>{{Item|Complex iron parts|2}}
+|{{Energy|-|20}}
+|Adds {{Grave Decor}}3 to a grave.<br>Provides {{Techpoint|red|5}} {{Techpoint|blue|5}}
+|-
+|{{Item|Gravestone II|1}}
+|{{Item|{{PAGENAME}}|3}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}3 to a grave.<br>Provides {{Techpoint|red|5}} {{Techpoint|blue|5}}
+|-
+|{{Item|Stone grave fence II|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|A polished brick of stone|1}}
+|{{Energy|-|10}}
+|Adds {{Grave Decor}}3 to a grave.<br>Provides {{Techpoint|red|2}} {{Techpoint|blue|5}}
+|}
+
+==Building==
+<nowiki>*work in progress*</nowiki>
+
+<br>
+{{Navbox-Stone}}
+[[Category:stone items]]
+[[Category:mined items]]
+
+[[pt-br: Pedaço de pedra]]

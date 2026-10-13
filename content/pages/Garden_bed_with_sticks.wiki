@@ -1,0 +1,41 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Kitchen Garden]]
+|technology = [[Farming and Nature (Tech Tree)|Improvement]]
+|related    = [[Farming]]
+|footprint  = 3x3
+|rotatable  = False
+}}
+The '''{{lcfirst:{{PAGENAME}}}}''' is used to grow [[lentils]]. How quickly things grow, the yield, and their quality is highly dependent on the [[fertilizer]]s you use, any active [[sermon]]s, and your chosen [[perks]]. For more information see the page on [[farming]].
+
+==Cost==
+{| class="wikitable"
+!colspan=4|[[file:kitchen garden workbench.png|64px|link=kitchen garden]] [[Kitchen garden]]
+|-
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Wooden stick|5}}
+|{{Energy|-|5}}
+|Requires: [[Farming and Nature (Tech Tree)|Improvement]]
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Time
+|-
+|{{Item|Lentils|?|animation}}<br>{{Item|Lentil seed|?|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|Lentil seed|4|animation}}
+|24:00
+|}
+
+<br>
+{{Navbox-Kitchen garden}}
+[[Category:Workstations]]
+[[Category:Kitchen garden workstations]]

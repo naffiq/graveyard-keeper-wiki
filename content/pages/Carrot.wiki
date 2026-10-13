@@ -1,0 +1,94 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = i_carrot_crop.png
+| consume      = {{Energy|+|5}}
+| type         = Crop
+| nameinternal = carrot_crop
+| study        = {{Techpoint|Green|10}}
+| alchemy      = {{Item|Health solution}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T I)]]
+| sell         = [[Farmer|Farmer (T I)]]
+| cost         = 10
+}}
+[[File:Carrot patch.gif|left|thumb|Carrots growing in the garden.]]
+<b>{{PAGENAME}}s</b> are a form of crop which can be grown from [[carrot seeds]] in the garden below the [[workyard]] known as the [[Kitchen Garden]]. Alternatively they can be purchased from the [[Farmer]]. 12 carrots are necessary to fulfill the [[Merchant]]'s quest. Carrots are demanded by [[Donkey]] as payment to deliver corpses after a certain point. Carrots are not an improvable crop, meaning they do not have a variety of quality levels and cannot be improved with fertilizer.  They can only be made to grow faster.  See the page on [[farming]] for more information on how crops are grown and improved. Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Green|10}}. 
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Empty garden bed}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|{{PAGENAME}}|?}}<br>{{Item|Carrot seed|2-3}}<br>{{Item|Crop waste|?}}
+|{{Item|Carrot seed|4}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Decomposes into:<br>[[Health solution|liquid]]
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Vegetable soup|4|animation}}
+|{{Item|Cabbage|2}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Pumpkin|2|animation}}
+|-
+|{{Item|Fish soup|4|animation}}
+|{{Item|White fish fillet|4|animation}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Water|5}}
+|-
+|{{Item|Carrot cutlet|4}}
+|{{Item|{{PAGENAME}}|2}}
+|-
+!colspan="2"|{{Item|Cooking table}}
+|-
+|{{Item|Grated carrot|1}}
+|{{Item|Carrot|1}}
+|-
+|{{Item|A bowl of sauerkraut|3}}
+|{{Item|Cabbage|3}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Salt|1}}
+|}
+
+==Alchemy==
+Carrots can be decomposed to [[Health solution|solution]] with the [[hand mixer]]. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at the workstation.
+
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!Item Produced
+!Resources Required
+|-
+|{{Item|Health solution|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+[[de:Karotte]]
+[[es:Zanahoria]]
+[[fr:Carotte]]
+[[ja:ニンジン]]
+[[pt-br:Cenoura]]
+[[ru:Морковь]]

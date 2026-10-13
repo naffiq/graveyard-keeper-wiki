@@ -1,0 +1,146 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = jewelry_detail_gold
+| study        = {{Techpoint|Red|100}}
+| source       = [[Jewelry table]]
+| buy          = [[Merchant|Merchant (T I)]]<br>[[Moneylender|Moneylender (T I)]]
+| sell         = [[Merchant|Merchant (T I)]]<br>[[Moneylender|Moneylender (T I)]]
+| cost         = 5000
+}}
+These <b>{{lc:{{PAGENAME}}}}</b> are a late-game crafting materials, and can either be crafted at a [[jewelry table]] or bought from the [[Merchant]] for {{Money|5000}}. They are used to make several valuable items and features.
+
+==Recipe==
+{| class="wikitable" style="width:35em"
+!colspan="3"|{{Item|Jewelry table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Gold ingot|1}}<BR>{{Item|Steel parts|1}}<BR>{{Item|Faith|2}}
+|style="text-align:center;"|{{Energy|-|15}}<br/>
+{{Techpoint|Red|3}}<br/>
+{{Techpoint|Blue|1}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|100}}
+|{{Item|Faith|10}}<br>{{Item|Science|10}}
+|{{Energy|-|15}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:40em; "
+!colspan="3"|{{Item|Jewelry table}}
+|-
+! style="width:17.5em;" |Item Produced
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Result
+|-
+|{{Item|Jewelry|1}}
+|{{Item|{{PAGENAME}}|1}}<br>
+{{Item|Faceted diamond|1}}<br>
+{{Item|Faith|2|}}
+|-
+|{{Item|Steel sword with gem|1}}
+|{{Item|Steel sword|1}}<br>
+{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Damask sword with gem|1}}
+|{{Item|Steel sword|1}}<br>
+{{Item|Faceted diamond|1}}<br>
+{{Item|{{PAGENAME}}|3}}
+|-
+!colspan="3"|{{Item|Church workbench}}
+|-
+! style="width:17.5em;" |Item Produced
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Result
+|-
+|{{Item|Hard cover|1|gold}} upgrade
+|{{Item|{{PAGENAME}}|2}}<br>
+{{Item|Hard cover|1|silver}}
+|-
+! colspan="3" |{{Item|Stone cutter II}}
+|-
+! style="width:17.5em;" |Item Produced
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Result
+|-
+|{{Item|Marble sculpture III|1}}
+|{{Item|A polished brick of marble|3}}<br>
+{{Item|A carved piece of marble|2|gold}}<br>
+{{Item|{{PAGENAME}}|1}}
+|style="text-align:center;"|{{Energy|-|30}}<br>
+{{Techpoint|Red|?}}<br>
+{{Techpoint|Blue|?}}
+|-
+|{{Item|Marble sculpture IV|1}}
+|{{Item|A polished brick of marble|3}}<br>
+{{Item|A carved piece of marble|3|gold}}<br>
+{{Item|{{PAGENAME}}|1}}
+|style="text-align:center;"|{{Energy|-|30}}<br>
+{{Techpoint|Red|?}}<br>
+{{Techpoint|Blue|?}}
+|-
+|{{Item|Stone grave fence VIII|1}}
+|{{Item|A piece of stone|2}}<br>
+{{Item|A polished brick of stone|1}}<br>
+{{Item|{{PAGENAME}}|1}}
+|style="text-align:center;"|{{Energy|-|10}}<br>{{Techpoint|Red|15}}<br>{{Techpoint|Blue|10}}
+|-
+|{{Item|Marble grave fence VIII|1}}
+|{{Item|A piece of marble|2}}<br>
+{{Item|A polished brick of marble|1}}<br>
+{{Item|{{PAGENAME}}|1}}
+|style="text-align:center;"|{{Energy|-|10}}<br>
+{{Techpoint|Red|10}}<br>
+{{Techpoint|Blue|15}}
+|}
+
+==Building==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|[[Church]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Stained glass window|}}
+|{{Item|Glass|4}}<br>{{Item|Complex iron parts|5}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Candelabra III|}}
+|{{Item|Complex iron parts|8}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Wall candelabra III|}}
+|{{Item|Complex iron parts|8}}<br>{{Item|{{PAGENAME}}|2}}
+|}
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | I 
+| {{Money|5000}} 
+| align="center" | I 
+| {{Money|3423}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:jewelry items]]
+[[de:Goldschmuckverzierungen]]

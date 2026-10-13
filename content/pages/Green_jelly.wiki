@@ -1,0 +1,79 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Mob Drop
+| nameinternal = green_jelly
+| study        = {{Techpoint|Green|10}}
+| alchemy      =  {{Item|Order solution}},  {{Item|Order extract}}
+| source       = [[Monsters|Green slimes]], [[Dungeon]]
+| cost         = 
+| quest        = 
+}}
+'''{{PAGENAME}}''' is obtained by killing green [[Monsters|slimes]] in the dungeon or north of [[Sweet Home]] (during the morning). Green jelly is utilized for [[cooking]] and [[alchemy]], where its used to produce [[order solution]] and [[order extract]].
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Order solution|solution]] and [[Order extract|essence]]
+|}
+
+== Crafting ==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+! colspan="2" |{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Green jelly (food)|3}}
+|{{Item|Green jelly|4}}<br>{{Item|Honey|1}}
+|-
+|{{Item|Red jelly|3}}
+|{{Item|Green jelly|4}}<br>{{Item|Berry juice|1}}
+|-
+|{{Item|Jelly of incredible power|1}}
+|{{Item|Green jelly|1}}<br>{{Item|Flour|1}}
+|}
+
+==Alchemy==
+Green jelly can be decomposed to [[Order solution|solution]] and [[Order extract|extract]] with the [[hand mixer]] and any of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation
+
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Order solution|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Order extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Order extract|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Mob Drops}}
+[[Category:Mob drops]]
+[[ru:Зелёное желе]]

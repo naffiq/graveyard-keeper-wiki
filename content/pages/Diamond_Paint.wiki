@@ -1,0 +1,12 @@
+{{Item Infobox 
+| name         = Diamond paint
+| image        = Diamond paint item.png
+| study        = 
+| source       = [[Tress]]
+| stacksize    = 
+| type         =
+| cost         = 100
+| quest        = 
+| nameinternal = 
+}}
+Diamond paint is bought from Tress and is used in the remodelling of the [[Sweet Home|home]]. (You might need to complete [[Better Save Soul]] DLC?)

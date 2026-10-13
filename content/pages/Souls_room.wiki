@@ -1,0 +1,207 @@
+{{stub}}
+{{Location Infobox
+| name      = Souls room
+| image     = Souls room Infobox.png
+| size      = 
+| exits     = [[Morgue]], [[Euric's Room]]
+| buildable = True
+| NPCs      = [[Euric]], [[Smiler]]
+}}
+The '''Souls room''' is shown to the Keeper by [[Euric]]. This room contains workstations used to extract, heal and release the souls of [[Corpse|Corpses]].
+
+You will need to repair all machines in the room before you can properly complete a soul cleansing procedure. A fresh body is placed in the [[Soul extractor]], generating a harmed soul. The soul decays much more quickly than the body, and it decays in the [[Corpse]] as well. To reduce this decay the souls can be stored in Soul containers.
+
+The [[Harmed soul]] is placed in the [[Soul healer]], which uses [[Items#Bodyparts|body parts]] (starting with [[Flesh]] and unlocking receptacles for other [[Items#Bodyparts|body parts]] to cleanse specific sins) to make a [[Healed soul]]. The [[Items#Bodyparts|body parts]] are not used up. If the [[Items#Bodyparts|body parts]] match the [[Harmed soul]]'s requirements, it will result in a [[Healed soul]] in a higher condition. This also generates a number of [[Sin Shard]]s based on the number of sins cleansed (the number of [[Items#Bodyparts|body parts]] used).
+
+The [[Healed soul]] then is put into the [[Soul portal]] and delivered safely into the afterlife, generating Soul Gratitude based on how much the soul has decayed. Gratitude is used to unlock new [[technologies]] in the new [[Spiritualism (Tech Tree)|Spiritualism Tech Tree]], and can be used in conjunction with [[Soul Receiver]]s to remotely use crafting stations from the updated [[map]]. 
+
+Finally, the [[Sin Shard]]s can be used on the [[Organ Workbench]] to upgrade any [[Items#Bodyparts|body part]] except [[Bone]], [[Skull]] up to 3 {{Skull|white}} and/or 3 {{Skull|red}} skulls. They can also be stored in the Soul Containers, and directly increase maximum souls' gratitude while there. 
+
+The currently known highest souls' gratitude set up is 2086{{Souls Room Capacity}}, with a fully upgraded Soul Extractor adding 30{{Souls Room Capacity}}, the Soul Healer adding 15{{Souls Room Capacity}}, two Wall Crematoriums adding 20{{Souls Room Capacity}}, a Workbench adding 5{{Souls Room Capacity}}, six Pallet adding 6{{Souls Room Capacity}}, 3 Soul Container III's filled with gold quality items that stack to 50 (such as quality crops or seeds) stored, each adding 620{{Souls Room Capacity}}, and gold quality items that stack to 50 stored in Smiler's container, adding 150{{Souls Room Capacity}} when it becomes open.  
+
+More is possible using a glitch: When placing a structure, if the player double clicks instead of a single click, the player is able to place the structure twice instead of once. Set up is shown below. 
+
+'''Broken glass''' is a byproduct of breaking down old broken bottles in the [[Souls room]]. 
+
+There is a [[Faceted diamond]] vein near the [[Soul portal]]. 
+[[File:Set up.png|thumb|center|420px|A Souls room with more gratitude than it should be using the glitch]]<br />
+==Broken Equipment==
+When the room is first opened, there are several pieces of broken equipment that need to be fixed before they can be used to heal souls. Fixing each piece of equipment will increase the room's gratitude capacity by a set amount.
+{| class="wikitable"
+!Equipment
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+! style="width:5em;" |Capacity
+!Notes
+|-
+|[[File:Repair.png|60px|Repair soul extractor|link=]] Repair [[soul extractor]]
+|{{Item|Simple iron parts|5}}<br />{{Item|Nails|3}}<br />{{Item|Flitch|4}}
+| style="text-align:center" |{{energy|-|15}}
+| style="text-align:center" |{{Souls Room Capacity|10}}
+|Available when the {{PAGENAME}} first opens
+|-
+|[[File:Repair.png|60px|Repair soul healer|link=]] Repair [[soul healer]]
+|{{Item|Glass|2}}<br />{{Item|Simple iron parts|3}}<br>{{Item|Skin|2}}
+| style="text-align:center" |{{Energy|-|15}}
+| style="text-align:center" |{{Souls Room Capacity|15}}
+|Available after [[soul extractor]] is repaired
+|-
+|[[File:Repair.png|60px|Repair soul portal|link=]] Repair [[soul portal]]
+|{{Item|Simple iron parts|5}}<br />{{Item|Nails|4}}<br>{{Item|Polishing paste|1}}
+| style="text-align:center" |{{Energy|-|15}}
+| style="text-align:center" | -
+|Available after [[soul healer]] is repaired
+|}
+
+==Workstations==
+
+Workstations are built using the workbench called "Souls". To unlock blueprints for the Souls room, you need the normal [[Technologies#Technology_points|tech points]], but also Soul Gratitude, obtained by healing souls. Building each piece of equipment will increase the room's gratitude capacity ({{Souls Room Capacity}}) by a set amount.
+
+{| class="wikitable"
+! colspan="5" |[[File:SoulRoom.png|57x57px]] Souls
+|-
+! style="width:17.5em;" |Blueprint
+!Capacity
+! style="width:17.5em;" |Required Materials
+!Size
+!Notes
+|-
+|[[File:SoulContainer.png|60x60px]] [[Soul container I|Soul container I (Base)]]
+| rowspan="2" |{{Souls Room Capacity|10}}
+|{{Item|Flitch|4}}<br />{{Item|Nails|4}}<br />{{Item|Simple iron parts|2}}
+| rowspan="2" |3x4
+| rowspan="2" |Available from the beginning
+Requires [[Spiritualism (Tech Tree)|Beginner healer]]
+
+Capacity: 2 souls
+
+3 spots
+|-
+|[[File:SoulContainer.png|60x60px]] [[Soul container I|Soul container I (Finish)]]
+|{{Item|Flitch|2}}<br />{{Item|A piece of stone|4}}<br />{{Item|Sin Shard|2}}
+|-
+|[[File:Soul container II item.png]] [[Soul container II|Soul container II (Base)]]
+| rowspan="2" |{{Souls Room Capacity|15}}
+|{{Item|Wooden plank|4}}<br />{{Item|Nails|4}}<br />{{Item|Complex iron parts|4}}
+| rowspan="2" |3x4
+| rowspan="2" |Requires [[Spiritualism (Tech Tree)|Updated equipment]]
+
+Capacity: 3 souls
+
+3 spots
+|-
+|[[File:Soul container II item.png]] [[Soul container II|Soul container II (Finish)]]
+|{{Item|A polished brick of stone|4}}<br />{{Item|Wooden plank|2}}<br />{{Item|Sin Shard|3}}
+|-
+|[[File:Soul container III nb.png]] [[Soul container III|Soul Container III (Base)]]
+| rowspan="2" |{{Souls Room Capacity|20}}
+|{{Item|A polished brick of marble|4}}<br />{{Item|Carved wood|4|Silver}}<br /><br />{{Item|Complex iron parts|1}}
+| rowspan="2" |3x4
+| rowspan="2" |Requires [[Spiritualism (Tech Tree)|Updated equipment II]]
+
+Capacity: 4 souls
+
+3 spots
+|-
+|[[File:Soul container III nb.png]] [[Soul container III|Soul Container III (Finish)]]
+|{{Item|A polished brick of marble|2}}<br />{{Item|Steel parts|4}}<br />{{Item|Sin Shard|4}}
+|-
+|[[File:SoulWorkbench.png|60x60px]] [[Organ Workbench|Workbench]]
+|{{Souls Room Capacity|5}}
+|{{Item|Flitch|4}}<br />{{Item|Nails|4}}<br />{{Item|Simple iron parts|2}}
+|
+|Available from the beginning
+Requires [[Spiritualism (Tech Tree)|Beginner healer]]
+|-
+|[[File:Chest2.png]] [[Chest]]
+|<nowiki>-</nowiki>
+|{{Item|Flitch|4}}<br />{{Item|Nails|4}}<br />{{Item|Simple iron parts|2}}
+|2x2
+|Available from the beginning
+2 dedicated spots
+|-
+|[[File:Pallet Icon.png|56x56px]] [[Pallet]]
+|{{Souls Room Capacity|1}}
+|{{Item|Flitch|6}}<br />{{Item|Nails|4}}
+|4x3
+
+3x4
+|Available from the beginning
+|-
+|[[File:Wall Crematorium nb.png|56x56px]] [[Wall Crematorium]]
+|{{Souls Room Capacity|10}}
+|{{Item|Complex iron parts|4}}<br />{{Item|Iron chisel|2}}<br />{{Item|A polished brick of stone|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Useful equipment]]
+Can build 2
+|-
+|[[File:Soul extractor II nb.png]] [[Soul extractor II]]
+|{{Souls Room Capacity|20}}
+|{{Item|Hemp rope|4}}<br />{{Item|Complex iron parts|4}}<br />{{Item|Skin|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Updated equipment]]
+
+Upgrades existing [[Soul extractor]]
+
+Adds {{Souls Room Capacity|+|10}} to existing capacity
+|-
+|[[File:Soul extractor III nb.png]] Soul extractor III
+|{{Souls Room Capacity|30}}
+|{{Item|Steel chisel|1}}<br />{{Item|Steel parts|2}}<br />{{Item|Sin Shard|3}}
+|
+|Requires [[Spiritualism (Tech Tree)|Updated equipment II]]
+
+Upgrades existing Soul extractor II
+
+Adds {{Souls Room Capacity|+|10}} to existing capacity
+|-
+|[[File:Healing pride nb.png]] Extension: Healing from pride
+| rowspan="7" |<nowiki>-</nowiki>
+|{{Item|Conical flasks|1}}<br />{{Item|Simple iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Healer enthusiast]]
+Extension to Soul healer
+|-
+|[[File:Healing from wrath nb.png]] Extension: Healing from wrath
+|{{Item|Conical flasks|1}}<br />{{Item|Simple iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Experienced healer]]
+Extension to Soul healer
+|-
+|[[File:Healing from gluttony nb.png]] Extension: Healing from gluttony
+|{{Item|Conical flasks|1}}<br />{{Item|Simple iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Experienced healer]]
+Extension to Soul healer
+|-
+|[[File:Healing from sloth nb.png]] Extension: Healing from sloth
+|{{Item|Conical flasks|1}}<br />{{Item|Simple iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Professional healer]]
+Extension to Soul healer
+|-
+|[[File:Healing from lust nb.png]] Extension: Healing from lust
+|{{Item|Conical flasks|1}}<br />{{Item|Simple iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Professional healer]]
+Extension to Soul healer
+|-
+|[[File:Healing from envy nb.png]] Extension: Healing from envy
+|{{Item|Conical flasks|1}}<br />{{Item|Simple iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Professional healer]]
+Extension to Soul healer
+|-
+|[[File:Human soul healing.png]] Human soul healing
+|{{Item|Wooden plank|4}}<br />{{Item|Nails|4}}<br />{{Item|Complex iron parts|2}}
+|
+|Requires [[Spiritualism (Tech Tree)|Useful equipment]]
+Unlocks after the conversation with Smiler
+
+Extension to Soul healer
+|}
+
+
+{{Navbox-Locations}}
+[[Category:Better Save Soul]]
+__FORCETOC__

@@ -1,0 +1,38 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Miscellaneous
+| nameinternal = tavernquality_activeStar
+| source       = [[Talking Skull]]
+}}
+<b>{{PAGENAME}}</b> is a resource that's necessary in order to start events at the [[Talking Skull]], never actually possessed by the player as an item, similar to how {{Fuel}} is consumed to perform certain crafting tasks at the [[oven]] or [[furnace]]s. To obtain Tavern reputation ([[file:Tavern reputation.png|16px]]), simply supply the Talking Skull tavern with [[Fermentation#Brewing|Beer]], [[Booze]], [[Fermentation#Brewing|Mead]] and [[Wine]] it will be automatically sold to the villagers. The higher the quality of the drinks, the more [[file:Tavern reputation.png|16px]] will be earned.
+
+==Talking Skull Events==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:10em;"|Income
+|-
+|style="text-align:center"|[[file:Tavern_Event_beerfest.png|80px|link=Talking Skull#Graveyard Fest|Graveyard Fest]] [[Talking Skull#Graveyard Fest|Graveyard Fest]]
+|{{Item|Flyer|5}} <br> {{Item|Faith|5}} <br> {{Item|Tavern reputation|1}}
+|Base Income: '''{{Money|1000}}'''<hr>Max Income: '''{{Money|31875}}'''
+consuming {{Item|Booze|162}}
+|-
+|style="text-align:center"|[[file:Tavern_Event_standup.png|80px|link=Talking Skull#Comedy Standup|Comedy Standup]] [[Talking Skull#Comedy Standup|Comedy Standup]]
+|{{Item|Flyer|10}} <br> {{Item|Faith|5}} <br> {{Item|Tavern reputation|2}}
+|Base Income: '''{{Money|2000}}'''<hr>Max Income: '''{{Money|32875}}'''
+consuming {{Item|Booze|162}}
+|-
+|style="text-align:center"|[[file:Tavern_Event_singer.png|80px|link=Talking Skull#Ms. Charm's Song]] [[Talking Skull#Ms. Charm's Song|Ms. Charm's Song]]
+|{{Item|Flyer|15}} <br> {{Item|Faith|10}} <br> {{Item|Tavern reputation|3}}
+|Base Income: '''{{Money|3000}}'''<hr>Max Income: '''{{Money|44000}}'''
+consuming {{Item|Red wine|162|gold}}
+|-
+|style="text-align:center"|[[file:Tavern_Event_ratrace.png|80px|link=Talking Skull#Rat Races]] [[Talking Skull#Rat Races|Rat Races]]
+|{{Item|Flyer|10}} <br> {{Item|Faith|5}} <br> {{Item|Tavern reputation|2}}
+|Base Income: '''{{Money|2000}}'''<hr>Max Income: '''{{Money|27812}}'''
+consuming {{Item|Grape pie|162|gold}}
+|}
+
+<br>
+{{Navbox-Misc}}

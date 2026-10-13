@@ -1,0 +1,48 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| consume      = [[File:Protection effect.png]]
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T III)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 200
+| quest        =  
+}}
+<b>{{PAGENAME}}</b> is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]]. When used the potion applies the protection potion buff, reducing incoming damage.
+
+==Effect==
+On use, the potion will apply the {{lcfirst:{{PAGENAME}}}} buff for a duration of 5 minutes. This buff reduces all incoming damage. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Protection effect.png|link=Effects#Tough Mood|Tough Mood]]
+|Incoming damage reduced.
+|style="text-align:center"|5:00
+|[[Effects#Tough Mood|Tough Mood]]
+|}
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Order powder|1}}<br>{{Item|Slowing solution|1}}<br>{{Item|Slowing extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[es:Poción de protección]]
+[[pt-br:Poção de proteção]]

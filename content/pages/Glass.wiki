@@ -1,0 +1,119 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{techpoint|red|10}}
+| source       = [[Furnace]], [[Furnace II]], [[Furnace III]]
+| cost         = 37
+| stacksize    = 30
+| type         = Glass Item
+| quest        = 
+| nameinternal = glass_0
+}}
+<b>{{PAGENAME}}</b> is a craft-able crafting resource that can be made using any [[furnace]] currently available. It has a wide variety of applications, including certain constructs, as well as being the first step towards making more advanced glass receptacles.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|River sand|2}}<br>{{Item|Water|1}}
+|1:00<br>{{Fuel|-|15}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|River sand|4}}<br>{{Item|Water|2}}
+|1:00<br>{{Fuel|-|25}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|4}} 
+|{{Item|River sand|6}}<br>{{Item|Water|2}}
+|1:00<br>{{Fuel|-|40}}<br>{{Techpoint|Red|1}}
+|}
+
+Note; as one upgrades their furnace, glass production becomes less efficient overall. While the Product:Time ratio increases (more product produced in the same amount of time), the Product:Material ratio decreases (more mats and fuel for relatively less product). From Furnace -> Furnace 2, the yield increases by 50%, but the required materials and fuel increase by 100% and 66%, respectively. From Furnace 2 -> Furnace 3, the yield increases by 33%, but the required materials and fuel increase by ~50% and 60%, respectively. In addition, the Product:Techpoint ratio also decreases (less techpoints per product). In summary, from Furnace -> Furnace 3, the product yield is doubled in the same amount of time, but the material and fuel costs are tripled and the techpoints are halved.
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Conical flasks|1}}
+|{{Item|{{PAGENAME}}|2}}
+|1:30<br>{{Fuel|-|15}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Conical flasks|1}}
+|{{Item|{{PAGENAME}}|2}}
+|1:00<br>{{Fuel|-|25}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Lens|4}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Polishing paste|1}}<br>{{Item|Faith|2}}
+|0:07<br>{{Energy|-|15}}
+|}
+
+==Building==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|[[Church]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Stained glass window}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|Complex iron parts|5}}<br>{{Item|Gold jewelry details|2}}
+|-
+!colspan="2"|[[Old Graveyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Lantern}}
+|{{Item|A piece of stone|4}}<br>{{Item|Simple iron parts|4}}<br>{{Item|{{PAGENAME}}|2}}
+|}
+
+<br>
+{{Navbox-Glass}}
+[[Category:glass items]]
+[[pt-br:Vidro]]

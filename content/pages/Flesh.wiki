@@ -1,0 +1,61 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = {{Techpoint|Blue|20}}
+
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| stacksize    = 30
+| type         = Bodypart
+| quest        = 
+| nameinternal = flesh
+}}
+<b>{{PAGENAME}}</b> is a body part that can be extracted from a corpse at the [[preparation place|autopsy table]]. Upon removal, it has the effect of removing one White Skull {{Skull|white}}. In addition, similar to most other anatomy and theology items, it can be studied at the [[Study table]] for a {{Techpoint|Blue}} reward. For more information, see [[corpses]].
+
+==Recipe==
+{| class="wikitable" style="width:31em; table-layout:fixed;"
+!colspan="2"| [[Preparation place]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Corpse|1}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Blue|20}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Package of meat|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Clean paper|1}}
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+[[pt-br:Carne]]
+[[de:Fleisch]]

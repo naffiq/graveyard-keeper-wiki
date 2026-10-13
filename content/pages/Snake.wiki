@@ -1,0 +1,128 @@
+{{NPC Infobox
+| name     = Snake
+| image    = Snake.png
+| day      = first: every night<br>later: {{Day|Envy}}
+| location = [[Alchemy Lab]], [[Cellar]], [[Dungeon]]
+| vendor   = 
+| role     = Cultist
+}}
+Snake is a cultist who spends his time in the tunnels below the [[The Graveyard|graveyard]]. He hates [[village]] residents and talks about ending them. [[Horadric]] mentions him in the Royal Stamp quest. The rubble in the tunnels beneath your home will prevent you from reaching Snake until it is cleared. His real name is Seth.
+
+You meet Snake by going into cellar for the first time. A cut scene plays, showing his efforts to get past the gate and access the [[dungeon]]. After you meet Snake the first time, he appears every night until you open the door.
+
+Once the door has been opened (with the activated key), he shows up every {{Day|Envy}}.
+
+== Rewards ==
+
+=== Town Pass ===
+At 20 {{Happiness}} Snake will offer you a {{item|Town pass}} which can be used to get past the guards to the south of the [[village]] and access the [[town]].
+
+=== Royal Stamp ===
+At 30 {{Happiness}} Snake will give you a {{item|stamp}} free of charge.
+
+=== Restoration Tools ===
+If you are stuck at 30 reputation start "the necklace" quest for [[Ms. Charm]] (see below).
+
+At 40 {{Happiness}} Snake will give you {{item|Restoration tools}} for the questline of the [[Astrologer]].
+
+=== Main Quest ===
+At 60 {{Happiness}} Snake will help you to get the parts for the laser on the town.
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Spoil me" data-collapsetext="Hide it" style="width:300px;">
+Warning: Here comes a spoiler!
+<div class="mw-collapsible-content">
+He tells you that: 
+
+The [[Bishop]] has the {{item|Mirror of pride}} 
+
+The [[Inquisitor]] has the {{item|Eternal burning coal}} 
+
+And the [[Merchant]] has the {{item|Salty fork}}. 
+</div></div>
+
+== Quests ==
+
+===Prove You Are the Graveyard Keeper ===
+* At night, find Snake near the closed gate underneath the Sweet Home.
+* Snake does not believe you are the graveyard keeper, he has no interest in you and you annoy him. 
+* Return to him with {{Item|Faith|5}}.
+
+=== Unlocking the [[Sacrifice Zone]] and [[Dungeon]] ===
+* Speak to the [[Astrologer]] and accept his quest to find the {{Item|Keepers journal}}. He will give you the {{Item|Keepers key}}.
+* Give Snake the unusable {{Item|Keepers key}}, to receive the {{Item|Instructions for key}}. 
+* Study the {{Item|Keepers key}} at a [[Study table]] with the {{Item|Instructions for key}} in your inventory to get an {{Item|Active key}}.
+* Give the {{Item|Active key}} to Snake.
+* Rewards:
+** +10 {{Happiness}} with Snake.
+** Snake's schedule changes, so he will now only show up on {{Day|Envy}} instead of every night.
+** The gate to the [[Sacrifice Zone]] is unlocked.
+** The player gains access to the [[Dungeon]].
+** The player gains access to [[Gunter]].
+
+=== The Necklace ===
+Requires: 30 {{Happiness}} with Snake. 
+* Select the dialogue option asking about [[Ms. Charm|Ms. Charm's]] {{item|necklace}}.
+** Reward: +10 {{Happiness}} with Snake.
+* He tells the player that [[Koukol]] has it now.
+
+=== Help Snake with the Ritual ===
+After you hand him the {{Item|active key}}, a cutscene plays where you die trying to get the {{Item|Keepers journal}}, but just return to your bed. You discover that you are functionally immortal.
+* Bring Snake {{Item|Bloody nails|5}}. These are dropped by [[Monsters|Iron Maidens]] on levels 4+ of the [[Dungeon]]. 
+** Reward: +10 {{Happiness}} with Snake.
+* Bring Snake a {{Item|Bucket of blood|1}}. 
+**[[Dungeon]] level 5 will always have a chest containing it.
+** {{Item|Bucket of blood|1}} can be crafted at a [[church workbench]] using {{Item|Blood|10}}. At some point in the Game of Crone DLC, you can deliver any leftover {{Item|Bucket of blood|}} to a related NPC.
+* Reward: +10 {{Happiness}} with Snake.
+
+Return to Snake. He will attempt a ritual, fail, and then ask the player to help him find a {{Item|Necronomicon}}.
+* Collect the {{Item|Restoration tools}} from Snake, if you have not done so already. 
+** You will need to deliver them to the [[Astrologer]] to gain enough [[Reputation]] to unlock the dialogue option about the {{Item|Necronomicon}}.
+* Speak with the [[Astrologer]] about the {{Item|Necronomicon}}; he'll say that he gave it to the [[Lighthouse Keeper]].
+* Speak with the [[Lighthouse Keeper]] and give him {{item|Maggot|5}} in exchange for the Necronomicon. 
+* Bring the {{Item|Necronomicon}} to Snake to gain +10 {{Happiness}}.
+
+Once he is given the {{Item|Necronomicon}}, Snake will ask the player to decorate the [[Sacrifice Zone]] for the ritual.
+* Build decorations in the [[Sacrifice Zone]] to increase its {{Pentagram}}.
+** At the blueprint table, craft all of the available blueprints.
+** Once the two blood fountains are built, make sure they are filled (a "craft" option appears while standing near them). 
+* Speak with Snake when the [[Sacrifice Zone]] has reached 20 {{Pentagram}}.
+** Rewards: +10 {{Happiness}}.
+* Bring Snake a {{item|Damask sword with gem}}. The player can purchase one from [[Koukol]] at night, or craft it themselves if they have unlocked the required technology.
+** Rewards: +10 {{Happiness}}.
+* Observe the "ritual" cutscene.
+* After the cutscene, return to the [[Sacrifice Zone]] and speak to Snake.
+
+=== Ambush the Vampire Hunter ===
+* At any time after completing the ritual for Snake, go to sleep, and then wake up.
+* Observe a cutscene where Snake is at your bedside when you wake. Snake asks the player to help them set a trap for a vampire hunter.
+* Deliver {{item|Wooden plank|1}} to Snake, who will be located just south of the [[vineyard]] on [[Witch Hill]]. If the player takes the path from the main road, he can be seen near the giant round boulder.
+** Rewards: +10 {{happiness}}
+* Observe a long cutscene where Snake and the player wait, and then kill the hunter with a boulder. 
+** Time will skip forward, but the player will be returned to the weekday and time they began the cutscene at its conclusion.
+* Mine the Boulder to obtain the medallion that unlocks [[Dungeon]] levels 11-15, plus {{item|a piece of stone|6}} and a {{item|corpse}} with 7 x {{Red Skull}} and 3 x {{White Skull}} (including two Dark organs - but no fat). The corpse will also yield only one sin shard when its soul is cleaned.
+
+=== The Golden Apple ===
+
+* When you ask Snake about the last task, he will bid you to get the {{item|Golden apple}} from the [[dungeon]]. 
+** Rewards: 10 {{Happiness}} by this.
+** When you get it and give it to him he will ask if you would like to lick it. If you say yes you will get 100 {{Techpoint|blue}}.
+
+# Can be found at the end of the last floor (level 15) of the [[dungeon]]. 
+# You can also buy it from [[Clotho]] for {{money|100000}}.
+# Or get it by a [[Woodcutter]] quest.
+
+=== The Dark Heart ===
+After receiving the {{item|Golden apple}} Snake will remember the last ingredient of his ritual, a {{item|Dark heart}}. Bring him one, and he will leave to summon his followers. [[Gerry]] shows up and hints, that the results of the ritual will be hilarious and not at all what Snake expects.
+
+He returns with his followers and proceeds to summon his father, who turns out to be none other than the [[Inquisitor]] himself! After being dramatically reunited, they both give you their treasured possessions. You receive Snake's {{item|Endless notebook}} and the Inquisitor's {{item|Eternal burning coal}}. (Steam achievement "A father and a son" unlocked)
+
+== Trivia ==
+* The Vampire Hunter bears similarity to Geralt of Rivia, the protagonist of the Witcher game series
+
+* There are hints that Snake is Inquisitor’s son - he was pulled out from burning house and was raised in a Orphanage and Inquisitor says that he never found his son's body.
+
+{{Navbox-NPCs}}
+[[Category:NPCs]]
+
+[[de:Schlange]]
+[[pt-br:Rato]]

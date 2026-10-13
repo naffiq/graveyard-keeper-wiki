@@ -1,0 +1,32 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| source       = [[Church workbench]], [[Bishop]]
+| cost         = 75
+}}
+
+Basic prayer received at the start of the game from [[Bishop]].  A successful sermon creates donations at the base rate of <span style = "display:inline-block;">3{{Copper Coin}}:1{{Graveyard Rating}}</span>, and will produce faith at a rate of <span style = "display:inline-block;">1[[file:faith item.png|22px]]:5{{Church Rating}}</span>.
+
+==Effects==
+{| class="wikitable"
+!
+!colspan="5"|Sermon Effects
+|-
+|Icon
+|Name
+|{{Church Rating}} Required
+|Description
+|Notes
+|-
+|[[File:i_b_empty.png|link=]]
+|[[Casual prayer]]
+|style = "text-align:center;"| 10{{Church Rating}}
+|A couple words without any real inspriration. It still works somehow...<br>Effect: {{Item|Faith|2}}
+|You are given this sermon by [[Bishop]] after unlocking the [[Church]].
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+[[Category:Writing]]
+[[Category:Sermons]]

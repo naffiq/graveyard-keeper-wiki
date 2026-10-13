@@ -1,0 +1,35 @@
+{{Stub}}
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Fence supplies for garden.png
+|location   = [[Witch Hill]]
+|technology = Talk with the [[inquisitor]]
+|related    = 
+|footprint  = 
+|rotatable  = False
+}}
+This appears in the [[Marquis Teodoro Jr.|Marquis' quest]], and once built unlocks the [[Camp bed]] technology, which permits the aristocrat refugees to grow their own food. Combined with the [[Cook]] in her [[GoC Cooking table|kitchen]], this will provide a continuous free food supply. 
+==Cost==
+{| class="wikitable"
+! style="width:5em;" |Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Satisfaction
+!Notes
+|-
+| style="text-align:center" |[[file:Fence supplies for garden.png|80x80px]]
+|{{Item|Flitch|24}}<br>{{Item|Wood billet|12}}
+|{{Item|Refugee Happiness|2}}
+|
+|}
+
+==Working the Tent==
+
+# First you have to open the church.
+#Once you sleep, the Marquis will bring you to the [[Refugee camp]].
+#Build your first [[Residential tent|Tent]] and [[Well]] and you are able to build it.
+#Once you build the tent you must build [[Camp bed|garden beds]].
+
+{{Navbox-Refugee camp}}
+[[Category:Workstations]]
+[[Category:Game of Crone]]
+[[Category:Refugee camp]]

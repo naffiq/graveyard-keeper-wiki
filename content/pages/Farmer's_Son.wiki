@@ -1,0 +1,14 @@
+{{Stub}}
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = Farmersson.png
+| day      = 
+| location = [[Wheat Farm]]
+| vendor   =
+| role     = Farmhand
+}}
+
+The {{PAGENAME}} is located in front of a haystack, south of the [[Wheat Farm]]. Interacting with him will only cause him to say "I need to finish my chores or father will be terrifyingly angry.".
+
+[[ru:Сын фермера]]
+{{Navbox-NPCs}}

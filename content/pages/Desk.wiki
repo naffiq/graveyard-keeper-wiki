@@ -1,0 +1,134 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Writing Desk.png
+|location   = [[Alchemy Lab]]
+|technology = [[Book Writing (Tech Tree)|Writing]]
+|related    = [[Writing]], [[Church]]
+|footprint  = 4x3
+|rotatable  = True
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a workstation with the function of crafting various quality paper products and [[sermon]]s. Its upgrade, the [[Desk II]], features identical recipes, but with discounted energy costs and/or increased quality.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|style="text-align:center;"|[[File:Desk item.png|80px|link=]]
+|{{Item|Flitch|8}}<br>{{Item|Nails|8}}
+|N/A
+|Required Tech:<br>[[Book Writing (Tech Tree)|Writing]]
+|}
+
+==Recipes==
+{| class = "wikitable"
+!colspan="4" style="text-align:center;"|[[file:tab_book.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Clean paper|2}}
+|{{Item|Ruined book|1}}<br>{{Item|River sand|1}}
+|{{Energy|-|5}}
+|{{Techpoint|Red|1}}{{Techpoint|Blue|1}}
+|-
+|{{Item|Notes|1|animation}}
+|{{Item|Story|1|animation}}<br>{{Item|Pen and ink|1}}<br>{{Item|Clean paper|1}}
+|{{Energy|-|20}}
+|{{Techpoint|Blue|3}}
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|Notes|3|animation}}
+|{{Energy|-|20}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Softcover|1}}<br>{{Item|Chapter|1|animation}}<hr>{{Item|Hard cover|1|animation}}<br>{{Item|Chapter|1|animation}}
+|{{Energy|-|5}}
+|{{Techpoint|Blue|15}}
+|-
+|{{Item|Flyer|5}}
+|{{Item|Clean paper|1}}<br>{{Item|Pen and ink|1}}
+|{{Energy|-|20}}
+|{{Techpoint|Blue|2}}
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|1}}<br>{{Item|Pen and ink|1}}<br>{{Item|Faith|10}}
+|{{Energy|-|15}}
+|{{Techpoint|Blue|1}}
+|-
+!colspan="4" style="text-align:center;"|[[file:tab_sermon.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Prayer for faith|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for donations|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for shoots and roots|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for repentance|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for prosperity|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Combo prayer|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for repose|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for retribution|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for protection|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for imagination|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for excellence|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Energy|-|10}}
+|{{Techpoint|Blue|5}}
+|}
+
+<br>
+{{Navbox-Alchemy lab}}
+[[Category:Workstations]]
+[[Category:Alchemy lab workstations]]
+[[Category:Image requested]]
+[[de:Tisch]]
+[[pt-br:Mesa]]
+[[es:Escritorio]]

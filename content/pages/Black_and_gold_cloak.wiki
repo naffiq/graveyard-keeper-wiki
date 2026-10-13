@@ -1,0 +1,29 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|50}} {{Techpoint|Green|50}} {{Techpoint|Blue|50}}
+| source       = [[Master Alaric]]
+| quest        = 
+}}
+<b>{{PAGENAME}}</b> is handed to the Keeper by [[Master Alaric]] as part of a [[Game of Crone]] cutscene. Apart from a hefty techpoint reward upon research it seems to be serving no other purpose.
+
+==Study==
+{|class = "wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|50}}<br>{{Techpoint|Green|50}}<br>{{Techpoint|Blue|50}}
+|{{Item|Faith|4}}<br>{{Item|Science|3}}
+|{{Energy|-|8}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-GameofCroneQuest}}
+[[Category:Quest items]]
+[[Category:Game of Crone quest items]]
+[[Category:Game of Crone]]

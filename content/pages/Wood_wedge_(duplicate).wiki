@@ -1,0 +1,17 @@
+{{Delete
+| duplicate}}
+
+{{Stub}}
+{{Item Infobox 
+| name         = Wood wedge
+| image        = i_spike_1.png
+| type         = Wood
+| nameinternal = spike_1
+| study        = 
+| alchemy      = 
+| source       = [[Chopping spot]] or [[Tress]]
+| cost         = 3
+| quest        =  
+}}
+
+{{PAGENAME}} is often used to get rid of [[Blockage|Blockages]], along with other [[Items]].

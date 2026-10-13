@@ -1,0 +1,190 @@
+=== World Map ===
+<!--[[:File:Map.jpg|stylized map]].-->
+
+[[File:WorldMapSD_en.png|1500px|thumb|center|The world map of Graveyard Keeper]]
+
+===List of {{PAGENAME}}===
+
+{| class="wikitable"
+!Location
+![[NPCs]]
+!Workstations/ Important Objects
+!Notes
+|-
+|[[Sweet Home]]
+| ---
+|[[Blueprint Desk]], [[Cooking table]], [[Oven]], Hatch to [[Cellar]], [[Bed]], [[Chest]], [[Household utensils rack]]
+|Home, where you can sleep to regain {{energy}} and {{health}}.
+|-
+|[[The Graveyard|Old Graveyard]]
+|[[Bishop]] (visits on {{day|pride}}), [[Royal services]]
+|[[Blueprint Desk]], [[Trunk]], [[Royal services]]
+|Your main workspace.
+|-
+|[[Morgue]]
+|[[Gerry]]
+|[[Blueprint Desk]], [[Preparation place]], [[Corpse hatch]], [[Blueprints#Morgue|more]]
+|Southwest of [[Sweet Home|your home]], your secondary workspace.
+|-
+|[[Crematorium]]
+| ---
+|[[Blueprint Desk]], [[Place for burning corpses]]
+|South of the [[morgue]].
+|-
+|[[Church]]
+|Parishioners during [[sermon]]
+|[[Blueprint Desk]], [[Sermon|Lectern]], [[Donation box]], [[Blueprints#Church|more]]
+|Southwest of [[Sweet Home|your home]] in the [[The Graveyard|graveyard]], unlocked by completing the [[Bishop|Bishop's]] [[Quests|Quest]] "[[Episcop#Fix_the_Graveyard|Fix the Graveyard]]" by reaching {{Graveyard Rating}}5.
+|-
+|[[Alchemy Lab]]
+| ---
+|[[Blueprint Desk]], [[Study table]], [[Blueprints#Alchemy_laboratory|more]]
+|Below the [[church]], unlocked after your first [[sermon]].
+|-
+|[[Cellar]]
+| ---
+|[[Blueprint Desk]], [[Chest]], [[Blueprints#Cellar|more]]
+|Accessed through the hatch of [[Sweet Home|your home]].
+|-
+|[[Workyard]]
+| ---
+|[[Blueprint Desk]], [[Trunk]], [[Grindstone]], [[Well]], [[Timber stockpile]], [[Stone stockpile]], [[Blueprints#Workyard|more]]
+|In front of [[Sweet Home|your home]], can be increased with {{Item|Increase yard space}}.
+|-
+|[[Kitchen Garden]]
+| ---
+|[[Blueprint Desk]], [[Blueprints#Kitchen_garden|more]]
+|Southeast of [[Sweet Home|your home]], unlockable with {{Item|Garden certificate}}.
+|-
+|[[Vineyard]]
+| ---
+|[[Blueprint Desk]], [[Blueprints#Vineyard|more]]
+|East of [[Sweet Home|your home]] on [[Witch Hill]], [[blockage]] to the north can be removed by completing {{Item|Clear the path}} to access quickly.
+|-
+|[[Beekeeping|Apiary]]
+| ---
+|[[Blueprint Desk]], [[Bee hive]]
+|Northwest of [[Sweet Home|your home]] on the plateau, place for your own [[bee hive]]s.
+|-
+|[[Burned House]]
+| ---
+|[[Gravesite]], [[Empty garden bed|Empty garden beds]] (not usable)
+|Northeast of [[Sweet Home|your home]], on the way to [[Witch Hill]].
+|-
+|[[Witch Hill]]
+|[[Inquisitor]] (visits on {{day|Wrath}}), [[Guards]]
+|[[Portal|The Portal]], [[Inquisitor|Buffet Tent]], [[Marble deposit]]
+|Northeast of [[Sweet Home|your home]].
+|-
+|[[Wheat Farm]]
+|[[Miller]] (north from the road), [[Farmer]] and [[Farmer's Son]] (south)
+|[[Gravesite]] under tree, [[Mill]], [[Farmer|Farmer's house]]
+|East of [[Sweet Home|your home]] towards [[The Village|village]].
+|-
+|[[The Village]]
+|[[Merchant]] (visits on {{day|gluttony}}), [[Krezvold]], [[Cory]], [[Tress]], [[Shepherd]], [[Rosa]], [[Beekeeper]], [[Dig]] (further east), [[Adam]], [[Koukol]] (north from [[Woodcutter]]) , [[Guards]]
+|[[The Dead Horse]], [[Trade Office]], [[Fresh egg basket]], [[Well]]
+|East of [[Sweet Home|your home]] and the [[Wheat Farm|wheat farm]], location of most [[NPCs]] and [[vendors]].
+|-
+|[[The Dead Horse]]
+|[[Horadric]], [[Miss Chain]], [[Vagner]], [[Ms. Charm]] (visits on {{day|lust}}), [[Captain]]
+| ---
+|In the center of the [[village]].
+|-
+|[[Talking Skull]] (only part of [[Stranger sins]] DLC)
+|[[Barman]]
+|[[Blueprint Desk]], [[Talking Skull#Tavern_Events|Tavern Events]], [[Talking Skull#Cabinet_with_artifacts|Cabinet with Artifacts]]
+|East of the [[The Village|village]]
+|-
+|[[Talking Skull Cellar]] (only part of [[Stranger sins]] DLC)
+|[[Gerry]]
+|[[Blueprint Desk]], [[Cooking|Professional oven, Proffesional Kitchen]], [[Trunk]], [[Talking Skull Cellar#Box_Rack|Box Rack]]
+|-
+|[[Lighthouse]]
+|[[Lighthouse Keeper]], [[Astrologer]] (visits on {{Day|Sloth}})
+| ---
+|Southeast of the [[village]].
+|-
+|[[Beach]]
+| ---
+| ---
+|East of the [[village]].
+|-
+|[[Camp]]
+|[[Gypsy Baron]]
+| ---
+|Northeast of the [[village]].
+|-
+|[[Cliffs]]
+| ---
+| ---
+|Northeast of the [[village]], east of the [[Camp]].
+|-
+|[[Mountain fort]]
+|[[Guards|Guard]]
+| ---
+|Northeast of the [[village]], north of the [[Camp]].
+|-
+|[[Forest near the river]]
+| ---
+|[[Felling site]], [[Quarry]], [[fishing|Fishing spot]]
+|Northwest of [[Sweet Home|your home]], north of the [[swamp]].
+|-
+|[[Refugee camp]] (only with [[Game of Crone]] DLC)
+|[[Marquis Teodoro Jr.]], progressing in quests: [[Cook]], [[Undertaker]], [[Master Alaric]], [[Moneylender]], [[Tanner]]
+|[[Water well I|Water well]], [[Camp bed]], [[Bee hive]], Storehouse
+|Northeastern edge of the [[Forest near the river]]
+|-
+|[[The Swamp]]
+|[[Clotho]]
+| ---
+|South of the [[forest near the river]], west of the [[Old Graveyard|graveyard]].
+|-
+|[[Quarry]]
+| ---
+|[[Blueprint Desk]], [[Cabin in the woods]], [[Marble quarry]], [[Stone Deposit]], [[Iron Ore Deposit]], [[Coal Deposit]], [[Well]], [[Blueprints#Cabin_in_the_woods|more]]
+|Northwest of the [[forest near the river]].
+|-
+|[[Dungeon]]
+|[[Monsters]]
+| ---
+|Accessed through the [[Sacrifice Zone]], unlocked by giving [[Snake]] an {{item|Active key}}.
+|-
+|[[Sacrifice Zone]]
+|[[Snake]] (visits on {{Day|Envy}})
+|[[Dark design desk]]
+|Accessed through the [[cellar]], unlocked by giving [[Snake]] an {{item|Active key}}.
+|-
+|[[Trade Office]]
+|[[Merchant]] (visits on {{day|gluttony}}) - in front of it
+|[[Pallet]]s, Trade Report
+|South of [[The Dead Horse]], unlocked by the [[Merchant|Merchant's]] questline.
+|-
+|[[Bonfire]]
+| ---
+|[[Bonfire]]
+|One is western of the [[workyard]], other one is northern of the [[village]] on the road to [[Mountain fort]].
+|-
+|[[Stone garden]]
+| ---
+|Pass time
+|Directly northwest of the [[workyard]].
+|-
+|[[Felling site]]
+|[[Zombie]]s
+|[[Felling site|Sawmill]]
+|On the path in the eastern half of [[Forest near the river|the huge forest]].
+|}
+
+[[Category:Locations| ]]
+[[Category:Graveyard Keeper]]
+[[Category:Main Pages]]
+
+[[de:Orte]]
+[[es:Mapa]]
+[[fr:Localisation]]
+[[ja:マップ]]
+[[pt-br:Localizações]]
+[[ru:Локации]]
+
+[[Category:Tree]]

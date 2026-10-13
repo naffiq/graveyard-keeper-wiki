@@ -1,0 +1,47 @@
+{{Item Infobox 
+| name         = Sulfur
+| image        = i_sulfur.png
+| type         = Secondary Ore
+| nameinternal = sulfur
+| study        = {{Techpoint|Green|30}}
+| alchemy      = {{Item|Life powder}}
+| source       = [[Mining]]
+| cost         = 
+| quest        = 
+| stacksize    = 30
+}}
+'''{{PAGENAME}}''' is a utilitarian resource that can only be obtained by mining a [[coal]] vein (though some can be found in a diggable mound near village), after unlocking the required [[Building (Tech Tree)|technology]]. The only accessible vein of coal is located in the far north-west, near the [[Quarry]]. While this is not a 100% consistent method to obtain {{lcfirst:{{PAGENAME}}}}, it should appear relatively often.
+
+==Study==
+{|class="wikitable" style="width:31em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Life powder|powder]]
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:31em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Life powder|2}}
+|{{Item|Sulfur|1}}
+|}
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+[[Category:secondary ore]]
+
+[[ru:Сера]]
+[[pt-br:Enxofre]]

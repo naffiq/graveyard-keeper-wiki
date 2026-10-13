@@ -1,0 +1,266 @@
+This page is a compact list of work stations. See [[Work Stations]] for a complete list of costs and recipes.
+
+==[[Workyard]]==
+{{cols|3|
+{{Item|Trunk}}<br>
+{{Item|Stone stockpile}}<br>
+{{Item|Timber stockpile}}<br>
+{{Item|Iron ore stockpile}}<br>
+{{Item|Increase yard space}}<br>
+{{Item|Stone cutter}}<br>
+{{Item|Stone cutter II}}<br>
+{{Item|Furnace}}<br>
+{{Item|Furnace II}}<br>
+{{Item|Furnace III}}<br>
+{{Item|Wooden anvil}}<br>
+{{Item|Anvil}}<br>
+{{Item|Anvil II}}<br>
+{{Item|Carpenter's workbench}}<br>
+{{Item|Carpenter's workbench II}}<br>
+{{Item|Vine press}}<br>
+{{Item|Sawhorse}}<br>
+{{Item|Circular saw}}<br>
+{{Item|Chopping spot}}<br>
+{{Item|Potters wheel}}<br>
+{{Item|Paper press}}<br>
+{{Item|Jewelry table}}<br>
+{{Item|Well}}<br>
+{{Item|Water pump}}<br>
+{{Item|Crate factory}}
+}}
+
+==Sweet home==
+{{cols|3|
+{{Item|Chest}}<br>
+{{Item|Oven}}<br>
+{{Item|Household utensils rack}}<br>
+{{Item|Cooking table}}}}
+
+==[[Morgue]]==
+{{cols|3|
+{{Item|Preparation place}}<br>
+{{Item|Pallet}}<br>
+{{Item|Embalming table}}<br>
+{{Item|Preparation place II}}<br>
+{{Item|Double pallet}}<br>
+{{Item|Embalming table II}}<br>
+{{Item|Mortuary rack}}<br>
+{{Item|Fridge pallet}}<br>
+{{Item|Corpse hatch}}<br>
+{{Item|Blockage}}<br>
+{{Item|Resurrection table}}
+}}
+
+==[[Souls room]]==
+{{cols|3|
+[[File:SoulContainer.png|25x25px]] [[Soul container I|Soul container I (Base)]]<br>
+[[File:SoulContainer.png|25x25px]] [[Soul container I|Soul container I (Finish)]]<br>
+[[File:Soul container II item.png|25x25px]] [[Soul container II|Soul container II (Base)]]<br>
+[[File:Soul container II item.png|25x25px]] [[Soul container II|Soul container II (Finish)]]<br>
+[[File:Soul container III nb.png|25x25px]] [[Soul container III|Soul Container III (Base)]]<br>
+[[File:Soul container III nb.png|25x25px]] [[Soul container III|Soul Container III (Finish)]]<br>
+[[File:SoulWorkbench.png|25x25px]] [[Organ Workbench|Workbench]]<br>
+[[File:Wall Crematorium nb.png|25x25px]] [[Wall Crematorium]]<br>
+[[File:Soul extractor II nb.png|25x25px]] [[Soul extractor II]]<br>
+[[File:Soul extractor III nb.png|25x25px]] [[Soul extractor III]]<br>
+[[File:Healing pride nb.png|25x25px]] Extension:Healing from pride See [[Soul healer]]<br>
+[[File:Healing from wrath nb.png|25x25px]] Extension:Healing from wrath See [[Soul healer]]<br>
+[[File:Healing from gluttony nb.png|25x25px]] Extension:Healing from gluttony See [[Soul healer]]<br>
+[[File:Healing from sloth nb.png|25x25px]] Extension:Healing from sloth See [[Soul healer]]<br>
+[[File:Healing from lust nb.png|25x25px]] Extension:Healing from lust See [[Soul healer]]<br>
+[[File:Healing from envy nb.png|25x25px]] Extension:Healing from envy See [[Soul healer]]<br>
+[[File:Human soul healing.png|25x25px]] Human soul healing See [[Soul healer]]<br>
+}}
+
+==Alchemy laboratory==
+{{cols|3|
+{{Item|Trunk}}<br>
+{{Item|Study table}}<br>
+{{Item|Alchemy workbench (tier I)}}<br>
+{{Item|Alchemy workbench (tier II)}}<br>
+{{Item|Hand mixer}}<br>
+{{Item|Alchemy mill}}<br>
+{{Item|Distillation cube}}<br>
+{{Item|Church workbench}}<br>
+{{Item|Alchemy rack}}<br>
+{{Item|Distillation cube II}}<br>
+{{Item|Desk}}<br>
+{{Item|Desk II}}<br>
+{{Item|Scrollshelf}}<br>
+{{Item|Bookshelf}}<br>
+{{Item|Printing press}}<br>
+{{Item|Printing press II}}<br>
+{{Item|Blockage}}<br>
+{{Item|Random text generator}}<br>
+{{Item|Zombie alchemy decomposer}}<br>
+{{Item|Zombie alchemy workbench}}
+}}
+
+==[[Orchard]]==
+{{cols|3|
+{{Item|Place for the apple tree}}<br>
+{{Item|Place for the berry bush}}
+}}
+
+==[[Kitchen garden]]==
+{{cols|3|
+{{Item|Trunk}}<br>
+{{Item|Empty garden bed}}<br>
+{{Item|Garden bed with sticks}}<br>
+{{Item|Compost heap}}<br>
+{{Item|Packing table}}<br>
+{{Item|Zombie farm}}
+}}
+
+==[[Vineyard]]==
+{{cols|3|
+{{Item|Trunk}}<br>
+{{Item|Vineyard workbench}}<br>
+{{Item|Zombie vineyard}}<br>
+{{Item|Porter station}}<br>
+}}
+
+==[[Witch Hill]]==
+{{cols|3|{{Item|emitter}}<br>
+{{Item|barrel}}<br>
+{{Item|Buffet tent}}}}
+
+==[[Apiary]]==
+{{cols|3|
+{{Item|Beekeeper workbench}}<br>
+{{Item|Bee hive}}
+}}
+
+==[[Cellar]]==
+{{cols|3|
+{{Item|Cellar workbench}}<br>
+{{Item|Trunk}}<br>
+{{Item|Brewing stand}}<br>
+{{Item|Vine press}}<br>
+{{Item|Wine making barrel}}<br>
+{{Item|Blockage}}<br>
+{{Item|Alcohol distiller}}<br>
+{{Item|Fermentation barrel}}<br>
+{{Item|Zombie-brewery}}<br>
+{{Item|Zombie-winery}}}}
+
+==[[Church]]==
+{{cols|3|
+{{Item|Chest}}<br>
+{{Item|Wooden church shrine}}<br>
+{{Item|Stone church shrine}}<br>
+{{Item|Incense burner}}<br>
+{{Item|Incense burner II}}<br>
+{{Item|Confessional}}<br>
+{{Item|Confessional II}}<br>
+{{Item|Candelabra I}}<br>
+{{Item|Candelabra II}}<br>
+{{Item|Candelabra III}}<br>
+{{Item|Wall candelabra I}}<br>
+{{Item|Wall candelabra II}}<br>
+{{Item|Wall candelabra III}}<br>
+{{Item|Church bench}}<br>
+{{Item|Soft church bench}}<br>
+{{Item|Stained glass window}}<br>
+{{Item|Donation box}}
+}}
+
+==[[Graveyard]]==
+{{cols|3|
+{{Item|Gravesite}}<br>
+{{Item|Flowerbed}}<br>
+{{Item|Trunk}}<br>
+{{Item|Lawn}}<br>
+{{Item|Lantern}}<br>
+{{Item|Marble flagstones}}<br>
+{{Item|Wooden prayer station}}<br>
+{{Item|Stone prayer station}}<br>
+{{Item|Stone columbarium}}<br>
+{{Item|Marble columbarium}}<br>
+{{Item|Fix the Fence}}<br>
+{{Item|Build stone fence}}
+}}
+
+==[[Crematorium]]==
+{{cols|3|
+{{Item|Trunk}}<br>
+{{Item|Place for burning corpses}}
+}}
+
+==[[Cabin in the woods]]==
+{{cols|3|
+{{Item|Trunk}}<br>
+{{Item|Stone stockpile}}<br>
+{{Item|Stone cutter}}<br>
+{{Item|Iron ore stockpile}}<br>
+{{Item|Zombie stone quarry}}<br>
+{{Item|Zombie marble quarry}}<br>
+{{Item|Zombie ore mine}}<br>
+{{Item|Porter station}}
+}}
+
+==[[Quarry]]==
+{{cols|3|
+{{Item|Marble quarry}}<br>
+{{Item|trunk}}<br>
+{{Item|Iron ore stockpile}}<br>
+{{Item|stone cutter}}<br>
+{{Item|Zombie stone quarry}}<br>
+{{Item|Zombie marble quarry}}<br>
+{{Item|Zombie ore mine}}<br>
+{{Item|Porter station}}<br>
+{{Item|Lantern network}}<br>
+{{Item|Place for lantern}}<br>
+}}
+
+==[[Sacrifice zone]]==
+{{cols|3|
+{{Item|Dark design desk}}<br>
+{{Item|Crucified skeleton}}<br>
+{{Item|Crucified skeleton on the wall}}<br>
+{{Item|Blood fountain}}<br>
+{{Item|Skulls in the wall}}<br>
+{{Item|Skulls in a column}}
+}}
+
+==[[Wheat Farm]]==
+{{cols|3|
+{{Item|Mill}}
+}}
+
+==Obstacle==
+{{cols|3|
+{{Item|Stone bridge}}<br>
+{{Item|Swamp bridge}}<br>
+{{Item|Blockage}}}}
+
+==[[Stone garden]]==
+{{cols|3|
+{{Item|Stone garden}}
+}}
+
+==[[Felling site]]==
+{{cols|3|
+{{Item|Start building sawmill}}
+}}
+
+==[[Trade office]]==
+{{cols|3|
+{{Item|Marketing campaign}}<br>
+{{Item|Crate pallet}}
+}}
+
+==[[Talking Skull]]==
+
+==[[Talking Skull Cellar]]==
+
+
+
+[[fr:Plans]]
+[[de:Blaupausen]]
+[[es:Planos]]
+[[ja:設計図]]
+[[ru:Чертежи]]
+
+[[Category:Main Pages]]
+[[Category:Workstations]]

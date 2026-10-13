@@ -1,0 +1,22 @@
+{{Stub}}{{Workstation-Infobox|image={{PAGENAME}}.png|name={{PAGENAME}}|rotatable=False|location=[[Refugee camp]]|related=[[Tanner]]}}
+
+The '''Tanner's workplace''' is part of the [[Game of Crone]] DLC. It can be unlocked by the {{NPC|Tanner}} questline and built at the [[Refugee camp]]. It's not a workstation, so no crafting is available here after completion.
+
+==Cost==
+{| class="wikitable"
+!Icon
+!'''Materials Required'''
+!Note
+|-
+|[[File:Tanner's workplace item.png]]
+|{{Item|Wooden plank|10}}
+
+{{Item|Nails|16}}
+
+{{Item|Refugee Happiness|12}}
+|{{Energy|-|?}}
+|}
+[[Category:Refugee camp]]
+[[Category:Stubs]]
+[[Category:Workstations]]
+[[Category:Game of Crone]]

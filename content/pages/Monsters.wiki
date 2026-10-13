@@ -1,0 +1,200 @@
+The following is a detailed list of all known enemies in-game. See [[Dungeon]] for more info regarding levels and loot.
+
+==Slimes==
+{| class="wikitable" style="width:70%; text-align:center;"
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Green slime.png]]<br>Green Slime
+|{{Health|15}}
+|Melee; {{Health|-|10}}
+|[[The Village]] <br>[[Swamp]] (morning)<br>[[Dungeon]]; Floors 1-4
+|{{Item|Green jelly|1}}
+|-
+|[[File:Blue slime.png]]<br>Blue Slime
+|{{Health|20}}
+|Melee; {{Health|-|15}}
+|[[Dungeon]]; Floors 5-9
+|{{Item|Blue jelly|1}}
+|-
+|[[File:Orange slime.png]]<br>Orange Slime
+|{{Health|25}}
+|Melee; {{Health|-|20}}
+|[[Dungeon]]; Floors 10-15
+|{{Item|Orange jelly|1}}
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|Slimes are relatively docile enemies that will slowly bounce toward player and lunge at short range. They can quickly kill the player when cornered or overwhelmed.
+|colspan="2"|Easy to dispatch when enemies consist of only slimes; focus any others first. Slash once or twice and retreat, while being careful of any not acting in a uniform manner.
+|-
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Black slime.png]]<br>Poppet
+|{{Health|30}}
+|Projectiles; {{Health|-|10}}
+|[[Dungeon]]; Floors 9-15
+|{{Item|Black jelly|2-5}}
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|This monster is a stationary enemy that fires three projectiles in a cone shape - either north, south, east, or west - depending on the player's position.
+|colspan="3"|Almost always spawning in a corner, it can relatively easily be dispatched by attacking diagonally, or carefully avoiding the pattern. 
+|}
+
+==Flyers==
+{| class="wikitable" style="width:70%; text-align:center;"
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Giant bat.png]]<br>Bat
+|{{Health|15}}
+|Melee; {{Health|-|5}}
+|[[Swamp]]<br>Forest (night)<br>[[Dungeon]]; Floors 1-5
+|{{Item|Bat wing|1}}
+|-
+|[[File:Firebat.png]]<br>Fire Bat
+|{{Health|20}}
+|Melee; {{Health|-|10}}<br>AoE/Trail; {{Health|-|5}}
+|[[Dungeon]]; Floors 6-15
+|{{Item|Bat wing|1}}
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|Floats toward player, while swooping in from afar when within range. Will continually attack the player in short range, or after a successful swoop.<br>Fire-bats leave behind a low-yield trail of embers.
+|colspan="2"|Relatively fragile creatures, with predictable attacks that can easily be dodged. Troubles may arise when in larger packs or with other monsters, though may make dispatching them easier.
+|-
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Giant fly.png]]<br>Giant Fly
+|{{Health|10}}
+|Melee; {{Health|-|10}}
+|[[Dungeon]]; Floors 3-15
+|1x Random<br>Alchemical Powder
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|The fly spawns in packs of ~5, and will give chase after spotting the player. Its movement speed is on par with the player, and attacks fast, making it difficult to outrun.
+|colspan="2"|If they are in a large group, have the flies follow you until you are in a hallway, then quickly turn around and attack. If there is only one or two, simply attack when it moves within range.
+|}
+
+==Heavy-Hitters==
+{| class="wikitable" style="width:70%; text-align:center;"
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Iron maiden.png]]<br>Iron Maiden
+|{{Health|35}}
+|Melee; {{Health|-|20}}
+|[[Dungeon]]; Floors 4-15
+|{{Item|Bloody nails|2}}<br>{{Item|Metal scrap|3-10}}
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|This humanoid monster runs towards the player on sight, eventually triggering a short-range lunging attack, with a relatively long recovery period.
+|colspan="2"|Dodging the attack is not only wise, it will easily allow you to flank from the side or rear, providing 2-3 care-free attacks. Multiple monsters will obviously complicate this tactic.
+|-
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Giant spider.png]]<br>Giant Spider
+|{{Health|30}}
+|Melee; {{Health|-|15}}<br>Projectile; {{Health|-|5}}
+|[[Dungeon]]; Floors 7-15
+|{{Item|Spider web|1-3}}
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|Will lunge and attack, before immediately bouncing back and firing a ranged projectile.
+|colspan="2"|Engaging near objects, tight spaces, or against walls can be helpful. Alternatively, assuming the player has some armor, one can easily press the attack after dodging the initial lunge to great effect.
+|-
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Lightning ball.png]]<br>Lightning Ball
+|{{Health|20}}
+|Detonation; {{Health|-|25}}
+|[[Dungeon]]; Floors 8-15
+|{{Item|Electric powder|1}}
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|This oddity will rapidly move towards the player, and, upon reaching the player, detonate with a one second delay.
+|colspan="2"|Once it halts to detonate, simply move out of the explosion's range. It can be killed, though has the same after-effect, making the effort somewhat pointless.
+|}
+
+==Golems==
+{| class="wikitable" style="width:70%; text-align:center;"
+!style="width:10em"|Name
+!style="width:7.5em"|Health Points
+!style="width:10em"|Damage Dealt
+!Locations
+!Drops
+|-
+|[[File:Rock golem.png]]<br>Graphite golem
+|{{Health|50}}
+|Melee; {{Health|-|20}}<br>AoE; {{Health|-|5}}
+|[[Dungeon]]; Floor 11
+|{{Item|Graphite|2-5}}<br>1-3x [[Alchemy|Random Alchemical Powder]]
+|-
+|[[File:Stone golem.png]]<br>Silver Golem
+|{{Health|65}}
+|Melee; {{Health|-|25}}<br>AoE; {{Health|-|10}}
+|[[Dungeon]]; Floors 13-14
+|{{Item|Silver nugget|2-5}}<br>1-3x [[Alchemy|Random Alchemical Solution]]
+|-
+|[[File:Obsidian golem.png]]<br>Golden Golem
+|{{Health|80}}
+|Melee; {{Health|-|0}} Bug?<br>AoE; {{Health|-|15}}
+|[[Dungeon]]; Floor 15
+|{{Item|Gold nugget|2-5}}<br>1-3x [[Alchemy|Random Alchemical Extract]]
+|-
+!colspan="3"|Behavior
+!colspan="2"|Strategy
+|-
+|colspan="3"|While definitely hostile, these constructs are usually quite passive, rarely choosing to follow the player and instead focusing more on their area-of-effect spikes.
+|colspan="2"|Given their significant amount of health, and fast melee attacks, waiting for them to perform their AoE attack is a good plan before attacking, though be prepared to retreat.
+|}
+
+==Notes==
+*Monsters are capable of pushing each other, potentially making it easy to kill multiple Iron Maidens at once but makes the combination of Iron Maidens and Bats particularly deadly.
+*The player's attacks, as well as monsters' with ranged attacks, can hit and destroy certain objects.
+*It is possible for monsters to push items out of the map.
+*Green Slimes will spawn behind the player's house at dawn each morning.
+
+[[de:Monster]]
+[[es:Monstruos]]
+[[fr:Monstres]]
+[[ru:Монстры]]
+[[pl:Potwory]]
+[[Category:Main Pages]]

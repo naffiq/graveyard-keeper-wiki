@@ -1,0 +1,107 @@
+{{Workstation-Infobox
+|name       = Preparation place
+|image      = {{PAGENAME}}.gif
+|location   = [[Morgue]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|First slice]]
+|related    = [[Morgue]]
+|footprint  = 5x4
+|rotatable  = Mirror
+}}
+The '''preparation place''' (or '''autopsy table''') is where you prepare [[corpse]]s or [[zombie]]s by removing/adding body parts from/to them. Corpses stored in the tier 1 preparation place will have their decay slowed but not stopped, while their decay will be stopped when stored in the tier 2 preparation place.
+
+The [[morgue]] starts with one tier 1 table, but additional constructs may be built after the [[morgue#Workbench|mortuary desk]] is repaired.
+
+Each autopsy table increases the {{Morgue Capacity}} by one. See [[corpse]]s, [[zombie]]s and [[morgue]] for more information about the various mechanics related to the preparation of corpses.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:15em;"|Notes
+|-
+|[[file:{{PAGENAME}} item.png|80px|{{PAGENAME}}|link=morgue]]
+|{{Item|Flitch|12}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|8}}
+|{{Energy|-|7}}
+|Requires [[Anatomy and Alchemy (Tech Tree)|First slice]]<br>Decay slowed down<br>Adds 1{{Morgue Capacity}}
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:12em;"|Item Produced
+!style="width:8em;"|Technology Required
+!style="width:5em;"|Energy
+!Effect on Removal
+|-
+|{{Item|Flesh|1}}
+|[[Anatomy and Alchemy (Tech Tree)|First slice]]
+|rowspan="6"|{{Energy|-|10}}
+|Removes {{Skull|White}}.
+|-
+|{{Item|Blood|1}}
+|rowspan="2"|[[Anatomy and Alchemy (Tech Tree)|Softspares]]
+|Removes {{Skull|Red}}, adds {{Skull|White}}.
+|-
+|{{Item|Fat|1}}
+|Removes {{Skull|Red}}, adds {{Skull|White}}.
+|-
+|{{Item|Bone|1}}
+|rowspan="3"|[[Anatomy and Alchemy (Tech Tree)|Hardspares]]
+|No effect.
+|-
+|{{Item|Skin|1}}
+|Adds {{Skull|Red}}, Removes {{Skull|White}}.
+|-
+|{{Item|Skull|1}}
+|Adds {{Skull|Red}}.
+|-
+|{{Item|Brain|1}}
+|rowspan="3"|[[Anatomy and Alchemy (Tech Tree)|Important parts]]
+|rowspan="6"|{{Energy|-|10}}
+|rowspan="3"|*''Varies between 2{{Skull|Red}}''
+, 1 {{Skull|Red}}1{{Skull|White}} and 2{{Skull|White}}
+|-
+|{{Item|Heart|1}}
+|-
+|{{Item|Intestine|1}}
+|-
+|{{Item|Dark brain|1}}
+|rowspan="3"|[[Anatomy and Alchemy (Tech Tree)|Dark Bodies]]
+|rowspan="3"|Removes {{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|Red}}{{Skull|White}}
+|-
+|{{Item|Dark heart|1}}
+|-
+|{{Item|Dark intestine|1}}
+|}<small><nowiki>*</nowiki> The value of Important Parts is randomly chosen from a pre-determined list, and often varies between parts and corpses, unlike the soft-and-hard-spares which are constant.</small>
+
+==Surgeon's Mistake==
+{| class="wikitable"
+!Icon
+!Label
+!Description
+!Notes
+|-
+|[[File:SurgeonMistake.png|52px|Surgeon's Mistake]]
+|Surgeon's Mistake
+|Your inexperience shows. - The surgery didn't go very well. You've made a mess of the body, lowering it's quality.
+|Surgeon's mistakes occur randomly while removing a body part. It shows as a "body part" (see icon) that cannot be removed. The surgeon's mistake removes one {{Skull|White}} and adds one {{Skull|Red}}. To reduce the odds of this occurring, the player may take various precautions, such as unlocking the [[Perks|butcher perk]] and the [[Perks|surgeon perk]] and upgrading Preparation place to II 
+|}
+
+==Insert Bodyparts==
+{| class="wikitable"
+!Icon
+!Label
+!Description
+!Notes
+|-
+|[[File:Insert Bodyparts.png|52px|Insert Bodyparts]]
+|Insert Bodyparts
+|colspan="2"|You can (re-)insert body parts to change the skull count of a body. Upon re-insertion, a body part will simply undo the "Effect of removal" for that part.
+|}
+
+
+{{Navbox-Morgue}}
+
+[[Category:Workstations]]
+[[Category:Morgue workstations]]
+[[pt-br:Mesa de autópsia]]

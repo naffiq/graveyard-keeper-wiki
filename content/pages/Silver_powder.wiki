@@ -1,0 +1,43 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Advanced alchemy resource
+| nameinternal = 
+| study        = 
+| source       = [[Alchemy]]
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}</b> is an advanced [[alchemy]] resource. Its purpose is the eventual creation of the [[silver injection]] for use at the [[embalming table]] and the preparation of the Memory tincture. 
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Silver nugget|1}}
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Silver elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Order solution|1}}<br>{{Item|Life extract|1}}
+|-
+|{{Item|Silver elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Order extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+
+[[pt-br:Pó de prata]]
+[[es:Polvo de plata]]

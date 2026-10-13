@@ -1,0 +1,26 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = ques_key_cultist
+| source       = [[Study table]]
+| quest        = [[Astrologer]]
+}}
+<b>{{PAGENAME}}</b> is a quest item, obtained as part of a quest involving both the [[astrologer]] and [[Snake]], by using the [[keepers key]] at the study table with the [[instructions for key]]. This key should then be given to Snake to unlock the [[dungeon]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Study table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Keepers key|1}}<br>{{Item|Instructions for key|1}}<br>{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|0}}<br>{{Techpoint|Blue|10}}
+|}
+
+<br>
+{{Navbox-Quest}}
+[[Category:Quest items]]

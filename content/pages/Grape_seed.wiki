@@ -1,0 +1,84 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seed
+| nameinternal = grapes_seed
+| study        = {{Techpoint|Green|50}}
+| source       = [[Farming]]
+| buy          = [[Merchant|Merchant (T II & T III)]]
+| sell         = [[Merchant|Merchant (T II & T III)]]
+| cost         = 40
+| stacksize    = 50
+}}
+'''{{PAGENAME}}s''' are one of five different types of complex seeds, to be utilized at the [[Vineyard]]. They must be planted in a [[vine trellis]] and may be harvested after a certain amount of time. In order to obtain {{lcfirst:{{PAGENAME}}}}s, you will likely need to purchase them from the [[Merchant]], though there is a small chance in finding some within the [[Dungeon]].
+
+Harvesting a mature crop will return some seeds, though without using a quality fertilizer, the chance of receiving enough seeds to replant the crop is very unlikely. In addition, given the varieties of quality, the use of Q1 and Q2 fertilizers will provide small amounts of upgraded produce and seeds. Furthermore, given the lengthy maturation time of this particular crop, a dedicated Boost fertilizer is often encouraged. See the relevant articles on each fertilizer - or the general article on [[farming]] - for more info.
+
+==Quality Levels==
+{|class="wikitable"
+|{{Quality Sprite|image = i_grapes_seed.png|quality = copper}}
+|{{Quality Sprite|image = i_grapes_seed.png|quality = silver}}
+|{{Quality Sprite|image = i_grapes_seed.png|quality = gold}}
+|-
+|Copper
+|Silver
+|Gold
+|} 
+
+==Planting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Vine trellis}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|Grapes|3-5|animation}}<br>{{Item|{{PAGENAME}}|2-4|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|{{PAGENAME}}|4|animation}}
+|36:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Trading==
+{|class="wikitable" style="text-align:center;"
+|-
+!NPC!!Quality!!Tier!!Base Cost!!Qty!!Base Price
+|-
+|rowspan="3"|{{NPC|Merchant}}
+|[[File:Bronze Star.png]]
+|rowspan="2"|II
+|{{Money|40}}
+|8x
+|{{Money|28}}
+|-
+|[[File:Silver Star.png]]
+|{{Money|55}}
+|8x
+|{{Money|39}}
+|-
+|[[File:Gold Star.png]]
+|III
+|{{Money|70}}
+|8x
+|{{Money|50}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seeds]]
+[[fr:Graine de Vigne]]

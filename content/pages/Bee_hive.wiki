@@ -1,0 +1,51 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Apiary]]
+|technology = [[Farming and Nature (Tech Tree)|Bee domestication]]
+|related    = [[Foraging]]
+|footprint  = 3x3
+|rotatable  = False
+}}
+The bee hive is used to raise [[bee]]s and can be harvested once a day.  It takes only {{Energy||10}} to harvest, half the energy that it would take to harvest from a wild hive. Bee hives can only be built in the [[apiary]].
+
+'''Note that the amount of [[bee]]s you'll need to build the hive varies from 10 to 20 depending on your version of the game. 10 is for PC and Console, 20 for Mobile<sup>[1]</sup>.'''
+
+From the 4 broken hives (3 at the Apiary, 1 behind the Beekeeper), you can recover up to {{Item|Flitch|1}} and {{Item|Metal scrap|3}} per hive.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|4}}
+{{Item|Nails|6}}
+
+{{Item|Bee|(PC, Nintendo Switch, PS4, Xbox One) 10x, (Mobile) 20}}
+|
+|Requires: Bee domestication
+|}
+
+==Products==
+{| class = "wikitable" style="width:30em; table-layout:fixed;"
+!Item Produced
+!With [[Perks|Beekeeper]] Perk
+|-
+|{{Item|Bee|0 - 2}}
+|{{Item|Bee|0 - 2}}
+|-
+|{{Item|Honey|2}}
+|{{Item|Honey|4}}
+|-
+|{{Item|Beeswax|0 - 1}}
+|{{Item|Beeswax|0 - 1}}
+|}
+
+== <small>Notes</small> ==
+'''<sup>[1]</sup>''' Switch version needs 10x bees (version 1.310)        also on ps4 and Xbox One the cost of bees for a bee hive is now 10.{{Navbox-Apiary}}
+[[Category:Workstations]]
+
+[[Category:Apiary workstations]]

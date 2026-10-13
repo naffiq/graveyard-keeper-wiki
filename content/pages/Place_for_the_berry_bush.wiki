@@ -1,0 +1,32 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Berry bush.png
+|location   = [[Orchard]]
+|technology = [[Farming and Nature (Tech Tree)|Transplanting]]
+|related    = [[Farming]]
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} will allow you to plant an berry bush in the [[orchard]] for a readily available source of [[berry|berries]].  [[Bush berry seedling]]s can be purchased from [[Clotho]] in the [[swamp]].
+__NOTOC__
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!colspan=4|[[file:orchard workbench.png|64px|link=orchard]] [[Orchard]]
+|-
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Bush berry seedling|1}}<br>{{Item|Peat|3}}<br>{{Item|Wooden stick|1}}
+|
+|Requires: [[Farming and Nature (Tech Tree)|Transplanting]]
+|}
+
+{{Navbox-Orchard}}
+[[Category:Workstations]]
+
+[[Category:Orchard workstations]]

@@ -1,0 +1,38 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Stone
+| source       = [[Marble quarry]]
+}}
+
+The {{PAGENAME}} is a resource gathered at the {{Item|Marble quarry}} in the north part of the [[Quarry]]. The {{PAGENAME}} needs to be stored at the {{Item|Stone stockpile}} to then further process it with the {{Item|Stone cutter}} or {{Item|Stone cutter II}} to get {{Item|A piece of marble}}
+
+==Recipes==
+{| class="wikitable" style = "table-layout:fixed;"
+! colspan = "4" | {{Item|Marble quarry}}
+|-
+!style="width:12em;| Item
+!style="width:20em;"|Requirements
+|-
+|{{Item|Marble block|1}}
+| {{Item|Rusty pickaxe}} or better
+{{Item|Wood wedge|5}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "table-layout:fixed;"
+! colspan = "4" | {{Item|Stone cutter}}  {{Item|Stone cutter II}} 
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|A piece of marble|3}}
+|{{Item|Marble block|1}}
+{{Item|Wood wedge|3}}
+|}
+{{Navbox-Stone}}
+[[Category:stone items]]
+[[Category:large items]]
+
+[[pt-br:Bloco de mármore]]
+[[es:Bloque de mármol]]

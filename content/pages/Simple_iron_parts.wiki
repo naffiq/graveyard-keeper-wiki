@@ -1,0 +1,102 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = detail_1
+| study        = {{Techpoint|Red|10}}
+| source       = [[Anvil]], [[Anvil II]], [[Wooden anvil]], [[Cellar]], [[Dungeon]]
+| buy          = [[Krezvold|Krezvold (T I)]]
+| sell         = [[Krezvold|Krezvold (T I)]]
+| cost         = 60
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> are an intermediate crafting resource made from [[iron ingot]]s at the [[anvil]], and stack to a total of 50. Alternatively they can be purchased from the [[Blacksmith]] or found by breaking barrels and furniture in the [[dungeon]] and [[cellar]]. As the [[Wooden anvil]] used to craft the simple iron parts requires simple iron parts, you will most likely need to either purchase some from the [[Blacksmith]] initially or get lucky and find them in the cellar. You receive {{Item|Simple iron parts|5}} as a reward from Krezvold's quest, [[Krezvold#Kill Slimes|Kill Slimes]].
+
+==Recipe==
+{| class="mw-collapsible mw-collapsed wikitable" style="width:35em;"
+!colspan="3"| 
+|-
+!colspan="3"|{{Item|Wooden anvil}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Simple iron parts|4}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|15}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Anvil}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Simple iron parts|4}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|12}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Simple iron parts|5}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|+1x Product from [[File:Blacksmith Perk.png|32x32px|link=Perks|Blacksmith Perk]] [[Perks|Blacksmith Perk]]
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="mw-collapsible mw-collapsed wikitable" style="width:100%;max-width:35em;table-layout:fixed"
+!colspan="2"|Crafting recipes
+|-
+!colspan="2"|{{Item|Workbench for wood}}
+|-
+|{{Item|Iron chisel|1}}
+|{{Item|Wooden stick|4}}<br>{{Item|Simple iron parts|3}}
+|-
+|{{Item|Iron armor|1}}
+|{{Item|Skin|4}}<br>{{Item|Simple iron parts|6}}
+|-
+!colspan="2"|{{Item|Stone cutter}}
+|-
+|{{Item|Stone repair kit|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Clay|1}}
+|-
+!colspan="2"|{{Item|Wooden anvil}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|2}}
+|-
+|{{Item|Axe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|2}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|3}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Einfache Eisenstücke]]
+[[pt-br:Peça simples de ferro]]

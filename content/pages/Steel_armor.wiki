@@ -1,0 +1,53 @@
+
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Armor
+| nameinternal = 
+| study        = {{Techpoint|red|150}}
+| source       = [[Carpenter's workbench]] <br> [[Carpenter's workbench II]] <br> [[Koukol]]
+| stacksize    = 1
+| armor        = 5
+}}
+
+
+Better than [[iron armor]]. Can be crafted or bought from [[Koukol]] for {{Money|2500}}.
+
+Steel armor equips to the {{Icon|armor}} slot and provides 5 armor.  Each point of armor reduces damage by that amount, so a hit that would normally do {{Health|-|7}} in damage now would only do {{Health|-|2}}.  This makes armor incredibly useful against [[monsters]] who hit frequently but for small amounts of damage.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|150}}.
+
+==Recipe==
+{| class = "wikitable" 
+!colspan = "2"|{{Item|Carpenter's workbench II}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|2}} <br> {{Item|Complex iron parts|5}}
+|}
+
+==Study==
+{| class = "wikitable"
+! colspan = "4" | {{Item|Study table}}
+|-
+!style="width:10em;"| Tech Points
+!style="width:17.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Red|150}}
+|{{Item|Faith|10}} <br> {{Item|Science|10}}
+| {{Energy|-|15}}
+|Not decomposable
+|}
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:armor]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[pt-br: Armadura de aço]]
+[[es:Armadura de acero]]

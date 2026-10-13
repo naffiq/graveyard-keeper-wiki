@@ -1,0 +1,42 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} infobox.png
+|location   = [[Workyard]], [[Alchemy Lab]], [[Kitchen Garden]], [[Cellar]], [[Crematorium]], [[Vineyard]], [[Cabin in the woods]], [[Sweet Home]], [[Talking Skull Cellar]]
+|technology = Improvement
+|related    = [[Storage]]
+|footprint  = 3X2
+|rotatable  = True
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is used to store excess items. All items stored in a location will be accessible by all other workstations in that same area, and can be browsed by opening the player's inventory when located within each area. For more information, see [[storage]].
+
+==Cost==
+{| class="wikitable"
+|-
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Trunk Icon.png]]
+|{{Item|Flitch|4}}<br>{{Item|Nails|4}}<br>*{{Item|Simple iron parts|2-8}}
+|{{Energy|-|7}}
+|May require studying of a technology.
+|-
+|colspan="4" align="center"|*Different locations require differing amounts of [[simple iron parts]].
+|}
+
+<br>
+{{Navbox-Cabin and Workyard}}
+[[Category:Workstations]]
+[[Category:Cabin in the woods workstations]]
+[[Category:Creamatorium workstations]]
+[[Category:Graveyard workstations]]
+[[Category:Cellar workstations]]
+[[Category:Vineyard workstations]]
+[[Category:Kitchen garden workstations]]
+[[Category:Alchemy lab workstations]]
+[[Category:Workyard workstations]]
+[[Category:Storage]]
+[[de:Kiste]]
+[[fr:Malle]]
+[[pt-br:Baú]]

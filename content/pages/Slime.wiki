@@ -1,0 +1,21 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Unimplimented
+| nameinternal = 
+| study        = 
+| source       = 
+| cost         = 999999
+}}
+{{PAGENAME}} is currently not obtainable.
+Slimes are your first enemy and introduction to the fight mechanics. Press space to swing sword.
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|None}}
+|-
+|No recipe
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+{{Navbox-Misc}}
+[[Category:Unobtainable]]

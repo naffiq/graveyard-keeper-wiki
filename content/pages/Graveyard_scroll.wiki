@@ -1,0 +1,17 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Inquisitor]]
+| cost         = 
+}}
+
+Gotten from the [[Inquisitor]] at 20{{Happiness}}.  Grants usage of the west half of the graveyard.
+
+This item is used at the sign to the left of the church.
+
+{{Navbox-Quest}}
+[[Category:quest items]]

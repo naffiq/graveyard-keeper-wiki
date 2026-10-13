@@ -1,0 +1,44 @@
+==Release Version==
+:{{*}}These guides might require small tweaks after recent updates, or may still be under construction.
+
+[[Flavored Goo Breakdown]]
+
+[[Blue Techpoint Checklist]]
+
+[[12-Skull Corpse Preparation]]
+
+[[100% Achievement Guide]]
+
+[http://www.neoseeker.com/graveyard-keeper/walkthrough Become a graveyard keeper.  Guide for starting out in the full release version of the game.] by Redemption
+
+[https://www.lostnoob.com/graveyard-keeper/zombie/ Zombie guide, automate your production] by LostNoob
+
+[https://www.lostnoob.com/graveyard-keeper/alchemy/ Beginner's guide to Alchemy] by LostNoob
+
+
+[[26 White Skulls Corpse Guide]]
+
+[https://docs.google.com/spreadsheets/d/188JiH97MeHb-JsXEDh5tadOSEyb09cZMSwJ6r37FfdA/edit?usp=drivesdk] 100% Graveyard Keeper layouts with comments by u/Dalairen
+
+==Alpha==
+:{{*}}These guides are very likely outdated and/or in need of an overhaul.
+
+[https://steamcommunity.com/app/599140/discussions/0/1694923613858422334/ Advanced Guide First 4 Weeks] by Skrymaster (updated guide [https://steamcommunity.com/sharedfiles/filedetails/?id=1482661523 here])
+
+[https://steamcommunity.com/app/599140/discussions/0/1696048879937149065/ Complete Recipe List] by Rayune
+
+[[Eight Tips to Improve Your Graveyard.|Graveyard Rating Guide]] by PsychoMiley
+
+[https://steamcommunity.com/app/599140/discussions/0/1696048879935305501/ Beginner Tips and Tricks For New and Veteran Players] by GronkJuice
+
+[[:de:Anfänger Guide German Beginners| Anfänger Guide]]
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1482949379 The Ultimate Guide] by Unpleasant
+
+
+
+[[Graveyard_Keeper_Wiki:Creating_Item_pages|Creating Item Pages]]
+[[Category:Wiki pages]]
+[[Category:Main Pages]]
+
+[[pt-br:Guias e Tutoriais]]

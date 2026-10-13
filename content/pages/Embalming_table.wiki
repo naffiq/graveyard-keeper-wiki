@@ -1,0 +1,83 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Morgue]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Embalming]] (tier 1)<br>
+[[Anatomy and Alchemy (Tech Tree)|Embalming II]] (tier 2)
+|related    = [[Morgue]], [[Corpse]], [[Alchemy]]
+|footprint  = 4x4
+|rotatable  = Mirror
+}}
+The embalming table allows you to use various embalming fluids on a {{item|corpse}} or on a {{item|zombie}} to change their properties. Those fluids are prepared on the [[church workbench]] and require {{item|water}} and {{item|conical flasks}} to be prepared, as well as various [[alchemy|alchemical]] elements.  Therefore, it is not necessary to build this table before learning how to [[Smithing (Tech Tree)|smelt glass]] and to [[Anatomy and Alchemy (Tech Tree)|build alchemical workstations]].
+
+When placing a [[corpse]] on an embalming table, their decay is slowed down (tier 1) or stopped completely (tier 2). Each embalming table increases the {{Morgue Capacity}} by one. For more information about how corpse rating works, see [[corpse]]s; for more information about preparing bodies, see the [[morgue]].
+
+Each injection type can only be used once per corpse, but similar types will stack.
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:18em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Wooden plank|8}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Nails|6}}
+|
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming]]<br>
+Decay slowed down<br>Adds 1 {{Morgue Capacity}}
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} II item.png|64px|link={{PAGENAME}} II]]
+|{{Item|Wooden plank|10}}<br>{{Item|Steel parts|4}}<br>{{Item|Advanced conical flasks|4}}
+|{{Energy|-|12}}
+|Requires [[Anatomy and Alchemy (Tech Tree)|Embalming II]]<br>Decay completely stopped<br>Adds 1 {{Morgue Capacity}}<br>Applies fluids approx. twice as fast
+|}
+
+==Recipes==
+To use the table, you place a body on it and add the injection into the crafting window. The craft is automatic and takes 1 minute and 30 seconds in game (only when time is not paused) to complete. Each type of injection can only be used once per corpse.
+
+'''Note:''' Fluids that reduce the amount of {{Skull|Red}} , like silver and gold injections, need the corresponding red skulls to be present in the corpse; otherwise they can't be applied. In this case, remove some body parts on a [[preparation place]] first that increase the number of {{Skull|Red}} and apply the injection afterwards.
+
+{| class = "wikitable"
+!style="width:10em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:12em;"|Notes
+|-
+|{{Item|Corpse|1}}
+|{{Item|Lye injection|1}}
+| +{{Skull|Red}} +{{Skull|White}}
+|-
+|{{Item|Corpse|1}}
+|{{Item|Acid injection|1}}
+| -{{Skull|Red}} -{{Skull|White}}
+|-
+|{{Item|Corpse|1}}
+|{{Item|Glue injection|1}}
+| +{{Skull|White}}
+|-
+|{{Item|Corpse|1}}
+|{{Item|Restore injection|1}}
+| Restores 50% of body decay.
+|-
+|{{Item|Corpse|1}}
+|{{Item|Preservative injection|1}}
+| Halts body decay.
+|-
+|{{Item|Corpse|1}}
+|{{Item|Dark injection|1}}
+| +{{Skull|Red}} {{Skull|Red}}
+|-
+|{{Item|Corpse|1}}
+|{{Item|Silver injection|1}}
+| -{{Skull|Red}} +{{Skull|White}}
+|-
+|{{Item|Corpse|1}}
+|{{Item|Gold injection|1}}
+| -{{Skull|Red}} {{Skull|Red}}   +{{Skull|White}} {{Skull|White}}
+|}
+
+Note: Skull count can be negative, meaning that if you have 11 white skulls, and -1 or less red skulls, you can use the lye injection to add a white skull, making it possible to add a total of +7 white skulls through preparation and embalming.
+
+<br>
+{{Navbox-Morgue}}
+[[Category:Workstations]]
+[[Category:Morgue workstations]]

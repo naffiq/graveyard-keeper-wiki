@@ -1,0 +1,20 @@
+Witch Hill is located just east of the Graveyard keeper's homestead. It is supposedly the location of the [[portal]].
+
+==Areas of Interest==
+===Vineyard===
+The [[vineyard]] is located on the first level of the hill. You can use it without the [[inquisitor]]'s permission, but you can unlock the workbench there after the raising moral quest. ''If you are not friends with him, you can use it without additional quests, but you won't be able to build new vine trelisses there.''
+
+===Burnt House===
+There is a burnt house on the second level of the west side of the hill. There is a single grave next to the house.
+
+===Ruins===
+The ruins are located on top of the hill. It is the location of the [[portal]]. The [[inquisitor]] and his guards perform the witch trials every {{Day|Wrath}}. The guards keep their watch there, until you bring them some wine. 
+
+===Resources===
+There are two sources of infinite [[A piece of marble|marble]] on both sides of the ruins atop the hill.
+
+===Buffet Tent===
+After you finish a quest for the [[inquisitor]], you are able to build a [[Buffet tent|tent]] there, to sell {{Item|Burger||Gold}} and {{Item|A mug of beer||Gold}} at the burnings on {{Day|Wrath}}.
+
+{{Navbox-Locations}}
+[[Category:Locations]]

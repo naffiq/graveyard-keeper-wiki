@@ -1,0 +1,16 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Vampire jaw.png
+| type         = Quest
+}}
+{{quote|You're almost ready for Halloween|Item description}}
+[[{{PAGENAME}}]] is a quest item from the [[Game of Crone]] DLC, obtained during the vampire questline. After giving the [[Restoration tools]] to the [[Astrologer]], he will tell you about his encounters with vampires, which will give you a clue to the identity of the vampire. The vampire, once found out, tells you more about the vampires from the Astrologer's memory. He informs you that you can use the [[Witchers eye]] to examine memory spots and watch past events unfold.
+
+The important memory spots can be found on the cliff west of the [[Beekeeping#Bee_Garden|Apiary]], near the waterfall. After examining a series of memories of the previous Graveyard Keeper and the Astrologer, you dig up the vampire jaw. Taking it to [[Clotho]] reveals that there is an alchemical recipe you can use to learn more from the jaw. She gives you {{Item|memory powder|3}} and the recipe for {{Item|memory tincture}}.
+
+Using {{Item|memory tincture}} with the {{PAGENAME}} (You have to do it 3 separate times) displays a vision of [[Clotho|a woman]] in a [[Black and gold cloak|black and gold cloak]] surrounded by four vampires in black hoods. She chastises them for their incompetence, and they tell her the village is increasingly unfriendly to vampires, with the Order of Undead Hunters on the lookout. She asks if they've gotten any information out of [[Master Alaric|the priest]], and when they say they haven't, orders them to turn him into a vampire. She disappears in a puff of black smoke, and the vision ends.
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]

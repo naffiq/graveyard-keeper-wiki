@@ -1,0 +1,50 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seed
+| nameinternal = beet_seed
+| study        = {{Techpoint|Green|20}}
+| source       = [[Farming]], [[Dungeon]]
+| buy          = [[Farmer|Farmer (T I)]]
+| sell         = None
+| cost         = 12
+| stacksize    = 50
+}}
+'''{{PAGENAME}}s''' are one of five different types of basic seeds, to be utilized at the [[Kitchen Garden]]. They must be planted in an [[empty garden bed]] and may be harvested after a certain amount of time. In order to obtain {{lcfirst:{{PAGENAME}}}}s, you will likely need to purchase them from the [[Farmer]], though there is a small chance in finding some within the [[Dungeon]].
+
+Harvesting a mature crop will return some seeds, though without using a quality fertilizer, the chance of receiving enough seeds to replant the crop is very unlikely. See the relevant articles on each fertilizer - or the general article on [[farming]] - for more info.
+
+==Planting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Empty garden bed}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|Beet|6-8}}<br>{{Item|{{PAGENAME}}|2-3}}<br>{{Item|Crop waste|?}}
+|{{Item|{{PAGENAME}}|4}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seeds]]
+
+[[pt-br:Semente de beterraba]]

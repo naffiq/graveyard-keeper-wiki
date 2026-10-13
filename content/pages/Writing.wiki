@@ -1,0 +1,57 @@
+Writing uses the tiered crafting system: <!--- someone make this its own page --->
+tier = complexity + item quality bonus + other bonuses.
+
+Fractions will at least yield items in the lower quality, while having a chance at a higher tier.
+
+1.35 yields a tier 1 item with a 35% chance for a tier 2 item. Tier 0 is considered a <b>failed craft</b> and does not yield any items.
+
+Some of the writings also yield a few {{techpoint|blue}} techpoints.
+{| class=wikitable
+! Recipe !! Complexity [[Desk|Desk I]] !! Complexity [[Desk II]] 
+|-
+| {{Item|Notes||copper}} || -1.7 || -1.5
+|-
+| {{Item|Chapter||copper}} || -2.0 || -1.9
+|-
+| {{Item|Book||Copper}} || -0.5 ||  -0.5
+|-
+| {{Item|Story||copper}} || 1 || 
+|-
+| {{Item|Story||silver}} || 2 || 
+|-
+| {{Item|Story||gold}} || 3 || 
+|}
+
+{| class=wikitable
+! Bonus !! Amount
+|- 
+| Perk: Writer || 0.5
+|- 
+| Perk: Playwright || 0.7
+|-
+| Prayer for Imagination || 0.7
+|}
+''Only duration goes up''
+
+Example desk II: notes + gold story + perks = -1.5 + 3 + 1.2 = 2.7, so 70% gold chance, and when it fails guaranteed silver.
+
+== Prayers ==
+Writing prayers is not influenced by any bonuses.
+
+{| class=wikitable
+! Recipe !! Complexity Desk I !! Complexity Desk II 
+|-
+| Prayer from chapter || -0.7 || -0.5
+|-
+| Prayer from book || -1.0 || -0.8 
+|-
+| Prayer for imagination || 0 || 0
+|-
+| Bronze || 1 || 
+|-
+| Silver || 2 || 
+|-
+| Gold || 3 || 
+|}
+[[de:Schreiben]]
+[[Category:Topics]]

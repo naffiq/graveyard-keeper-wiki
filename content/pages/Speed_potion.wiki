@@ -1,0 +1,49 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = [[file:Speed effect.png|24x24px]]
+| study        = N/A
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = [[Clotho]]
+| source       = [[Alchemy]]
+| cost         = 
+| stacksize    = 20
+| type         = Alchemy Product
+| quest        = 
+| nameinternal = 
+}}
+<b>{{PAGENAME}}</b> is produced through [[alchemy]] at the [[alchemy workbench (tier II)]].
+
+==Effect==
+On use, the potion will apply the {{lcfirst:{{PAGENAME}}}} buff for a duration of 10 minutes. This buff increases the player's movement speed dramatically. For a list of all buffs, see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Speed effect.png|24x24px|link=Effects#Speed|Speed]]
+|Increases your speed.
+|style="text-align:center"|10:00
+|[[Effects#Speed|Speed]]
+|}
+
+==Recipe==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Chaos solution|1}}<br>{{Item|Blood|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[Category: Sellable]]
+[[de:Schnelligkeitstrank]]
+[[es:Poción de velocidad]]
+[[pt-br:Poção de velocidade]]

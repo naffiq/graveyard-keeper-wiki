@@ -1,0 +1,23 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| cost         = 1500
+| price        = 1057
+
+| study        = N/A
+| alchemy      = 
+| source       = [[Miss Chain]]
+| buy          = [[Ms. Charm]]
+| sell         = [[Ms. Charm]]
+| type         = Quest Item
+| stacksize    = 5
+| quest        = [[Miss Chain]] / [[Ms. Charm]]
+| nameinternal = parfum
+}}
+<b>{{PAGENAME}}</b> is a quest item first obtained from [[Miss Chain]], to be given to [[Ms. Charm]] as part of her quest-line. It is not craftable, despite its description claiming that it can be crafted at the [[church workbench]] - no known recipe exists. Sometime later, one may purchase it from [[Ms. Charm]], yet it has no other known application.
+
+<br>
+{{Navbox-Quest}}
+[[Category:Quest items]]
+
+[[ru:Духи]]

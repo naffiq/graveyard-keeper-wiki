@@ -1,0 +1,69 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Insect
+| nameinternal = bee
+| study        = {{Techpoint|Green|30}}
+| alchemy      =  {{Item|Order powder}} {{Item|Order solution}}
+| cost         = 20
+| source       = [[Beekeeping|Wild hives]], [[Bee hive|Hives]]
+| buy          = [[Beekeeper|Beekeeper (T I)]]
+}}
+
+You can sometimes get bees while harvesting [[bee hive]]s or [[Beekeeping|wild hives]] for [[honey]], but only if you have unlocked the [[Farming and Nature (Tech Tree)|insects]] technology. They can also be bought for quite a high price from the [[beekeeper]] in the [[village]].
+
+Bees are needed for setting up an [[apiary]] or can be decomposed in the [[Alchemy Lab|alchemy laboratory]]. 
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Order powder|powder]] and [[Order solution|fluid]]
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout: fixed;"
+!colspan="2"|{{Item|Apiary}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Bee hive}}
+|{{Item|Flitch|4}}<br>{{Item|Nails|6}}<br>{{Item|Bee|10}}
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em; table-layout: fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Order powder|3}}
+|{{Item|Bee|1}}
+|-
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Order solution|3}}
+|{{Item|Bee|1}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:insects]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+[[ru:Пчела]]
+[[de:Biene]]

@@ -1,0 +1,66 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Workyard]]
+|technology = [[Building (Tech Tree)|Circular saw]]
+|related    = 
+|footprint  = 5x4
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to cut [[log]]s into usable pieces.  In order to be available for crafting in the {{lcfirst:{{PAGENAME}}}}, logs must be placed in a [[timber stockpile]].
+
+Horizontal and vertical : 5 X 4
+
+Rotation : No
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+
+|{{Item|Complex iron parts|10}}
+{{Item|Wooden plank|8}}
+
+{{Item|Nails|4}}
+|
+|Requires circular saw
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|Wood billet|5}}
+|{{Item|Log|1}}
+|{{Energy|-|10}}
+|[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Wood billet|+1}}
+|-
+|{{Item|Flitch|7}}
+|{{Item|Log|1}}
+|{{Energy|-|10}}
+|[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Flitch|+2}}
+|-
+|{{Item|Wooden plank|3}}
+|{{Item|Log|1}}
+|{{Energy|-|15}}
+|[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Wooden plank|+1}}
+|-
+|{{Item|Wooden beam|3}}
+|{{Item|Log|1}}
+{{Item|Complex iron parts|1}}
+|{{Energy|-|15}}
+|[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Wooden beam|+1}}
+Gives {{Techpoint|red|5}}
+|}
+
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]

@@ -1,0 +1,21 @@
+A special storage that holds 6 items only available in the [[Talking Skull Cellar]]. In addition to the one included in the cellar, there is available space for 3 additional Box Racks, for a total of 4 racks.
+
+Its main purpose is to store drinks to sell in the [[Talking Skull]]. Any alcoholic drinks stored here will be sold automatically through the tavern above. Proceeds for the drinks will be located in the chest sitting on the bar next to [[Barman]]. You can also store other items on the shelf, like in the trunk. Both the kitchen and the oven can draw items from the box racks. Any food or drink stored in the box racks will '''not''' be sold during [[Talking Skull#Tavern%20Events|Tavern Events]].
+
+{{Workstation-Infobox|footprint=5x3|image=Box rack.gif|Location=[[Talking Skull Basement]]|name={{PAGENAME}}|related=[[Storage]]|rotatable=False|technology=}}
+
+= Cost =
+{| class="wikitable"
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|[[file:Tavern box rack item.png|80x80px]]
+|{{Item|Wooden beam|4}}
+{{Item|Wooden plank|6}}
+
+{{Item|Nails|8}}
+|{{Energy|-|4}}
+|
+|}

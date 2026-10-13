@@ -1,0 +1,48 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = 
+| consume      = [[File:Retribution effect.png]], [[File:Health reduced effect.png]]
+| study        = 
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T III)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 200
+| quest        =  
+}}
+<b>{{PAGENAME}}</b> is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]]. When used the potion applies the {{lcfirst:{{PAGENAME}}}} buff, severely increasing damage dealt but at the cost of {{Health}}.
+
+==Effect==
+On use, the potion will apply the {{lcfirst:{{PAGENAME}}}} buff for a duration of 5 minutes. This buff increases player's damage by {{Health|+|15}} while dealing {{Health|-|1}} damage to the player every 7.5 seconds.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[File:Retribution effect.png|link=Effects#Berserk|Berserk]], [[File:Health reduced effect.png|link=Effects#Berserk|Berserk]]
+|You deal a lot of damage but also lose {{Health}} over time.
+|style="text-align:center"|5:00
+|[[Effects#Berserk|Berserk]]
+|}
+
+==Recipe==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Toxic powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|Death extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[es:Poción de frenesí]]
+[[pt-br:Poção de fúria]]

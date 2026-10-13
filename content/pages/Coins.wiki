@@ -1,0 +1,17 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = quest_fake_coins
+| source       = [[Mrs. Charm]]
+| quest        = [[Mrs. Charm]]
+}}
+
+Fake gold coins obtained from [[Ms. Charm]] after you use [[Faith]] to talk to her and give her a compliment.  She asks you to deliver them to [[Snake]] and tell her how he reacts.
+
+{{Navbox-Quest}}
+
+[[Category:Quest items]]
+
+[[ru:Монеты]]
+[[es:Monedas falsas]]

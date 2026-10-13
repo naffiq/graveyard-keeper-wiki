@@ -1,0 +1,32 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Meal
+| consume      = {{Energy|+|15}}
+| nameinternal = meal:cutlet_carrot
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 12
+| stacksize    = 25
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a food item which restores {{Energy|+|15}} when consumed. Since the items which can be used to craft {{lc:{{PAGENAME}}}}s lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]]. {{PAGENAME}}s can also be purchased from [[Horadric]] in [[The Dead Horse]].
+
+The recipe can be unlocked by asking the farmer "What can you tell me about farming?"
+
+==Recipe==
+{| class="wikitable" style="width:30em; table-layout:fixed;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Carrot cutlet|4}}
+|{{Item|Carrot|2}}<br>{{Item|Fuel|10}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]

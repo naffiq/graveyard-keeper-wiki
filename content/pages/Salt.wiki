@@ -1,0 +1,65 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| cost         = 
+| price        = 
+| consume      = 
+| study        = N/A
+| alchemy      = 
+| source       = [[Wall Crematorium]], [[Crematorium]]
+| type         = Advanced Alchemy Resource
+| stacksize    = 30
+| quest        = 
+| nameinternal = taste_booster:salt
+}}
+<b>{{PAGENAME}}</b> is a resource primarily used in food, It's exclusively sourced through the cremation of [[corpse]]s.
+
+Is used as a piece of a puzzle during the [[Merchant]]'s quest-line.
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Place for burning corpses}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Burial certificate|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Ash|5}}
+|{{Item|Corpse|1}}<br>{{Item|Wood billet|8}}
+|-
+!colspan="2"|{{Item|Wall Crematorium}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|Burial certificate|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Ash|3}}
+|{{Item|Corpse|1}}<br>{{Item|Fuel|20}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|A bowl of sauerkraut|3}}
+|{{Item|Cabbage|3}}<br>{{Item|Carrot|2}}<br>{{Item|{{PAGENAME}}|1}}
+|}
+
+==Alchemy==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Spices|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Health solution|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Sal]]
+[[es:Sal]]

@@ -1,0 +1,78 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Advanced alchemy resource
+| nameinternal = alchemy_1_d_violet
+| study        = 
+| source       = [[Alchemy]]
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}</b> is an [[alchemy|alchemical]] reagent, utilized in producing paint or crafting high-tier pottery.
+
+Note, when making White Paint, the white powder must be used in the first slot and then the oil in the second slot. 
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Bone|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Limestone|1}}
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|White paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|Ceramic jug|1}}<br>{{Item|{{PAGENAME}}|2}}
+|2:30<br>{{Fuel||20}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|Ceramic jug|1}}<br>{{Item|{{PAGENAME}}|2}}
+|2:00<br>{{Fuel||20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|Ceramic jug|1}}<br>{{Item|{{PAGENAME}}|2}}
+|1:30<br>{{Fuel||20}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+[[de:Weißer Staub]]
+[[pt-br:Pó branco]]
+[[es:Polvo blanco]]

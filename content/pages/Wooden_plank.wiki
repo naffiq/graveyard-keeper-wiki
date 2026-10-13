@@ -1,0 +1,82 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Wood
+| nameinternal = wooden_plank
+| study        = {{Techpoint|Red|30}}
+| source       = [[Carpenter's workbench]], [[Carpenter's workbench II]]
+| buy          = [[Tress|Tress (T II)]]
+| sell         = [[Tress|Tress (T II)]]
+| cost         = 10
+| stacksize    = 30
+| quest        =  
+}}
+The plank is a near ubiquitous resource and is necessary for producing many of the mid-game [[Work Stations]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Carpenter's workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Wooden plank|1}}
+|{{Item|Flitch|1}}
+|-
+! colspan = "2" | {{Item|Circular saw}}
+|-
+|{{Item|Wooden plank|3}}
+|{{Item|Log|1}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:30em; table-layout:fixed;"
+! colspan = "2" | {{Item|Carpenter's workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Wooden grave fence|1}}
+|{{Item|Wooden plank|1}}
+|-
+|{{Item|Wooden cross|1}}
+|{{Item|Wooden plank|1}}<br>{{Item|Nails|1}}
+|-
+|{{Item|Wood repair kit|4}}
+|{{Item|Flitch|3}}<br>{{Item|Wooden plank|1}}<br>{{Item|Nails|2}}
+|}
+
+==Building==
+*work in progress*
+{|class="wikitable" style="width:35em;"
+!colspan="3"|Building Recipes
+|-
+! colspan = "3" |[[Witch Hill]]
+|-
+|style="text-align:center"|[[file:Buffet_tent item.png|80x80px]][[Buffet tent]]
+|{{Item|Hemp rope|5}}<br>{{Item|{{PAGENAME}}|15}}<br>{{Item|Nails|20}}
+|{{Energy|-|20}}
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+<!-- lang links -->
+[[de:Holzplanke]]
+[[ru:Брус]]
+[[pt-br:Placa de madeira]]

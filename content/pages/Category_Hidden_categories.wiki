@@ -1,0 +1,3 @@
+This category is for hidden categories using <code><nowiki>__HIDDENCAT__</nowiki></code>.
+
+[[Category:Wiki maintenance]]

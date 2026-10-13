@@ -1,0 +1,106 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|20}}
+| source       = [[Furnace]], [[Furnace II]], [[Furnace III]], [[Potter]]
+| cost         = 
+| stacksize    = 30
+| type         = Misc
+| quest        = 
+| nameinternal = ceramic_jug
+}}
+<b>{{PAGENAME}}</b> is a craft-able crafting material, either originally crafted from [[Clay]] or bought from the [[Potter]], only necessary for the eventual construction of columbariums in the [[Graveyard]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Ceramic bowls|10}}
+|2:30<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Ceramic bowls|10}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|10}}
+|{{Item|Ceramic bowls|10}}
+|1:30<br>{{Fuel|-|20}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Ceramic funeral urn|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Ash|5}}
+|0:02<br>{{Energy|-|3}}
+|-
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|White powder|2}}
+|2:30<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|White powder|2}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Porcelain pitcher|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|White powder|2}}
+|1:30<br>{{Fuel|-|20}}
+|}
+
+<br>
+{{Navbox-Misc}}

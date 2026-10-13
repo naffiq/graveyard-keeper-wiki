@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Embalming Injection
+| nameinternal = 
+| study        = N/A
+
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 5
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is used at the embalming table to add two {{Skull|red}}. Dark injection are used to even out the number of {{Skull|red}}for use with the [[Gold injection]], although transplanting an actual dark organ or removing a skull is still a cheaper alternative,  
+
+==Recipe==
+{| class="wikitable" style="width:31em;"
+!colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5;"|Energy
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Dark elixir|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+==Crafting==
+{| class = "wikitable"
+!colspan="3"|{{Item|Embalming table}}
+|-
+!style="width:15em;|Item Produced
+!style="width:15em;|Required Materials
+!Notes
+|-
+|{{Item|Corpse|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Corpse|1}}
+| +{{Skull|red}}{{Skull|red}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Embalming injections]]
+[[Category:Alchemy]]
+[[es:Inyección oscura]]
+[[pt-br:Injeção sombria]]

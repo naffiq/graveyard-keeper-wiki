@@ -1,0 +1,26 @@
+<div class="fpbox nomobile" style="text-align: center;"><!-- BEGIN Welcome box-->
+<div class="welcome"><div class="heading">Welcome to the Official<br/>[[file:wiki.png|alt=Graveyard Keeper Wiki|link=|Graveyard Keeper Wiki]]</div></div>
+<div><small>The most comprehensive source of information about the game.<br>We are currently maintaining [[Special:Statistics|{{NUMBEROFPAGES}} pages ({{NUMBEROFARTICLES}} articles)]], written by {{NUMBEROFUSERS}} users.</small></div>
+</div><!--END Welcome box-->
+
+<div class="fpbox" style="text-align: center;"><!-- BEGIN Filmy box-->
+<div class="heading">Videos</div>
+<div class="fpvideos">
+<div class="fpvideo">{{#ev:youtube|Zd5S5rlKf_M||center}}<br>Launch trailer released by tiny build</div>
+</div>
+</div><!--END Videos box-->
+
+<div class="fpbox" style="text-align: center;"><!-- BEGIN Images box-->
+<div class="heading">Images</div>
+{{Featured images}}
+</div><!--END Images box-->
+
+<div class="fpbox" id="fplinks" style="text-align: center;"><!-- BEGIN Links box-->
+<div class="heading">{{Gamename}} Links</div>
+<div class="fplinks"><!-- 
+-->{{FP link|url=https://www.graveyardkeeper.com/|Official Site|size=wide}}<!--
+-->{{FP link|url=http://lazybeargames.com/|Developers|size=wide}}<!--
+-->{{FP link|url=http://www.tinybuild.com/|Publisher|size=wide}}<!--
+--></div>
+</div><!--END Links box-->
+<noinclude>[[Category:Front page sections]]</noinclude>

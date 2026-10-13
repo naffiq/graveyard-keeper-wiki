@@ -1,0 +1,38 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Repair kit
+| nameinternal = repair_mrb
+| study        = 
+| source       = [[Stone cutter]], [[Stone cutter II]]
+| buy          = None
+| sell         = None
+}}
+
+Marble repair kits are used to fix grave fences and grave markers made of marble. Neglecting [[Yorick]]'s wish for a {{Red Skull}} free graveyard will result in a thunder storm which damages some of the grave decorations.
+
+==Recipe==
+
+{| class = "wikitable" style = "width:40em;"
+! colspan = "2" | {{Item|Stone cutter II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|{{PAGENAME}}|1}}
+| {{Item|A polished brick of marble|1}} <br> {{Item|Complex iron parts|1}} <br> {{Item|Clay|1}}
+|}
+
+
+==Crafting==
+<!-- Placeholder for crafting recipe
+{| class = "wikitable" style = "width:40em;"
+! colspan = "2" | [[Workstation]]
+|-
+|{{Item| |1}}
+|{{Item| |1}}
+|}
+-->
+
+{{Navbox-Stone}}
+[[Category:stone items]]

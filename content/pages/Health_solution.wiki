@@ -1,0 +1,74 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_2_d_green
+| study        = {{Techpoint|Green|5}}
+| buy          = [[Clotho|Clotho (T II)]]
+| sell         = 
+| source       = [[Alchemy]]
+| stacksize    = 50
+| cost         = 75
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:30em; table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Carrot|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Hiccup grass|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Cabbage|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:30em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Spices|1}}
+|{{Item|Salt|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Heal potion|1}}
+|{{Item|Life powder|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Restoring potion|1}}
+|{{Item|Order powder|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Health extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[es:Solución curativa]]
+[[pt-br:Solução de vida (verde)]]

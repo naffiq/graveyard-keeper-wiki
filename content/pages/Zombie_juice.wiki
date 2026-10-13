@@ -1,0 +1,59 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Embalming Injection
+| nameinternal = 
+| study        = {{Techpoint|green|10}} {{Techpoint|blue|10}}
+| source       = [[Alchemy workbench (tier I)]]
+| cost         = 
+| quest        = [[Gunter]]
+|stacksize=20}}
+'''{{PAGENAME}}''' is an alchemical product, used singularly at the [[resurrection table]] to convert a [[corpse]] into a [[zombie]]. Three units can be found in the ruined bookshelf next to [[Gunter]].
+
+==Recipe==
+{|class="wikitable" style="width:30em;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Health powder|1}}<br>{{Item|Blood|1}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|green|10}}<br>{{Techpoint|blue|10}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|10}}
+|Not decomposable
+|}
+
+==Use==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Resurrection table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Zombie|1}}
+|{{Item|Faith|10}}<br>{{Item|Zombie juice|1}}
+|}
+
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Embalming injections]]
+[[Category:Alchemy]]
+[[de:Zombiesaft]]
+[[pt-br:Suco de zumbi]]
+[[es:Zumno de zombi]]
+[[Category:Breaking Dead]]

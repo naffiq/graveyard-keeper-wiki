@@ -1,0 +1,41 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Workyard]]
+|technology = [[Building (Tech Tree)#Clay|Clay]]
+|related    = 
+|footprint  = 3x3
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to shape clay into [[ceramic bowls]].
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|4}}<br>{{Item|A piece of stone|2}}<br>{{Item|Nails|6}}
+|
+|Required Tech: [[Building (Tech Tree)#Clay|Clay]]
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Ceramic bowls|3}}
+|{{Item|Clay|1}}
+{{Item|Water|1}}
+|10{{Energy}}
+| +{{Techpoint|red|1}} {{Techpoint|green|1}}
+|}
+
+
+{{Navbox-Workyard}}
+
+[[pt-br:Torno de oleiro]]

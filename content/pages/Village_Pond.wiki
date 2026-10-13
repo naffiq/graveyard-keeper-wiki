@@ -1,0 +1,52 @@
+Fishing at the Village Pond provides a quick access to a pause in the frantic run around of buying and selling from all the merchants, while also providing a good variety of fish to help accomplish multiple goals throughout Graveyard Keeper.  Whether it be profit, achievements, or even questing, the pond has a nice mix of challenge and requirements.
+
+== Finding the Fishing Spot ==
+
+Starting from the Dead Horse, follow the pathway to the East until you come to the first branching path that heads North.  Take the path North, and you'll shortly find the path to the Village Pond on a short offshoot heading back West.  You may also find it quicker to cut North between houses at the alley right before the Chicken Farm if you decide to come back for repeat fishing trips.
+
+== Fish by Zone ==
+
+Keep in mind that at the Village Pond, the Near zone will be on the right of the bar and the Far zone will be on the left side of the fishing bar, as replicated below.  Information provided is accurate as of Patch 1.030.
+
+[[File:Village fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+!colspan="3" |Far
+!colspan="2" |Middle
+!colspan="2" |Near
+|-
+|{{Item|Gudgeon}}
+|{{Item|Perch}}
+|{{Item|Silver Crucian||animation}}
+|{{Item|Gudgeon}}
+|{{Item|Tilapia}}
+|{{Item|Frog}}
+|{{Item|Gudgeon}}
+|}
+
+== Zone Specific Fishing Tips ==
+
+Catching fish at each different fishing location can create different odds towards catching specific fish.  For each fish present at the Village Pond, some tips are provided below to help you catch each specific fish type available at the Sea.  Not all combinations are provided that could lead to catching the fish, only the best possible odds are considered.  Further, Time of Day is only mentioned if it is relevant to the availability of the fish or if it increases the odds to catch them.
+
+=== [[Gudgeon]] ===
+
+The most common Bait Fish in the game, you can find Gudgeon almost everywhere you'll want to go fishing.  The rules for putting them on the hook 100% of the time remain the same everywhere too, which is a nice bit of simplicity.  Just bring the Simple Fishing Rod with you with no need to add bait, and you'll be able guarantee that you will hook it in either the Near or Far casting zones here at the Village Pond.
+
+=== [[Frog]] ===
+
+It may be a slight surprise that you can fish up some Frogs outside of the Swamp, but this makes a certain quest quite a bit more convenient to finish if you want to gather them yourself.  That said, Frogs are a bit more peculiar in their bait preferences than most.  With the Good Fishing Rod equipped, you'll need Butterflies or Moths in order to ensure you'll hook one every time within the Near Zone.  No other bait will work, so you may have to pick some of the nearby Flowers if you happen to have left those particular bugs at home with your Alchemy supplies.
+
+=== [[Tilapia]] ===
+
+Tilapia share some preference overlap with Gudgeon, which means there are two ways of going about catching this particular fish here at the Village Pond.  If you are trying to rustle up some Gudgeon for a different catch elsewhere, you can just use the Simple Fishing Rod without any bait and fish at the Middle Zone.  For those who are just after a 100% shot at hooking one, however, you'll need to bring some bait with you.  Any of the bug style bait will do, whether you use some Maggots, Butterflies, or Moths.  Also works just as well with the Good Fishing Rod!
+
+=== [[Perch]] ===
+
+Perch are fairly similar to Tilapia if slightly more valuable in cooking, and those similarities are also true in their fishing preferences.  If you want to have a 100% shot at hooking a Perch in the Village Pond, it is all about the bait again.  Either Maggots, Butterflies, or Moths will do, and just like Tilapia, you can use either the Good Fishing Rod or the Simple Fishing Rod.
+
+=== [[Silver Crucian]] ===
+
+This is the fish unique to the Village Pond, and it can be quite the useful catch!  However, unlike its big brother the Golden Crucian, the Silver Crucian is much, much easier to hook on the line.  The big secret for this fish is that you can only catch it at Night, but you have a fair bit of choice for rods and bait.  You can use either the Good or Excellent Fishing Rods, and either of the two Lures that the Fisherman sells.  
+
+Before you go to sell this fish, however, it shares a secret utility with its bigger brother too: processing a Silver Crucian into Quality Fish Fillets also nets you one Silver Nugget per fish.
+
+[[Category:Locations]]

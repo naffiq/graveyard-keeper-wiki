@@ -1,0 +1,28 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| alchemy      = 
+| source       = [[Lighthouse Keeper]]
+| cost         = 200
+| stacksize    = 1
+| type         = Fishing; Equipment
+| quest        = 
+| efficiency   = 75%
+| energy       = {{Energy|-|1}}
+| nameinternal = fishing_rod_0 
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a piece of equipment which, unlike most other tools, does not degrade with use. It's one of three fishing rods found in-game, any of which is required for [[fishing]]. It is provided by the [[Lighthouse Keeper]], either after the player delivers six(6) [[moth]]s, or sold as a Tier I item for {{Money|200}}. It cannot be acquired through any other means, such as crafting, nor can it be studied.
+
+Compared to the other fishing rods, this fishing rod is essentially the "starter rod", with the worst efficiency and fish-availability. However, it may be preferred when fishing specifically for lower-tiers of fish, such as fish-bait, as it will prevent most competition.
+
+==See Also==
+*{{Item|Good fishing rod}} - the Tier II rod, serving as an upgraded 'Simple' in most cases.
+*{{Item|Excellent fishing rod}} - the Tier III rod, specifically designed for higher-tier fish.
+
+<br>
+{{Navbox-Fishing}}
+[[Category:Fish]]
+[[de:Einfache Angel]]
+[[es:Caña de pescar simple]]
+[[pt-br:Vara de pesca simples]]

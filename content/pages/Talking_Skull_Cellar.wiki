@@ -1,0 +1,31 @@
+{{stub}}
+{{Location Infobox
+|name = {{PAGENAME}}
+|image = {{PAGENAME}}.png
+|buildable = True
+|exits = [[Village]], [[Sweet Home]] (underground), [[Talking Skull]]
+|NPCs = [[Gerry]]
+}}
+
+The [[{{PAGENAME}}]] (unlocked with the [[Stranger sins|Stranger Sins DLC]]) is located east of the village and below the [[Talking Skull]] tavern. The [[Cooking#Professional Oven|Professional Oven]] and [[Cooking#Professional Kitchen|Professional Kitchen]] are located here, both of which are used to create food to sell during [[Talking Skull#Tavern Events|Tavern Events]]
+
+== Trunk ==
+The [[{{PAGENAME}}]] comes already furnished with one [[trunk]]. It is '''not''' possible to build any additional trunks. It located next to the [[Cooking#Professional Oven|Professional Oven]] and [[Cooking#Professional Kitchen|Professional Kitchen]] and can be used to store items to create food. Both the kitchen and the oven can draw items from the trunk.
+
+== Box Rack ==
+A special storage that holds 6 items only. The [[Box Rack|box rack]]'s main purpose is to store drinks to sell in the [[Talking Skull]]. Any alcoholic drinks stored here will be sold automatically though the tavern above. Proceeds for the drinks will be located in the chest sitting on the bar next to [[Barman]]. You can also store other items on the shelf like in the trunk. Both the kitchen and the oven can draw items from the box racks. Any food stored in the box racks will '''not''' be sold during [[Talking Skull#Tavern Events|Tavern Events]].
+
+{| class="wikitable"
+!Icon
+!Materials Required
+|-
+|[[file:Tavern box rack item.png|80x80px]]
+|{{Item|Wooden beam|4}}
+{{Item|Wooden plank|6}}
+
+{{Item|Nails|8}}
+|}
+
+{{clear}}
+
+{{Navbox-Locations}}

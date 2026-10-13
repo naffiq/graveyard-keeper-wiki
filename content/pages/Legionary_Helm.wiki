@@ -1,0 +1,22 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Farmer]]
+| cost         = 
+}}
+
+The {{PAGENAME}} is retrieved from the [[Farmer]]'s house. He will not let you into his home until you have {{Happiness}} is high enough with him. When you speak with him he'll tell you he only allows professional farmers into his home to talk about farming. He'll then task you with growing a [[carrot]] the size of a log. You realize that you'll need some magical help with that. Go speak to [[Clotho]]. She will enlarge your carrot, but not before you get her a date with [[Cory]]. Once you ask him, however, he does not want to go on a date Clotho.
+
+You decide to talk to [[Tress]] to ask for advice on helping to convince his brother Cory to go on the date. Tress will charge you {{money|1000}} for the information. He tells you that Cory loves lucrative deals. Go back to speak with Cory to offer him a deal. You tell him that he should have a monopoly on the sales of high-class magic potions from Clotho. He urgently wants to meet with Clotho and asks you to arrange a meeting. (Note: you can refuse Tress and Clotho will still enlarge the carrot for you.)
+
+Return to Clotho and tell her the good news. She'll then enlarge a carrot for you. Once you pick up the carrot off the ground like a log, carry the carrot back to the Farmer. He'll let you into his home. In the bedroom there is a [[chest]] next to the bed with the {{PAGENAME}}. The chest also contains {{Item|Baked pumpkin|2|silver}}, {{Item|Vegetable soup|1|silver}}, {{Item|Pumpkin soup|3|silver}}, {{Item|Boost fertilizer II|6}}, {{Item|Quality fertilizer II|4}}, {{Item|Lentils|12|silver}}, {{Item|Pumpkin|8|copper}}, {{Item|Onion seed|10|silver}}, and {{Item|Carrot seed|14}}.
+
+Optionally, you can choose to decline to pay Tress, and return to Clotho. You will lie to her and say Cory was posessed, to which she thanks you for saving her and will enlarge the carrot for you anyway.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Шлем легионера]]

@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = 
+| consume      = [[File:Retribution effect.png]]
+| study        = 
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 100
+| quest        =  
+}}
+<br>{{PAGENAME}}</b> is produced through [[Alchemy]] at the [[alchemy workbench (tier II)]]. When used the potion applies the {{lcfirst:{{PAGENAME}}}} buff, increasing dealt damage.
+
+==Effect==
+On use, the potion will apply the {{lcfirst:{{PAGENAME}}}} buff for a duration of 5 minutes. This buff increases damage dealt to monsters. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[File:Retribution effect.png|link=Effects#Rage|Rage]]
+|You deal additional damage to monsters.
+|style="text-align:center"|5:00
+|[[Effects#Rage|Rage]]
+|}
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier II)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Chaos powder|1}}<br>{{Item|Death solution|1}}<br>{{Item|Toxic extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[de:Wut-Trank]]
+[[es:Poción de ira]]
+[[pt-br:Poção de raiva]]

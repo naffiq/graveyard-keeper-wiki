@@ -1,0 +1,5 @@
+A '''Harmed soul''' is a new item presented in the [[Better Save Soul|Better Save Soul DLC]]. It is obtained through the Soul extractor from fresh corpse. Next step is cleansing a Harmed soul via Soul healer into a [[Healed soul]], while also giving [[Sin Shard|Sin shards]] depending on the number of bodyparts used. 
+
+Any Harmed soul left outside a [[Soul container I|Soul container]] will rapidly deteriorate into a [[Sin Shard|Sin shard]] , including souls still in corpses. In turn, [[Healed soul|Healed souls]] will deteriorate much slower. It takes soul inside corpse to turn into sin shard about same time as corpse to decay by 20% if it on the floor of mortuary.  Burying corpse in grave pauses soul degradation , so extracting soul from very old (start of the game) corpse possible if it was buried fast enough.
+
+Soul decay in soul containers appear to be 12% per day in soul container I , 4-5% in soul container II and close to zero or none in soul container III (no observed deterioration after 2 days).

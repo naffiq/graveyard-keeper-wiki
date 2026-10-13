@@ -1,0 +1,190 @@
+{{Item Infobox
+| name     = Faith
+| image    = Faith.png
+| type         = Church Item
+| source   = [[Sermons]], [[Confessional]]
+| study    =
+}}
+Faith is a resource that can be obtained either through holding [[sermons]] on {{day|pride}} or occasionally at random from a [[confessional]]. Later in the game, you can also obtain some faith at the [[Buffet tent|burnings]].
+
+Faith is required to study most objects in the [[study table]] as well as for some [[NPCs|NPC]] interactions. It is used in crafting [[sermons]], [[Stone cutter II|advanced stone works]] and {{Item|Zombie}}s.
+{{clear}}
+
+==Quests==
+* [[Snake]] requires {{Item|Faith|5}} before he will interact with the player.
+* [[Ms. Charm]] wants {{Item|Faith|5}} before really talking to the player.
+
+== Crafting ==
+{|class = "wikitable"
+!colspan = "4"|{{Item|Organ Workbench}}
+|-
+!style="width:12em;"| Item Produced
+!style="width:17em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:12em;"| Notes
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|1}}<br>{{Item|Sin Shard|2}}<br>{{Item|{{PAGENAME}}|5}}
+|{{Energy|-|15}}
+|[[Better Save Soul]] DLC
+|}
+{|class = "wikitable"
+!colspan = "4"|{{Item|Resurrection table}}
+|-
+!style="width:12em;"| Item Produced
+!style="width:17em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:12em;"| Notes
+|-
+|style="text-align:center"|{{Item|Zombie|1}}
+|{{Item|Corpse|1}} <br>
+{{Item|Faith|10}} <br>
+{{item|zombie juice|1}}
+|
+|Put everything onto the table and wait what happens.
+|}
+{| class="wikitable"
+! colspan="4" |{{Item|Jewelry table}}
+|-
+!style="width:12em;" |Item Produced
+!style="width:17em;" |Materials Required
+!style="width:5em;" |Energy
+!style="width:12em;" |Notes
+|-
+|{{Item|Gold jewelry details|1}}
+|{{Item|Gold ingot|1}} <br> 
+{{Item|Steel parts|1}} <br> 
+{{Item|Faith|2}}<br> 
+|'''{{Energy|-|15}}'''
+|
+|-
+|{{Item|Jewelry|1}}
+|{{Item|Gold jewelry details|1}}<br>
+{{Item|Faceted diamond|1}}<br>
+{{Item|Faith|2}}
+|'''{{Energy|-|15}}'''
+|Required for [[Ms. Charm]]'s questline
+|}
+{| class="wikitable"
+! colspan="4" |{{Item|Stone cutter II}}
+|-
+!style="width:12em;" |Item Produced
+!style="width:17em;" |Materials Required
+!style="width:5em;" |Energy
+!style="width:12em;" |Notes
+|-
+|{{Item|Marble sculpture|1}}
+|{{Item|A carved piece of marble|1|2}}<br>
+{{Item|Complex iron parts|2}}<br>
+{{Item|faith|5}}
+|'''{{Energy|-|40}}'''
+|Adds {{Grave Decor}}7 to the grave.
+Gives '''{{Techpoint|red|5}}''' + '''{{Techpoint|blue|15}}'''
+|-
+|{{Item|Marble sculpture II|1}}
+|{{Item|A carved piece of marble|1|2}}<br>
+{{Item|Complex iron parts|2}}<br>
+{{Item|Faith|5}}
+|'''{{Energy|-|40}}'''
+|Adds {{Grave Decor}}7 to the grave.
+Gives '''{{Techpoint|red|5}}''' + '''{{Techpoint|blue|15}}'''
+|-
+|{{Item|A carved piece of stone|2}}
+|{{Item|Iron chisel|1}}<br>
+{{Item|A polished brick of stone|1}}<br>
+{{Item|Faith|3}}
+|'''{{Energy|-|15}}'''
+|Each crafts gives '''{{Techpoint|red|2}}''' '''{{Techpoint|green|1}}'''
+|-
+|{{Item|A carved piece of marble|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>
+{{Item|A polished brick of marble|1}}<br>
+{{Item|Faith|5}}
+|'''{{Energy|-|20}}'''
+|Base downgrade: {{quality|copper}} -1.0<hr>
+[[file:Engineer Perk.png|40px|link=http://graveyardkeeper.gamepedia.com/File:Engineer_Perk.png]][[Perks|Engineer:]]<br>
+{{quality|copper}} +0.3 <br>
+[[file:Mason Perk.png|40px|link=http://graveyardkeeper.gamepedia.com/File:Mason_Perk.png]][[Perks|Mason:]] {{quality|copper}} +0.5 
+
+Each crafts gives<br>
+'''{{Techpoint|red|3}}'''
+'''{{Techpoint|green|1}}'''
+'''{{Techpoint|blue|2}}'''
+|}
+{| class="wikitable"
+! colspan="4" |{{Item|Desk}} {{Item|Desk II}}
+|-
+! style="width:12em;" | Item Produced
+! style="width:17em;" | Materials Required
+! style="width:5em;" | Energy
+! style="width:12em;" | Notes
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|1}} <br>
+{{Item|Pen and ink|1}}<br>
+{{Item|Faith|10}}
+|{{Energy|-|15}}
+|Gives 1{{Techpoint|blue}}
+|-
+|{{Item|prayer for faith|1|animation}}
+|{{Item|Chapter|1|animation}}<br>
+{{Item|Faith|5|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for donations|1|animation}}
+|{{Item|Chapter|1|animation}}<br>
+{{Item|Faith|5|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for shoots and roots|1|animation}}
+|{{Item|Chapter|1|animation}}<br>
+{{Item|Faith|5|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for repentance|1|animation}}
+|{{Item|Chapter|1|animation}}<br>
+{{Item|Faith|5|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for repose|1|animation}}
+|{{Item|Book|1|animation}}<br>
+{{Item|Faith|7|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for prosperity|1|animation}}
+|{{Item|Chapter|1|animation}}<br>
+{{Item|Faith|5|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for imagination|1|animation}}
+|{{Item|Book|1|animation}}<br>
+{{Item|Faith|7|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|prayer for excellence|1|animation}}
+|{{Item|Book|1|animation}}<br>
+{{Item|Faith|7|}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|Combo prayer|1|animation}}
+|{{Item|Book|1|animation}}<br>
+{{Item|Faith|7|}}
+|{{Energy|-|10}}
+|
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+
+<!-- languages -->
+[[es:Fe]]
+[[de:Glaube]]
+[[ru:Вера]]

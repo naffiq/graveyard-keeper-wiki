@@ -1,0 +1,24 @@
+<div class="fpbox" id="fproles" style="text-align: center;">
+<div class="heading">Links and Information</div>
+<div class="body bigmobilelinks"><div class="fplinks"><!--
+-->{{FP link|Items|size=wide}}<!--
+-->{{FP link|Blueprints|size=wide}}<!--
+-->{{FP link|Locations|size=wide}}<!--
+-->{{FP link|Technologies|size=wide}}<!--
+-->{{FP link|NPCs|size=wide}}<!--
+-->{{FP link|Monsters|size=wide}}<!--
+-->{{FP link|Perks|size=wide}}<!--
+-->{{FP link|Other topics|size=wide}}<!--
+-->{{FP link|Versions|size=wide}}<!--
+-->{{FP link|Key features|Key Features|size=wide}}<!--
+-->{{FP link|Requirements|System Requirements|size=wide}}<!--
+-->{{FP link|Guides & Tutorials|size=wide}}<!--
+-->{{FP link|Questions&Answers|size=wide}}<!--
+--></div></div></div><noinclude>[[Category:Front page sections]]</noinclude>
+
+<div class="fpbox nomobile" style="text-align: center;"><!-- BEGIN Description box-->
+<div class="heading">About {{Gamename}}</div>
+<div style="text-align: left;">
+[[Graveyard Keeper]] is the most inaccurate medieval cemetery management sim of the year. Build & manage your own graveyard while finding shortcuts to cut costs, expand into entertainment with witch-burning festivals, and scare nearby villagers into attending church. This is a game of capitalism and doing whatever it takes to build a thriving business. '''Graveyard Keeper''' was created by Lazy Bear Games and published by tinyBuild.
+</div>
+</div><!--END Description box-->

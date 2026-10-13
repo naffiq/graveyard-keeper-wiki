@@ -1,0 +1,109 @@
+{{Item Infobox
+| name         = Carp
+| image        = i_fish_carp.png
+| cost         = 
+| price        = 184
+| study        = {{Techpoint|Green|20}}
+
+| source       = Waterfall
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_carp
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is one of sixteen(16) [[Fishing|fish]] that can be caught, and either processed for [[cooking]] or sold to the [[Lighthouse Keeper]].
+
+==Fishing==
+The odds of catching a fish are affected primarily by the other fish in the area at that time.  More competition means your chance of catching a particular fish over another is lowered.  Here is a table of this fish's preferences by the bait used, the place you choose to fish, where you choose to cast, the rod you use, and the time of day.
+
+{| style="text-align:left; width:50%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+||[[file:Inverse_additem.png|34x34px|link=]]No Bait
+|Best
+|-
+|{{Item|Maggot}}
+|Good
+|-
+|{{Item|Butterfly}}
+|Okay
+|-
+|{{Item|Moth}}
+|Okay
+|-
+|{{Item|Lure with a gem}}
+|Poor
+|-
+|{{Item|Steel lure}}
+|Poor
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+! colspan="2" |Location
+|-
+!Name
+!Weight
+|-
+|Waterfall
+|Best
+|}
+{| class="wikitable" style="text-align:center;  width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|Good
+|-
+|Night
+|Best
+|}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|Blue fish fillet|1|gold}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+
+[[pt-br:Carpa]]

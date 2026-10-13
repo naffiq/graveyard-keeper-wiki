@@ -1,0 +1,1333 @@
+This page lists foods that can be crafted on the [[#Cooking Table|cooking table]], in the [[#Oven|oven]], or on a [[#Bonfire|bonfire]]. The recipes first have to be unlocked. See [[Cookery (Tech Tree)|here]] for more details.
+
+== Cooking Table ==
+[[File:cooking table.gif|left|200px|This is how the cooking table looks]]
+The cooking table cannot be built and is unlocked from the beginning of the game. 
+
+Unlike the oven, the cooking table mostly produces '''food components''', which can be used for more complicated meals. A few items are cold dishes and can be eaten directly. Even some non-food items like [[Ceramic funeral urn|urns]] can be crafted here.
+
+The cooking table has 2 skins, normal and updated.
+{{clear}}
+
+Normal skin: {{Item|flitch|4}}, {{Item|Nails|6}}, {{Item|Simple iron parts|3}}
+
+Updated skin {{Item|wooden plank|4}}, {{Item|Nails|6}}, {{Item|complex iron parts|3}}
+{{clear}}
+
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe
+|-
+|[[File:Cooking table item.png|56px|link=cooking table]]
+|General food preparation station.
+|Cannot be built, but can have its appearance changed.
+|
+|}
+
+
+===Other===
+{| class="wikitable"
+! colspan=4 | [[file:tab other.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Package of meat|1}}
+{{Item|Stamp|1}}
+|{{Item|Flesh|1}}
+{{Item|Clean paper|1}}
+
+{{Item|Stamp|1}}
+|{{Energy|-|5}}
+|Recipe obtained from [[Horadric]].
+|-
+|{{Item|Dinner|1|animation}}
+|[[Cooking#Snacks|Snacks]] [[file:tab snack.png]]<br>
+[[Cooking#Meals|Meals]] [[file:tab meal.png]]<br>
+[[Cooking#Desserts|Desserts]] [[file:tab dessert.png]]‎
+|{{Energy|-|5}}
+|Unlocked by the [[Merchant]]s [[quests|questline]].<br>
+Base downgrade: {{quality|copper}} -0.3
+|-
+|{{Item|Nails|1}}
+|{{Item|Bloody nails|1}}<br>
+{{Item|River sand|1}}<br>
+{{Item|Water|1}}
+|{{Energy|-|2}}
+|
+|-
+|{{Item|Ceramic funeral urn}}
+|{{Item|Ceramic jug|1}}
+{{Item|Ash|5}}
+|{{Energy|-|3}}
+|
+|-
+|{{Item|Porcelain funeral urn}}
+|{{Item|Porcelain pitcher|1}}
+{{Item|Ash|5}}
+|{{Energy|-|3}}
+|
+|-
+|{{Item|Cheese|1}}
+|{{Item|Jug of milk|1}}
+|{{Energy|-|2}}
+|[[Game of Crone|''Game of Crone'']]<br>In the base game only sold by [[Rosa]].
+|-
+|{{Item|Butter|1}}
+|{{Item|Jug of milk|2}}
+|{{Energy|-|4}}
+|[[Game of Crone|''Game of Crone'']]<br>In the base game only sold by [[Rosa]].
+|}
+
+=== Snacks ===
+{| class="wikitable"
+! colspan=4 | [[file:tab snack.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Flour|4}}
+|{{Item|Wheat|4}}
+|{{Energy|-|8}}
+|
+|-
+|{{Item|Dough|4}}
+|{{Item|Flour|2}} 
+{{Item|Water|3}}
+|{{Energy|-|4}}
+|
+|-
+|{{Item|Pastry dough|4}}
+|{{Item|Flour|2}}
+{{Item|Jug of milk|1}}
+
+{{Item|Chicken egg|1}}
+|{{Energy|-|6}}
+|
+|-
+|{{Item|A bowl of sauerkraut|3}}
+|{{Item|Cabbage|3}}
+{{Item|Carrot|2}}
+
+{{Item|Salt|1}}
+|{{energy|-|5}}
+|{{energy|+|30}} each
+|-
+|{{Item|Sandwich|3}}
+|{{Item|bread|2}}
+{{Item|Baked meat|1}}
+
+{{Item|cabbage|1}}
+|{{energy|-|5}}
+|{{energy|+|17}} each
+
+|-
+|{{Item|Grated carrot|1}}
+|{{Item|Carrot|1}}
+|{{Energy|-|2}}
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Grated beets|1}}
+|{{Item|Beet|1}}
+|{{Energy|-|2}}
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Vegetable salad|4|animation}}
+|{{Item|Onion|1|animation}}<br>
+{{Item|Beet|1}}<br>
+{{Item|Cabbage|1}}<br>
+|{{Energy|-|4}}
+|[[Game of Crone|''Game of Crone'']]
+|}
+
+=== Fishes ===
+{| class="wikitable"
+! colspan=4 | [[file:tab fish.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|White fish fillet|1}}
+|{{Item|Gudgeon|1}} or {{Item|Anchovy|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|White fish fillet|2}}
+|{{Item|Tilapia|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|White fish fillet|3}}
+|{{Item|Perch|1}} or {{Item|Eel|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Quality fish fillet|1|1}}
+|{{Item|Bream|1|1}} or {{Item|Tuna|1|1}}<br>
+or {{Item|Sardine|1|1}} or {{Item|Pike|1|1}}<br>
+or {{Item|Silver crucian|1|1}}
+|{{Energy|-|5}} to {{Energy|-|9}}
+|
+|-
+|{{Item|Quality fish fillet|1|2}}
+|{{Item|Bream|1|2}} or {{Item|Tuna|1|2}}<br>
+or {{Item|Sardine|1|2}} or {{Item|Pike|1|2}}<br>
+or {{Item|Silver crucian|1|2}}
+|{{Energy|-|5}} to {{Energy|-|9}}
+|
+|-
+|{{Item|Blue fish fillet|3|2}}
+|{{Item|Salmon|1|2}} or {{Item|Sturgeon|1|2}}
+|{{Energy|-|8}} to {{Energy|-|8}}
+|
+|-
+|{{Item|Blue fish fillet|3|3}}
+|{{Item|Salmon|1|3}} or {{Item|Sturgeon|1|3}}<br>
+or {{Item|Gold crucian|1|3}} or {{Item|Carp|1|3}}<br>
+or {{Item|Goldfish|1|3}}
+|{{Energy|-|8}} to {{Energy|-|10}}
+|
+|}
+
+=== Meals ===
+{| class="wikitable"
+! colspan=4 | [[file:tab meal.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Package of meat|1}}
+|{{Energy|-|1}}
+| Recipe obtained from [[Horadric]].
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Frog|3}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Raw sliced meat|1}}
+|{{Item|Flesh|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Burger|4|animation}}
+|{{Item|bread|2}}
+{{Item|Baked meat|4}}
+
+{{Item|Onion|1|animation}}
+|{{Energy|-|5}}
+|Base downgrade: {{quality|copper}} -0.2 <br>
+{{quality|copper}} {{energy|+|36}} each <br>
+{{quality|silver}} {{energy|+|42}} each <br>
+{{quality|gold}} {{energy|+|48}} each
+|}
+
+=== Desserts ===
+{| class="wikitable"
+! colspan=4 | [[file:tab dessert.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Berry juice|1}}
+|{{Item|Red apple|3}}
+{{Item|Berry|3}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Green jelly (food)|3}}
+|{{Item|Green jelly|4}}
+{{Item|honey|1}}
+|{{Energy|-|5}}
+|{{energy|+|25}} each
+|-
+|{{Item|Red jelly|3}}
+|{{Item|Green jelly|4}}
+{{Item|Berry juice|1}}
+|{{Energy|-|5}}
+|{{energy|+|30}} each
+|-
+|{{Item|Panna cotta|4}}
+|{{Item|Honey|1}}
+{{Item|Jug of milk|1}}
+|{{Energy|-|2}}
+|{{energy|+|13}}, [[File:Surgeon effect.png|link=Effects]] each
+|-
+|}
+
+== Professional Kitchen (DLC)  ==
+[[File:Professional kitchen.png|left|200px|This is how the professional kitchen looks]]
+The Professional Kitchen is located in the [[Talking Skull Cellar]] which is in the basement of the [[Talking Skull]]. Food created here will be placed into the [[Barman]]'s inventory to be sold during [[Talking Skull#Tavern Events|Tavern Events]].
+{{Clear}}
+
+=== Snacks ===
+{| class="wikitable"
+! colspan=4 | [[file:tab snack.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Flour|20}}
+|{{Item|Wheat|20}}
+|{{Energy|-|8}}
+|
+|-
+|{{Item|Dough|20}}
+|{{Item|Flour|10}} 
+{{Item|Water|15}}
+|{{Energy|-|4}}
+|
+|-
+|{{Item|Pastry dough|20}}
+|{{Item|Flour|10}}
+{{Item|Jug of milk|5}}
+{{Item|Chicken egg|5}}
+|{{Energy|-|6}}
+|
+|-
+|{{Item|A bowl of sauerkraut|15}}
+|{{Item|Cabbage|15}}
+{{Item|Carrot|10}}
+{{Item|Salt|5}}
+|{{energy|-|5}}
+|{{energy|+|30}}, [[File:Slow effect.png|link=Effects]] each
+|-
+|{{Item|Sandwich|15}}
+|{{Item|bread|10}}
+{{Item|Baked meat|5}}
+{{Item|cabbage|5}}
+|{{energy|-|5}}
+|{{energy|+|20}} each
+|}
+
+=== Fish ===
+{| class="wikitable"
+! colspan=4 | [[file:tab fish.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|White fish fillet|5}}
+|{{Item|Gudgeon|5}} or {{Item|Anchovy|5}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|White fish fillet|15}}
+|{{Item|Perch|5}} or {{Item|Eel|5}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Quality fish fillet|5|1}}
+|{{Item|Bream|5|1}} or {{Item|Tuna|5|1}}<br>
+or {{Item|Sardine|5|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Quality fish fillet|5|2}}
+|{{Item|Bream|5|2}} or {{Item|Tuna|5|2}}<br>
+or {{Item|Sardine|5|2}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Blue fish fillet|15|2}}
+|{{Item|Salmon|5|2}} or {{Item|Sturgeon|5|2}}
+|{{Energy|-|8}} to {{Energy|-|9}}
+|
+|-
+|{{Item|Blue fish fillet|15|3}}
+|{{Item|Salmon|5|3}} or {{Item|Sturgeon|5|3}}<br> or {{Item|Carp|5|3}}
+|{{Energy|-|8}} to {{Energy|-|10}}
+|
+|}
+
+=== Meals ===
+{| class="wikitable"
+! colspan=4 | [[file:tab meal.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Raw sliced meat|5}}
+|{{Item|Package of meat|5}}
+|{{Energy|-|5}}
+| Recipe obtained from [[Horadric]].
+|-
+|{{Item|Raw sliced meat|5}}
+|{{Item|Frog|15}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Raw sliced meat|5}}
+|{{Item|Flesh|5}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Burger|20|animation}}
+|{{Item|bread|10}}
+{{Item|Baked meat|20}}
+
+{{Item|Onion|5|animation}}
+|{{Energy|-|5}}
+|Base downgrade: {{quality|copper}} -0.2 <br>
+{{quality|copper}} {{energy|+|36}} each <br>
+{{quality|silver}} {{energy|+|42}} each <br>
+{{quality|gold}} {{energy|+|48}} each
+|}
+
+=== Desserts ===
+{| class="wikitable"
+! colspan=4 | [[file:tab dessert.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Required Materials
+!style="width:5em;"| Energy
+!style="width:7em;"|Notes
+|-
+|{{Item|Berry juice|5}}
+|{{Item|Red apple|15}}
+{{Item|Berry|15}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Green jelly (food)|15}}
+|{{Item|Green jelly|20}}
+{{Item|honey|5}}
+|{{Energy|-|5}}
+|{{energy|+|30}} each
+|-
+|{{Item|Red jelly|15}}
+|{{Item|Green jelly|20}}
+{{Item|Berry juice|5}}
+|{{Energy|-|5}}
+|{{energy|+|36}} each
+|-
+|}
+
+
+== Oven ==
+[[File:Oven.gif|left|200px|This is how an oven looks]]
+The oven is found in your [[Sweet Home|home]] and is where you will do most of the cooking in the game.  The oven is one of few [[Work Stations|work stations]] which cannot be constructed.
+
+'''Note:''' To use the [[oven]] for cooking, you have to [[fuel]] it in advance. The oven prepares food in a few seconds (the numbers are real world time in seconds). You can use batch production to order several meals in one turn.
+
+Some food can be crafted at 3 quality levels. Copper{{Quality|copper}}, silver{{Quality|silver}}, and gold{{Quality|gold}} stars. They yield different {{energy}} amounts when consumed.
+{{clear}}
+
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe
+|-
+|[[File:Oven item.png|56px|link=oven]]
+|General cooking station.
+|Cannot be built.
+|
+|}
+
+===Fuel=== 
+{| class="wikitable" style = "table-layout:fixed;"
+!Item Produced
+!Materials Required
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|-
+|{{Item|Fuel|30}}
+|{{Item|Firewood|1}}
+|-
+|{{Item|Fuel|160}}
+|{{Item|Coal|10}}
+|-
+|}
+
+=== Snacks ===
+{| class="wikitable"
+! colspan=6 | [[file:tab snack.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Bread|2}}
+|{{Item|Dough|2}}
+|{{Fuel}} 5
+|1:00
+|{{Energy|+|15}} each
+|
+|-
+|{{Item|Baked apple|5}}
+|{{Item|Red apple|5}}
+|{{Fuel}} 5
+|0:30
+| {{Energy|+|8}} each
+|
+|-
+|{{Item|Baked mushrooms|3}}
+|{{Item|Edible mushroom|5}}
+|{{Fuel}} 5
+|0:25
+|{{Energy|+|12}} each
+|
+|-
+|{{Item|Pancakes|5|2}}
+|{{Item|Pastry dough|1}}
+{{Item|Jug of milk|1}}
+
+{{Item|Butter|1}}
+|{{Fuel}} 10
+|0:45
+|{{Energy|+|40}} each
+|
+|-
+|{{Item|Fried egg|1}}
+|{{Item|Chicken egg|1}}
+| {{Fuel}} 1
+|0:08
+| {{Energy|+|13}} each
+|
+|-
+|{{Item|Onion rings|5|animation}}
+|{{Item|Oil|1}}
+{{Item|Onion|1|animation}}
+|{{Fuel}} 2
+|0:12
+| {{Quality|copper}} {{Energy|+|12}} each<br>{{Quality|silver}} {{Energy|+|18}} each<br>{{Quality|gold}} {{Energy|+|24}} each
+| 
+|-
+|{{Item|Toasts with onions|3|animation}}
+|{{Item|Dough|1}}
+{{Item|Onion|1|animation}}
+|{{Fuel}} 5
+|0:45
+| {{Quality|copper}} {{Energy|+|13}} each<br>{{Quality|silver}} {{Energy|+|19}} each<br>{{Quality|gold}} {{Energy|+|24}} each
+| 
+|-
+|{{Item|Boiled egg|1}}
+|{{Item|Chicken egg|1}}
+| {{Fuel}} 1
+|0:10
+| {{Energy|+|20}} each
+|
+|}
+
+=== Fishes ===
+{| class="wikitable"
+! colspan=6 | [[file:tab fish.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Fish nuggets|1}}
+|{{Item|White fish fillet|1}}
+{{Item|Oil|2}}
+|{{fuel}} 5
+|0:26
+|{{energy|+|30}} each
+|
+|-
+|{{Item|Fish soup|4}}
+|{{Item|White fish fillet|4}}
+{{Item|carrot|2}}
+
+{{Item|water|5}}
+|{{fuel}} 10
+|2:00
+|{{energy|+|24}} each
+|
+|-
+|{{Item|Baked fish|2}}
+|{{Item|White fish fillet|2}}
+|{{fuel}} 5
+|0:25
+|{{energy|+|18}} each
+|
+|-
+|{{Item|Baked salmon|3|animation}}
+|{{Item|cabbage|1}}
+{{Item|Quality fish fillet|1|animation}}
+|{{fuel}} 5
+|1:05
+|{{quality|copper}} {{energy|+|36}} each<br> {{quality|silver}} {{energy|+|53}} each<br> {{quality|gold}} {{energy|+|70}} each
+|
+|-
+|{{Item|Royal fish|2|animation}}
+|{{Item|honey|1}}
+{{Item|blue fish fillet|1|animation}}
+|{{fuel}} 5
+|0:50
+|{{quality|copper}} {{energy|+|48}} each<br> {{quality|silver}} {{energy|+|66}} each<br> {{quality|gold}} {{energy|+|84}} each
+|
+|-
+|}
+
+=== Meals ===
+{| class="wikitable"
+! colspan="7" | [[file:tab meal.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+!DLC          
+|-
+|{{Item|baked meat|2}}
+|{{Item|Raw sliced meat|1}}
+|{{fuel}} 10
+|0:35
+|{{energy|+|18}} each
+|
+|
+|-
+|{{Item|Beet slices|1}}
+|{{Item|Beet|2}}
+|{{fuel}} 10
+|0:35
+|{{energy|+|18}} each
+|
+|
+|-
+|{{Item|Carrot cutlet|4}}
+|{{Item|Carrot|2}}
+|{{Fuel}} 10
+|0:35
+|{{Energy|+|15}} each
+|
+|
+|-
+|{{Item|Omelette|3}}
+|{{Item|Chicken egg|3}}
+{{Item|Jug of milk|1}}
+|{{Fuel}} 5
+|0:12
+|{{Energy|+|24}} each
+|
+|
+|-
+|{{Item|Baked pumpkin|3|animation}}
+|{{Item|pumpkin|1|animation}}
+|{{Fuel}} 10
+|0:40
+|{{quality|copper}} {{Energy|+|18}} each<br> {{quality|silver}} {{Energy|+|24}} each<br> {{quality|gold}} {{Energy|+|30}} each
+|
+|
+|-
+|{{Item|A bowl of lentils|2|animation}}
+|{{Item|Water|1}}
+{{Item|Lentils|1|animation}}
+|{{Fuel}} 10
+|0:35
+| {{Quality|copper}} {{Energy|+|25}} each<br>{{Quality|silver}} {{Energy|+|31}} each<br>{{Quality|gold}} {{Energy|+|36}} each
+| 
+|
+|-
+|{{Item|A bowl of pumpkin soup|4|animation}}
+|{{Item|Jug of milk|1}}
+{{Item|Pumpkin|2|animation}}
+|{{Fuel}} 10
+|0:40
+| {{Quality|copper}} {{Energy|+|24}} each<br>{{Quality|silver}} {{Energy|+|30}} each<br>{{Quality|gold}} {{Energy|+|36}} each
+| 
+|
+|-
+|{{Item|Lasagna|3|animation}}
+|{{Item|Dough|1}}
+{{Item|Lentils|1|animation}}
+
+{{Item|Cabbage|1}}
+|{{Fuel}} 10
+|0:45
+| {{Quality|copper}} {{Energy|+|30}} each<br>{{Quality|silver}} {{Energy|+|35}} each<br>{{Quality|gold}} {{Energy|+|40}} each
+| 
+|
+|-
+|{{Item|Pasta|3}}
+|{{Item|Dough|3}}
+{{Item|Cheese|1}}
+|{{Fuel}} 40
+|1:40
+|{{Energy|+|60}} each
+|
+|
+|-
+|{{Item|Cabbage soup|4|animation}}
+|{{Item|Cabbage|2}}
+{{Item|Beet|1}}
+
+{{Item|Onion|1|animation}}
+|{{Fuel}} 40
+|1:30
+| {{Quality|copper}} {{Energy|+|36}} each<br>{{Quality|silver}} {{Energy|+|42}} each<br>{{Quality|gold}} {{Energy|+|48}} each
+| 
+|
+|-
+|{{Item|Pumpkin soup|4|animation}}
+|{{Item|beet|1}}
+{{Item|carrot|2}}
+
+{{Item|pumpkin|2|animation}}
+|{{Fuel}} 40
+|1:40
+| {{Quality|copper}} {{Energy|+|48}} each<br>{{Quality|silver}} {{Energy|+|60}} each<br>{{Quality|gold}} {{Energy|+|72}} each
+| 
+|
+|-
+|{{Item|Vegetable soup|4|animation}}
+|{{Item|Cabbage|2}}
+{{Item|Carrot|2}}
+
+{{Item|Pumpkin|2|animation}}
+|{{Fuel}} 30
+|2:00
+| {{Quality|copper}} {{Energy|+|42}}, [[File:Rest effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|54}}, [[File:Rest effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|66}}, [[File:Rest effect.png|link=Effects]] each<br>
+|
+|
+|-
+|{{Item|Cheese pie|2}}
+|{{Item|Cheese|1}}
+{{Item|Pastry dough|1}}
+|{{Fuel}} 15
+|0:45
+|{{Energy|+|35}}, [[File:Prayer for excellence effect.png|link=Effects]] each<br>
+|
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Creamy vegetable soup|3|animation}}
+|{{Item|carrot|1}}<br>
+{{Item|lentils|1|animation}}<br>
+{{Item|pumpkin|1|animation}}<br>
+|{{Fuel}} 10
+|0:40
+| {{Quality|copper}} {{Energy|+|15}}, [[File:Slow effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|20}}, [[File:Slow effect.png|link=Effects]] each<br>
+{{Quality|gold}} {{Energy|+|25}}, [[File:Slow effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Lentil porridge|4|animation}}
+|{{Item|carrot|1}}<br>
+{{Item|lentils|1|animation}}<br>
+{{Item|onion|1|animation}}<br>
+|{{Fuel}} 10
+|0:50
+| {{Quality|copper}} {{Energy|+|14}} each<br>{{Quality|silver}} {{Energy|+|18}} each<br>{{Quality|gold}} {{Energy|+|22}} each
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Fancy lentil soup|2|animation}}
+|{{Item|onion|1|animation}}<br>
+{{Item|lentils|1|animation}}<br>
+{{Item|water|2}}<br>
+|{{Fuel}} 15
+|0:55
+| {{Quality|copper}} {{Energy|+|20}}, [[File:Science effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|28}}, [[File:Science effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|36}}, [[File:Science effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Vegetable patty|6|animation}}
+|{{Item|Pumpkin|1|animation}}<br>
+{{Item|Carrot|1}}<br>
+{{Item|Dough|2}}<br>
+|{{Fuel}} 20
+|0:50
+| {{Quality|copper}} {{Energy|+|12}}, [[File:Chopping effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|15}}, [[File:Chopping effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|18}}, [[File:Chopping effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Mushroom patty|6}}
+|{{Item|Edible mushroom|6}}<br>
+{{Item|Dough|2}}<br>
+|{{Fuel}} 20
+|0:35
+|{{Energy|+|8}}, [[File:Chopping effect.png|link=Effects]] each
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Cheese patty|6}}
+|{{Item|Cheese|1}}<br>
+{{Item|Dough|2}}<br>
+|{{Fuel}} 20
+|0:35
+|{{Energy|+|16}}, [[File:Chopping effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Vegetable stew|4|animation}}
+|{{Item|Pumpkin|1|animation}}<br>
+{{Item|Beet|1}}<br>
+{{Item|Cabbage|2}}<br>
+|{{Fuel}} 25
+|1:00
+| {{Quality|copper}} {{Energy|+|20}}, [[File:Retribution effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|24}}, [[File:Retribution effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|28}}, [[File:Retribution effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Cream of mushroom soup|4}}
+|{{Item|Edible mushroom|6}}<br>
+{{Item|Jug of milk|1}}<br>
+|{{Fuel}} 15
+|0:45
+|{{Energy|+|13}}, [[File:Protection effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|-
+|{{Item|Lentil cutlets|4|animation}}
+|{{Item|Lentils|2|animation}}<br>
+|{{Fuel}} 10
+|0:35
+| {{Quality|copper}} {{Energy|+|12}}, [[File:Science effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|16}}, [[File:Science effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|20}}, [[File:Science effect.png|link=Effects]] each<br>
+| 
+|[[Game of Crone|''Game of Crone'']]
+|}
+
+=== Desserts === 
+{| class="wikitable"
+! colspan=6 | [[file:tab dessert.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Muffin|4}}
+|{{Item|Dough|1}}
+{{Item|Honey|1}}
+|{{Fuel}} 20
+|0:30
+|{{Energy|+|24}} each
+|
+|-
+|{{Item|Croissant|4}}
+|{{Item|Dough|1}}
+{{Item|Honey|1}}
+
+{{Item|Chicken egg|1}}
+|{{Fuel}} 20
+|0:45
+|{{Energy|+|30}} each
+|
+|-
+|{{Item|Cake|1|3}}
+|{{Item|Pastry dough|1}}
+{{Item|Honey|1}}
+
+{{Item|Berry|5}}
+|{{Fuel}} 10
+|0:45
+|{{quality|gold}} {{Energy|+|95}} each
+|Recipe obtained from [[Dig]].
+|-
+|{{Item|Berry pie|2}}
+|{{Item|Pastry dough|1}}
+{{Item|Berry juice|1}}
+|{{Fuel}} 10
+|0:45
+|{{Energy|+|35}} each
+|
+|-
+|{{Item|Grape pie|2|animation}}
+|{{Item|Pastry dough|1}}
+{{Item|Grapes|1|animation}}
+|{{Fuel}} 10
+|0:45
+| {{Quality|copper}} {{Energy|+|80}} each<br>{{Quality|silver}} {{Energy|+|90}} each<br>{{Quality|gold}} {{Energy|+|100}} each
+| 
+|}
+
+== Professional Oven (DLC)  ==
+[[File:Professional oven.png|left|200px|This is how a professional oven looks]]
+The Professional Oven is located in the [[Talking Skull Cellar]] which is in the basement of the [[Talking Skull]]. Food created here will be placed into the [[Barman]]'s inventory to be sold during [[Talking Skull#Tavern Events|Tavern Events]].
+
+'''Note:''' To use the Professional Oven for cooking, you have to [[fuel]] it in advance. The oven prepares food in a few seconds (the numbers are real world time in seconds). You can use batch production to order several meals at a time.
+
+Some food can be crafted at 3 quality levels. Copper{{Quality|copper}}, silver{{Quality|silver}}, and gold{{Quality|gold}} stars. They yield different [[effects]] and {{energy}} amounts when consumed.
+{{clear}}
+
+===Fuel=== 
+{| class="wikitable" style = "table-layout:fixed;"
+!Item Produced
+!Materials Required
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|-
+|{{Item|Fuel|30}}
+|{{Item|Firewood|1}}
+|-
+|}
+
+=== Snacks ===
+{| class="wikitable"
+! colspan=6 | [[file:tab snack.png|link=]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Bread|10}}
+|{{Item|Dough|10}}
+|{{Fuel}} 10
+|1:00
+|{{Energy|+|15}} each
+|
+|-
+|{{Item|Baked apple|25}}
+|{{Item|Red apple|25}}
+|{{Fuel}} 10
+|0:30
+| {{Energy|+|8}} each
+|
+|-
+|{{Item|Baked mushrooms|25}}
+|{{Item|Edible mushroom|15}}
+|{{Fuel}} 10
+|0:25
+|{{Energy|+|12}} each
+|
+|-
+|{{Item|Pancakes|25|2}}
+|{{Item|Pastry dough|5}}
+{{Item|Jug of milk|5}}
+
+{{Item|Butter|5}}
+|{{Fuel}} 20
+|0:45
+|{{Energy|+|40}} each
+|
+|-
+|{{Item|Fried egg|5}}
+|{{Item|Chicken egg|5}}
+| {{Fuel}} 2
+|0:08
+| {{Energy|+|13}} each
+|
+|-
+|{{Item|Onion rings|25|animation}}
+|{{Item|Oil|5}}
+{{Item|Onion|5|animation}}
+|{{Fuel}} 10
+|0:12
+| {{Quality|copper}} {{Energy|+|12}} each<br>{{Quality|silver}} {{Energy|+|18}} each<br>{{Quality|gold}} {{Energy|+|24}} each
+| 
+|-
+|{{Item|Toasts with onions|15|animation}}
+|{{Item|Dough|5}}
+{{Item|Onion|5|animation}}
+|{{Fuel}} 10
+|0:45
+| {{Quality|copper}} {{Energy|+|13}}, [[File:Brewing effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|19}}, [[File:Brewing effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|24}}, [[File:Brewing effect.png|link=Effects]] each
+| 
+|}
+
+=== Fishes ===
+{| class="wikitable"
+! colspan=6 | [[file:tab fish.png|link=]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Fish nuggets|5}}
+|{{Item|White fish fillet|5}}
+{{Item|Oil|10}}
+|{{fuel}} 10
+|0:26
+|{{energy|+|30}}, [[File:Unknown1 effect.png|link=Effects]] each
+|
+|-
+|{{Item|Fish soup|20}}
+|{{Item|White fish fillet|20}}
+{{Item|carrot|10}}
+
+{{Item|water|25}}
+|{{fuel}} 20
+|2:00
+|{{energy|+|24}}, [[File:Fish effect.png|link=Effects]] each
+|
+|-
+|{{Item|Baked fish|10}}
+|{{Item|White fish fillet|10}}
+|{{fuel}} 10
+|0:25
+|{{energy|+|18}}, [[File:Fish effect.png|link=Effects]] each
+|
+|-
+|{{Item|Baked salmon|15|animation}}
+|{{Item|cabbage|5}}
+{{Item|Quality fish fillet|5|animation}}
+|{{fuel}} 10
+|1:05
+|{{quality|copper}} {{energy|+|36}} each<br> {{quality|silver}} {{energy|+|53}} each<br> {{quality|gold}} {{energy|+|70}} each
+|
+|-
+|{{Item|Royal fish|10|animation}}
+|{{Item|honey|5}}
+{{Item|blue fish fillet|5|animation}}
+|{{fuel}} 10
+|0:50
+|{{quality|copper}} {{energy|+|48}} each<br> {{quality|silver}} {{energy|+|66}} each<br> {{quality|gold}} {{energy|+|84}} each
+|
+|-
+|}
+
+=== Meals ===
+{| class="wikitable"
+! colspan=6 | [[file:tab meal.png|link=]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Baked meat|10}}
+|{{Item|Raw sliced meat|5}}
+|{{fuel}} 20
+|0:35
+|{{energy|+|18}} each
+|
+|-
+|{{Item|Beet slices|5}}
+|{{Item|Beet|10}}
+|{{fuel}} 20
+|0:35
+|{{energy|+|18}} each
+|
+|-
+|{{Item|Carrot cutlet|20}}
+|{{Item|Carrot|10}}
+|{{Fuel}} 20
+|0:35
+|{{Energy|+|15}} each
+|
+|-
+|{{Item|Omelette|15}}
+|{{Item|Chicken egg|15}}
+{{Item|Jug of milk|5}}
+|{{Fuel}} 10
+|0:12
+|{{Energy|+|24}} each
+|
+|-
+|{{Item|Baked pumpkin|15|animation}}
+|{{Item|pumpkin|5|animation}}
+|{{Fuel}} 20
+|0:40
+|{{quality|copper}} {{Energy|+|18}}, [[File:Slow effect.png|link=Effects]] each<br> {{quality|silver}} {{Energy|+|24}}, [[File:Slow effect.png|link=Effects]] each<br> {{quality|gold}} {{Energy|+|30}}, [[File:Slow effect.png|link=Effects]] each
+|
+|-
+|{{Item|A bowl of lentils|10|animation}}
+|{{Item|Water|5}}
+{{Item|Lentils|5|animation}}
+|{{Fuel}} 20
+|0:35
+| {{Quality|copper}} {{Energy|+|25}} each<br>{{Quality|silver}} {{Energy|+|31}} each<br>{{Quality|gold}} {{Energy|+|36}} each
+| 
+|-
+|{{Item|A bowl of pumpkin soup|20|animation}}
+|{{Item|Jug of milk|5}}
+{{Item|Pumpkin|10|animation}}
+|{{Fuel}} 20
+|0:40
+| {{Quality|copper}} {{Energy|+|24}}, [[File:Tired effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|30}}, [[File:Tired effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|36}}, [[File:Tired effect.png|link=Effects]] each
+| 
+|-
+|{{Item|Baked kebab|30|animation|variant=pumpkin}}
+|{{Item|Quality fish fillet|5|animation}}
+{{Item|Pumpkin|10|animation}}
+
+or
+
+{{Item|Blue fish fillet|5|animation}}
+
+{{Item|Pumpkin|10|animation}}
+|{{Fuel}} 50
+|0:45
+| {{Quality|copper}} {{Energy|+|30}}, [[File:Protection effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|45}}, [[File:Protection effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|60}}, [[File:Protection effect.png|link=Effects]] each
+| 
+|-
+|{{Item|Baked kebab|30|animation|variant=Onion}}
+|{{Item|Quality fish fillet|5|animation}}
+{{Item|Onion|10|animation}}
+
+or
+
+{{Item|Blue fish fillet|5|animation}}
+
+{{Item|Onion|10|animation}}
+|{{Fuel}} 40
+|0:55
+| {{Quality|copper}} {{Energy|+|30}}, [[File:Retribution effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|42}}, [[File:Retribution effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|53}}, [[File:Retribution effect.png|link=Effects]] each
+| 
+|-
+|{{Item|Baked kebab|30|animation|variant=mushroom}}
+|{{Item|Quality fish fillet|5|animation}}
+{{Item|Edible mushroom|25}}
+
+or
+
+{{Item|Blue fish fillet|5|animation}}
+
+{{Item|Edible mushroom|25}}
+|{{Fuel}} 40
+|1:10
+| {{Quality|copper}} {{Energy|+|24}}, [[File:Protection effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|33}}, [[File:Protection effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|42}}, [[File:Protection effect.png|link=Effects]] each
+| 
+|-
+|{{Item|Lasagna|15|animation}}
+|{{Item|Dough|5}}
+{{Item|Lentils|5|animation}}
+
+{{Item|Cabbage|5}}
+|{{Fuel}} 20
+|0:45
+| {{Quality|copper}} {{Energy|+|30}}, [[File:Chopping effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|35}}, [[File:Chopping effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|40}}, [[File:Chopping effect.png|link=Effects]] each
+| 
+|-
+|{{Item|Pasta|15}}
+|{{Item|Dough|15}}
+{{Item|Cheese|5}}
+|{{Fuel}} 80
+|1:40
+|{{Energy|+|60}}, [[File:Chopping effect.png|link=Effects]] each
+|
+|-
+|{{Item|Cabbage soup|20|animation}}
+|{{Item|Cabbage|10}}
+{{Item|Beet|5}}
+
+{{Item|Onion|5|animation}}
+|{{Fuel}} 80
+|1:30
+| {{Quality|copper}} {{Energy|+|36}} each<br>{{Quality|silver}} {{Energy|+|42}} each<br>{{Quality|gold}} {{Energy|+|48}} each
+| 
+|-
+|{{Item|Pumpkin soup|20|animation}}
+|{{Item|beet|5}}
+{{Item|carrot|10}}
+
+{{Item|pumpkin|10|animation}}
+|{{Fuel}} 80
+|1:40
+| {{Quality|copper}} {{Energy|+|48}}, [[File:Tired effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|60}}, [[File:Tired effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|72}}, [[File:Tired effect.png|link=Effects]] each
+| 
+|-
+|{{Item|Vegetable soup|20|animation}}
+|{{Item|Cabbage|10}}
+{{Item|Carrot|10}}
+
+{{Item|Pumpkin|10|animation}}
+|{{Fuel}} 60
+|2:00
+| {{Quality|copper}} {{Energy|+|42}} each<br>{{Quality|silver}} {{Energy|+|54}} each<br>{{Quality|gold}} {{Energy|+|66}} each
+|
+|}
+
+=== Desserts === 
+{| class="wikitable"
+! colspan=6 | [[file:tab dessert.png|link=]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Muffin|20}}
+|{{Item|Dough|5}}
+{{Item|Honey|5}}
+|{{Fuel}} 40
+|0:30
+|{{Energy|+|24}} each
+|
+|-
+|{{Item|Croissant|20}}
+|{{Item|Dough|5}}
+{{Item|Honey|5}}
+
+{{Item|Chicken egg|5}}
+|{{Fuel}} 40
+|0:45
+|{{Energy|+|30}} each
+|
+|-
+|{{Item|Cake|5|3}}
+|{{Item|Pastry dough|5}}
+{{Item|Honey|5}}
+
+{{Item|Berry|25}}
+|{{Fuel}} 20
+|0:45
+|{{quality|gold}} {{Energy|+|95}}, [[File:Science effect.png|link=Effects]] each
+|Recipe obtained from [[Dig]].
+|-
+|{{Item|Berry pie|10}}
+|{{Item|Pastry dough|5}}
+{{Item|Berry juice|5}}
+|{{Fuel}} 20
+|0:45
+|{{Energy|+|35}} each
+|
+|-
+|{{Item|Grape pie|10|animation}}
+|{{Item|Pastry dough|5}}
+{{Item|Grapes|5|animation}}
+|{{Fuel}} 20
+|0:45
+| {{Quality|copper}} {{Energy|+|80}}, [[File:Science effect.png|link=Effects]] each<br>{{Quality|silver}} {{Energy|+|90}}, [[File:Science effect.png|link=Effects]] each<br>{{Quality|gold}} {{Energy|+|100}}, [[File:Science effect.png|link=Effects]] each
+| 
+|}
+
+== Bonfire ==
+[[File:Bonfire.png|left|200px|A bonfire at night]]
+Scattered around the landscape, you'll find old bonfires. One is directly west of [[Sweet Home|your home]]. Like the oven, it has to be fueled first (cannot use [[coal]]).
+
+{{clear}}
+
+{| class="wikitable"
+!Icon
+!Description
+!Ingredients
+!Recipe
+|-
+|[[File:Bonfire item.png|56px|link=bonfire]]
+|Cooking station
+|Cannot be built.
+|
+|}
+
+===Fuel=== 
+{| class="wikitable" style = "table-layout:fixed;"
+!Item Produced
+!Materials Required
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|-
+|{{Item|Fuel|30}}
+|{{Item|Firewood|1}}
+|-
+|}
+
+===Snacks===
+{| class="wikitable"
+! colspan=6 | [[file:tab snack.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Baked apple|5}}
+|{{Item|Red apple|5}}
+|{{Fuel}} 5
+|0:30
+| {{Energy|+|6}} each
+|
+|-
+|{{Item|Baked mushrooms|3}}
+|{{Item|Edible mushroom|5}}
+|{{Fuel}} 5
+|0:25
+|{{Energy|+|12}} each
+|
+|}
+
+===Meals===
+{| class="wikitable"
+! colspan=6 | [[file:tab meal.png|link=]]‎
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"| Time
+!style="width:10em;"| Energy
+!style="width:5em;"| Notes
+|-
+|{{Item|Baked kebab|6|animation|variant=pumpkin}}
+|{{Item|Quality fish fillet|1|animation}}
+{{Item|Pumpkin|2|animation}}
+
+or
+
+{{Item|Blue fish fillet|1|animation}}
+
+{{Item|Pumpkin|2|animation}}
+|{{Fuel}} 25
+|0:45
+| {{Quality|copper}} {{Energy|+|30}} each<br>{{Quality|silver}} {{Energy|+|45}} each<br>{{Quality|gold}} {{Energy|+|60}} each
+| 
+|-
+|{{Item|Baked kebab|6|animation|variant=Onion}}
+|{{Item|Quality fish fillet|1|animation}}
+{{Item|Onion|2|animation}}
+
+or
+
+{{Item|Blue fish fillet|1|animation}}
+
+{{Item|Onion|2|animation}}
+|{{Fuel}} 20
+|0:55
+| {{Quality|copper}} {{Energy|+|30}} each<br>{{Quality|silver}} {{Energy|+|42}} each<br>{{Quality|gold}} {{Energy|+|53}} each
+| 
+|-
+|{{Item|Baked kebab|6|animation|variant=mushroom}}
+|{{Item|Quality fish fillet|1|animation}}
+{{Item|Edible mushroom|5}}
+
+or
+
+{{Item|Blue fish fillet|1|animation}}
+
+{{Item|Edible mushroom|5}}
+|{{Fuel}} 20
+|1:10
+| {{Quality|copper}} {{Energy|+|24}} each<br>{{Quality|silver}} {{Energy|+|33}} each<br>{{Quality|gold}} {{Energy|+|42}} each
+| 
+|-
+|}
+
+{{Navbox-Sweet home}}
+[[Category:Topics]]
+[[ru:Кулинария]]
+[[pt-br:Culinária]]

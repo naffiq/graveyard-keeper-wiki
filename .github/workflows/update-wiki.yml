@@ -1,0 +1,104 @@
+name: Update wiki
+
+# Weekly: refetch pages edited on the Fandom wiki since the last snapshot,
+# commit the wikitext snapshot (content/) so git history versions the wiki,
+# and redeploy GitHub Pages when something changed (main branch only).
+on:
+  schedule:
+    - cron: "0 4 * * 1"   # weekly, Mondays 04:00 UTC
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: "Redeploy GitHub Pages even if the wiki did not change"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+concurrency:
+  group: update-wiki
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # site/_cache (API responses) and site/images persist between runs so
+      # only changed pages and new images are downloaded.
+      - name: Restore download cache
+        uses: actions/cache/restore@v4
+        with:
+          path: site
+          key: wiki-site-${{ github.run_id }}
+          restore-keys: wiki-site-
+
+      # Fandom rate-limits GitHub runner IPs after ~850 requests, so a cold
+      # cache starts from a seed made by a local full run (release asset).
+      - name: Seed cache on first run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -d site/_cache ]; then
+            gh release download wiki-cache-seed --pattern site-cache.tar.gz --dir /tmp
+            tar -xzf /tmp/site-cache.tar.gz
+          fi
+          ls site/_cache | wc -l
+
+      - name: Fetch and build
+        run: python3 scrape.py --content content --workers 3
+
+      - name: Save download cache
+        if: always()  # keep partial progress when rate limited
+        uses: actions/cache/save@v4
+        with:
+          path: site
+          key: wiki-site-${{ github.run_id }}
+
+      - name: Commit snapshot
+        id: snapshot
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet -- content/pages content/recipes.json content/redirects.json; then
+            echo "No wiki changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            pages=$(git diff --cached --name-only -- content/pages | wc -l | tr -d ' ')
+            {
+              echo "Wiki snapshot $(date -u +%F): $pages page(s) changed"
+              echo
+              git diff --cached --name-status -- content/pages | sed 's|content/pages/||; s|\.wiki$||' | head -100
+            } > /tmp/msg
+            git commit -q -F /tmp/msg
+            git push -q
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            cat /tmp/msg >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/main' && (steps.snapshot.outputs.changed == 'true' || inputs.deploy)
+        env:
+          DEPLOY_REMOTE: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: ./deploy.sh
+
+      - name: Upload built site (non-main branches, for inspection)
+        if: github.ref != 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: |
+            site
+            !site/_cache
+          retention-days: 7

@@ -1,0 +1,113 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.gif
+| type         = Writing
+| nameinternal = 
+| study        = {{Item|Science|30-75}}
+| alchemy      = 
+| source       = [[Desk]], [[Desk II]], [[Organ Workbench]]
+| cost         = 
+| quest        = [[Astrologer]] 
+| stacksize    = 1
+}}
+{{PAGENAME}}s can be turned into [[science]] or used in the crafting of [[sermons]] and [[Stone prayer station|stone prayer stations]]. Books, unlike most other items, completely change sprite depending on quality level. With all {{Quality|copper}} books appearing to have a [[softcover]] even when crafted with a [[hard cover]] and vice versa for {{Quality|silver}} and {{Quality|gold}} quality books. Since book crafting is wholly dependent on the quality of ingredients, plus the bonuses from [[desk II]] and jeweler perk, there are no set recipes in regards to quality on the end product.
+
+[[Writing]] is a good source of {{Techpoint|Blue}}, as most products yield a few of them. 
+
+'''Note:''' There is also a {{item|ruined book}}, which can be recycled for some [[clean paper|paper]], but is not described here.
+
+==Quality Levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image={{PAGENAME}} item.png|quality = copper}}
+|{{Quality Sprite|image=Silver book item.png|quality = silver}}
+|{{Quality Sprite|image=Gold book item.png|quality = gold}}
+|}
+{{clear}}
+
+==Recipe==
+{| class="wikitable"
+!colspan="3"|{{Item|Desk}} {{Item|Desk II}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;" |Craft Reward
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Softcover|1}}<br>{{Item|Chapter|1|animation}}<hr>{{Item|Hard cover|1|animation}}<br>{{Item|Chapter|1|animation}}
+|{{Techpoint|Blue|15}}
+|-
+!colspan="3"|{{Item|Organ Workbench}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;" |Craft Reward
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Story|1|animation}}<br>{{Item|Sin Shard|2}}
+|
+|}
+
+== Crafting ==
+{| class = "wikitable" style="width:40em;"
+!colspan = "3"|{{Item|Desk}} {{Item|Desk II}}
+|-
+!style="width:50%;"|Item Produced
+!Materials Required
+! style="width:5em;" |Craft Reward
+|-
+|{{Item|Combo prayer|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for protection|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for repose|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for retribution|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for imagination|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+|{{Item|Prayer for excellence|1|animation}}
+|{{Item|Book|1|animation}}<br>{{Item|Faith|7}}
+|{{Techpoint|Blue|5}}
+|-
+!colspan="3" |{{Item|Study table}}
+|-
+!Item Produced
+!colspan="2"|Materials Required
+|-
+|{{Item|Science|30}}
+|colspan="2"|{{Item|Book||Copper}}
+|-
+|{{Item|Science|50}}
+|colspan="2"|{{Item|Book|variant=silver||Silver}}
+|-
+|{{Item|Science|75}}
+|colspan="2"|{{Item|Book|variant=gold||Gold}}
+|}
+
+== Building ==
+{| class = "wikitable" style="width:40em;"
+! colspan="2" |[[Graveyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Stone prayer station}}
+|{{Item|A polished brick of stone|4}}<br>{{Item|A carved piece of stone|1}}<br>{{Item|{{PAGENAME}}|variant=silver|1|Silver}}
+|}
+{{Navbox-Writing}}
+[[Category:writing]]
+[[pt-br:Livro]]

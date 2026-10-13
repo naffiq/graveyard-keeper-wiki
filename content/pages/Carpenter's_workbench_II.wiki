@@ -1,0 +1,165 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Workyard]]
+|technology = [[Building (Tech Tree)|Assembly Stand]]
+|related    = 
+|footprint  = 6x4
+|rotatable  = True
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to craft wooden grave decorations and parts.  The [[Carpenter's workbench II]] is a direct upgrade to the [[Carpenter's workbench]] in terms of the energy required to craft and allows the building of [[lens]]es, [[steel chisel]]s and [[#wood|wooden constructions]].
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!style="width:5em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|8}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Wooden beam|2}}
+|
+|Required Tech:<br>[[Building (Tech Tree)|Assembly Stand]]<hr>Blueprint
+|-
+|style="text-align:center"|[[file:upgrade item.png|80x80px|link=Carpenter's workbench]]
+|{{Item|Complex iron parts|4}}<br>{{Item|Wooden beam|4}}
+|{{Energy|-|20}}
+|Upgrade
+|}
+
+==Recipes==
+
+===Metal===
+{| class="wikitable" style="width:55em"
+!colspan="4" style="text-align:center;"|[[file:tab_metal.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Iron chisel|1}}
+|{{Item|Wooden stick|4}}<br>{{Item|Simple iron parts|3}}
+|{{Energy|-|20}}
+|
+|-
+|{{Item|Steel chisel|1|copper}}
+|{{Item|Steel parts|1}}<br>{{Item|Wooden stick|2}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Steel chisel|1|silver}}
+|{{Item|Steel parts|1}}<br>{{Item|Wooden stick|2}}<br>{{Item|Lens|1}}
+|{{Energy|-|5}}
+|
+|-
+|{{Item|Steel chisel|1|animation}}
+|{{Item|Steel parts|1}}<br>{{Item|Steel chisel|1|animation}}<br>{{Item|Lens|1}}
+|{{Energy|-|5}}
+|'''base quality'''; -0.3<hr>[[file:Blacksmith Perk.png|40px]][[Perks|Blacksmith]]; +0.1<br>[[file:Engineer Perk.png|40px]][[Perks|Engineer]]; +0.3
+|}
+
+===Armor===
+{| class="wikitable" style="width:50em"
+!colspan="4" style="text-align:center;"|[[file:tab_weapons.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Iron armor|1}}
+|{{Item|Skin|4}}<br>{{Item|Simple iron parts|6}}
+|{{Energy|-|25}}
+|
+|-
+|{{Item|steel armor|1}}
+|{{Item|Wooden stick|2}}<br>{{Item|Complex iron parts|5}}
+|{{Energy|-|30}}
+|
+|}
+
+===Glass===
+{| class="wikitable" style="width:50em"
+!colspan="4" style = "text-align:center;"|[[file:tab_glass.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Lens|4}}
+|{{Item|Glass|2}}<br>{{Item|Polishing paste|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|15}}
+|
+|-
+|{{Item|Polishing paste|1}}
+|{{Item|River sand|1}}<br>{{Item|Oil|1}}<br>{{Item|Ceramic bowls|1}}
+|{{Energy|-|5}}
+|
+|}
+
+===Wood===
+{| class="wikitable" style="width:50em"
+!colspan="4" style="text-align:center;"|[[file:tab_wood.png|link=|frameless]]
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Wooden plank|1}}
+|{{Item|Flitch|1}}
+|{{Energy|-|4}}
+|
+|-
+|{{Item|Carved wood|1|animation}}
+|{{Item|Steel chisel|1|animation}}<br>{{Item|Wooden plank|1}}<br>{{Item|Faith|2}}
+|{{Energy|-|12}}
+| +{{Techpoint|red|10}}
+|-
+|{{Item|Jointing|1}}
+|{{Item|Wooden beam|1}}<br>{{Item|Nails|2}}<br>{{Item|Complex iron parts|1}}
+|{{Energy|-|15}}
+|
+|-
+|{{Item|Barman Doll|1}}
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Wooden beam|2}}
+|{{Energy|-|25}}
+|
+|-
+|{{Item|Wood repair kit|4}}
+|{{Item|Flitch|3}}<br>{{Item|Wooden plank|1}}<br>{{Item|Nails|2}}
+|{{Energy|-|10}}
+|
+|}
+
+===Church===
+{| class = "wikitable" style = "width:50em"
+!colspan = "4" style = "text-align:center;"|[[file:tab_church.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Wooden marker|1}}
+|{{Item|Flitch|2}}<br>{{Item|Nails|1}}
+|{{Energy|-|5}}
+|Adds +1 {{Grave Decor}} to the grave.
+|-
+|{{Item|Wooden grave fence|1}}
+|{{Item|Wooden plank|1}}
+|{{Energy|-|5}}
+|Adds +1 {{Grave Decor}} to the grave.
+|-
+|{{Item|Wooden cross|1}}
+|{{Item|Wooden plank|1}}<br>{{Item|Nails|1}}
+|{{Energy|-|10}}
+|Adds +2 {{Grave Decor}} to the grave.
+|}
+
+<br>
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+[[Category:Workyard workstations]]

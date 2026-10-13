@@ -1,0 +1,13 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| source       = [[Royal services]]
+| quest        = Upgrading the [[church]]
+}}
+These papers can be obtained from [[Royal services]], as rightful citizen. The papers themselves won't cost any money, but obtaining the status will cost you {{money|300}}.
+
+You need the papers to hold a [[sermon]] in the upgraded [[church]].
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

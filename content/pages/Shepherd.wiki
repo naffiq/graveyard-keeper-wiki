@@ -1,0 +1,41 @@
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = {{PAGENAME}}.png
+| day      = 
+| location = [[Village]]
+| vendor   = Composter
+| role     = Shepherd
+|money=58|income=5}}
+The {{PAGENAME}} is a [[vendor]] who trades in materials associated with livestock. He is appropriately married to [[Rosa]], the dairy vendor, and appears to be significantly injured; missing a right eye, his left hand, and right leg. He can be found in the back of the dairy farm, north of the [[Dead Horse]], on the right-hand side.
+
+In [[Game of Crone]], the Shepherd's role is expanded, establishing him as a member of the order of undead hunters, a group of people dedicated to killing vampires. He helps you to find who the Vampire is, as well as helping you interrogate vampire Carl.
+
+==Trades==
+===Selling===
+{| class="wikitable" 
+!Item
+!Quantity
+!Base Cost
+|-
+|{{Item|Peat}}
+|30
+|{{Money|2}}
+|}
+
+===Purchasing===
+*Will not buy back [[peat]].
+*After selling 149 units of plant matter, it devalues to 0.
+*Will not buy related oddities, such as [[maggot]]s or processed [[Farming#Fertilizer|fertilizer]].
+
+{| class="wikitable" style="text-align:center"
+!Item
+!Base Price
+|-
+|{{Item|Crop waste}}
+|{{Money|1}}
+|}
+[[ru:Пастух]]
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[Category:Game of Crone]]

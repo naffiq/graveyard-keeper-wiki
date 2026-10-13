@@ -1,0 +1,17 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Dig]]
+| cost         = 
+}}
+
+The {{PAGENAME}} is received from [[Dig]]. Speak with him and he'll tell you he wants to have a rat for the new hot craze in the village, [[Talking Skull#Tavern Events|Rat Races]]. He'll ask you to get a rat from the [[Lighthouse Keeper]]. Once you get to the [[Lighthouse]] you'll find out that all his rats have been stolen. He'll let you know that [[Koukol]] also sells rats. Visit Koukol near the [[Mountain fort]] and he'll tell you that he already sold his best rat to [[Gypsy Baron]]. Visit him at the [[Camp]] and he'll resell you the rat for {{Money|10000}}. Bring the rat to Dig and he'll give you the {{PAGENAME}}.
+
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Печатка жреца]]

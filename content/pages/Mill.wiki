@@ -1,0 +1,44 @@
+{{stub}}
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png 
+|location   = Northern [[Wheat Farm]]
+|technology = 
+|related    =[[Miller]] 
+|footprint  = 
+|rotatable  = 
+}}
+
+The '''{{PAGENAME}}''' is located in the northern part of the [[Wheat Farm]]. When you first arrive the mill is broken and needs to be repaired. After repaired, the [[Miller]] will allow you to use it to mill wheat for free. The Mill is more efficient than the [[Cooking#Cooking Table|cooking table]] as it can be used to instantly turn {{Item|wheat|10}} into {{Item|flour|15}}.
+== Cost ==
+{| class = "wikitable" style = "width:30em"
+|-
+! Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+|-
+|[[File:Mill item.png|center|80x80px]]
+|{{Item|Complex iron parts|5}} <br> {{Item|Wooden plank|6}} <br> {{Item|Paper with calculations|1}}
+|{{Energy|-|30}}
+|-
+|}
+
+<!-- placeholder
+== Crafting ==
+{| class="wikitable" style = "width:50em"
+! colspan="2" |{{Item|?}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|?|?}}
+|{{Item|?|?}}
+|}
+-->
+
+{{Navbox-Wheat farm}}
+[[Category:Workstations]]
+
+[[Category:Wheat farm workstations]]
+[[ru:Мельница]]

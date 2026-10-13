@@ -1,0 +1,14 @@
+{{Stub}}
+{{Item Infobox 
+| name         = Lungs
+| image        = lungs item.png
+| type         = Bodypart
+| nameinternal = lungs:lungs_1
+| study        = 
+| alchemy      = 
+| source       = None
+| cost         = 
+| quest        =  
+}}
+Not obtainable.
+{{Navbox-Bodyparts}}

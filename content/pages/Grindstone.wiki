@@ -1,0 +1,14 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Grindstone Animated.gif
+|location   = [[Workyard]], [[The Village]]
+|technology = 
+|related    = 
+|rotatable  = 
+}}Uses a [[Whetstone]] to repair axes, pickaxes and shovels. There are currently only two grindstones on the map, located at [[Workyard|the Workyard]] and the Blacksmith's house (located in [[The Village]]). It cannot be built.
+
+In the UI for the grindstone, you are given the option to place a single tool, and then a whetstone.
+[[File:Grindstone.png|frameless|left]]
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]

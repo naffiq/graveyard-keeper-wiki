@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Swamp]]
+| cost         = 
+}}
+
+The {{PAGENAME}} can be found in a dig spot on the way to the [[Swamp]]. After you cross the bridge from the [[Graveyard]], follow the road to the first bend and you should be able to see the dig spot below. Walk around the cliff and dig the {{PAGENAME}} up.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

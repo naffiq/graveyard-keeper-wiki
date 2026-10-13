@@ -1,0 +1,30 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Illumination of Faith]]
+|related    = [[Church]]
+|footprint  = 3x2
+|rotatable  = No
+}}
+The {{lcfirst:{{PAGENAME}}}} provides 5{{Church Rating}}. You can only build it in a [[Church#Church_upgrade|Cathedral]]. There's only one place available for it so far ([[version]] 1.206) which can be occupied by a [[Wall candelabra III]]. It can not be deconstructed once placed ([[version]] 1.206).
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+| {{Item|Glass|4}} <br> {{Item|Complex iron parts|5}} <br> {{Item|Gold jewelry details|2}}
+
+|0{{Energy}}
+|Requires [[Theology (Tech Tree)|Illumination of Faith]]
+|}
+
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+[[Category:Church workstations]]
+[[de:Buntglasfenster]]
+[[Category:Alchemy]]

@@ -1,0 +1,98 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Apiary product
+| consume      = {{health|+|3}}, {{energy|+|25}}
+| nameinternal = honey
+| study        = {{Techpoint|Green|20}}
+| alchemy      = [[Acceleration powder|powder]], [[Acceleration solution|solution]]
+| cost         = 30
+| source       = [[Beekeeping]]
+| buy          = [[Beekeeper|Beekeeper (T I)]]
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}</b> can be gathered from [[Bee hive|bee hives]]. It can be used directly to restore {{Health||3}} and {{Energy||25}}, used in recipes for food and drinks, and decomposed in the alchemy laboratory into reagents.
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"| Tech Points
+!style="width:12.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[acceleration powder|powder]], [[acceleration solution|solution]]
+|}
+
+==Crafting==
+{| class="wikitable""
+!colspan="2"|{{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Green jelly (food)|3}}
+|{{Item|Green jelly|4}}<br>{{Item|Honey|1}}
+|-
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Royal fish|2|animation}}
+|{{Item|Blue fish fillet|1|animation}}<br>{{Item|Honey|1}}
+|-
+|{{Item|Muffin|4}}
+|{{Item|Dough|1}}<br>{{Item|Honey|1}}
+|-
+|{{Item|Croissant|4}}
+|{{Item|Dough|1}}<br>{{Item|Honey|1}}<br>{{Item|Chicken egg|1}}
+|-
+|{{Item|Cake|1|gold}}
+|{{Item|Pastry dough|1}}<br>{{Item|Honey|1}}<br>{{Item|Berry|5}}
+|-
+!colspan="2"|{{Item|Brewing stand}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|A mug of mead|10|animation}}
+|{{Item|Water|50}}<br>{{Item|Honey|1}}<br>{{Item|Hops|3|animation}}
+|}
+
+==Alchemy==
+Honey can be decomposed into [[acceleration solution|solution]] and [[acceleration powder|powder]] with the [[hand mixer]] and [[alchemy mill]], respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation. 
+
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Acceleration solution|4}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Acceleration powder|3}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+
+[[de:Honig]]
+[[fr:Miel]]
+[[pt-br:Mel]]

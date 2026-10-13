@@ -1,0 +1,90 @@
+__NOTOC__
+{{Infobox game
+|title = {{Gamename}}
+|image = Graveyard-Keeper-Logo.png
+|size = 150px
+|developer = {{developer|http://lazybeargames.com/}}
+|publisher = {{publisher|http://www.tinybuild.com/}}
+|engine = 
+|version = 
+|platform = Windows, Mac OSX, IOS, Android, Linux, Nintendo Switch, PS4, and Xbox One
+|releasedate = August 15, 2018
+|genre = Adventure, Indie, Simulation 
+|mode = Single player
+|rating = 
+|media = 
+|requirements = <h4 style="text-align: center;">Windows</h4>
+* OS: Windows 7
+* Processor: 1.5 GHz and up
+* Memory: 4 GB RAM
+* Graphics: 256 Mb video memory, shader model 3.0
+* DirectX: Version 10
+* Storage: 1 GB available space
+<h4 style="text-align: center;">Mac</h4>
+* OS: Lion (10.7)
+* Processor: 1.2 GHz and up
+* Memory: 4 GB RAM
+* Graphics: infusion
+* Storage: 1 GB available space
+<h4 style="text-align: center;">Linux</h4>
+* OS: Ubuntu 12.04
+* Processor: 1.2 GHz and up
+* Memory: 4 GB RAM
+* Graphics: infusion
+* Storage: 1 GB available space
+}}
+
+'''Graveyard Keeper''' is a management sim in a medieval setting created by Lazy Bear Games and was released 2018. In the game, players suddenly find themselves in the new role of the "Graveyard Keeper" after an accident on the way home. In order to return home, the players must finish all kinds of quests and keep the ruble going. 
+
+{{quote|'''Graveyard Keeper''' is the most inaccurate medieval cemetery management sim of the year. Build and manage your own graveyard while finding shortcuts to cut costs, expand into entertainment with witch burning festivals, and scare nearby villagers into attending church. This is a game of capitalism and doing whatever it takes to build a thriving business.~''Developers' text''}}
+
+== Key features ==
+* Face ethical dilemmas. Do you really want to spend money on that proper hotdog meat for the festival when you have so many resources lying around?
+* Gather valuable resources & craft new items. Expand your Graveyard into a thriving business, go ahead and gather valuable resources scattered in the surrounding areas, and explore what this land has to offer. 
+* Make business alliances. These dead bodies don't need all that blood, do they? Why not sell it to someone who can put it to good use. Same for body parts. Hey, it's being efficient with recycling! 
+* Explore mysterious dungeons. No medieval game would be complete without these. Take a trip into the unknown and find useful new ingredients which may or may not poison a whole bunch of nearby villagers. Capitalism.<ref>Publisher PR text/press-kit</ref>
+
+== Languages ==
+(Interface and Subtitles)
+
+{{cols|2|
+* English
+* French 	
+* German 	
+* Simplified Chinese 	
+* Spanish
+* Portuguese - Brazil
+* Korean
+* Japanese
+* Russian
+* Italian
+* Polish
+}}
+
+== Screenshots ==
+<div style="vertical-align:top;"><gallery widths="240" heights="240" mode="nolines">
+File:Atnight.jpg|
+File:Graveyard-keeper.png|
+File:Bodybegone.jpg|
+File:Teaser 3.jpg|
+File:Teaser 4.jpg|
+File:Teaser 5.jpg|
+File:Teaser 6.jpg|
+File:Teaser 7.jpg|
+File:Teaser 8.jpg|
+File:Teaser 9.jpg|
+File:Teaser 10.jpg|
+</gallery>
+</div>
+
+== See also ==
+* [[How to play guide for Graveyard Keeper]]
+
+==Sources==
+<references />
+
+[[Category:Wiki pages]]
+[[Category:Main Pages]]
+
+[[pt-br:Graveyard Keeper]]
+[[pl:Graveyard Keeper]]

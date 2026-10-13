@@ -1,0 +1,38 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Graveyard]]
+|technology = [[Theology (Tech Tree)|Cremation]]
+|footprint  = 4X4
+|rotatable  = False
+}}
+
+<!-- Put page content here -->
+
+Gives a +12 {{Graveyard Rating}} when built.
+Note: You get all 12 [[Ceramic funeral urn]], {{Item |Wooden beam|4}} and {{Item|A polished brick of stone|4}} back when breaking .
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"| Quality provided
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=]]
+
+|{{Item |Wooden beam|4}}
+{{Item|A polished brick of stone|4}}
+
+{{Item|Ceramic funeral urn|12}}
+|
+| +12 {{Graveyard Rating}}
+|[[Theology (Tech Tree)|Cremation]]
+|}
+
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+
+[[Category:Graveyard workstations]]
+[[Category:Graveyard items]]
+[[de:Steinerne Urnenhalle]]

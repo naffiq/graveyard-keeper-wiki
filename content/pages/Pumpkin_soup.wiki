@@ -1,0 +1,81 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| cost         = 
+| price        = 44
+| consume      = {{Energy|+|40}}/{{Energy|+|50}}/{{Energy|+|60}}; [[file:Rest effect.png|link=Effects|Deep Sleep]]
+| study        = 
+| alchemy      = 
+| source       = [[Oven]]
+| type         = Food; Meal
+| stacksize    = 20
+| quest        = 
+| nameinternal = <!-- Name of the items in the internal game files. --> 
+}}
+<b>{{PAGENAME}}</b>, not to be confused with [[a bowl of pumpkin soup]], is a craftable food item which restores a relatively moderate amount of energy and applies the 'Deep Sleep' [[Effects|buff]] when consumed. It can be made in the [[oven]]. It's a complex craftable, in that it has various qualities dependent on the quality of ingredients. For more information, see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = Pumpkin soup item.png|quality = copper}}
+|{{Quality Sprite|image = Pumpkin soup item.png|quality = silver}}
+|{{Quality Sprite|image = Pumpkin soup item.png|quality = gold}}
+|-
+|{{Energy|+|40}}
+|{{Energy|+|50}}
+|{{Energy|+|60}}
+|}
+
+==Effect==
+On use, this consumable will apply the 'Deep Sleep' buff for a duration of 2 minutes, allowing the player to regenerate more energy points when sleeping. For more information, see [[Effects]].
+
+{| class="wikitable" style="width:40em; text-align:center;"
+!Icon
+!Description
+!Duration
+!Notes
+|-
+|[[file:Rest effect.png|link=Effects#Deep Sleep|Deep Sleep]]
+|Energy regeneration during sleeping is increased.
+|2:00
+|[[Effects#Deep Sleep|Deep Sleep]]
+|}
+
+==Recipe==
+{| class = "wikitable" style="width:40em;"
+!colspan="3"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|4|animation}}
+|{{Item|Beet|1|}}<br>{{Item|Carrot|2|}}<br>{{Item|Pumpkin|2|animation}}
+|1:40<br>{{Fuel|-|40}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Quality || Buy Tier !! Base Cost !! Qty !! Sell Tier !! Base Price !! Consumption
+|-
+|{{NPC|Merchant}}
+|[[file:Gold Star.png]]
+|III
+|N/A
+|14x
+|III
+|{{Money|44}}
+|2x per day<br>(If >20x)
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]
+[[Category:effect items]]
+[[de:Kürbissuppe]]

@@ -1,0 +1,197 @@
+{{NPC Infobox
+| name     = Astrologer
+| image    = Astrologer.png
+| day      = {{Day|Sloth}}
+| location = [[Sealight Lighthouse]]
+| vendor   = Scholarly Supplies
+| role     = Astrologer
+}}
+The astrologer is the [[village]] scholar and arrives at [[lighthouse]] every week on {{Day|Sloth}}. He is a [[Vendors|vendor]] and sells items related to writing and book making. His real name is Harvard. (Note: He will not speak to you unless you have spoken to Gerry about him.)
+
+== Quests ==
+===Bring him a Skull===
+Before you can talk to the astrologer you have to talk to Gerry and ask him about the astrologer.
+
+Upon first meeting you he will ask you to retrieve a {{item|Skull}} from a [[corpse]]. Only after you return and give him a {{item|Skull}} he will trade with you, if you ask him for help. You earn 10 {{happiness}} for the skull.
+
+===The Keepers Journal===
+After asking for help to open the [[portal]] in order to get home, he will request you to retrieve the previous {{item|keepers journal}} and will give you the {{item|keepers key}} which is meant to be able to unlock the gate below the [[church]] though he does not know how to use it. For the information on how to use the {{item|keepers key}}, you first need to talk with [[Snake]] about it and then study it on the [[study table]]. After you opened the gate you will have access to the {{item|keepers journal}}.
+
+===Clean the Journal===
+After handing over the {{item|Keepers journal}} he tells you to visit the [[town]] to acquire the parts for building a laser to open the [[portal]] on [[Witch Hill]]. He also tells you that part of the {{item|Keepers journal}} is covered in goo(?) and he needs some {{item|acid}} to clean it, which can be acquired from [[Clotho]].  Alternatively you can craft it in the [[alchemy workbench (tier II)]]. For more information see [[alchemy]].
+
+After you brought the acid, he tells you, that you'll need {{item|Restoration tools}} for the second part. You can get those from [[Snake]]. Bring them to him and earn another 10 {{happiness}}.
+
+===The Necronomicon===
+[[Snake]] tells you to ask the astrologer about the {{item|Necronomicon}}. If you do so, he tells you that he gave it to the [[Lighthouse Keeper]].
+
+===Long-lost Daughter===
+Once you acquire the items to clean the journal and bring them to the astrologer, he discovers in the diary that he might have a long-lost daughter (and the info you needed as well). He wants you to get information about his family in exchange for what you want to know. He tells you that the [[Gypsy Baron]] is [[Esmeralda]]'s (the mother) brother, and wants you to go and ask inquire about her. You can find the Baron at the camp, north-west of the lighthouse.
+
+===Messenger===
+After doing the [[Gypsy Baron]] a favour, he tells you of Esmeralda and her child's fate. The astrologer gets emotional when you tell him about Esmeralda's fate and that her daughter is alive and well. You earn another 10 {{happiness}} by that. He gives you another task before giving you the information you need: You are to speak to [[Ms. Charm]] and find out if she knows about her father.
+
+===Heart-breaking News===
+[[Ms. Charm]] makes very clear to you that she despises her father, whoever he might be, and that she doesn't want to know of him or his identity at all. The astrologer takes the news with a heavy heart, but insists that there must be a way to gain her forgiveness. You tell him you'll let him know if you get any news. You'll earn 10 {{happiness}} from this conversation.
+
+===Mill Repair===
+In order to fix the mill, you need a {{item|Paper with calculations}} from him. You need 60 {{happiness}} to be able to ask - and you will be given. Bring it back to the [[miller]] and fix the mill.
+
+===The Golden Angle===
+You should have 60 {{happiness}} with him now, so you can finally ask about the three parts of the barrel. The astrologer tells you he had one of the required items (the {{item|golden angle}}) in a sealed University bag, but he abandoned it the day of the Great Blast around the war camp. He believes nobody would dare break the University seal and suggests you go look for it.
+
+He also tells you that the {{item|necklace}} was in [[Esmeralda|Esmeralda's]] posession and inherited by her daughter [[Ms. Charm]].
+
+===Helping Vagner===
+[[Ms. Charm]] asks you to help [[Vagner]]. Since you don't have an access to the Fort, you decide to seek the assistance of astrologer and earn 10 {{happiness}} by that. He gladly agrees to help, hoping that this act would grant him forgiveness on part of his estranged daughter. But getting inside the Fort is not an easy task. The astrologer, however, has a plan - you all could get inside to 'continue' the archaeological dig, that was started years ago but never finished. In order to do that, though, he needs your help in repairing his reputation in the University.
+
+===Silver Book or Research Obsidian===
+In order to restore old astrologer's reputation you need to bring him a {{quality|silver}} {{Item|Book||Silver|variant=silver}} for 5 {{happiness}}. After that you will have to wait a week, until he returns with the news.
+
+Alternatively, if you own the Stranger Sins DLC, you can bring him the Research Obsidian - just note that this will void the achievement / trophy "Best Seller" as it skips the step where you give him a gold-quality Book.
+
+===Gold Book===
+It turns out your book was a breath of fresh air for the bored eggheads in the University. So much so, that now they demand more! So, naturally, it's up to you to give them one. Bring a {{quality|gold}} {{Item|Book||Gold|variant=gold}} for 5 {{happiness}}, and - again - wait a week for the results.
+
+===Bring Aristocrat Papers===
+With these amazing books, the astrologer was not only successful in organizing the new expedition - he was even reinstated as a professor. Not that it matters to him (or you, for that matter). But now almost everything is ready for the new expedition. All that's left is the access to the Fort. And for that {{item|Aristocrat papers}} are needed. Bring them to the astrologer for 10 {{happiness}}, and as soon as it's done, you can start final part of his (and connected [[Ms. Charm|Ms. Charm's]]) quest.
+
+===Expedition===
+Now, the rescue mission for [[Vagner]] can take place. You see a long cutscene, which explains the relationship between [[Ms. Charm]], [[Vagner]], the astrologer and the [[Lord Commander]] of the [[Mountain fort|Mountain Fort]].
+
+All ends well, and you will get both {{item|necklace}} and {{item|Golden angle}} - two more items to return back home. You'll end up with 100 {{happiness}} with both, [[Ms. Charm]] and the astrologer.
+
+==Trading==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Price
+|-
+|{{Item|Softcover}}
+|2
+|{{Money|200}}
+|-
+|{{Item|pen and ink}}
+|2
+|{{Money|250}}
+|-
+|{{Item|Ink}}
+|2
+|{{Money|150}}
+|-
+|{{Item|Clean paper}}
+|2
+|{{Money|100}}
+|-
+|{{Item|Feather}}
+|10
+|{{Money|20}}
+|-
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Book|variant=silver||Silver}}
+|1
+|N/A
+|-
+|{{Item|Hard cover||copper}}
+|2
+|{{Money|700}}
+|-
+|{{Item|Book (b)}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Book (r)}}
+|1
+|{{Money|300}}
+|-
+|{{Item|Book (g)}}
+|1
+|{{Money|200}}
+|-
+|{{Item|Chapter||copper}}
+|2
+|{{Money|300}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Book|variant=gold||Gold}}
+|1
+|N/A
+|-
+|{{Item|Hard cover||silver}}
+|2
+|{{Money|1500}}
+|-
+|{{Item|Great book (b)}}
+|1
+|{{Money|1000}}
+|-
+|{{Item|Great book (r)}}
+|1
+|{{Money|600}}
+|-
+|{{Item|Great book (g)}}
+|1
+|{{Money|400}}
+|}
+|}
+
+===Purchasing===
+{|style="text-align:left;"
+|
+{| class = "wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+| align="center" |''Pen and Ink  Not Pc''
+|3 54
+|
+|}
+|
+{| class = "wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Book|variant=silver||Silver}}
+|{{Money|1326}}
+|5+, down to 1
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Cost
+!Consumed<br>per week
+|-
+|{{Item|Book|variant=gold||Gold}}
+|{{Money|2652}}
+|5+, down to 1
+|}
+|}
+
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[pt-br:Astrólogo]]

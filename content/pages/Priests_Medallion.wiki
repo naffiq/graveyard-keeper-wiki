@@ -1,0 +1,16 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Dig]]
+| cost         = 
+}}
+
+The {{PAGENAME}} is received from [[Dig]]. Upon speaking with Dig, he'll ask you to get him some [[booze]]. You can either make some or speak to [[Snake]] to get some. Give the booze to Dig and he'll check it for quality by lighting it on fire and then give you the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Медальон жреца]]

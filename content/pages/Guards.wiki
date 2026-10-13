@@ -1,0 +1,37 @@
+{{Stub}}
+{| class="infoboxtable"
+|{{NPC Infobox
+| name     = Mountain Fort Guard
+| image    = Warcampguard.png
+| day      = 
+| location = [[Village]] north exit
+| vendor   =
+| role     = Guard access to the [[Mountain fort]]
+}}
+
+|{{NPC Infobox
+| name     = Town Guard
+| image    = Warcampguard.png
+| location = [[Village]] south exit
+| vendor   =
+| role     = Guard access to the [[town]]
+}}
+|-
+|{{NPC Infobox
+| name     = Village Guard
+| image    = Villageguard.png
+| day      = 
+| location = [[Village]] Patrolling at night
+| vendor   =
+| role     = Guard the [[village]]
+}}
+|{{NPC Infobox
+| name     = Witch Hill Guard
+| image    = Warcampguard.png
+| day      = Every day, unless you met the [[Inquisitor]]. After that every {{day|wrath}}
+| location = [[Witch Hill]]
+| vendor   =
+| role     = Guard access to the [[Witch Hill|hill]] and to the [[portal]] there
+}}
+|}
+{{Navbox-NPCs}}

@@ -1,0 +1,53 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Workyard]]
+|technology = [[Book Writing (Tech Tree)|Paper production]]
+|related    = [[Writing]]
+|footprint  = 3x4
+|rotatable  = True
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to make paper from [[paper glop]].
+
+Horizontal and vertical : 3 X 4
+
+Rotation : Yes
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+
+|{{Item|Flitch|4}}
+{{Item|Simple iron parts|2}}
+
+{{Item|Nails|12}}
+|
+|Requires Paper production
+|}
+
+==Recipes==
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|Clean paper|30}}
+|{{Item|Paper glop|2}}
+{{Item|White paint|1}}
+|{{Energy|-|20}}
+| Gives {{Techpoint|blue|1}}
+|-
+|}
+
+
+{{Navbox-Workyard}}
+[[Category:Workstations]]
+
+[[Category:Workyard workstations]]
+[[Category:Image requested]]

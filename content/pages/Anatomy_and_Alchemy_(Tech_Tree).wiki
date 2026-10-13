@@ -1,0 +1,239 @@
+Half of this [[Technologies|technology tree]] deals with [[Corpse|autopsies]] and the kind of organs you can get. It's unlocked by the tutorial.
+
+The other half, the [[alchemy]] part is unlocked upon talking to the [[Clotho|old woman]] in the [[swamp]].
+
+A very small part deals with [[zombie]]s and is unlocked by talking to [[Gunter]].
+
+As you unlock more items along this tree you'll gain access to better [[autopsy]] techniques and resources, as well as more alchemical apparatuses and products.
+
+As part of the [[Game of Crone]] DLC, at the end of this technology tree, there are shown all unlocked [[Tanner|bags]] that you can make (they are not connected to each other or anything else).
+
+[[File:Anatomy and Alchemy.png|thumb]]
+<br>
+
+==Anatomy==
+This branch is unlocked through the tutorial by speaking to [[Gerry]].  For more information on the anatomical operations see [[Morgue]].
+{| class="wikitable" style="text-align:center" 
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="First Slice"
+| rowspan="3" |First Slice
+| rowspan="3" |None
+| rowspan="3" |Unlocked through the tutorial.
+|[[File:Preparation place item.png|64px|link=Preparation place]]
+|style="text-align:left"|Blueprint: [[Preparation place]]
+|-
+|[[File:Pallet item.png|64px|link=Pallet]]
+|style="text-align:left"|Blueprint: [[Pallet]]
+|-
+|[[File:Flesh item.png|64px|link=Flesh]]
+|style="text-align:left"|Extract: [[Flesh]]
+|- id="Hardspares"
+| rowspan="3" |Hardspares
+| rowspan="3" |First slice
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|5}}
+|[[File:Skull item.png|64px|link=Skull]]
+|style="text-align:left"|Extract: [[Skull]]
+|-
+|[[File:Bone item.png|64px|link=Bone]]
+|style="text-align:left"|Extract: [[Bone]]
+|-
+|[[File:Skin item.png|64px|link=Skin]]
+|style="text-align:left"|Extract: [[Skin]]
+|- id="Softspares"
+| rowspan="2" |Softspares
+| rowspan="2" |First slice
+| rowspan="2" |{{Techpoint|red|10}} {{Techpoint|green|10}}
+|[[File:Blood item.png|64px|link=Blood]]
+|style="text-align:left"|Extract: [[Blood]]
+|-
+|[[File:Fat item.png|64px|link=Fat]]
+|style="text-align:left"|Extract: [[Fat]]
+|-  id="Gentle Butcher"
+|Gentle Butcher
+|Hardspares +<br>Softspares
+|{{Techpoint|green|5}} {{Techpoint|blue|25}}
+|[[File:Butcher Perk.png|link=Perks#Butcher Perk]]
+|style="text-align:left"|Perk: [[Perks#Butcher Perk|Butcher]]
+|-  id="Important parts"
+| rowspan="3" |Important parts
+| rowspan="3" |Softspares
+| rowspan="3" |{{Techpoint|green|30}}
+|[[File:Brain item.png|64px|link=Brain]]
+|style="text-align:left"|Extract: [[Brain]]
+|-
+|[[File:Heart item.png|64px|link=Heart]]
+|style="text-align:left"|Extract: [[Heart]]
+|-
+|[[File:Intestine item.png|64px|link=Intestine]]
+|style="text-align:left"|Extract: [[Intestine]]s
+|- id="Anatomy II"
+| rowspan="2" |Anatomy II
+| rowspan="2" |Important parts
+| rowspan="2" |{{Techpoint|red|50}} {{Techpoint|blue|30}}
+|[[File:Preparation place II item.png|64px|link=Preparation place II]]
+|style="text-align:left"|Blueprint: [[Preparation place II]]
+|-
+|[[File:Double pallet item.png|64px|link=Double pallet]]
+|style="text-align:left"|Blueprint: [[Double pallet]]
+|- id="Surgery"
+|Surgery
+|Anatomy II
+|{{Techpoint|red|50}} {{Techpoint|green|150}} {{Techpoint|blue|50}}
+|[[File:Surgeon Perk.png|link=Perks#Surgeon Perk]]
+|style="text-align:left"|Perk: [[Perks#Surgeon Perk|Surgeon]]
+|- id="Dark Bodies"
+| rowspan="3" |Dark Bodies
+| rowspan="3" |Anatomy II 
+| rowspan="3" |Complete the [[Inquisitor|Inquisitor']]s quest
+|[[File:Dark brain item.png|64px|link=Dark brain]]
+|style="text-align:left"|Extract: [[Dark brain]]
+|-
+|[[File:Dark heart item.png|64px|link=Dark heart]]
+|style="text-align:left"|Extract: [[Dark heart]]
+|-
+|[[File:Dark intestine item.png|64px|link=Dark intestine]]
+|style="text-align:left"|Extract: [[Dark intestine]]s
+|- id="Cultist"
+|Cultist
+|Dark Bodies
+|{{Techpoint|blue|300}}
+|[[File:Cultist Perk.png|link=Perks#Cultist Perk]]
+|style="text-align:left"|Perk: [[Perks#Cultist Perk|Cultist]]
+|- id="Embalming"
+| rowspan="3" |Embalming
+| rowspan="3" |First Slice + <br>Embalming Liquids
+| rowspan="3" |{{Techpoint|blue|10}} {{Techpoint|green|50}}
+|[[File:Embalming table item.png|64px|link=Embalming table]]
+|style="text-align:left"|Blueprint: [[Embalming table]]
+|-
+|[[File:Mortuary rack item.png|64px|link=Mortuary rack]]
+|style="text-align:left"|Blueprint: [[Mortuary rack]]
+|-
+|[[File:Prayer for repose item.png|64px|link=Prayer for repose]]
+|style="text-align:left"|Recipe: [[Prayer for repose]]
+|- id="Embalming II"
+| rowspan="2" |Embalming II
+| rowspan="2" |Embalming
+| rowspan="2" |{{Techpoint|blue|50}} {{Techpoint|green|10}}
+|[[File:Embalming table II item.png|64px|link=Embalming table II]]
+|style="text-align:left"|Blueprint: [[Embalming table II]]
+|-
+|[[File:Fridge pallet item.png|64px|link=Fridge pallet]]
+|style="text-align:left"|Blueprint: [[Fridge pallet]]
+|- id="Second chance"
+| rowspan="1" |Second chance
+| rowspan="1" |None
+| rowspan="1" |Talk to [[Gunter]] and search broken cabinet nearby.<br>
+{{Techpoint|red|10}} {{Techpoint|blue|10}}
+|[[File:Resurrection table item.png|64px|link=Resurrection table]]
+|style="text-align:left"|Blueprint: [[Resurrection table]]
+|- id="Zombie logistics"
+| rowspan="1" |Zombie logistics
+| rowspan="1" |Second chance
+| rowspan="1" |{{Techpoint|red|10}} {{Techpoint|green|10}}
+|[[File:Porter station item.png|64px|link=Porter station]]
+|style="text-align:left"|Blueprint: [[Porter station]]
+|}
+
+==Alchemy==
+
+This branch is unlocked after accepting the quest to restore [[Clotho|Clotho's]] memory.  For more information on the various processes see [[alchemy]].
+
+{| class="wikitable" style="text-align:center"
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="The Beginning of Alchemy"
+| rowspan="3" |The Beginning of Alchemy
+| rowspan="3" |None
+| rowspan="3" |{{Techpoint|green|5}}
+|[[File:Alchemy mill item.png|64px|link=Alchemy mill]]
+|style="text-align:left"|Blueprint: [[Alchemy mill]]
+|-
+|[[File:Alchemy workbench (tier I) item.png|64px|link=Alchemy workbench (tier I)]]
+|style="text-align:left"|Blueprint: [[Alchemy workbench (tier I)]]
+|-
+|[[File:Hand mixer item.png|64px|link=Hand mixer]]
+|style="text-align:left"|Blueprint: [[Hand mixer]]
+|- id="Embalming Liquids"
+| rowspan="3" |Embalming Liquids
+| rowspan="3" |The Beginning of Alchemy
+| rowspan="3" |{{Techpoint|green|30}} {{Techpoint|blue|10}}
+|[[File:Church workbench item.png|64px|link=Church workbench]]
+|style="text-align:left"|Blueprint: [[Church workbench]]
+|-
+|[[file:Lye injection item.png|64px|link=Lye injection]]
+|style="text-align:left"|Recipe: [[Lye injection]]
+|-
+|[[file:Acid injection item.png|64px|link=Acid injection]]
+|style="text-align:left"|Recipe: [[Acid injection]]
+|- id="Embalming Liquids II"
+| rowspan="3" |Embalming Liquids II
+| rowspan="3" |Embalming Liquids + <br>Advanced Alchemy
+| rowspan="3" |{{Techpoint|green|50}} {{Techpoint|blue|20}}
+|[[File:Glue injection item.png|64px|link=Glue injection]]
+|style="text-align:left"|Recipe: [[Glue injection]]
+|-
+|[[file:Preservative injection item.png|64px|link=Preservative injection]]
+|style="text-align:left"|Recipe: [[Preservative injection]]
+|-
+|[[file:Restore injection item.png|64px|link=Restore injection]]
+|style="text-align:left"|Recipe: [[Restore injection]]
+|- id="Embalming Liquids III"
+| rowspan="3" |Embalming Liquids III
+| rowspan="3" |Embalming Liquids II
+| rowspan="3" |{{Techpoint|green|80}} {{Techpoint|blue|30}}
+|[[File:Dark injection item.png|64px|link=Dark injection]]
+|style="text-align:left"|Recipe: [[Dark injection]]
+|-
+|[[file:Silver injection item.png|64px|link=Silver injection]]
+|style="text-align:left"|Recipe: [[Silver injection]]
+|-
+|[[file:Gold injection item.png|64px|link=Gold injection]]
+|style="text-align:left"|Recipe: [[Gold injection]]
+|- id="Alchemy Storage"
+|Alchemy Storage
+|The Beginning of Alchemy
+|{{Techpoint|red|10}}
+|[[File:Alchemy rack item.png|64px|link=Alchemy rack]]
+|style="text-align:left"|Blueprint: [[Alchemy rack]] 
+|- id="Advanced Alchemy"
+| rowspan="2" |Advanced Alchemy
+| rowspan="2" |Alchemy Storage
+| rowspan="2" |{{Techpoint|green|20}} {{Techpoint|blue|20}}
+|[[File:Alchemy workbench (tier II) item.png|64px|link=Alchemy workbench (tier II)]]
+|style="text-align:left"|Blueprint: [[Alchemy workbench (tier II)]]
+|-
+|[[File:Distillation cube item.png|64px|link=Distillation cube]]
+|style="text-align:left"|Blueprint: [[Distillation cube]]
+|- id="Distillate"
+| rowspan="1" |Distillate
+| rowspan="1" |Advanced Alchemy
+| rowspan="1" |{{Techpoint|green|30}} {{Techpoint|blue|30}}
+|[[File:Distillation cube II item.png|64px|link=Distillation cube II]]
+|style="text-align:left"|Blueprint: [[Distillation cube II]]
+|- id="Master of Alchemy"
+| rowspan="1" |Master of Alchemy
+| rowspan="1" |Distillate
+| rowspan="1" |{{Techpoint|green|100}} {{Techpoint|blue|40}}
+|[[File:Scientist Perk.png|link=Perks#Scientist Perk]]
+|style="text-align:left"|Perk: [[Perks#Scientist Perk|Scientist]]
+|- id="Zombie alchemy workbench"
+| rowspan="2" |Zombie alchemy workbench
+| rowspan="2" |Distillate
+| rowspan="2" |Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|15}} {{Techpoint|green|15}} {{Techpoint|blue|30}}
+|[[File:Zombie alchemy decomposer item.png|64px|link=Zombie alchemy decomposer]]
+|style="text-align:left"|Blueprint: [[Zombie alchemy decomposer]]
+|-
+|[[File:Zombie alchemy workbench item.png|64px|link=Zombie alchemy workbench]]
+|style="text-align:left"|Blueprint: [[Zombie alchemy workbench]]
+|}
+{{Navbox-Technology}}
+[[Category:Technologies]]
+
+[[pt-br:Anatomia e Alquimia (Arvóre de Tecnologias)]]
+[[es:Anatomía y alquimia]]

@@ -1,0 +1,79 @@
+{{Item Infobox 
+| name         = Beet
+| image        = i_beet_crop.png
+| consume      = {{Energy|+|8}}
+| type         = [[Items#Crops|Crop]]
+| nameinternal = beet_crop
+| study        = {{Techpoint|Green|20}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T I)]]
+| sell         = [[Farmer|Farmer (T I)]]
+| cost         = 16
+| quest        = [[Merchant]]
+|Sells For=11}}
+[[File:Beet patch.gif|left|thumb|Beets growing in the garden.]]
+Beets are a form of crop which can be grown from [[beet seeds]] in the garden below the [[workyard]] known as the [[Kitchen Garden|kitchen garden]]. Alternatively they can be purchased from the [[Farmer]]. Consuming beet provides {{Energy||8}}. {{Item|Beet|12}} are required for the [[Merchant#Buy or Farm|Merchant's quest]]. They do not have to be grown by the player. Beets are not an improvable crop. It does not have quality levels and cannot be improved with fertilizer. It can only be made to grow faster. See [[farming]] for more information on how crops are grown and improved.  
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Empty garden bed}}
+|-
+!Items Produced
+!Material Required
+|-
+|{{Item|Beet|?}}<br>{{Item|Beet seed|2-3}}<br>{{Item|Crop waste|?}}
+|{{Item|Beet seed|4}}
+|}
+
+==Study==
+
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"| {{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+| {{Item|Cabbage soup|4|animation}}
+|{{Item|Cabbage|2}}<br>{{Item|Beet|1}}<br>{{Item|Onion|1|animation}}
+|-
+|{{Item|Pumpkin soup|4|animation}}
+|{{Item|Carrot|2}}<br>{{Item|Beet|1}}<br>{{Item|Pumpkin|1|animation}}
+|-
+|{{Item|Beet slices|1}}
+|{{Item|Beet|2}}<br>{{Item|Fuel|10}}
+|}
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+|-
+! colspan="2" |{{Item|Cooking table}}
+|-
+|{{Item|1=Grated beets|2=1}}
+|{{Item|1=Beet|2=1}}
+|}<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:crops]]
+[[Category:consumable items]]
+
+<!-- Wiki Language Connection -->
+ [[de:Rübe]] 
+<!--[[en:Beet]]-->
+[[ru:Свёкла]]
+[[es:Remolacha]]
+[[fr:Betterave]]
+[[ja:ビート]]
+[[pt-br:Beterraba]]

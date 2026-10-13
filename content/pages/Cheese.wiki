@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = cheese
+| study        = 
+| source       = [[Rosa]]
+| cost         = 50
+| stacksize    = 10
+}}
+'''{{PAGENAME}}''' is an ingredient used in cooking. In the base game, the only source is [[Rosa]], the [[Shepherd]]'s wife. For the main page on preparing food, see [[cooking]]. With [[Game of Crone]] you can also make it yourself after you unlock the recipe during the quest from the [[cook]] in the [[Refugee camp]]
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+! Item Produced
+! Materials Required
+! Extra
+|-
+| {{Item|{{PAGENAME}}|1}}
+| {{Item|Jug of milk|1}}
+| {{Techpoint|green|1}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pasta|3}}
+|{{Item|Dough|3}}<br>{{Item|Cheese|1}}
+|-
+|{{Item|Cheese cake|4}}
+|{{Item|Honey|1}}<br>{{Item|Cheese|1}}<br>{{Item|Pastry dough|2}}
+|-
+|{{Item|Cheese pie|2}}
+|{{Item|Cheese|1}}<br>{{Item|Pastry dough|1}}
+|-
+|{{Item|Cheese patty|6}}
+|{{Item|Cheese|1}}<br>{{Item|Pastry dough|2}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food resources]]
+[[Category:food]]

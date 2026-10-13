@@ -1,0 +1,81 @@
+__NOTOC__{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = i_nugget_silver.png
+| type         = Secondary Ore
+| nameinternal = nugget_silver
+| study        = {{Techpoint|Green|20}} 
+| alchemy      = {{Item|Silver powder}}
+| source       = [[Mining]]
+| cost         = 
+| stacksize    = 10
+| quest        = 
+}}
+<b>{{PAGENAME}}s</b> are a relatively rare resource that can be obtained through a variety of methods. With the [[Smithing (Tech Tree)#Jeweler|Jeweler]] technology, they can be processed into [[Silver ingot]]s at a [[Furnace II]] or [[Furnace III]], which currently may only be sold to the [[Merchant]] for money. Once a single nugget has been [[Study table|studied]], nuggets can be broken down into a [[Silver powder]] for use in [[alchemy]].
+
+==Sources==
+*By [[mining]] and processing [[iron ore]] after opening the [[Building (Tech Tree)#Precious Metals|Precious Metals]] technology:
+**mining iron ore blocks from the [[Mining#Iron Deposit|Iron Deposit]], located in the north-west corner of the map, near the [[Quarry]]. Chance is 20% per block with the [[Perks#Miner Perk|Miner perk]] (tested on PC version 1.407).
+**processing these blocks into ore at a stone cutter. A 30% chance to get 2 nuggets from each block, the same chance for both [[Stone cutter]] and [[Stone cutter II]] (tested on PC version 1.407).
+*While exploring the [[dungeon]], you may come across:
+**silver ore veins, requiring a pickaxe to mine, each yielding 8 nuggets, or 9 if the [[Perks#Jeweler Perk|Jeweler perk]] is unlocked.
+**[[Monsters#Golems|Silver Golems]] on levels 13 and 14, dropping 2-5 nuggets each.
+*By processing the [[silver crucian]] fish at the [[cooking table]], each yielding 1 nugget.
+*From the [[Moneylender]] in the [[Refugee camp]] for {{Money|700}} (with the ''[[Game of Crone]]'' DLC).
+
+It is '''not''' possible to find any precious metals in the [[Mining#Bog Ore|bog iron deposits]].
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Silver powder|powder]].
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Silver powder|4}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Silver ingot|1}}
+|{{Item|{{PAGENAME}}|2}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Silver ingot|1}}
+|{{Item|{{PAGENAME}}|2}}
+|1:30<br>{{Fuel|-|20}}
+|}
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+[[Category:secondary ore]]
+
+[[pt-br:Pepita de prata]]

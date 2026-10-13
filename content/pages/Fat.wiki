@@ -1,0 +1,80 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+
+| study        = {{Techpoint|Blue|20}}
+| alchemy      =  {{Item|Slowing solution}}
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| stacksize    = 30
+| type         = Bodypart
+| quest        = 
+| nameinternal = fat
+}}
+<b>{{PAGENAME}}</b> is a body part that can be extracted from a corpse at the [[preparation place|autopsy table]]. Upon removal, it has the effect of removing one Red Skull {{Skull|red}} and adding one White Skull {{Skull|white}}, similar to [[blood]]. In addition, similar to most other anatomy and theology items, it can be studied at the [[Study table]] for a {{Techpoint|Blue}} reward. For more information, see [[corpses]].
+
+==Recipe==
+{| class="wikitable" style = "width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Preparation place}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Corpse|1}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Blue|20}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Slowing solution|solution]]
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Vine press}}
+|-
+!Item Produced
+!Required Materials
+|-
+|{{Item|Oil|10}}
+|{{Item|{{PAGENAME}}|3}}
+|-
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Candle (1)|4}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Beeswax|2}}<br>{{Item|Hemp rope|1}}
+|-
+|{{Item|Candle (3)|4}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Beeswax|2}}<br>{{Item|White paint|3}}
+|}
+
+==Alchemy== 
+{| class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Slowing solution|1}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+[[pt-br:Gordura]]
+[[de:Fett]]

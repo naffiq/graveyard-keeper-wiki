@@ -1,0 +1,81 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_1_d_green
+| study        = {{Techpoint|Green|5}}
+| source       = [[Alchemy]]
+| buy          = [[Clotho|Clotho (T I)]]
+| sell         = 
+| cost         = 50
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:30em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Pumpkin|1|animation}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Cabbage|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Crop waste|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:30em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Green|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Heal potion|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Chaos solution|1}}
+|-
+|{{Item|Zombie juice|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Blood|1}}
+|-
+|{{Item|Dark Green Paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1|}}
+|-
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Glue|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Life solution|1}}<br>{{Item|Chaos extract|1}}
+|-
+|{{Item|Digestion potion|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Acceleration extract|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+
+[[pt-br:Pó de vida]]
+[[es:Polvo curativo]]

@@ -1,0 +1,15 @@
+Most buildings in the camp generate camp quality
+
+Refugees create satisfaction from water and food consumption, they need at least 10 [[Water]] and 30 [[Concepts|energy]]
+
+satisfaction fills Camp quality which turns into refugee happiness {{happiness}}
+
+
+
+
+refugee happiness {{happiness}} is needed for camp upgrades
+
+For more information you can always ask [[Marquis Teodoro Jr.]]
+
+[[Category:Refugee camp]]
+[[Category:Refugee satisfaction]]

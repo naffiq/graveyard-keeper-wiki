@@ -1,0 +1,12 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Sun cream.png
+| type         = Quest
+}}
+
+[[{{PAGENAME}}]] is a quest item from the [[Game of Crone]] DLC, obtained during the vampire questline. After gaining a clue to the vampire's identity from the [[Astrologer]] and confronting [[Master Alaric]], Alaric will tell you about his intention to stop the Ancient Curse, halfway through which he will faint. Giving him a drop of [[Blood]] will revive him, and he will reward you {{Item|Scroll of teleportation|3}} and the sun cream. You can give the sun cream to [[Horadric]] as "proof" of the vampire's death, and, after some reluctance, he will reward you with {{Money|5000}}. 
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]

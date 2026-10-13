@@ -1,0 +1,48 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| nameinternal = flask_dark_elixir
+| study        = N/A
+| vendor       = [[Clotho|Clotho (T II)]]
+| buyer        = ???
+| source       = [[Alchemy]]
+| cost         = 500
+| quest        = 
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> is produced through [[alchemy]] at the [[alchemy workbench (tier I)]]. It is used in the production of [[dark injection]]s.
+
+==Recipe==
+{| class="wikitable" style="width:31em;"
+! colspan="3"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Death powder|1}}<br>{{Item|Blood|1}}
+|{{Energy|-|5}}
+|}
+
+== Crafting ==
+{| class="wikitable" style="width:31em;"
+! colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Dark injection|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[es:Elixir oscuro]]
+[[pt-br:Elixir sombrio]]

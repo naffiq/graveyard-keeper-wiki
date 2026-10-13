@@ -1,0 +1,12 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Wood
+| source       = None
+}}
+Not obtainable.
+{{Navbox-Wood}}
+[[Category:wooden items]]
+[[pt-br:Lascas de madeira]]
+[[Category:Unobtainable]]

@@ -1,0 +1,17 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Witch Hill]]
+| cost         = 
+}}
+
+The {{PAGENAME}} can be found on [[Witch Hill]]. It is located to the right of the [[Portal]], around the side of the cliff, in a dig spot. 
+
+Used in Stranger Sins. Give it to Gerry in The Talking Skull.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

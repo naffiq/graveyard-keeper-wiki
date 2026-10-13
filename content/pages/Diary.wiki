@@ -1,0 +1,16 @@
+{{Stub}}
+{{Item Infobox 
+| name         = Keepers diary
+| image        = i_book_soft_1.png
+| type         = Quest Item
+| nameinternal = quest_cultit_book
+| study        = 
+| alchemy      = 
+| source       = Dungeon
+| cost         = 
+| quest        = [[Astrologer]]
+}}
+Quest item for [[Astrologer]], obtained from the [[Dungeon|Dungeon]] after completing the quest of opening gate for [[Snake]].
+After a short cutscene, the trap that incinerated you is disabled and you are free to take the diary. When you hand over the diary he gives you the quest to get some [[Acid]], in order to clean it. For more information see [[Astrologer]].
+{{Navbox-Quest}}
+[[Category:Quest items]]

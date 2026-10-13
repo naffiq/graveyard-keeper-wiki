@@ -1,0 +1,17 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Unimplemented
+| nameinternal = 
+| study        = 
+| source       = 
+| cost         = 999999
+}}
+{{PAGENAME}} is currently not obtainable.
+
+==See Also==
+{{*}} {{Item|A mug of beer}}
+
+<br>
+{{Navbox-Misc}}
+[[Category:Unobtainable]]

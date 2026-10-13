@@ -1,0 +1,26 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Recipe
+| nameinternal = 
+| source       = 
+}}
+
+You can find this recipe in the [[Cellar]] trunk.
+
+Unlocks the following:
+{| class="wikitable" style="text-align:left"
+!style="width:12em;"|Technology
+!style="width:15em;"|Recipes
+|-
+| rowspan="2" |Simple and Tasty
+| {{Item|Baked mushrooms}}
+|-
+| {{Item|Baked apple}}
+|}
+
+
+{{Navbox-Food recipes}}
+[[Category:Food recipes]]
+
+[[Category:Food recipes]]

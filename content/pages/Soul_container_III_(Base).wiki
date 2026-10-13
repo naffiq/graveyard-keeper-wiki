@@ -1,0 +1,35 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Soul Container III (base).jpg
+|location   = [[Souls room]]
+|technology = [[Spiritualism (Tech Tree)|Updated equipment II ]]
+|related    = 
+|footprint  = 3x4
+|rotatable  = False
+}}
+The '''{{PAGENAME}}''' is a workbench introduced with the [[Better Save Soul|Better Save Soul DLC]], that may be built in the [[Souls room]] after you unlock the [[Spiritualism (Tech Tree)|Updated equipment]] technology. {{PAGENAME}} has no use on its own other than being a prerequisite before using [[Soul container III]]. The [[Soul container III]] allows you to store up to 4 souls for later usage. Unlike the previous tiers of soul containers, souls stored at [[Soul container III]] no longer decay.
+
+To use one of these containers first, you have to build a frame first, {{PAGENAME}}, then fill it up by finishing the build with extra materials. There are only 3 spots in the [[Souls room]] where this container can be built.
+
+''Note: When a soul stays in the container for too long, it will eventually die and leave a [[Sin Shard]] behind. No drop in soul condition was observed in soul container III after 2 days , while  in other containers souls decayed. Either rate of decay slow or absent.''
+
+==Cost==
+{| class="wikitable" style="width:90%
+! style="width:5em%;" |Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+!Notes
+|-
+| style="text-align:center" |[[file:{{PAGENAME}} item.png|64px]]<br>(base)
+|{{Item|A polished brick of marble|4}}<br />{{Item|carved wood (silver quality)|4}}<br />{{Item|Complex iron parts|1}}
+| style="text-align:center" |{{energy|-|?}}
+|Not usable, but gives the ability to finish the build.
+|-
+| style="text-align:center" |[[file:{{PAGENAME}} Soul Container III.png|64px]]<br>(finish)
+|{{Item|A polished brick of marble|2}}<br />{{Item|Sin Shard|4}}<br />{{Item|steel parts|4}}
+| style="text-align:center" |{{energy|-|7}}
+|Adds {{Souls Room Capacity|20}}<br>Can store up to 4 souls (or 4 stacks of [[Sin Shard]]s), souls stored in here will no longer experience decay<br />
+|}
+
+{{Navbox-Souls room}}
+[[Category:Souls room workstations]]

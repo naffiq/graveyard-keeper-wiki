@@ -1,0 +1,27 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Graveyard]]
+|technology = [[Theology (Tech Tree)|Stone prayer station]]
+|footprint  = 2X2
+|rotatable  = False
+}}
+<!-- Put page content here -->
+Gives a static +4 {{Graveyard Rating}} when built. There can be maximum of 9 Stone prayer stations at the graveyard. Shares the same 9 slots with the {{Item|Lantern}} , {{Item|Flowerbed}} and {{Item|Wooden prayer station}} in the graveyard.
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=]]
+|{{Item|A polished brick of stone|4}}
+{{Item|A carved piece of stone|1}}
+{{Item|Book|variant=silver|1|Silver}}
+|
+|[[Theology (Tech Tree)|Stone prayer station]]
+|}
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+[[Category:Graveyard workstations]]

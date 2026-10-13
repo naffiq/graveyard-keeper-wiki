@@ -1,0 +1,37 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Graveyard]]
+|technology = [[Theology (Tech Tree)|Stone prayer station]]
+|footprint  = 2X4
+|rotatable  = True
+}}
+
+<!-- Put page content here -->
+
+Gives a static +3 {{Graveyard Rating}} when built.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Tech required
+!style="width:5em;"| Quality provided
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=]]
+
+|{{Item|A piece of marble|4}}
+|
+|[[Theology (Tech Tree)|Stone prayer station]]
+| +3 {{Graveyard Rating}}
+|Can be walked over
+|}
+
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+
+[[Category:Graveyard workstations]]
+[[Category:Graveyard items]]
+[[de:Marmorplatten]]

@@ -1,0 +1,72 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Insect
+| nameinternal = butterfly
+| study        = {{Techpoint|Green|10}}
+| stacksize    = 30
+| alchemy      = {{Item|Chaos extract}}, {{Item|Chaos powder}}
+| source       = Daytime flowers
+}}
+The '''{{PAGENAME}}''' is an insect, able to be found by foraging flowers during the day, after unlocking [[Farming and Nature (Tech Tree)|Insects]] under the given tech tree. It can be decomposed into reagents for use in [[alchemy]], or used as a bait for [[fishing]].
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Chaos powder|Powder]], [[Chaos extract|Extract]]
+|}
+
+==Alchemy==
+Butterflies can be decomposed into [[Chaos powder|powder]] or [[Chaos extract|extract]] with the [[alchemy mill]] and either of the distillation cubes, respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] produces one additional reagent at any workstation. 
+
+{| class="wikitable" style="width:35em; table-layout: fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Chaos powder|2}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Chaos extract|1}}
+|{{Item|{{PAGENAME}}|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Chaos extract|2}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+==Fishing==
+{{PAGENAME}}s can also be utilized while [[fishing]], as one of eight(8) available baits to choose from.
+*There are five(5) susceptible fish; the [[Frog]], [[Tilapia]], [[Perch]], [[Carp]], and [[Sturgeon]].
+*The [[Moth]] is practically identical to the {{PAGENAME}} in this regard.
+*Aside from the Frog and Sturgeon, these fish are also tempted by the third insect bait, the [[maggot]].
+*A {{PAGENAME}} (or Moth) is required in order to catch a Frog.
+*The Sturgeon is generally considered the best commodity, given a {{PAGENAME}} bait.
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:insects]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Borboleta]]

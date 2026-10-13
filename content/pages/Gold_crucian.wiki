@@ -1,0 +1,106 @@
+{{Item Infobox
+| name         = Gold Crucian
+| image        = i_fish_crucian_gold.png
+| cost         = 
+| price        = 919
+| study        = {{Techpoint|Green|50}}
+
+| source       = River
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_crucian_gold
+}}
+The <b>Gold Crucian</b> is a valuable [[Fishing|fish]], that can either be processed for [[cooking]] or sold to the [[Lighthouse Keeper]]. When processed at the [[cooking table]], the by-products notably include one [[gold nugget]].
+
+==Fishing==
+The odds of catching a fish are affected primarily by the other fish in the area at that time.  More competition means your chance of catching a particular fish over another is lowered.  Below is a table of this fish's preferences by the bait used, the place you choose to fish, where you choose to cast, the rod you use, and the time of day.   The Gold Crucian is one of the more selective fish in the game and can only be caught when using a particular mix of equipment. If a method isn't listed below it's impossible to catch this fish using it.
+
+WARNING: Though one would assume that using the Professional Kitchen in the [[Talking Skull Cellar]] to prepare larger numbers of Gold Crucian would be an efficient use of stamina, this method does '''''not''''' produce [[Gold nugget]]s. Prepare them one at a time on the cooking table at [[Sweet Home]].
+
+{| style="text-align:left; width:50%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Best
+|-
+|{{Item|Good fishing rod}}
+|Poor
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Gudgeon}}
+|Best
+|-
+|{{Item|Anchovy}}
+|Best
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Location
+|-
+!Name
+!Weight
+|-
+|River
+|Best
+|}
+{| class="wikitable" style="text-align:center;  width:90%;"
+!colspan="2"|Time of Day
+|-
+!Time
+!Weight
+|-
+|Day
+|Best
+|-
+|Night
+|Poor
+|}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|Blue fish fillet|4|gold}}<br>{{Item|Gold nugget|1}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|}
+
+==Notes==
+\**possibly a bug** while the best chances to lure Gold Crucian is low (16% at middle range in river), pressing "escape" key to cancel the fishing attempt will not consume the bait and therefore attempt to lure Gold Crucian can be repeated without penalty.
+Gold Crucian can be easily identified from other fish in the river by having faster movement then other fish.
+
+<br>
+{{Navbox-Fishing}}
+[[de:Steinkarpfen gold]]
+[[pt-br:Prussiano dourado]]

@@ -1,0 +1,51 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| cost         = 
+| price        = 150
+| consume      = 
+| study        = N/A
+| alchemy      = 
+| source       = [[The_Graveyard#Graves|Graves]], [[Crematorium]], [[Wall Crematorium]]
+| buy          = None
+| sell         = [[Horadric|Horadric (T I)]]
+| type         = Miscellaneous
+| stacksize    = 50
+| quest        = 
+| nameinternal = 
+}}
+This <b>{{lc:{{PAGENAME}}}}</b> is an item that will be regularly awarded to the player each time they bury or cremate a [[corpse]], while pointedly not being awarded when the corpse is disposed of in the nearby river. Its only known purpose is to be sold to [[Horadric]], the innkeeper of [[The Dead Horse]], at a consistent price of {{Money|150}} each.
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Place for burning corpses}}
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Salt|2}}<br>{{Item|Ash|5}}
+|{{Item|Wood billet|8}}<br>{{Item|Corpse|1}}
+|-
+!colspan="2"|[[file:Wall Crematorium Icon.png|30x30px]] [[Wall Crematorium]]
+|-
+!Items Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Ash|3}}<br>{{Item|Salt|2}}
+|{{Fuel|20}}<br>{{Item|Corpse|1}}
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+! NPC !! Buy Tier !! Sell Tier !! Base Price !! Consumption
+|-
+|{{NPC|Horadric}}
+|N/A
+|I
+|{{Money|150}}
+|N/A
+|}
+
+<br>
+{{Navbox-Quest}}
+[[Category:Quest items]]

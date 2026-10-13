@@ -1,0 +1,56 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Kitchen Garden]]
+|technology = 
+|related    = [[Merchant]]
+|footprint  = 7x3
+|rotatable  = No
+}}
+
+This item was removed in a recent update to the game, the [[Crate factory]] has replaced it. Prior to this update the packing table, which was located in the [[kitchen garden]], was required to craft {{item|crates}} which can be sold at the [[trade office]] in the [[village]]. The blueprint becomes available after obtaining the {{item|trade license}} and completing associated quest with the [[merchant]].
+
+The player can craft {{Quality|silver}} and {{Quality|gold}} quality crates depending on the quality of used vegetables. The boxes can only be sold in the [[trade office]] and have no further use.
+
+An alternative to the usage of the packing table is using the [[crate factory]].
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!colspan=4|[[file:kitchen garden workbench.png|64px|link=kitchen garden]] [[Kitchen garden]]
+|-
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Wooden plank|12}} <br> {{Item|Simple iron parts|4}} <br> {{Item|Complex iron parts|2}}
+|{{Energy|-|8}}
+|Requires Trade license
+|}
+
+==Recipes==
+{| class = "wikitable"
+! colspan="3" |{{item|packing table|||60px}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:27.5em;"| Materials Required
+!style="width:5em;"| Energy
+|-
+| [[file:crate silver item.png|link=crates|60px]] [[crates|silver crate]]
+| {{Item|Nails|1}} <br> {{Item|Flitch|2}} <br> {{Item|Onion|22|silver}} or {{Item|Lentils|20|silver}} or {{Item|Pumpkin|16|silver}}
+| {{Energy|-|10}}
+|-
+| [[file:crate gold item.png|link=crates|60px]] [[crates|gold crate]]
+| {{Item|Nails|1}} <br> {{Item|Flitch|2}} <br> {{Item|Onion|22|gold}} or {{Item|Lentils|22|gold}} or {{Item|Pumpkin|16|gold}}
+| {{Energy|-|10}}
+|}
+
+==Screenshots==
+[[File:Cost Crates Packing Table.png|500px|GUI for the packing table]]<br> [[File:Packing.Table.png|500px|This is how it looks in the garden]]
+
+{{Navbox-Kitchen garden}}
+[[Category:Workstations]]
+
+[[Category:Kitchen garden workstations]]

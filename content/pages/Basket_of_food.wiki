@@ -1,0 +1,13 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = [[Quest]]
+| nameinternal = 
+| quest        = [[Ms. Charm]]'s Bad News
+}}
+
+Part of [[Ms. Charm]]'s Bad News quest to get a perfume from [[Miss Chain]]. [[Miss Chain]] Will ask you to deliver this basket to [[Clotho]] in the swamp, she'll tell you she doesn't like apples. You now need 12 frogs to give to Miss Chain. [[Clotho]] can sell you 10 frogs.
+
+{{Navbox-Quest}}
+[[Category:quest items]]

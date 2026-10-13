@@ -1,0 +1,17 @@
+{{Location Infobox
+|Name = {{PAGENAME}}
+|image = camp.png
+|buildable = False
+|exits = [[Town]]
+|npcs = [[Gypsy Baron]]
+}}
+The gypsy camp is located in the northeast of the village. The road from the [[Fresh egg basket|chicken farm]] to the [[mountain fort]] leads there. It consists of four tents and a wagon around a campfire. There's also a barrel on wheels and a handcart.
+
+This is, where the gypsies entered the region and have put up camp. They are unable to leave, because the mountain path is blocked. The [[gypsy baron]] is still there, his sister [[Esmeralda]] and his niece [[Ms. Charm|Aleidita]] are no longer at the camp. One of the gypies was also arrested by the [[Inquisitor]].
+
+You can't interact with the buildings there, but the [[gypsy baron]] has interesting stories to tell. A few [[quest]]s take place here and the baron has a [[Cookery (Tech Tree)|cooking recipe]] for you.
+
+
+{{Navbox-Locations}}
+
+[[ru:Лагерь]]

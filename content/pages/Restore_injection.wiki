@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Embalming Injection
+| nameinternal = jar_green_l_plus
+| study        = N/A
+
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 5
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is used at the embalming table to restore 50% of a body's decay.
+
+==Recipe==
+{| class="wikitable" style = "width:35em;"
+! colspan="3"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Balsamic solution|1}}<br>{{Item|Water|6}}<br>{{Item|Conical flasks|2}}
+|N/A
+|}
+
+==Crafting==
+{| class="wikitable"
+! colspan="3"|{{Item|Embalming table}}
+|-
+!style = "width:15em;|Item Produced
+!style = "width:15em;|Required Materials
+!Notes
+|-
+|{{Item|Corpse|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Corpse|1}}
+| +50% bodies decay
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Embalming injections]]
+[[Category:Alchemy]]
+[[es:Inyección restauradora]]
+[[pt-br:Injeção de restauração]]

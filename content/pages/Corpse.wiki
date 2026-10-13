@@ -1,0 +1,91 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Body
+| nameinternal = 
+| source       = [[Donkey]] or [[Graves]]
+}}
+
+A graveyard keeper works with {{item|corpse}}s. They are obtained, can be altered and must be disposed of properly.
+
+== Obtaining ==
+===Donkey===
+[[file:delivery 1.png|x170px|link=donkey|The donkey deliveres a corpse|left]]
+Comrade [[file:donkey.png|50px|link=donkey]][[donkey]]'s main job is delivering corpses to the morgue. For more information, read about the [[morgue]] or the [[donkey]].
+{{clear}}
+
+===Exhumation===
+[[file:Exhumation.png|x170px|link=Exhumation permission|The graveyard keeper digs up a corpse|left]]
+Already buried {{item|corpse}}s may be exhumed for the cost of one {{item|exhumation permission}}.
+
+Sometimes it makes sense to exhume a corpse, if you want to improve its stats or get rid of it to raise your {{Graveyard Rating}}. If you rebury or cremate it, you'll obtain a {{item|burial certificate}}, which nearly makes up for the costs of the {{item|exhumation permission}}.{{clear}}
+
+== Treating ==
+[[file:Morgue Infobox.png|x250px|link=Morgue|The morgue offers a lot of means to alter a corpse|left]]
+The [[morgue]] offers a lot of workstations to alter a corpse's rating. There, you can [[Preparation place|remove and install body parts]] and [[Embalming table|apply injections]]. You are also able to [[Resurrection table|revive bodies]] to obtain [[Zombie|helpers]] for your hard physical work.
+
+For more details, please refer to the [[morgue]] page.
+{{clear}}
+
+===Rating===
+Each corpse has a rating determined by the number of {{Red Skull}} and {{White Skull}}. The number of each represents the sins and good deeds respectively which were performed by the corpse while they were living. The numbers are based on the body parts that are currently in the corpse. The starting total for a corpse are between 4 and 6 {{White Skull}} and 2 and 4 {{Red Skull}}. By choosing which body parts to include, remove, or replace, it is possible to achieve full [[12-Skull Corpse Preparation|12 corpse rating]] on a body or exceed it.
+
+With the addition of the [[Game of Crone]] DLC, the maximum skull amount for a body increases to 16 and can be fully utilized by new gravestones. With access to the [[Souls room]] and its new materials added by the [[Better Save Soul]] DLC, the maximum corpse rating can be increased to 26. Music Master has made a good quality guide for the [https://steamcommunity.com/sharedfiles/filedetails/?id=2275207503 26 corpse rating.]
+
+Every {{Red Skull}} a corpse has subtracts 1 {{Graveyard Rating}} from your [[graveyard]] when it is buried.
+
+The {{White Skull}} count determines the maximum corpse rating. The {{Graveyard Rating}} of a grave cannot exceed the number of {{White Skull}} of a buried corpse.
+
+Additionally there are {{Green Skull}}, which represent the body's decay, and accumulate until it is buried. Each full {{Green Skull}} (equivalent to 10% decay) will remove a {{White Skull}}.
+
+===Corpse decay===
+Corpses arrive with 100% freshness and begin decaying immediately after [[Morgue|delivery]]. For every 10% freshness lost, a {{Green Skull}} will appear on the corpse which counts against the corpse's rating.
+
+Corpses decay very fast if left outside uncovered. You can slow corpse decay by bringing it into the [[morgue]]. Further methods of combating decay:
+* Placing it on a [[pallet]], [[double pallet]], [[preparation place]] or [[embalming table]] slows the decay further.
+* Placing it on a [[fridge pallet]], [[preparation place II]] or [[embalming table II]] temporarily halts decay (until removed from it).
+* A [[restore injection]] restores half of its current decay.
+* A [[preservative injection]] permanently halts decay. 
+* Burying the corpse halts decay until exhumed.
+
+If a corpse is taken to the [[preparation place]] immediately as [[donkey]] arrives at dusk and the player fully rests and returns, the corpse will fall to about 95% freshness, which is sufficient time left for a full autopsy and burial.
+
+A corpse below 90% freshness (1 full {{Green Skull}} or more) cannot be [[Resurrection table|resurrected]].
+
+== Disposing ==
+There are four possibilities to dispose of a corpse:
+===Burial===
+[[file:graveyard.png|x170px|link=The Graveyard|Burying a corpse in the graveyard|left]] Corpses can be buried in the [[graveyard]] and decorated with a headstone and grave fence, affecting your {{Graveyard Rating}}. The higher the number of {{White Skull}}, the better, with 12 being [[12-Skull Corpse Preparation|optimal]] without DLC, but 26 being possible with [[Better Save Soul]] (incidently, also provides better graves for it too, which you will need for a 26 skull body).
+
+You'll get a {{item|burial certificate}} for each corpse you bury, which can be sold to [[Horadric]].
+{{clear}}
+
+===Cremation===
+[[file:pyre.png|x170px|link=Crematorium|Burning a corpse on a funeral pyre|left]] As soon as you've unlocked [[Theology (Tech Tree)|cremation]], it's better to cremate (burn) a {{item|corpse}} with bad stats on a [[Place for burning corpses|funeral pyre]], instead of burying it, which would lower your {{Graveyard Rating}}. It takes 8x {{item|wood billet}}s to build the pyre. Put the {{item|corpse}} atop and ignite it.
+
+You'll get a {{item|burial certificate}} for each corpse you burn, which can be sold to [[Horadric]]. You are also rewarded with [[Salt]] and [[Ash]].
+
+Up to two [[Wall Crematorium|wall crematoria]] may be built in the [[Souls room]]. These use 20 [[fuel]] instead of wood per use and return a [[Burial certificate]], 2 [[Salt]], and 3 [[Ash]].{{clear}}
+
+===Dumping===
+[[file:dumping.png|x170px|link=River|How far can you toss a corpse?|left]]
+In most countries, it is illegal to toss a {{item|corpse}} into a [[river]]. There are no known negative consequences if you do so in game.
+
+After you first do so, [[Gerry]] appears, scolds you, and tells you the secrets of [[Theology (Tech Tree)|cremation]].
+
+As you won't get a {{item|burial certificate}} for corpses you dump, this way of disposal is a financial loss for you.
+{{clear}}
+
+===Reviving===
+[[file:zombie porter.png|x170px|link=Zombie|A willing worker|left]]
+The last possibility to get rid of a {{item|corpse}} is to put it onto a [[resurrection table]] and to create a {{item|zombie}} from it. You first have to unlock [[Anatomy and Alchemy (Tech Tree)|Second chance]] by talking to [[Gunter]].
+
+As you won't get a {{item|burial certificate}} for corpse you resurrect, this way of disposal means a short term financial loss for you, but you gain a source of free labor. It's not clear if reviving corpses is a legal act by the measure of the [[inquisitor]]. But who cares? If you bury the Corpse then unbury it you can get a certificate.
+{{clear}}
+
+[[Category:Topics]]
+[[Category:Spoilers]]
+[[ja:死体]]
+[[pt-br:Cadáver]]
+[[ru:Труп]]
+[[Category:Large items]]

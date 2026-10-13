@@ -1,0 +1,600 @@
+[[File:Fishing minigame GUI.png|175px|right]]To be able to start fishing, one only needs to obtain a fishing rod, available exclusively from the [[Lighthouse Keeper]]. After either bringing him a small collection of [[moth]]s to obtain the 'starter' rod or purchasing one of the three he sells, simply approach any of the five fishing spots found throughout the world and cast out a line. At first glance, there will be multiple unknown potential targets at each location, each target governed by a percentage chance; there are several variables that determine what chance the player has at catching any particular fish.
+
+Fishing itself is a minigame; after selecting a bait, hold 'E' to commit to a cast and browse each of the three sub-areas unique to each location, releasing 'E' in order to cast the line into a desired sub-area. Occasionally, the fishing float (bobber) will move vertically, signalling a bite and requiring the player to left-click at that precise moment in order to hook a fish. Alternatively, players may instead focus on the Keeper's hand movement, which will show an erratic rhythm after making synced and consistent hand opening and closing motions, at which time players should left click or press "E" in order to hook a fish. Completely missing this time-window will only inflict a {{Energy}} penalty based on cast-cost, while a failed attempt will end the cast and use-up the bait. Once the fish is hooked, the player, by either pressing 'E' or left-clicking, is then required to keep a weighted yellow bar over an animated fish in order to eventually reel it in, the progress of which is indicated by a green bar. The species of fish, the quality of that fish, and the type of fishing rod used by the player will all affect how difficult this process will be.
+
+As of v1.027, the in-game clock stops while fishing, allowing the player to fish at length during a desired time of day, without having to worry too much about active [[effects]] timing out or various [[Days|daily visits]]. Interestingly, this does not stop various cooldowns, such as the [[Teleportstone]], or passive movement, such as [[zombie]] workers. Note that this includes the [[donkey]] who will drop off a corpse earlier than the normal time of sundown, and that corpses still decay while fishing. 
+
+==Fishing Rods==
+While any fishing rod is the only requirement to fish, the <i>type</i> of fishing rod chosen will determine several things, including the size of the yellow bar during the minigame; the better the rod, the larger the bar, the easier it is to reel in the fish. It will also impact what species of fish are available, and often influence the odds of catching specific tiers of fish, as well as their inherent quality. For example, lower tiers of fish - such as the [[Gudgeon]] and [[Tilapia]] - will generally respond well to a lower tier rod, while potentially ignoring the high tier. Vice versa, higher tiers of fish - such as the [[Salmon]] and [[Gold crucian]] - will prefer, if not require, a high tier rod, while ignoring the low tier. Lastly, there are a few fish - such as the [[Perch]] and [[Bream]] - that generally have no preference when it comes to rods, in which case other variables, such as the chosen bait and sub-area competition, will have a greater influence.
+
+{| class="wikitable" style="text-align:center;"
+!colspan="5"|Types of Fishing Rods
+|-
+!Item
+!Source
+!Price
+!Description
+!Notes
+|-
+|{{Item|Simple fishing rod}}
+|[[Lighthouse Keeper]]
+|{{Money|200}}
+|Tool Efficiency: 75%<br>Energy consumption: {{Energy|-|1}}
+|Ideal for lower-tiered fish<br>{{Energy|-|3}} per cast / missed bite
+|-
+|{{Item|Good fishing rod}}
+|[[Lighthouse Keeper]]
+|{{Money|300}}
+|Tool Efficiency: 90%<br>Energy consumption: {{Energy|-|1}}
+|Able to catch the most fish<br>{{Energy|-|2}} per cast / missed bite
+|-
+|{{Item|Excellent fishing rod}}
+|[[Lighthouse Keeper]]
+|{{Money|500}}
+|Tool Efficiency: 100%<br>Energy consumption: {{Energy|0}}
+|Ideal for higher-tiered fish<br>{{Energy|-|1}} per cast / missed bite
+|}
+
+==Bait==
+While a particular fishing rod may provide the <i>potential</i> to catch certain fish, the choice in bait is often the greatest determining factor in regard to the <i>chance</i> in catching a <i>particular</i> fish. Similar to the various types of rods, all fish have certain preferences in regard to bait, and will often ignore an attempt made with an undesirable choice. This can prove challenging, in either finding the particular bait that a certain fish might require, or determining which bait a desired fish prefers over another fish in the same competitive sub-area. Bait can be equipped during the casting screen using the left and right arrows at the bottom. 
+
+{| style="width:53em; text-align:center;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="table-layout:fixed; width:25em;"
+!colspan="2"|Lures
+|-
+!Item
+!Source
+|-
+|{{Item|Lure with a gem}}
+|[[Lighthouse Keeper]]
+|-
+|{{Item|Steel lure}}
+|[[Lighthouse Keeper]]
+|}
+|
+{| class="wikitable" style="table-layout:fixed; width:25em;"
+!colspan="2"|Fish-bait
+|-
+!Item
+!Source
+|-
+|{{Item|Anchovy}}
+|Fishing
+|-
+|{{Item|Gudgeon}}
+|Fishing
+|}
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="table-layout:fixed; width:25em;"
+!colspan="2"|Insect-bait
+|-
+!Item
+!Source
+|-
+|{{Item|Butterfly}}
+|Daytime Flowers
+|-
+|{{Item|Maggot}}
+|Compost
+|-
+|{{Item|Moth}}
+|Nighttime Flowers
+|}
+|
+{| class="wikitable" style="table-layout:fixed; width:25em;"
+!colspan="2"|None
+|-
+!Item
+!Source
+|-
+|[[File:Inverse_additem.png|34x34px|link=|No Bait]]No Bait
+|Inherent
+|}
+|}
+
+==Effects==
+A simple way to gain a temporary advantage during fishing is by consuming [[White fish fillet|white-fish]] food, purchased from [[Horadric]] or crafted through [[cooking]], the recipe for which can be unlocked after talking with the [[Lighthouse Keeper]]. For more information on helpful buffs, see [[effects]].
+
+{| class="wikitable" style="text-align:center;"
+!Effect
+!Source
+!style="width:5em"|Time
+!Description
+!Notes
+|-
+|[[File:Unknown1 effect.png|72x72px]]<br>Fast reflexes
+|{{Item|Fish nuggets}}
+|2:00
+|You have additional time to hook a fish.
+|While [[fishing]], increases the 'bob' threshold<br>from ~1 second to ~2 seconds.
+|-
+|[[File:Fish effect.png|72x72px]]<br>Good fisherman
+|{{Item|Fish soup}}<hr>{{Item|Baked fish}}
+|2:00
+|You don't let fish off the hook easily.
+|While [[fishing]], decreases the rate of descent<br>regarding the green progress bar.
+|}
+
+==Fish==
+There are currently sixteen(16) different species of fish to be found in-game. They each have different preferences when it comes to fishing rods and types of bait, and are only available at certain locations. They can also be roughly categorized into low, mid, and high tiers, based mostly on their preferred rod, difficulty to reel-in, processed materials, and the tier at which they're sold to the [[Lighthouse Keeper]].
+
+{| class="sortable wikitable" style="text-align:center;"
+! colspan="14" |Low-Tier
+|-
+!Fish
+!style="width:5em;"|Materials
+!Base sell price
+!colspan="6"|Bait
+!colspan="3"|Rod
+!Location
+!Notes
+|-
+!{{ItemSprite | frog | notext=yes | size=60}}
+|{{Item|Raw sliced meat|3:1}}
+|{{Money|4}}
+|{{ItemSprite | moth | notext=yes | size=40}}
+|{{ItemSprite | butterfly | notext=yes | size=40}}
+|
+|
+|
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|
+|Village /<br>Swamp
+|
+|-
+!{{ItemSprite | gudgeon | notext=yes | size=60}}
+|{{Item|White fish fillet|1}}
+|{{Money|5}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|
+|
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|
+|Village /<br>Waterfall
+|Fish-bait
+|-
+!{{ItemSprite | anchovy | notext=yes | size=60}}
+|{{Item|White fish fillet|1}}
+|{{Money|14}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|
+|
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Sea
+|Fish-bait
+|-
+!{{ItemSprite | tilapia | notext=yes | size=60}}
+|{{Item|White fish fillet|2}}
+|{{Money|17}}
+|{{ItemSprite | moth | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|{{ItemSprite | butterfly | notext=yes | size=40}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|
+|Village /<br>Swamp
+|
+|-
+!{{ItemSprite | perch | notext=yes | size=60}}
+|{{Item|White fish fillet|3}}
+|{{Money|22}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|{{ItemSprite | moth | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|{{ItemSprite | butterfly | notext=yes | size=40}}
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Village /<br>Waterfall
+|Prefers Daytime
+|-
+!{{ItemSprite | eel | notext=yes | size=60}}
+|{{Item|White fish fillet|3}}<hr>{{Item|Electric powder|2}}
+|{{Money|28}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Sea /<br>Swamp
+|@Sea;<br>Requires Daytime<br>Ignores Good Rod<hr>Decomposes<br>via [[Alchemy]]
+|-
+! colspan="14" |Mid-Tier
+|-
+!Fish
+! style="width:5em;" |Materials
+!
+! colspan="6" |Bait
+! colspan="3" |Rod
+! Location
+!Notes
+|-
+!{{ItemSprite | bream | notext=yes | size=60}}
+|{{Item|Quality fish fillet|1}}
+|{{Money|40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|
+|{{ItemSprite | simple fishing rod | notext=yes | size=40}}
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Waterfall<br>/ River
+|
+|-
+!{{ItemSprite | sardine | notext=yes | size=60}}
+|{{Item|Quality fish fillet|2}}
+|{{Money|79}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Sea
+|
+|-
+!{{ItemSprite | tuna | notext=yes | size=60}}
+|{{Item|Quality fish fillet|2}}
+|{{Money|83}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Sea
+|Prefers Daytime<br>Prefers Anchovy<br>over Gudgeon
+|-
+!{{ItemSprite | pike | notext=yes | size=60}}
+|{{Item|Quality fish fillet|3}}
+|{{Money|140}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|River
+|Prefers Daytime<br>Prefers Gem Lure<br>over Steel Lure
+|-
+!{{ItemSprite | silver crucian | notext=yes | size=60}}
+|{{Item|Quality fish fillet|3}}<br>{{Item|Silver nugget|1}}
+|{{Money|98}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|
+|
+|
+|
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Village
+|Requires Nighttime
+|-
+! colspan="14" |High-Tier
+|-
+!Fish
+! style="width:5em;" |Materials
+!
+! colspan="6" | Bait
+! colspan="3" |Rod
+!Location
+!Notes
+|-
+!{{ItemSprite | carp | notext=yes | size=60}}
+|{{Item|Blue fish fillet|1}}
+|{{Money|184}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | moth | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|{{ItemSprite | butterfly | notext=yes | size=40}}
+|[[File:Inverse additem.png|40px|No Bait|link=]]
+|
+|
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Waterfall
+|
+|-
+!{{ItemSprite | sturgeon | notext=yes | size=60}}
+|{{Item|Blue fish fillet|2}}
+|{{Money|184}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|{{ItemSprite | moth | notext=yes | size=40}}
+|{{ItemSprite | butterfly | notext=yes | size=40}}
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Waterfall<br>/ River
+|
+|-
+!{{ItemSprite | salmon | notext=yes | size=60}}
+|{{Item|Blue fish fillet|3}}
+|{{Money|110}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|{{ItemSprite | steel lure | notext=yes | size=40}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|{{ItemSprite | maggot | notext=yes | size=40}}
+|
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Sea /<br>Waterfall
+|Prefers Gem Lure<br>over Steel Lure<hr>@Waterfall;<br>Ignores Maggot
+|-
+!{{ItemSprite | gold crucian | notext=yes | size=60}}
+|{{Item|Blue fish fillet|4}}<br>{{Item|Gold nugget|1}}
+|{{Money|919}}
+|{{ItemSprite | anchovy | notext=yes | size=40}}
+|{{ItemSprite | gudgeon | notext=yes | size=40}}
+|
+|
+|
+|
+|
+|{{ItemSprite | good fishing rod | notext=yes | size=40}}
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|River
+|16% Day vs<br>9% Night
+|-
+!{{ItemSprite | goldfish | notext=yes | size=60}}
+|{{Item|Blue fish fillet|4}}
+|{{Money|3750}}
+|{{ItemSprite | lure with a gem | notext=yes | size=40}}
+|
+|
+|
+|
+|
+|
+|
+|{{ItemSprite | excellent fishing rod | notext=yes | size=40}}
+|Sea
+|2% Day vs<br>5% Night
+|}
+
+==Locations==
+There are a total of five(5) fishing spots found in-game. The following is an extensive breakdown of each location, by species of fish, maximum achievable chance, recommended equipment for that chance, and any relevant notes in regards to each particular fish at each specific location.
+
+===[[Village Pond]]===
+In the north-eastern part of the village, there is a small pond with a fishing pier.
+[[File:Village fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+! colspan="4" style="width:55em;" |Available Fish: {{Item|Frog}} / {{Item|Gudgeon}}(x3) / {{Item|Tilapia}} / {{Item|Perch}} / {{Item|Silver crucian}}<br>Useless Items: N/A<br>Unnecessary Items: {{Item|Simple fishing rod}} / {{Item|Lure with a gem}} / {{Item|Anchovy}} / {{Item|Gudgeon}}
+|-
+!Fish
+!Max Chance
+!Recommended Items
+!Notes
+|-
+|{{Item|Frog}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+|No dis/advantage when compared to [[Fishing#Locations#Swamp|Swamp]] location.
+|-
+|{{Item|Gudgeon}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:Inverse additem.png|frameless|40x40px|No Bait]]
+|No dis/advantage when compared to [[Fishing#Locations#Waterfall|Waterfall]] location.<br>Competition with the Tilapia complicates Mid sub-area.
+|-
+|{{Item|Tilapia}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]]<br>[[File:I moth.png|link=Moth|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+|Small advantage when compared to [[Fishing#Locations#Swamp|Swamp]] location.<br>Competition with the Gudgeon complicates 'No Bait'.
+|-
+|{{Item|Perch}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]]<br>[[File:I fish gudgeon.png|link=Gudgeon|frameless|40x40px]][[File:I fish anchovy.png|link=Anchovy|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+| Large advantage when compared to [[Fishing#Locations#Waterfall|Waterfall]] location.
+|-
+|{{Item|Silver crucian}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:i bait steel.png|link=Steel lure|frameless|40x40px]]
+|No alternate location.<br>Only available during the night.<br>Top 3 most valuable fish.
+|-
+!Summary:
+| colspan="3" |Aside from the crucian, all these fish can be caught west of the [[river]], assuming one has repaired the [[stone bridge]]. Thus, unless it's convenient, or farming a specific fish like the [[silver crucian]], this location doesn't stay relevant for long, though does remain pleasantly straight-forward and uncomplicated.
+|}
+
+===[[Sea]]===
+The sea requires you to travel east all the way through the [[village]] to the [[beach]], north of the [[lighthouse]].
+[[File:Sea fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+! colspan="4" style="width:55em;" | Available Fish: {{Item|Anchovy}}(x3) / {{Item|Eel}} / {{Item|Sardine}} / {{Item|Tuna}}(x2) / {{Item|Salmon}} / {{Item|Goldfish}}<br>Useless Items: {{Item|Moth}} / {{Item|Butterfly}}<br>Unnecessary Items: {{Item|Steel lure}} / {{Item|Anchovy}} / {{Item|Gudgeon}}
+|-
+!Fish
+!Max Chance
+!Recommended Items
+! Notes
+|-
+|{{Item|Anchovy}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:Inverse additem.png|frameless|40x40px|No Bait]]
+|No alternate location.<br>Competition with other fish complicates higher-tier rods.
+|-
+|{{Item|Eel}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]]
+|Large disadvantage when compared to [[Fishing#Locations#Swamp|Swamp]] location.<br>Only available during the day.
+|-
+|{{Item|Sardine||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]]<hr>[[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:i bait steel.png|link=Steel lure|frameless|40x40px]][[File:I fish anchovy.png|link=Anchovy|frameless|40x40px]][[File:I fish gudgeon.png|link=Gudgeon|frameless|40x40px]]
+|No alternate location.<br>Competition with the Anchovy complicates 'No Bait'.<br>Competition with the Eel ''may'' complicate Maggot bait.
+|-
+|{{Item|Tuna||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]]<br>[[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:i bait steel.png|link=Steel lure|frameless|40x40px]][[File:I fish anchovy.png|link=Anchovy|frameless|40x40px]][[File:I fish gudgeon.png|link=Gudgeon|frameless|40x40px]]
+|''Pro-Tip; see Goldfish below.''<br>No alternate location.<br>Competition with the Anchovy complicates 'No Bait'.<br>Prefers the daytime, when competing (<100%).<br>Prefers Anchovy bait, over Gudgeon.
+|-
+|{{Item|Salmon||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]]
+|''Pro-Tip; Guaranteed {{Quality|silver}}Quality when using Maggot.''
+''Guarantee Gold Star (on catch) with Anchovy bait.''<br>Arguable dis/advantage when compared to [[Fishing#Locations#Waterfall|Waterfall]] location.
+|-
+|{{Item|Goldfish}}
+|5%
+|[[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]]
+|No alternate location.<br>Prefers the nighttime; 2% chance otherwise.<br>When farming, 95% chance of Tuna.<br>Top 3 most valuable fish.
+|-
+!Summary:
+| colspan="3" |One of the more complex locations, with a lot of competition, and of the six available fish, four are unique and one is quite rare. Also includes some odd percentages, a few relating to changes in day/night.
+|}
+
+===[[Waterfall]]===
+The waterfall can be found by traveling directly north after crossing the [[stone bridge]] west of the [[graveyard]].
+[[File:Waterfall fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+! colspan="4" style="width:55em;" |Available Fish: {{Item|Gudgeon}}(x2) / {{Item|Bream}} / {{Item|Perch}} / {{Item|Carp}}(x3) / {{Item|Sturgeon}} / {{Item|Salmon}}<br>Useless Items: N/A<br>Unnecessary Items: {{Item|Simple fishing rod}}
+|-
+!Fish
+!Max Chance
+!Recommended Items
+!Notes
+|-
+|{{Item|Gudgeon}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:Inverse additem.png|frameless|40x40px|No Bait]]
+|No dis/advantage when compared to [[Fishing#Locations#Village Pond|Village Pond]] location.<br>Competition with the Bream complicates Near sub-area.
+|-
+|{{Item|Bream||animation}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I bait steel.png|link=Steel lure|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]]
+|Small disadvantage when compared to [[Fishing#Locations#River|River]] location.<br>Competition with the Gudgeon complicates 'No Bait'.<br>Competition with the Carp complicates Excellent Rod.
+|-
+|{{Item|Perch}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fish anchovy.png|link=Anchovy|frameless|40x40px]][[File:I fish gudgeon.png|link=Gudgeon|frameless|40x40px]]<hr>[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+|Small disadvantage when compared to [[Fishing#Locations#Village Pond|Village Pond]] location.<br>Competition with the Carp complicates Excellent Rod.<br>Prefers daytime, when competing (<100% chance).
+|-
+|{{Item|Carp||animation}}
+|100%
+|[[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]]<br>[[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]][[File:Inverse additem.png|frameless|40x40px|No Bait]]
+|No alternate location.<br>Competition with other fish complicates Steel Lure.
+|-
+|{{Item|Sturgeon||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:I bait steel.png|link=Steel lure|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]<hr>[[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I fish anchovy.png|link=Anchovy|frameless|40x40px]][[File:I fish gudgeon.png|link=Gudgeon|frameless|40x40px]]
+| Small advantage when compared to [[Fishing#Locations#River|River]] location.<br>Competition with the Carp ''may'' complicate some bait.
+|-
+|{{Item|Salmon||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:I bait steel.png|link=Steel lure|frameless|40x40px]]
+|''Pro-Tip; Guaranteed {{Quality|gold}}Quality when using lures.''<br>Arguable dis/advantage when compared to [[Fishing#Locations#Sea|Sea]] location.<br>Competition with Perch complicates fish-bait.<br>Competition with other fish complicates Excellent Rod.
+|-
+!Summary:
+| colspan="3" |A highly competitive location, that is thankfully balanced out by strong preferences, such as the Carp's requirement for - and the Gudgeon's hatred of - the excellent fishing rod. There is some interesting variance in competition, due to variables such as day/night, though they don't factor into the fish already at 100% chance.
+|}
+
+===[[Swamp]]===
+The swamp is found across the [[stone bridge]] to west of the [[graveyard]].  The fishing spot is south-west of the [[Clotho|witch's]] hut.
+[[File:Swamp fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+! colspan="4" style="width:55em;" |Available Fish: {{Item|Frog}} / {{Item|Tilapia}} / {{Item|Eel}}(x2}<br>Useless Items: {{Item|Lure with a gem}} / {{Item|Steel lure}} / {{Item|Anchovy}} / {{Item|Gudgeon}}<br>Unnecessary Items: {{Item|Simple fishing rod}}
+|-
+!Fish
+!Max Chance
+! Recommended Items
+! Notes
+|-
+|{{Item|Frog}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+|No dis/advantage when compared to [[Fishing#Locations#Village Pond|Village Pond]] location.
+|-
+|{{Item|Tilapia}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+|Small disadvantage when compared to [[Fishing#Locations#Village Pond|Village Pond]] location.<br>Competition with the Eel complicates 'No Bait' and Maggot.
+|-
+|{{Item|Eel}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]]<br>[[File:I maggot.png|link=Maggot|frameless|40x40px]][[File:Inverse additem.png|frameless|40x40px|No Bait]]
+|Large advantage when compared to [[Fishing#Locations#Sea|Sea]] location.<br>Competition with the Tilapia ''may'' complicate Mid sub-area.
+|-
+!Summary:
+| colspan="3" |A very straight-forward location, perfect for those starting out, as these are all low tier-fish without much competition. The only downside is the limited selection and usefulness of the fish and its remote location.
+|}
+
+===[[River]]===
+After removing mountain-pass [[blockage]]s, either north-west of [[Sweet Home|your home]] or by following the path west on the other side of the river, one can access this spot by following the river north through the [[Forest near the river|forest]].
+[[File:River fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+! colspan="4" style="width:55em;" |Available Fish: {{Item|Bream}} / {{Item|Pike}}(x2) / {{Item|Sturgeon}} / {{Item|Gold crucian}}(x2)<br>Useless Items: N/A<br>Unnecessary Items: {{Item|Simple fishing rod}} / {{Item|Lure with a gem}} / {{Item|Steel lure}}
+|-
+!Fish
+!Max Chance
+!Recommended Items
+!Notes
+|-
+|{{Item|Bream||animation}}
+|100%
+|[[File:I fishing rod 0.png|link=Simple fishing rod|frameless|40x40px]][[File:i bait steel.png|link=Steel lure|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]]<hr>[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:Inverse additem.png|frameless|40x40px|No Bait]]
+| Small advantage when compared to [[Fishing#Locations#Waterfall|Waterfall]] location.<br>Competition with the Pike complicates other bait.
+|-
+|{{Item|Pike||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I bait gem.png|link=Lure with a gem|frameless|40x40px]][[File:I maggot.png|link=Maggot|frameless|40x40px]]
+|''Pro-Tip; see Gold Crucian below.''<br>No alternate location.<br>Competition with other fish complicates most bait.<br>Prefers the daytime, except when competing with Gold Crucian.<br>Prefers Gem Lure, over Steel Lure.
+|-
+|{{Item|Sturgeon||animation}}
+|100%
+|[[File:I fishing rod 1.png|link=Good fishing rod|frameless|40x40px]][[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I moth.png|link=Moth|frameless|40x40px]][[File:I butterfly.png|link=Butterfly|frameless|40x40px]]
+|Small disadvantage when compared to [[Fishing#Locations#Waterfall|Waterfall]] location.<br>Competition with other fish complicates most bait.
+|-
+|{{Item|Gold crucian}}
+|16%
+|[[File:I fishing rod 2.png|link=Excellent fishing rod|frameless|40x40px]][[File:I fish anchovy.png|link=Anchovy|frameless|40x40px]][[File:I fish gudgeon.png|link=Gudgeon|frameless|40x40px]]
+|No alternate location.<br>Prefers the daytime; 1-9% chance otherwise.<br>When farming, 84% chance of Pike.<br>Top 3 most valuable fish.
+|-
+!Summary:
+| colspan="3" | Despite a relatively simple appearance, this location can be particularly volatile regarding competition, especially due to changes in day/night, impacting most of the fish - in particular the prized [[gold crucian]]. However, despite containing a mere four fish, 2 are unique and one is rare, making this location a high-priority among most fishing enthusiasts.
+|}
+
+<br>
+{{Navbox-Fishing}}
+[[Category:Topics]]
+[[de:Angeln]]
+[[ru:Рыбалка]]
+[[pt-br:Pesca]]

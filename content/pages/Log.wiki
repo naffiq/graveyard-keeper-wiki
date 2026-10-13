@@ -1,0 +1,49 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Wood
+| nameinternal = log
+| source       = Tree
+}}
+
+{{PAGENAME}} 
+Is the base material for almost any wood-related crafts in the game. It can be obtained by chopping down [[Tree]]s or digging out tree stumps. With undead workers added to the game, you can now have log farming automated with the [[Felling site]]. A total of 9 logs can be stored in a [[Timber stockpile]].
+
+==Crafting==
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Sawhorse}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Wood billet|4}}
+|{{Item|Log|1}}
+|-
+| {{Item|Flitch|6}}
+|{{Item|Log|1}}
+|-
+|-
+! colspan = "2" | {{Item|Circular saw}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Wood billet|5}}
+|{{Item|Log|1}}
+|-
+| {{Item|Flitch|7}}
+|{{Item|Log|1}}
+|-
+| {{Item|Wooden plank|3}}
+|{{Item|Log|1}}
+|-
+| {{Item|Wooden beam|3}}
+|{{Item|Log|1}} <br> {{Item|Complex iron parts|1}}
+|}
+
+{{Navbox-Wood}}
+[[Category:wooden items]]
+[[Category:large items]]
+
+[[de:Holzstück]]
+[[pt-br:Tora]]

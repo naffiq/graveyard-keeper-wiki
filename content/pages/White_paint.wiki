@@ -1,0 +1,57 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = 
+| alchemy      = 
+| source       = [[Alchemy]]
+| cost         = 
+| stacksize    = 30
+| type         = Alchemy Product
+| quest        = 
+| nameinternal = white_paint
+}}
+{{PAGENAME}} is produced through [[Alchemy]] at the [[alchemy workbench (tier I)]] and is used in the production of candles and paper. 
+
+== Recipe ==
+{| class = "wikitable" style="table-layout:fixed; width:31em;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"|Item Produced
+! style="width:17.5em;"|Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|White powder|1}}<br>{{Item|Oil|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Electric powder|1}}<br>{{Item|Water|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Alcohol|1}}<br>{{Item|Slowing solution|1}}
+|}
+
+== Crafting ==
+{| class="wikitable" style = "table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Candle (3)|4}}
+|{{Item|Fat|2}}<br>{{Item|Beeswax|2}}<br>{{Item|{{PAGENAME}}|3}}
+|-
+|{{Item|Candle (4)|4}}
+|{{Item|Beeswax|4}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Hemp rope|1}}
+|-
+!colspan="2"|{{Item|Paper press}}
+|-
+! style="width:17.5em;"|Item Produced
+! style="width:17.5em;"|Materials Required
+|-
+|{{Item|Clean paper|30}}
+|{{Item|Paper glop|2}}<br>{{Item|{{PAGENAME}}|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+[[Category:Alchemy]]
+[[pt-br:Tinta branca]]

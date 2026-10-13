@@ -1,0 +1,62 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Weapon
+| nameinternal = sword_1
+| study        = {{Techpoint|red|30}}
+| source       = [[Anvil]], [[Anvil II]], [[Koukol]]
+| efficiency   = 
+| energy       = {{Energy|-|2}}
+| damage       = {{Health|-|10}}
+| cost         = 1500
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is equiped in the {{Icon|sword}} slot and deals damage to enemies in front of the player when used. It deals {{Health|-|10}} damage to enemies, making it a significant upgrade over the [[rusty sword]], and can either be crafted at a [[anvil|metal anvil]] or purchased from [[Koukol]] near the [[mountain fort]]. Alternatively, as the required technology is found on a relatively insignificant 'branch', one may easily bypass it in favor of it's successor - the [[steel sword]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Anvil}}
+|-
+!Item Produced
+!Materials Required
+
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Iron ingot|1}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Hemp rope|2}}
+|{{Energy|-|30}}<br>{{Techpoint|Red|2}}
+|-
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Iron ingot|1}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Hemp rope|2}}
+|{{Energy|-|20}}<br>{{Techpoint|Red|2}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|30}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:weapons]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[pt-br:Espada]]
+[[es:Espada]]

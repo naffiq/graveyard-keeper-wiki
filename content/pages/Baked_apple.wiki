@@ -1,0 +1,31 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|8}}
+| nameinternal = snack:baked_apple
+| study        = 
+| source       = [[Cooking]]
+| cost         = 6
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> is a food item which restores {{Energy|+|8}} when consumed. Since all the items which can be used to craft a {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+==Recipe==
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Baked apple|5}}
+|{{Item|Red apple|5}}<br>{{Item|Fuel|5}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]
+
+[[es:Manzana asada]]

@@ -1,0 +1,38 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Morgue]]
+|technology = [[Anatomy and Alchemy (Tech Tree)|Second chance]]
+|related    = [[Corpse]], [[Zombie]]s
+|footprint  = 5x4
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to resurrect {{item|zombie}}s from {{item|corpse}}s. Resurrection is only available for [[corpse|bodies]] of '''at least 90%''' body quality. You can reduce body decay by [[Embalming table|embalming]].
+
+To create a zombie, place a {{item|corpse}} onto the table, and make sure you have 10x [[Faith]] and 1x [[Zombie juice|Zombie Juice]] either in a mortuary rack or in your inventory. Hit "E" at the table and choose the "Resurrect" button to start the process. You can also hit "Take body" to cancel the action and empty the table again.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link={{PAGENAME}}]]
+|{{Item|Wooden plank|4}} <br> {{Item|Complex iron parts|4}}
+|
+|Meet [[Gunter]] and then unlock [[Anatomy_and_Alchemy_(Tech_Tree)|Second chance]].
+|-
+|style="text-align:center"|[[file:Zombie item.png|80x80px|link=zombie]]
+|{{Item|Corpse|1}} <br> {{Item|Faith|10}} <br> {{item|zombie juice|1}}
+|
+|Put everything onto the table and select "Resurrect."
+|}
+
+{{Navbox-Morgue}}
+[[Category:Workstations]]
+
+[[Category:Morgue workstations]]
+[[Category:Storage]]
+[[de:Auferstehungstisch]]
+[[Category:Breaking Dead]]

@@ -1,0 +1,538 @@
+{{Location Infobox
+| name      = The Graveyard
+| size      = //optional, default is 250x250px
+| exits     = [[Church]], [[Morgue]], [[Apiary]], [[Swamp]], [[Witch Hill]], [[Wheat Farm]]
+| buildable = True
+| NPCs      = [[Bishop]]
+}}
+The graveyard is introduced in the tutorial. An integral part of the game is how well you "keep" or maintain your graveyard. The most important part of the graveyard is its rating. The [[church]] is located in the graveyard.
+
+== Graveyard Rating ==
+Graveyard rating is the main factor affecting the amount of money earned by donations in weekly sermons. It is therefore desirable to have a high {{Graveyard Rating}}.
+
+There are four factors that affect quality: bushes, corpses, decor and graves.
+
+===Bushes===
+Bushes are present at the start of the game and do not currently regrow after being removed. Each bush has a -1 {{Graveyard Rating}} effect on rating.
+
+===Corpses===
+The quality of a buried {{item|corpse}} determines the maximum rating per grave. The number of {{Red Skull}}, {{Green Skull}} and {{White Skull}} in the corpse rating are the basis of the quality. No grave can have a higher {{Graveyard Rating}} rating than the number of {{White Skull}} on that corpse. Additionally, certain autopsy operations increase the base {{Graveyard Rating}} rating of a grave. See {{item|corpse}} for more info.
+
+<sup>(Possible Bug Warning: If you exhume a corpse with 100% freshness from the right/east side of the graveyard, be wary of trying to improve it via [[autopsy]]. Corpses that spawned in the graveyard at the start of game may not acknowledge organs or parts added to them, effectively 'eating' the parts with no benefit. Parts can still be removed as normal. )</sup>
+
+=== Decor ===
+Decor includes things like lanterns, urns with ashes, flower beds, prayer stations, etc. Each piece of decor adds some amount of {{Graveyard Rating}}. The fence around the whole graveyard can be repaired for +10 {{Graveyard Rating}} and further upgraded for +20 {{Graveyard Rating}}.
+
+{| class="wikitable"
+!Item
+!Quality
+!Cost
+!Size
+!Notes
+|-
+|[[File:Trunk Icon.png|32x32px]] Trunk
+| -
+|{{Item|Flitch|4}}<br/>{{Item|Nails|4}}<br/>{{Item|Simple iron parts|7}}
+|3x2
+2x3
+|Available from the beginning
+|-
+|[[File:Gravesite item.png|32x32px]] Gravesite
+| -
+|
+|3x3
+|Available from the beginning
+|-
+|{{Item|Wooden prayer station}}
+|  + 2 {{Graveyard Rating}}
+|{{Item|Flitch|7}}<br/>{{Item|Nails|4}}<br/>{{Item|Book|1|Copper}}
+|2 x 2
+|Requires [[Theology (Tech Tree)|Graveyard Enhancement]]
+Can be only placed in 9 spots.
+|-
+|{{Item|Stone prayer station}}
+|  + 4 {{Graveyard Rating}}
+|{{Item|A polished brick of stone|4}}<br/>{{Item|A carved piece of stone|1}}<br/>{{Item|Book|1|Silver}}
+|2 x 2
+|Requires [[Theology (Tech Tree)|Stone Prayer Station]]
+Can be only placed in 9 spots
+|-
+|{{Item|Stone columbarium}}
+|  + 12 {{Graveyard Rating}}
+|{{Item|Wooden beam|4}}<br/>{{Item|A polished brick of stone|4}}<br/>{{Item|Ceramic funeral urn|12}}
+|4 x 4
+|Requires [[Theology (Tech Tree)|Cremation]]
+|-
+|{{Item|Marble columbarium}}
+|  + 20 {{Graveyard Rating}}
+|{{Item|A polished brick of marble|4}}<br/>{{Item|A carved piece of marble|2|Silver}}<br/>{{Item|Porcelain funeral urn|12}}
+|4 x 4
+|Requires [[Theology (Tech Tree)|Cremation II]]
+|-
+|{{Item|Flowerbed}}
+|  + 2 {{Graveyard Rating}}
+|{{Item|A piece of stone|2}}<br/>{{Item|Peat|1}}<br/>{{Item|Red flower|2}}
+|2 x 2
+|Available from the beginning
+
+Can only be placed in 9 spots
+|-
+|{{Item|Lawn}}
+|  + 2 {{Graveyard Rating}}
+|{{Item|A piece of stone|3}}<br/>{{Item|Peat|1}}
+|2 x 3
+|Requires Graveyard Enhancement
+|-
+|{{Item|Lawn}}
+|  + 3 {{Graveyard Rating}}
+|{{Item|A piece of stone|4}}<br/>{{Item|Peat|1}}
+|2 x 4
+|Requires Graveyard Enhancement
+|-
+|{{Item|Lawn}}
+|  + 4 {{Graveyard Rating}}
+|{{Item|A piece of stone|6}}<br/>{{Item|Peat|2}}
+|2 x 6
+|Requires Graveyard Enhancement
+|-
+|{{Item|Marble flagstones}}
+|  + 3 {{Graveyard Rating}}
+|{{Item|A piece of marble|4}}
+|2 x 4
+|Requires Stone Prayer Station
+|-
+|{{Item|Lantern}}
+|  + 4 {{Graveyard Rating}}
+|{{Item|A piece of stone|4}}<br/>{{Item|Simple iron parts|4}}<br/>{{Item|Glass|2}}
+|2 x 2
+|Requires Stone Prayer Station
+|-
+|[[File:Fix the Fence.gif|120x30px|Fix the Fence]]<br/><br/>[[Fix the Fence]]
+|  + 10 {{Graveyard Rating}}
+|{{Item|Nails|10}}<br/>{{Item|Wooden plank|10}}<br/>{{Item|A piece of stone|6}}
+|none
+|Requires Graveyard Enhancement
+|-
+|{{Item|Build stone fence}}
+|  + 20 {{Graveyard Rating}}
+|{{Item|A polished brick of stone|24}}
+
+{{Item|A carved piece of stone|2}}
+
+{{Item|Complex iron parts|12}}
+|none
+|Requires upgrading to Big Church
+|-
+|[[file:Sweetheart Bishop.jpg|30px]] [[Bishop|Statue of the Bishop]]
+| + 5 {{Graveyard Rating}}
+|
+|none
+|Requires upgrading to Cathedral
+|}
+
+
+===Graves===
+[[Gravesite|Graves]] are an integral part of the game. Your first source of income in the game is {{Item|Burial certificate}}s. They are obtained by burying or cremating corpses, and can be sold to Horadric at [[Locations|The Dead Horse]] for {{Money|150}}. This price is fix.
+
+Graves also have a positive or negative effect on the {{Graveyard Rating}} rating, based on the {{item|corpse}} quality and grave decorations. As the maximum benefit for tombstones is +7 {{Grave Decor}} and fences is +5 {{Grave Decor}}, no grave can have a rating higher than +12 {{Graveyard Rating}}, even if the {{item|corpse}} has more than 12 {{Skull|White}}. (With the [[Game of Crone]] DLC the maximum benefit for tombstones is increased to +9 {{Grave Decor}} and for fences to +7 {{Grave Decor}} resulting in a possible max. of 16{{Grave Decor}}. With the [[Better Save Soul]] DLC, more tombstones and fences are added allowing for the maximum of 26 {{Grave Decor}}.)
+
+Grave sites have no effect on {{Graveyard Rating}} when placed or "planned" with the [[Work Stations|blueprint desk]] located in the graveyard. After being dug out for burial, the grave has a -2 {{Graveyard Rating}} effect on quality.
+
+==== Grave Maintenance ====
+Graves are in a state of disrepair in the beginning. This is made apparent during the tutorial when you are shown how to repair grave decorations. Grave decorations that have deteriorated will provide less {{Graveyard Rating}} which in turn will provide you with less income.
+
+The Second time is after a cutscene with [[Yorick]]. This will occur once after you reach 100 {{Graveyard Rating}}. It will affect a couple of graves.
+
+==== Tombstones ====
+As noted in the corpses section, the maximum {{Graveyard Rating}} benefit of a grave cannot exceed the number of {{Skull|White}} of the corpse buried there.
+
+{| class="wikitable"
+|-
+!Item
+!Quality Provided
+!Technology required
+|-
+|[[File:Blank 64x64.png|frameless|link=|34x34px]] None
+|<center>+0 {{Grave Decor}}</center>
+|
+|-
+|{{Item|Wooden marker}}
+|<center>+1 {{Grave Decor}}</center>
+|Graveplate
+|-
+|{{Item|Wooden cross}}
+|<center>+2 {{Grave Decor}}</center>
+|Simple Gravestone
+|-
+|{{Item|Gravestone}}
+|<center>+2 {{Grave Decor}}</center>
+|Simple Gravestone
+|-
+|{{Item|Stone cross}}
+|<center>+3 {{Grave Decor}}</center>
+|Stone Gravestone
+|-
+|{{Item|Gravestone II}}
+|<center>+3 {{Grave Decor}}</center>
+|Stone Gravestone
+|-
+|{{Item|Stone cross II}}
+|<center>+4 {{Grave Decor}}</center>
+|Carved Gravestones
+|-
+|{{Item|Stone plinth}}
+|<center>+4 {{Grave Decor}}</center>
+|Carved Gravestones
+|-
+|{{Item|Stone sculpture}}
+|<center>+5 {{Grave Decor}}</center>
+|Grave Monuments
+|-
+|{{Item|Stone sculpture II}}
+|<center>+5 {{Grave Decor}}</center>
+|Grave Monuments
+|-
+|{{Item|Marble cross}}
+|<center>+5 {{Grave Decor}}</center>
+|Marble Gravestone
+|-
+|{{Item|Marble cross II}}
+|<center>+6 {{Grave Decor}}</center>
+|Carved Marble Gravestones
+|-
+|{{Item|Marble plinth}}
+|<center>+6 {{Grave Decor}}</center>
+|Carved Marble Gravestones
+|-
+|{{Item|Marble sculpture}}
+|<center>+7 {{Grave Decor}}</center>
+|Crypts
+|-
+|{{Item|Marble sculpture II}}
+|<center>+7 {{Grave Decor}}</center>
+|Crypts
+|-
+|colspan="3" style="text-align: center;"|Unlocked with ''[[Game of Crone]]''
+|-
+|{{Item|Gravestone III}}
+|<center>+4 {{Grave Decor}}</center>
+|Advanced Gravestones
+|-
+|{{Item|Stone sculpture III}}
+|<center>+6 {{Grave Decor}}</center>
+|Stone statues
+|-
+|{{Item|Stone sculpture IV}}
+|<center>+7 {{Grave Decor}}</center>
+|Stone statues
+|-
+|{{Item|Marble gravestone III}}
+|<center>+6 {{Grave Decor}}</center>
+|Advanced Gravestones II
+|-
+|{{Item|Marble sculpture III}}
+|<center>+8 {{Grave Decor}}</center>
+|Marble statues
+|-
+|{{Item|Marble sculpture IV}}
+|<center>+9 {{Grave Decor}}</center>
+|Marble statues
+|-
+|colspan=3 style="text-align: center;"|Unlocked with ''[[Better Save Soul]]''
+|-
+|[[File:Stone Sculpture V.png|frameless|36x36px]] [[Stone sculpture V]]
+|<center>+10 {{Grave Decor}}</center>
+|Stone Gravestones
+|-
+|[[File:Stone Sculpture VI.png|frameless|36x36px]] [[Stone sculpture VI]]
+|<center>+12 {{Grave Decor}}</center>
+|Stone Gravestones
+|-
+|[[File:Marble sculpture V.png|frameless|36x36px]] [[Marble sculpture V]]
+|<center>+13 {{Grave Decor}}</center>
+|Marble Gravestones
+|-
+|[[File:Marble sculpture VI.png|frameless|36x36px]] [[Marble sculpture VI]]
+|<center>+15 {{Grave Decor}}</center>
+|Marble Gravestones
+|}
+
+For an order by {{Grave Decor}} see [[Gravesite]]
+
+==== Fences ====
+As with tombstones, a grave quality is only as good as the corpse in the grave.
+
+{| class="wikitable"
+|-
+!Item
+!Quality Provided
+!Technology required
+|-
+|[[File:Blank 64x64.png|frameless|link=|34x34px]] None
+|<center>+0 {{Grave Decor}}</center>
+|
+|-
+|{{Item|Wooden grave fence}}
+|<center>+1 {{Grave Decor}}</center>
+|Simple Gravestone
+|-
+|{{Item|Stone grave fence}}
+|<center>+2 {{Grave Decor}}</center>
+|Stone Gravestone
+|-
+|{{Item|Stone grave fence II}}
+|<center>+3 {{Grave Decor}}</center>
+|Carved Gravestones
+|-
+|{{Item|Marble grave fence}}
+|<center>+4 {{Grave Decor}}</center>
+|Marble Gravestones
+|-
+|{{Item|Marble grave fence II}}
+|<center>+5 {{Grave Decor}}</center>
+|Carved Marble Gravestones
+|-
+|colspan="3" style="text-align: center;"|Unlocked with ''[[Game of Crone]]''
+|-
+|{{Item|Stone grave fence III}}
+|<center>+3 {{Grave Decor}}</center>
+|Advanced Gravestones
+|-
+|{{Item|Stone grave fence IV}}
+|<center>+4 {{Grave Decor}}</center>
+|Advanced Gravestones
+|-
+|{{Item|Stone grave fence V}}
+|<center>+5 {{Grave Decor}}</center>
+|Advanced Gravestones II
+|-
+|{{Item|Marble grave fence III}}
+|<center>+5 {{Grave Decor}}</center>
+|Advanced Gravestones II
+|-
+|{{Item|Marble grave fence IV}}
+|<center>+6 {{Grave Decor}}</center>
+|Marble Fence
+|-
+|{{Item|Marble grave fence V}}
+|<center>+7 {{Grave Decor}}</center>
+|Marble Fence
+|-
+|colspan=3 style="text-align: center;"|Unlocked with ''[[Better Save Soul]]''
+|-
+|[[File:Stone Grave Fence VI.png|frameless|30x30px]] [[Stone grave fence VI]]
+|<center>+6 {{Grave Decor}}</center>
+|Stone grave fence
+|-
+|[[File:Stone Grave Fence VII.png|frameless|30x30px]] [[Stone grave fence VII]]
+|<center>+7 {{Grave Decor}}</center>
+|Stone grave fence
+|-
+|[[File:Stone Grave Fence VIII.png|frameless|30x30px]] [[Stone grave fence VIII]]
+|<center>+8 {{Grave Decor}}</center>
+|Stone grave fence
+|-
+|[[File:Marble grave fence VI.png|frameless|30x30px]] [[Marble grave fence VI]]
+|<center>+9 {{Grave Decor}}</center>
+|Marble grave fence
+|-
+|[[File:Marble grave fence VII.png|frameless|30x30px]] [[Marble grave fence VII]]
+|<center>+10 {{Grave Decor}}</center>
+|Marble grave fence
+|-
+|[[File:Marble grave fence VIII.png|frameless|30x30px]] [[Marble grave fence VIII]]
+|<center>+11 {{Grave Decor}}</center>
+|Marble grave fence
+|-
+|}
+
+For an order by {{Grave Decor}} see [[Gravesite]]
+
+=== Maximum Rating ===
+The following table shows (without the DLC's [[Game of Crone]] or [[Better Save Soul]]) how to achieve a maximum graveyard rating (top/north to bottom/south and west/left to east/right). Instead of a [[lantern]], a [[stone prayer station]] can be used for the same amount of {{Graveyard Rating}}. The 2x4 [[lawn]]s can be replaced by [[marble flagstones]].
+
+{| class="wikitable" 
+!colspan=3|left side
+|-  valign="top"
+|8 x 10 - total 95 {{Graveyard Rating}}<br>
+{{Item|Marble columbarium|2}} 40 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|7 x 10 - total 88 {{Graveyard Rating}}<br>
+{{Item|Marble columbarium|2}} 40 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+|8 x 10 - total 95 {{Graveyard Rating}}<br>
+{{Item|Marble columbarium|2}} 40 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|- valign="top"
+|8 x 6 - total 55 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|7 x 6 - total 48 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+|8 x 6 - total 55 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|- valign="top"
+|8 x 6 - total 52 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 4 {{Graveyard Rating}}
+|7 x 6 - total 48 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}
+|15 x 6 - total 120 {{Graveyard Rating}}<br>
+{{Item|Gravesite|10}} 120 {{Graveyard Rating}}
+|- 
+!colspan=3|right side
+|-  valign="top"
+|3x3 + 2x2 + 3x3 + 8x6<br>total 83 {{Graveyard Rating}}<br>
+{{Item|Gravesite|6}} 72 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|2}} 8 {{Graveyard Rating}}
+|7 x 10 - total 88 {{Graveyard Rating}}<br>
+{{Item|Marble columbarium|2}} 40 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}
+|huge tree<br>3x3 + 2x2 + 3x3<br>total 28 {{Graveyard Rating}}<br>
+{{Item|Gravesite|2}} 24 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|- valign="top"
+|8 x 6 - total 55 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|7 x 6 - total 48 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}
+|8 x 6 - total 55 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 3 {{Graveyard Rating}}<br>
+{{Item|Lantern|1}} 4 {{Graveyard Rating}}
+|- valign="top"
+|15 x 6 - total 120 {{Graveyard Rating}}<br>
+{{Item|Gravesite|10}} 120 {{Graveyard Rating}}
+|7 x 6 - total 48 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}
+|8 x 6 - total 52 {{Graveyard Rating}}<br>
+{{Item|Gravesite|4}} 48 {{Graveyard Rating}}<br>
+{{Item|Lawn|1}} 4 {{Graveyard Rating}}
+|- 
+!colspan=3|miscellaneous
+|- valign="top"
+|{{Item|Build stone fence}}<br>20 {{Graveyard Rating}}
+|[[file:Sweetheart Bishop.jpg|30px]] [[Bishop|Statue of the Bishop]]<br>5 {{Graveyard Rating}}
+|
+|}
+
+In total that's
+* 160 {{Graveyard Rating}} {{Item|Marble columbarium|8}}
+* 1008 {{Graveyard Rating}} {{Item|Gravesite|84}}
+* 36 {{Graveyard Rating}} {{Item|Lantern|9}} or {{Item|Stone prayer station|9}}
+* 29 {{Graveyard Rating}} {{Item|Lawn|9}} or {{Item|Lawn|2}} plus {{Item|Marble flagstones|7}}
+* 20 {{Graveyard Rating}} {{Item|Build stone fence|1}}
+* 5 {{Graveyard Rating}} [[Bishop|1x]][[file:Sweetheart Bishop.jpg|30px|link=Bishop]] [[Bishop|Statue of the Bishop]]
+adding up to 1258 {{Graveyard Rating}}, which seems to be the absolute maximum. Feel free to find a better solution. (Layout: https://imgur.com/a/kTP1pef)
+
+edit: after version 1.3 a grave can have up to 16 quality, meaning new absolute maximum is 1594.  (based on above layout: https://imgur.com/p5BKek1)
+
+edit: With the new grave decorations and body part modification system in the DLCs the maximum score for a simple grave is now 26{{Graveyard Rating}}. A perfect corpse of 26{{White Skull}} with [[marble grave fence VIII]] and [[marble sculpture VI]]. With that in mind using any columbariums reduces your graveyard score since they only provide 20{{Graveyard Rating}}. The layout linked above can still be used, replacing any columbariums with graves and in some spots additional lawns/marble flagstones. You'll have more empty spaces in the end but a higher score.
+
+edit: The real absolute maximum seems to be 2488 with 92 graves with 26{{Graveyard Rating}} and a few decorations to fill the gaps as shown in the next images:[[File:Maxed graveyard right.png|300x300px]]
+[[File:Maxed graveyard left.png|left|266x266px]]
+
+
+
+
+
+Original(not sure) design by Ciomegu on youtube: https://www.youtube.com/watch?v=wBG4m7MoTIM
+
+(I do not recomend anyone does this because it took me like 2 real time weeks to do it and all it did was make me get 1.5 gold per sermon, The tavern made me 224 gold in one swoop since i forgot i had it while i was working on this graveyard so its realy not worth it other than for bragging rights)
+
+== Graveyard Expansion ==
+In the beginning, the west half of the graveyard is locked. The sign there tells you to speak to the [[Inquisitor]] about this. Once you have earned 20 {{Happiness}} with him, he hands you (or sells) a {{item|graveyard scroll}}. Return to the graveyard and use it there at the sign.
+
+The west half is quite overgrown with a lot of shrubs and big trees. You'll need the [[Building (Tech_Tree)|"Woodcutter" technology]] to get rid of the trees. You won't get any negative {{Graveyard Rating}} from it, but you won't be able to build anything without clearing the area first.
+
+== Royal Services ==
+Once you are a [[Perks|preacher]], you gain access to the Royal services box located outside the front door of the church. It is through this box that you interact with the bureaucratic system behind the throne.
+
+You upgrade citizen titles by spending money on the Crown. Each title costs you a certain amount of money, but grants you access to a number of items you'll need to advance certain [[quests]].
+
+=== Exhumation Permission ===
+{| class="wikitable"
+!style = "width:17.5em;"|Item
+!style = "width:5em;"|Cost
+!Notes
+|-
+|{{Item|Exhumation permission}}
+|{{Money|175}}
+|required to dig up a buried body.
+|}
+
+Corpse exhumation is only needed when a badly autopsied corpse is negatively impacting your {{Graveyard Rating}}. To exhume a corpse, buy an {{Item|Exhumation permission}} from the church box. After you have removed the fence and the gravestone, you may select "exhume" and dig up the body.
+
+'''Note:''' These cost {{Money|175}}, which is {{Money|25}} more than what you are paid for the {{Item|Burial certificate}}. You will earn much of the money back if you bury it again (after autopsy) or if you cremate it. So, overall it's a small loss for exhumation.
+
+=== Citizen ===
+{| class="wikitable"
+!style = "width:17.5em;"|Item
+!style = "width:5em;"|Cost
+!Notes
+|-
+|Citizen
+|{{Money|10}}
+|0 {{Happiness}} -> 30 {{Happiness}}
+|-
+|{{Item|Stamp}}
+|{{Money|5000}}
+|needed to complete a [[Quests|quest]] for [[Horadric]] to craft a {{item|Package of meat}}
+|-
+|{{item|Building permission}}
+|{{Money|2000}}
+|needed to upgrade the [[church]] to a big church
+|}
+
+=== Rightful Citizen ===
+{| class="wikitable"
+!style = "width:17.5em;"|Item
+!style = "width:5em;"|Cost
+!Notes
+|-
+|Rightful Citizen
+|{{Money|300}}
+|30 {{Happiness}} -> 65 {{Happiness}}
+|-
+|{{item|Rightful citizen papers}}
+|free
+|needed to preach in a big [[church]]
+|-
+|{{Item|Town pass}}
+|free
+|grants you access to the [[town]]
+|-
+|{{Item|Trade license}}
+|{{Money|5000}}
+|needed for the [[merchant|merchant's quest]] to open a [[trade office]]
+|}
+
+=== Aristocrat ===
+{| class="wikitable"
+!style = "width:17.5em;"|Item
+!style = "width:5em;"|Cost
+!Notes
+|-
+|Aristocrat
+|{{Money|120000}}
+|65 {{Happiness}} -> 100 {{Happiness}}
+|-
+|{{item|Aristocrat papers}}
+|free
+|<s>needed to preach in a [[church|cathedral]]</s><small><sup>(No longer required - potential Bug?)</sup></small><br>
+needed to advance some [[quests]] in endgame
+|}
+
+{{Navbox-Locations}}
+
+[[ru:Кладбище]]

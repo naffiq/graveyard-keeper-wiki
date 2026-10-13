@@ -1,0 +1,54 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = potion_berries_juice
+| study        = 
+| source       = [[Cooking table]]
+| cost         = 
+| stacksize    = 10
+}}
+<b>{{PAGENAME}}</b> is a craft-able ingredient used for cooking. For the main page on preparing food, see [[cooking]].
+
+==Recipe==
+{| class="wikitable" style="width:31em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style=width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Apple|3}}<br>{{Item|Berry|3}}
+|{{Energy|-|5}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:31em;"
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Red jelly|3}}
+|{{Item|Green jelly|4}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}
+|-
+!colspan="3"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Berry pie|2}}
+|{{Item|Pastry dough|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:45<br>{{Fuel|-|10}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+[[ru:Ягодный сок]]
+[[pt-br:Suco de frutinhas]]

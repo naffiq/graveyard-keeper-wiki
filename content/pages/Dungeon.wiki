@@ -1,0 +1,134 @@
+{{Location Infobox
+|name = {{PAGENAME}}
+|image = Loot Urn 3.png
+|buildable = False
+|exits= [[Alchemy lab]]
+|NPCs = [[Snake]]
+}}
+The dungeon is made up of a series of floors that the player progresses through downward. Each floor has a staircase to the next floor down, which can be traversed once all enemies on that floor are defeated. As the player goes deeper, the dungeon gets progressively more difficult.
+
+== Accessing ==
+The Dungeon sits behind a gate in the tunnels beneath your house and the church.<br/ >
+The first time the player enters the Storeroom they will get a cut scene plays showing the Cultist, [[Snake]], attempting to open the gate. In order to get through you need to retrieve the [[keepers key|Keepers Key]] from the [[Astrologer]] and the [[Instructions for key]] from [[Snake]] (At a cost of 5 [[Faith]]). Next, studying the key with the instructions in the study table (along with two [[Faith]]) will produce [[Active key|Active Key]] (and gives back the [[Keepers key|Keepers Key]] as well, which may be a bug). Giving the [[Active key|Active Key]] to [[Snake]] will initiate a cut-scene in which he reveals his hatred for the villagers and that he is plotting his revenge.<br/ >
+Afterwards, the player can see the diary for the [[Astrologer]]’s quest on a nearby table. Attempting to retrieve it springs a lethal trap. After you re-spawn, [[Snake]] comments on your immortality and asks you to enter the Dungeon instead of him to retrieve 5 [[bloody nails|Bloody Nails]] and a [[bucket of blood|Bucket of Blood]].<br/ >
+The trap is now disabled – you are free to retrieve the diary, and to access the dungeon.
+
+== Generation ==
+[[File:Dungeon Broken Furniture.png|thumb|Broken furniture can be found occasionally in the dungeon and can be broken for [[Flitch]], [[Simple iron parts]], [[Complex iron parts]], and with bookcases [[Ruined book]]s.]]
+The Dungeon has 15 floors. The layout of the Dungeon is procedurally generated from premade pieces at game creation.<br/ >
+You cannot descend in the Dungeon until all monsters on one level are killed. Monsters do not re-spawn, but injured ones are restored to full health if you leave the Dungeon. As soon as the last monster on a floor is killed, the next level unlocks on the teleport screen at the start of the Dungeon.<br/ >
+On the 10th floor, the way down is blocked by a locked gate. The left over [[Keepers key|Keepers Key]] will ''not'' unlock it – to proceed, you need to obtain the Hunter´s Medallion by doing a quest for Snake.
+
+== Monsters ==
+For more information, see [[Monsters]].
+{| class="wikitable"
+!Image
+!Name
+!Levels
+!Loot
+|-
+|[[File:Green slime.png|center]]
+|Slime
+|1-4
+|{{Item|Green jelly|1}}
+|-
+|[[File:Giant bat.png|center]]
+|Bat
+|1-5
+|{{Item|Bat wing|1}}
+|-
+|[[File:Iron maiden.png|center]]
+|Iron Maiden
+|3-15
+|{{Item|Bloody nails|2}}<br>{{Item|Metal scrap|3-10}}
+|-
+|[[File:Giant fly.png|center]]
+|Giant Fly
+|3-15
+|1x Random<br>Alchemical Powder
+|-
+|[[File:Blue slime.png|center]]
+|Blue slime
+|5-9
+|{{Item|Blue jelly|1}}
+|-
+|[[File:Firebat.png|center]]
+|Fire Bat
+|6-15
+|{{Item|Bat wing|1}}
+|-
+|[[File:Giant spider.png|center]]
+|Giant Spider
+|7-15
+|{{Item|Spider web|1-3}}
+|-
+|[[File:Lightning ball.png|center]]
+|Lightning Ball
+|7-15
+|{{Item|Electric powder|1}}
+|-
+|[[File:Black slime.png|center]]
+|Poppet
+|8-15
+|{{Item|Black jelly|2-5}}
+|-
+|[[File:Orange slime.png|center]]
+|Orange Slime 
+|10-15
+|{{Item|Orange jelly|1}}
+|-
+|[[File:Rock golem.png|center]]
+|Graphite Golem
+|11
+|{{Item|Graphite|2-5}}<br>1-3x Random<br>Alchemical Powders
+|-
+|[[File:Stone golem.png|center]]
+|Silver Golem
+|13-14
+|{{Item|Silver nugget|2-5}}<br>1-3x Random<br>Alchemical Solutions
+|-
+|[[File:Obsidian golem.png|center]]
+|Gold Golem
+|15
+|{{Item|Gold nugget|2-5}}<br>1-3x Random<br>Alchemical Extracts
+|}
+
+== Loot ==
+On the 5th level of the Dungeon the [[Bucket of blood|Bucket of Blood]] is found in the room containing the way to the next level of the Dungeon and so can be claimed even without clearing the floor.
+
+Throughout the dungeon, breakable urns and barrels can drop loot when destroyed.
+{| class="wikitable"
+!Image
+!Drops
+!Notes
+|-
+|[[File:Urns.gif|center]]
+|{{Item|Heal potion|1}} +30{{Health}}
+{{Item|Metal scrap|1-3}}<br>
+{{Item|Ceramic bowls|1}}<br>
+{{Item|Ceramic jug|1}}<br>
+1x[[File:seeds.gif|frameless|link=]] Crop seeds
+|
+|-
+|-
+|[[File:Barrel.png|center]]
+|{{Item|Heal potion|1}} +30{{Health}}
+{{Item|Nails|1}}
+
+1x[[File:seeds.gif|frameless|link=]] Crop seeds
+|
+|-
+|[[File:Chest.png|center]]
+|{{Item|Bucket of blood|1}}
+|Found on Level 5
+|-
+|
+|{{Item|Golden apple|1}}
+|Found on Level 15
+|}
+
+After level 5 each level will have vein of silver/gold/diamonds 8/8/4 (9/9/5 with miner [[perk]]).
+
+[[de:Kerker]]
+{{Navbox-Locations}}
+[[https://graveyardkeeper.gamepedia.com/Category:Wiki pages]]

@@ -1,0 +1,30 @@
+{{stub}}
+{{Workstation-Infobox
+|name       = Chest
+|image      = Chest item.png
+|location   = [[Sweet Home]], [[Church]], [[Souls room]]
+|technology = 
+|related    = [[Storage]]
+|footprint  = 2x2
+|rotatable  = True
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a storage device, very similar to the [[trunk]], except its contents are limited to 20 (5x4) unique items - identical to the player's inventory, and one less row than the aforementioned trunk. Two of them are already built in the [[Sweet Home]] and those are indestructible. In addition to the [[Sweet Home]] chests, two of them can be built in the [[Church]], and 2 more in the [[Souls room]] with the [[Better Save Soul]] DLC.
+==Cost==
+{| class="wikitable"
+!Icon
+!Resources Required
+!Energy
+!Notes
+|-
+|[[file:Chest item.png|80x80px]]
+|{{item|Flitch|4}}<br>{{item|Nails|4}}<br>{{item|Simple iron parts|2}}
+|{{Energy|2= 0}}
+| 
+|}
+
+{{Navbox-Sweet home}}
+[[fr:Coffre]]
+[[Category:Workstations]]
+
+[[Category:Sweet home workstations]]
+[[Category:Storage]]

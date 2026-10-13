@@ -1,0 +1,65 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = {{Energy|+|5}}
+| study        = {{Techpoint|Green|10}}
+
+| source       = Berry bushes
+| cost         = 
+| stacksize    = 30
+| type         = Foragable Plant
+| quest        = 
+| nameinternal = fruit:berry
+}}
+<b>Berries</b> are a consumable product. They can only be harvested from berry bushes, found throughout the wilderness or planted by the player in the [[garden|orchard]]. If the [[Game of Crone|Game of Crones]] dlc is installed, they may also be occasionally found in the storehouse of the [[Refugee camp|Refugee Camp]]. They can be used directly to restore {{Energy|+|5}} or alternatively in [[cooking]]-related recipes.
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style ="width:7.5em"|Tech Points
+!style ="width:12.5em"|Resources Required
+!style ="width:5em"|Energy 
+!style ="width:10em"|Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Berry juice}}
+|{{Item|Apple|3}}<br>{{Item|{{PAGENAME}}|3}}
+|-
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Cake|1}}
+|{{Item|Pastry dough|1}}<br>{{Item|Honey|1}}<br>{{Item|{{PAGENAME}}|5}}
+|-
+!colspan="2"|{{Item|Vine press}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pail of berry juice|1}}
+|{{Item|{{PAGENAME}}|25}}
+|}
+
+[[de:Beere]]
+[[pt-br:Frutinha]]
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]

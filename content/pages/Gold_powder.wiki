@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Advanced alchemy resource
+| nameinternal = alchemy_1_yellow
+| study        = 
+| source       = [[Alchemy]]
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}</b> is an advanced [[alchemy]] resource. Its only uses are the eventual creation of the [[gold injection]] for use at the [[embalming table]] and the crafting of [[Memory tincture]].
+
+==Recipe==
+{|class="wikitable" style="width:31em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|4}}
+|{{Item|Gold nugget|1}}
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:31em;table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Golden elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Order solution|1}}<br>{{Item|Health extract|1}}
+|-
+|{{Item|Golden elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|Chaos extract|1}}
+|-
+|{{Item|Memory tincture|1}}
+|{{Item|Memory powder|1}}<br>{{Item|Silver powder|1}}<br>{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Advanced alchemy resources]]
+[[Category:Alchemy]]
+
+[[pt-br:Pó de ouro]]
+[[es:Polvo de oro]]

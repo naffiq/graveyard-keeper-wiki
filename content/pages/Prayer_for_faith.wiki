@@ -1,0 +1,56 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Sermon
+| source       = [[Church workbench]], [[Bishop]]
+| cost         = 75
+}}
+A prayer which increases [[faith]] by 50%/100%/150% and donations by 20%. It can be crafted at the [[Desk]] or [[Desk II]]. The quality is dependent on the ingredients and for the sermon to be successful it needs  10{{Church Rating}}/20{{Church Rating}}/50{{Church Rating}}.
+
+
+
+==Quality levels== 
+{| class = "wikitable" style = "text-align:center"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = copper}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = silver}}
+|{{Quality Sprite|image = {{PAGENAME}} item.png|quality = gold}}
+|-
+|{{Church Rating}}10
+|{{Church Rating}}20
+|{{Church Rating}}50
+|-
+|{{Silver Coin}}1 (+20%)
+|{{Silver Coin}}2 (+20%)
+|{{Silver Coin}}3 (+20%)
+|-
+|[[Faith]] (x1) (+50%)
+|[[Faith]] (x2) (+100%)
+|[[Faith]] (x3) (+150%)
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Desk}}{{Item|Desk II}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|rowspan = "3"|	{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Chapter|1|animation}}
+{{Item|Faith|5|}}
+{{Item|Pen and ink|1|}}
+
+{{Energy||10}}
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+[[Category:Writing]]
+[[Category:Sermons]]
+
+[[pt-br:Oração pela fé]]

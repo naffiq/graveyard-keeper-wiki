@@ -1,0 +1,16 @@
+{{stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = 
+| source       = 
+| quest        =
+}}
+
+The Accepted Invitation is part of final quest for the [[Bishop]]. Once you have started the quest by speaking to him, speak to the [[Inquisitor]] about the papers, but if you haven't completed his and [[Snake]]'s questline, he will turn you down. You can instead get the invitation from the [[Merchant]]. This can only be done once you have reached {{Happiness}} 90 with the [[Merchant]].
+
+{{Navbox-Quest}}
+[[Category:quest items]]
+[[ru:Принятое приглашение]]
+paper needed for adventure to begin and merchant to be ok with bishops quest. Humble is key

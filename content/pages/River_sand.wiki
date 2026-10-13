@@ -1,0 +1,123 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Green|10}}
+| source       = [[Mining]]
+| cost         = 
+| stacksize    = 50
+| type         = Mining; Primary Resource
+| quest        = 
+| nameinternal = sand_river
+}}
+<b>{{PAGENAME}}</b> is a crafting resource which is gathered from waterways, requiring any shovel. It is a necessary ingredient when making most glassware. You can access the sand mining after talking with the [[bishop]] about a special request.
+
+==Recipe==
+These requisite [[sand mounds]] are scattered throughout the world, always found near water. There are five locations in total, four of which are on each corner of the local waterfall, with the fifth located along the beach, north-east of the [[Village]] and north of the [[Lighthouse]].
+
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|[[Sand mounds]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|10}}
+|align="center"|{{Energy|-|2}}<br>[[File:Shovel icon.png|frameless|shovel]]
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Water|1}}
+|1:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|2}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|Water|2}}
+|1:00<br>{{Fuel|-|30}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Glass|3}}
+|{{Item|{{PAGENAME}}|6}}<br>{{Item|Water|2}}
+|1:00<br>{{Fuel|-|50}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Polishing paste|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1}}<br>{{Item|Ceramic bowls|1}}
+|0:04<br>{{Energy|-|5}}
+|-
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Nails|1}}
+|{{Item|Bloody nails|1}}<br>{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|1}}
+|0:01<br>{{Energy|-|2}}
+|-
+!colspan="3"|{{Item|Desk}} / {{Item|Desk II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Clean paper|2}}
+|{{Item|Ruined book|1}}<br>{{Item|{{PAGENAME}}|1}}
+|0:02<br>{{Energy|-|5}}
+|}
+
+==Building==
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+|-
+|style="text-align:center"| {{Item|Stone garden}}
+|{{Item|A piece of stone|6}}
+{{Item|River sand|10}}
+| {{energy|-|10}}
+|}
+
+
+
+<br>
+{{Navbox-Mining}}
+[[Category:mined items]]
+[[pt-br:Areia do rio]]

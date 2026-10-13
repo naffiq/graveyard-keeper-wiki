@@ -1,0 +1,30 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = cheese pie
+| study        = 
+| source       = 
+| cost         = 
+| stacksize    = 
+}}
+
+A food item which restores energy and applies the Handyman mood buff when consumed. It must be made in the oven. For the main page on preparing food see cooking.
+
+As of patch 1.405, the Handyman buff it applies does not actually impact any form of crafting([[File:Update Alert.png|link=|frameless]] broken). The buff from prayer of excellence still works though, as the game considers the two as different buffs (one can simultaneously have prayer of excellence and cheese pie buff active).
+
+==Crafting==
+{|class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Cheese pie|2}}
+|{{Item|Cheese|1}}<br>{{Item|Pastry dough|1}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food resources]]
+[[Category:food]]

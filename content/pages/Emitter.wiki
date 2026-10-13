@@ -1,0 +1,26 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}_Portal.png
+|location   = [[Witch Hill]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = False
+}}
+
+Part of the Portal related to the main quest.
+{| class="wikitable"
+![[Blueprints]]
+![[Items]]
+|-
+|
+[[File:Emitter_item.png|80x80px]]
+|
+{{Item|Salty fork|1}}<br>{{Item|Mirror of pride|1}}<br>{{Item|Eternal burning coal|1}}
+|}
+
+{{Navbox-Witch hill}}
+[[Category:Workstations]]
+
+[[Category:Witch hill workstations]]
+[[de:Emitter]]

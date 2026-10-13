@@ -1,0 +1,12 @@
+{{Stub}}
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = i_gerry_tooth
+}}
+
+'''{{PAGENAME}}''' is a quest item from the [[Better Save Soul]] DLC. This item can be obtained after repairing the old bed in [[Euric's Room]]. 
+
+{{Navbox-BetterSaveSoulQuest}}
+[[Category:Better Save Soul]] [[Category:Better Save Soul quest items]]

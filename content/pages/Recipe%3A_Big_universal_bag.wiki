@@ -1,0 +1,34 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = universal big bag recipe item.png
+
+| study        = N/A
+| stacksize    = 1
+| type         = Recipe
+| quest        = [[Marquis Teodoro Jr.]]
+| nameinternal = big_universal_bag_recipe
+}}
+<b>{{PAGENAME}}</b> teaches how to create [[Big universal bag]].
+This and one bag is rewarded upon completing the [[Refugee camp|refugee camp]] quest line with [[Marquis Teodoro Jr.]]
+
+Upon using the item, following dialog will be shown:
+
+[[File:big_bag_recipe.png|400px]]
+
+==Recipe==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="4"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+!Energy
+!Notes
+|-
+|{{Item|Big universal bag|1}}
+|{{Item|Skin|8}} {{Item|Steel parts|4}} {{Item|Tanning agent|3}}
+|{{Energy|-|30}}
+|Gives all technology points
+|}
+
+<br>
+{{Navbox-Misc}}

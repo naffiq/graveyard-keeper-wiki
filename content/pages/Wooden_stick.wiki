@@ -1,0 +1,192 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = i_stick.png
+| study        = N/A
+| alchemy      = 
+| buy          = [[Tress|Tress (T I)]]
+| sell         = [[Tress|Tress (T I)]]
+| source       = Bushes, Trees
+| cost         = 1
+| stacksize    = 30
+| type         = Wood
+| quest        = 
+| nameinternal = stick
+}}
+<b>{{PAGENAME}}s</b> are a crafting material, at their most basic being the least efficient source for fuel; {{Item|{{PAGENAME}}|10}} -> {{Item|Fuel|20}}. Alternatively, they can be used in various building and crafting applications, such as being required to craft most tools. They are one of the few materials that cannot be crafted themselves; they must either be gathered from bushes (bushes give 2x), collected when cutting down trees (normal trees gives 1-2x, small trees gives 4x), or purchased from the wood vendor [[Tress]].
+{{Quote|Perfect for poking people and starting fires.|In-Game Description}}
+
+==Building==
+{| class = "wikitable sortable mw-collapsible mw-collapsed" style = "width:40em;"
+|+ [[Blueprints|Building]]
+!colspan="3"|[[Workyard]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Timber stockpile}}
+|{{Item|{{PAGENAME}}|10}}<br>{{Item|Flitch|4}}<br>{{Item|Wooden beam|4}}
+|{{Energy|-|?}}
+|-
+|{{Item|Sawhorse}}
+|{{Item|{{PAGENAME}}|10}}
+|{{Energy|-|5}}
+|-
+!colspan="3"|[[Kitchen Garden]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Compost heap}}
+|{{Item|{{PAGENAME}}|10}}
+|{{Energy|-|?}}
+|-
+|{{Item|Garden bed with sticks}}
+|{{Item|{{PAGENAME}}|5}}
+|{{Energy|-|?}}
+|-
+!colspan="3"|[[Orchard]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Place for the berry bush}}
+|{{Item|Bush berry seedling|1}}<br>{{Item|Peat|3}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|?}}
+|-
+|{{Item|Place for the apple tree}}
+|{{Item|Tree apple seedling|1}}<br>{{Item|Peat|3}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|?}}
+|-
+!colspan="3"|[[Vineyard]]
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Vine trellis}}
+|{{Item|{{PAGENAME}}|5}}
+|{{Energy|-|?}}
+|}
+
+==Crafting==
+{| class = "wikitable sortable mw-collapsible mw-collapsed" style = "width:40em;"
+|+ [[Items#Equipment|Crafting]]
+!colspan="3"|{{Item|Wooden anvil}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Axe I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|2}}
+|{{Energy|-|20}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|2}}
+|{{Energy|-|20}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Iron ingot|1}}<br>{{Item|Simple iron parts|3}}
+|{{Energy|-|20}}
+|-
+!colspan="3"|{{Item|Anvil}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Axe I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|15}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|15}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|15}}
+|-
+|{{Item|Rusty hammer|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|-
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Axe I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Shovel I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Pickaxe I|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Axe II|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|-
+|{{Item|Shovel II|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|-
+|{{Item|Pickaxe II|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|3}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|30}}
+|-
+|{{Item|Rusty hammer|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Iron ingot|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Iron hammer|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Steel ingot|1}}
+|{{Energy|-|10}}
+|-
+|{{Item|Steel sword|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel ingot|2}}<br>{{Item|Steel parts|2}}
+|{{Energy|-|30}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Iron chisel|1}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|Simple iron parts|3}}
+|{{Energy|-|20}}
+|-
+|{{Item|Steel chisel|1|copper}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel parts|1}}
+|{{Energy|-|5}}
+|-
+|{{Item|Steel chisel|1|silver}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel parts|1}}<br>{{Item|Lens|1}}
+|{{Energy|-|5}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench II}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|Steel armor|1}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Complex iron parts|5}}
+|{{Energy|-|30}}
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+
+[[pt-br:Vareta]]

@@ -1,0 +1,3 @@
+<includeonly>{{</includeonly><noinclude>
+{{doc}}
+[[Categoría:Plantillas de formato|{{PAGENAME}}]]</noinclude>

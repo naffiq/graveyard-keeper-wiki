@@ -1,0 +1,167 @@
+<br />__NOTOC__
+<center>
+== Villagers ==
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Captain.png|link=Captain]]
+[[Captain]]
+|[[File:Actor.png|link=Vagner]]
+[[Vagner]]
+|[[File:TressF.png|link=Tress]]
+[[Tress]]
+|[[File:Farmer.png|link=Farmer]]
+[[Farmer]]
+|-
+|[[File:CoryF.png|link=Cory]]
+[[Cory]]
+|[[File:Dig.png|link=Dig]]
+[[Dig]]
+|[[File:Miller.png|link=Miller]]
+[[Miller]]
+|[[File:Farmersson.png|link=Farmer's Son]]
+[[Farmer's Son]]
+|-
+|[[File:Horadric.png|link=Horadric]]
+[[Horadric]]
+|[[File:Lighthouse Keeper NPC.png|link=Lighthouse Keeper]]
+[[Lighthouse Keeper]]
+|[[File:Potter.png|link=Potter]]
+[[Adam]]
+|[[File:Rosa.png|link=Rosa]]
+[[Rosa]]
+|-
+|[[File:Mrs._Chain.png|link=Miss Chain]]
+[[Miss Chain]]
+|[[File:Blacksmith.png|link=Krezvold]]
+[[Krezvold]]
+|[[File:Beekeeper.png|link=Beekeeper]]
+[[Beekeeper]]
+|[[File:Shepherd.png|link=Shepherd]]
+[[Shepherd]]
+|}
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Wood cutter.png|link=woodcutter]]
+[[Woodcutter]]
+|}
+
+== Visitors ==
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Donkey.png|link=Donkey]]
+[[Donkey]]
+|[[File:Episcot.png|link=Bishop]]
+[[Bishop]]
+|[[File:Merchant.png|link=Merchant]]
+[[Merchant]]
+|[[File:Inquisitor.png|link=Inquisitor]]
+[[Inquisitor]]
+|}
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Snake.png|link=Snake]]
+[[Snake]]
+|[[File:Astrologer.png|link=Astrologer]]
+[[Astrologer]]
+|[[File:Ms. Charm.png|frameless|link=Ms. Charm]]
+[[Ms. Charm]]
+|}
+
+== Other Important NPCS ==
+
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Gypsy Baron.png|link=Gypsy Baron]]
+[[Gypsy Baron]]
+|[[File:Clotho.png|link=Clotho]]
+[[Clotho]]
+|[[File:Gerry.png|link=Gerry]]
+[[Gerry]]
+|[[File:Ghost.png|link=Yorick]]
+[[Yorick]]
+|}
+{| style="text-align:center; width:50%;"
+|-
+|[[file:Koukol.png|link=Koukol]]
+[[Koukol]]
+|[[file:Royal services.png|link=Royal Services]]
+[[Royal services]]
+|[[File:Church goer.png|link=Monks]]
+[[Monks]]
+|}
+
+==Guards==
+{| style="text-align:center; width:50%;"
+|-
+|[[File:villageguard.png|link=Guards]]
+[[Guards|Village Guard]]
+|[[File:Warcampguard.png|link=Guards]]
+[[Guards|Town Guard]]
+|[[File:Warcampguard.png|link=Guards]]
+[[Guards|War Camp Guard]]
+|[[File:Warcampguard.png|link=Guards]]
+[[Guards|Witch Hill Guard]]
+|}
+
+==Breaking Dead DLC==
+{| style="text-align:center; width:50%;"
+|-
+|[[file:Gunter.png|link=Gunter]]
+[[Gunter]]
+|}
+
+==Stranger Sins DLC==
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Barman.png|link=Barman]]
+[[Barman]]
+|}
+
+==Game of Crones DLC (Refugees)==
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Marquis Teodoro Jr.png|link=Marquis Teodoro Jr]]
+[[Marquis Teodoro Jr]]
+|[[File:Refugee_cook.png|link=Cook]]
+[[Cook]]
+| [[File:Undertaker.png|link=Undertaker]]
+[[Undertaker]]
+|[[File:Alaric.png|link=Master Alaric]]
+[[Master Alaric]]
+|}
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Moneylender.png|link=Moneylender]]
+[[Moneylender]]
+|[[File:Lady Beatrice.png|link=Lady Beatrice]]
+[[Lady Beatrice]]
+|[[File:Tanner.png|link=Tanner]]
+[[Tanner]]
+|}
+
+==Better Save Soul DLC==
+{| style="text-align:center; width:50%;"
+|-
+|[[File:Euric.png|link=Euric]]
+[[Euric]]
+|[[File:Smiler.png|link=Smiler]]
+[[Smiler]]
+|}
+
+</center>
+
+[[de:Charaktere]]
+[[es:NPCs]]
+[[fr:PNJs]]
+[[ja:NPC]]
+[[pt-br:NPCs]]
+[[ru:Жители]]
+
+[[Category:NPCs| ]]
+[[Category:Graveyard Keeper]]
+[[Category:Main Pages]]
+[[Category:Чистая бумага]]
+[[Category:Stranger Sins]]
+[[Category:Breaking Dead]]
+[[Category:Game of Crone]]
+[[Category:Better Save Soul]]

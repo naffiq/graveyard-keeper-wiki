@@ -1,0 +1,46 @@
+The river runs through the whole [[map]], in the western part, from the north east of the [[quarry]] to the south near the [[town]]. It has some interresting features described in the following, starting from the north and ending in the south:
+
+== Cliffs ==
+The river springs from the cliffs in the very north of the [[Forest near the river|forest]], which is divided by it. This area is not accessible from the beginning, until you remove at least one [[blockage]] at the cliff separating the [[apiary]] from the eastern half of the [[Forest near the river|forest]] north of [[Sweet Home|your home]].
+
+[[file:river 1.png|400 px|This is how the river enters the forest]]
+
+== Small Island ==
+A bit further to the south, a small island can be found, still inside the [[Forest near the river|forest]] and not accessible from the beginning. As it has a small footbridge to the east part of the forest and a ford to the west, it's possible to cross the river here.
+
+Close by, there's a pier, where you can [[fish]] in the river.
+
+[[file:river 2.png|400 px|This is how to cross the river and catch fish nearby]]
+
+==Sand Deposits==
+Further to the south, still inside the [[Forest near the river|forest]], you'll find {{item|sand}}-deposits on both sides of the river. With a shovel, you can gather sand here.
+
+[[file:river 8.png|400 px|Sand deposits on either side]]
+
+==Waterfall==
+From there, it's just a small step further south to get to the waterfall. Here, the landscape is separated by steep cliffs, which you can't cross. You first have to remove one of the blockages to the west (leading to the [[swamp]]) or to the east (leading to the [[apiary]]).
+
+[[file:river 3.png|400 px|The waterfall seen from above]]
+
+Another wee bit further to the south, you'll find the waterfall [[fishing]] pier. To get there, you have either to remove both [[blockage]]s in the cliffs, or repair the [[stone bridge]].
+
+[[file:river 4.png|400 px|Fishing pier. Note the foam coming from the waterfall]]
+
+==Sand Deposits==
+Further south you'll find more sand deposits on either side.
+
+==Stone bridge==
+After a while, travelling south, you'll reach the broken [[stone bridge]], where the road leading from the [[graveyard]] to the [[swamp]] crosses the river. It's the alternative to the footbridge in the north.
+
+[[file:river 5.png|400 px|Stone bridge unrepaired]]
+ 
+To be able to cross the river there, you first have to [[stone bridge|fix]] it.
+
+[[file:river 6.png|400 px|Stone bridge repaired]]
+
+==Town==
+South of the stone bridge, the river leads into [[town]]. You cannot really see how, as your path is blocked by non-removable obstacles. You can throw {{item|corpse}}s into the water here, which drift towards the town. The [[Bishop]] mentiones, that the river has dried out in the town, and that he wants to pray for the water to return.
+
+[[file:river 7.png|400 px|This is how far south you get]]
+
+{{Navbox-Locations}}

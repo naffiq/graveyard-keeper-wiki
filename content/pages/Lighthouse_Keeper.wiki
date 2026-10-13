@@ -1,0 +1,280 @@
+{{NPC Infobox
+| name     = Lighthouse Keeper
+| image    = Lighthouse Keeper NPC.png
+| day      = 
+| location = [[Sealight Lighthouse]]
+| vendor   = [[fishing]] products
+}}
+The '''{{PAGENAME}}''' is an [[NPC]] [[vendor]]. He is located at the [[Sealight Lighthouse]]. He trades products related to [[fishing]].
+
+==Quests==
+===Fish Dishes===
+Ask him how to prepare fish and he will tell you recipes of some [[Cookery (Tech Tree)|fish dishes]].
+
+===Fishing Rod===
+Bring the {{PAGENAME}} {{item|Moth|6}} in exchange for a {{item|simple fishing rod}}. 
+
+===Necronomicon===
+The [[Astrologer]] tells you, that he gave the {{item|Necronomicon}} to his friend, the Lighthouse Keeper. If you ask him about it, he'll give it to you for {{item|Maggot|5}}.
+
+==Trading==
+===Selling===
+*The cost of fishing rods and lures do not inflate.
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Simple fishing rod}}
+|1
+|{{Money|200}}
+|-
+|{{Item|White fish fillet}}
+|5
+|{{Money|10}}
+|-
+|{{Item|Quality fish fillet||copper}}
+|5
+|{{Money|70}}
+|-
+|{{Item|Firewood}}
+|2
+|N/A
+|-
+|{{Item|Frog}}
+|10
+|{{Money|4}}
+|-
+|{{Item|Gudgeon}}
+|10
+|{{Money|5}}
+|-
+|{{Item|Anchovy}}
+|10
+|N/A
+|-
+|{{Item|Tilapia}}
+|10
+|N/A
+|-
+|{{Item|Perch}}
+|10
+|N/A
+|-
+|{{Item|Eel}}
+|10
+|{{Money|28}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Good fishing rod}}
+|1
+|{{Money|300}}
+|-
+|{{Item|Steel lure}}
+|3
+|{{Money|250}}
+|-
+|{{Item|Quality fish fillet||silver}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Bream||copper}}
+|2
+|{{Money|40}}
+|-
+|{{Item|Bream||silver}}
+|2
+|{{Money|58}}
+|-
+|{{Item|Sardine||copper}}
+|2
+|{{Money|80}}
+|-
+|{{Item|Sardine||silver}}
+|2
+|N/A
+|-
+|{{Item|Tuna||copper}}
+|2
+|{{Money|83}}
+|-
+|{{Item|Tuna||silver}}
+|2
+|{{Money|101}}
+|-
+|{{Item|Pike||copper}}
+|2
+|{{Money|140}}
+|-
+|{{Item|Pike||silver}}
+|2
+|N/A
+|-
+|{{Item|Silver crucian||copper}}
+|2
+|{{Money|98}}
+|-
+|{{Item|Silver crucian||silver}}
+|2
+|{{Money|199}}
+|-
+|{{Item|Salmon||silver}}
+|2
+|N/A
+|-
+|{{Item|Sturgeon||silver}}
+|2
+|{{Money|185}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Excellent fishing rod}}
+|1
+|{{Money|500}}
+|-
+|{{Item|Lure with a gem}}
+|3
+|{{Money|500}}
+|-
+|{{Item|Blue fish fillet||silver}}
+|5
+|{{Money|100}}
+|-
+|{{Item|Salmon||gold}}
+|2
+|{{Money|269}}
+|-
+|{{Item|Sturgeon||gold}}
+|2
+|N/A
+|-
+|{{Item|Carp||gold}}
+|2
+|{{Money|184}}
+|-
+|{{Item|Gold crucian||gold}}
+|2
+|N/A
+|}
+|}
+
+===Purchasing===
+*Will not buy back either lure, any fish fillets, or the [[Excellent fishing rod|excellent rod]].
+*Will not buy any insect-bait, despite having an apparent interest in both the [[moth]] and [[maggot]].
+*Selling crucians is ill-advised, as the precious metals gained from processing them are much more valuable.
+*Selling [[goldfish]] is particularly profitable; as odds are to catch one fish per two best lures when fishing in the night, the average net profit is {{Money|2750}} plus {{Item|Tuna|19}}.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable sortable"
+|+ <big>Tier I</big>
+!Item
+!Price (-) {{Quality|None}}
+|-
+|{{Item|Simple fishing rod}}
+|{{Money|150}}
+|-
+|{{Item|Firewood}}
+|{{Money|3}}
+|-
+|{{Item|Frog}}
+|{{Money|4}}
+|-
+|{{Item|Gudgeon|}}
+|{{Money|5}}
+|-
+|{{Item|Anchovy|}}
+|{{Money|14}}
+|-
+|{{Item|Tilapia|}}
+|{{Money|17}}
+|-
+|{{Item|Perch|}}
+|{{Money|22}}
+|-
+|{{Item|Eel|}}
+|{{Money|28}}
+|}
+|
+{| class="wikitable sortable"
+|+ <big>Tier II</big>
+!Item
+!Price{{Quality|Copper}}
+!Price{{Quality|Silver}}
+|-
+|{{Item|Good fishing rod}}
+|{{Money|225}}
+|
+|-
+|{{Item|Bream}}
+|{{Money|40}}
+|{{Money|58}}
+|-
+|{{Item|Sardine}}
+|{{Money|79}}
+|{{Money|98}}
+|-
+|{{Item|Tuna}}
+|{{Money|83}}
+|{{Money|101}}
+|-
+|{{Item|Silver crucian}}
+|{{Money|98}}
+|{{Money|199}}
+|-
+|{{Item|Pike}}
+|{{Money|140}}
+|{{Money|288}}
+|-
+|{{Item|Salmon}}
+|N/A
+|{{Money|110}}
+|-
+|{{Item|Sturgeon}}
+|N/A
+|{{Money|184}}
+|}
+|
+{| class="wikitable sortable"
+|+ <big>Tier III</big>
+!Item
+!Price{{Quality|Gold}}
+|-
+|{{Item|Salmon}}
+|{{Money|269}}
+|-
+|{{Item|Sturgeon}}
+|{{Money|306}}
+|-
+|{{Item|Carp}}
+|{{Money|184}}
+|-
+|{{Item|Gold crucian}}
+|{{Money|919}}
+|-
+|{{Item|Goldfish}}
+|{{Money|3750}}
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[ru:Смотритель маяка]]
+[[pt-br:Faroleiro]]

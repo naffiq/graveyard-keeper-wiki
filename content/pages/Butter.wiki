@@ -1,0 +1,39 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Food Resource
+| nameinternal = butter
+| study        = 
+| source       = [[Rosa]]
+| cost         = 100
+| stacksize    = 10
+}}
+'''{{PAGENAME}}''' is an ingredient used in cooking, one source of which is [[Rosa]], the [[Shepherd|Shepherd's]] wife. For the main page on preparing food, see [[cooking]]. With [[Game of Crone|GoC]] you can also make it yourself
+
+==Crafting==
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Jug of milk|2}}
+|}
+
+{|class="wikitable" style="Width:35em;"
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Pancakes|5}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Jug of milk|1}}<br>{{Item|Pastry dough|1}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+[[ru:Масло (Кулинария)]]

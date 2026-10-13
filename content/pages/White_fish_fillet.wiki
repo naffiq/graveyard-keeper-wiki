@@ -1,0 +1,67 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| source       = [[Cooking table]], [[Lighthouse Keeper]]
+| cost         = 10
+| stacksize    = 30
+| type         = Food Resource
+| quest        = 
+| nameinternal = fillet_fish_white
+}}
+<b>{{PAGENAME}}s</b> are a [[cooking]] resource used in various [[Fishing|fish]]-related recipes. It can either be crafted at the cooking table or purchased from the [[Lighthouse Keeper]]. Recipes in the [[cooking table]] are only revealed after you've caught the prerequisite fish at least once.
+
+==Recipe==
+{| class = "wikitable" style = "Width:35em;"
+! colspan = "3" | {{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Energy
+|-
+|rowspan="2"|{{Item|{{PAGENAME}}|1}}
+|{{Item|Gudgeon|1}}
+|rowspan="5"|{{Energy|-|5}}
+|-
+|{{Item|Anchovy|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Tilapia|1}}
+|-
+|rowspan="2"|{{Item|{{PAGENAME}}|3}}
+|{{Item|Perch|1}}
+|-
+|{{Item|Eel|1}}
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em"
+!colspan="3"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Cost
+|-
+|{{Item|Fish nuggets|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|2}}
+|0:26<br>{{Fuel|-|5}}
+|-
+|{{Item|Fish soup|4}}
+|{{Item|{{PAGENAME}}|4}}<br>{{Item|Carrot|2}}<br>{{Item|Water|5}}
+|2:00<br>{{Fuel|-|10}}
+|-
+|{{Item|Baked fish|2}}
+|{{Item|{{PAGENAME}}|2}}
+|0:25<br>{{Fuel|-|5}}
+|}
+
+==See Also==
+*{{Item|Quality fish fillet}}
+*{{Item|Blue fish fillet}}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:food resources]]
+
+[[pt-br:filé de peixe branco]]

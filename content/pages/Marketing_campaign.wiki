@@ -1,0 +1,30 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} item.png
+|location   = [[Trade Office]]
+|technology = 
+|related    = [[Merchant]]
+|footprint  = 
+|rotatable  = 
+}}
+A marketing campaign is started at the desk of the [[trade office]] and advertises your goods in the [[town]]. You need to make {{item|flyer|10}}s, to earn yourself {{item|fame|1}}. With that fame, you are able to build another [[crate pallet]].
+
+You can also get 1 fame when you complete the quest where you give Ms. Charm a piece of Jewelry (Merchants questline)
+
+Before being able to enter the trade office, you've got to advance the [[merchant|merchant's quest]].
+
+== Costs ==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:marketing campaign item.png|80px|link=marketing campaign]]
+|{{Item|Flyer|10}}
+|
+|Each campaign adds {{Item|Fame|1}}.
+|}
+[[Category:Workstations]]
+
+[[Category:Trade office workstations]]

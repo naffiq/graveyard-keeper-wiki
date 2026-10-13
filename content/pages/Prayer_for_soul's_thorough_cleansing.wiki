@@ -1,0 +1,76 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| source       = Workbench
+| cost         = 112
+| stacksize    = 1
+| type         = Sermon
+| quest        = 
+| nameinternal = 
+}}
+
+Prayer for soul's thorough cleansing grants increased Sin shards received from the successfultreatment of soul (x2)
+
+==Sermon==
+{| class = "wikitable"
+!Quality
+!Minimum {{Church Rating}}
+!Donations
+!Faith
+!Effect
+|-
+|{{Quality Sprite|image = Prayer for excellence item.png|quality = Copper}}
+| xx{{Church Rating}}
+| +10% 
+| xx
+|[[file:Prayer for excellence effect.png]] XX
+|-
+|{{Quality Sprite|image = Prayer for excellence item.png|quality = Silver}}
+| xx{{Church Rating}}
+| +xx% 
+| xx
+|[[file:Prayer for excellence effect.png]] 36:00 minutes (4 days)
+|-
+|{{Quality Sprite|image = Prayer for excellence item.png|quality = Gold}}
+| 30{{Church Rating}}
+| +25% 
+| +25%, x3
+|[[file:Prayer for excellence effect.png]] 54:00 minutes (6 days)
+|}
+
+==Effect==
+
+Grants the XX buff, letting you receive x2 Sin Shard from the Harmed Soul healing process in the Soul Healer
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:10em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Prayer for excellence effect.png|80x80px]]
+|XX
+|style="text-align:center"|{{Quality|copper}} XX:XX  (X days){{Quality|silver}} XX:XX  (X days){{Quality|gold}} XX:XX  (X days)
+|XX
+|}
+
+==Recipe==
+{| class = "wikitable"
+!colspan = "4"| {{Item|Workbench}}
+|-
+! Tab
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|[[file:tab_book.png|link=|frameless|center]]
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}{{Item|Sin Shard|2}}
+|{{Energy|-|10}}
+|}
+
+{{Navbox-Church}}
+[[Category:church items]]
+[[Category:Sermons]]
+[[Category:Writing]]
+[[ru:Молитва о совершенстве]]

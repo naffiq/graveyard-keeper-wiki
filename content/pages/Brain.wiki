@@ -1,0 +1,104 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Bodypart
+| nameinternal = brain
+| study        = {{Techpoint|Blue|50}}
+| alchemy      = {{Item|Life solution}}
+| source       = [[Morgue|Autopsy]]
+| cost         = 
+| quest        = 
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a bodypart the can be removed at the [[preparation place]]. 
+
+Like [[Heart]] and [[Intestine]], each brain contains some skulls <span style = "display:inline-block;">{{Skull|white}}{{Skull|red}}</span> and removing the brain will remove those skulls whereas inserting a brain (in a body that doesn't have one anymore) will add them back. 
+
+See the [[corpses]] page for more information on corpse rating and the effects of the various operations or the [[preparation place]] workstation page for the list of other body parts that can be removed there.
+
+A standard brain will always have random stats of 1-3 {{Skull|white}}'s and/or 1-3 {{Skull|red}}'s these stats are initially hidden. Progress along the [[Inquisitor]]'s quest line will eventually teach you to identify a [[Dark brain]], the prerequisite for the Cultist perk (cost of {{Techpoint|Blue|300}}), which identifies {{Skull|white}}'s in organs. The most common content of a brain is <span style = "display:inline-block;">{{Skull|white}}{{Skull|white}}</span>.  See table below for various possibilities.
+
+==Recipe==
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Preparation place}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Corpse|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Blue|50}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Life solution|solution]]
+|}
+
+==Alchemy==
+{| class = "wikitable" style = "Width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|Life solution|2}}
+|{{Item|Brain|1}}
+|}
+
+== Mutations ==
+{| class="wikitable"
+|-
+! Type
+! adds
+! remove
+|-
+|{{Item|Brain}}
+| +{{Skull|red}}
+|
+|-
+|{{Item|Brain}}
+| +{{Skull|white}}
+|
+|-
+|{{Item|Brain}}
+| +{{Skull|red}}{{Skull|red}}
+|
+|-
+|{{Item|Brain}}
+| +{{Skull|white}}{{Skull|white}}
+|
+|-
+|{{Item|Brain}}
+| +{{Skull|red}}{{Skull|red}}
+| -{{Skull|white}}
+|-
+|{{Item|Brain}}
+| +{{Skull|red}}{{Skull|red}} +{{Skull|white}}{{Skull|white}}
+|
+|-
+|{{Item|Brain}}
+| +{{Skull|white}}{{Skull|white}}{{Skull|white}}
+| -{{Skull|red}}{{Skull|red}}
+|-
+|{{Item|Brain}}
+| +{{Skull|red}}{{Skull|red}}{{Skull|red}} +{{Skull|white}}{{Skull|white}}{{Skull|white}}
+|
+|-
+|{{Item|Dark brain}}
+| +{{Skull|red}}{{Skull|red}}{{Skull|red}}{{Skull|red}} +{{Skull|white}}
+|
+|}
+{{Navbox-Bodyparts}}
+[[Category:Body parts]]
+
+[[de:Hirn]]
+[[pt-br:Cérebro]]

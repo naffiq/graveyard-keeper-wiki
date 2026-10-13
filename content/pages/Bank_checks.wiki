@@ -1,0 +1,15 @@
+{{Item Infobox|image={{PAGENAME}}.png|name={{PAGENAME}}|source=[[Donkey]]|type=Quest item|consume={{Fuel|+|100}}}}
+
+The '''Bank checks''' item is part of the [[Game of Crone]] DLC. It is obtainable through the [[donkey]]'s questline.
+
+'''Item tool tip:''' You've never seen so many zeros! Unfortunately the checks are personalized.
+
+'''When used keeper says:''' Meh, its impossible to cash them, they're personalized. They're nothing more than kindling.
+
+Provides {{Fuel|+|100}} for cooking stove.
+Has no other value.
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Stubs]]
+[[Category:Quest items]]
+[[Category:Game of Crone]]

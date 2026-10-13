@@ -1,0 +1,50 @@
+{{Workstation-Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} image.png
+| location     = [[Kitchen Garden]]
+| technology   = [[Farming and Nature (Tech Tree)|Decay]]
+| related       = [[Farming]]
+| footprint    = 4x5
+| rotatable    = False
+| nameinternal = 
+| study        = 
+| alchemy      = 
+| source       = 
+| cost         = 
+| quest        = 
+}}
+The compost heap can be built in the [[kitchen garden]] to prepare valuable [[peat]] from [[crop waste]]. As a side product, you also get some [[maggot]]s from this process. You've got to study [[Farming and Nature (Tech Tree)|"Decay" technology]] in advance.
+
+If you want to know more details what to do with [[peat]], check the [[fertilizer]] page.
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!colspan=4|[[file:kitchen garden workbench.png|64px|link=kitchen garden]] [[Kitchen garden]]
+|-
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Wooden stick|10}}
+|
+|Requires [[Farming and Nature (Tech Tree)|Decay]]
+|}
+
+==Recipes==
+{| class="wikitable" style = "table-layout:fixed; width:35em;"
+!Item Produced
+!Materials Required
+!Notes
+|-
+|{{Item|Peat|6}}<br>{{Item|Maggot|2}}
+|{{Item|Crop waste|8}}
+|The compost takes some time to ripen.
+|}
+
+{{Navbox-Kitchen garden}}
+[[Category:Workstations]]
+
+[[Category:Kitchen garden workstations]]

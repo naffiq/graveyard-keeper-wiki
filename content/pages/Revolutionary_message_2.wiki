@@ -1,0 +1,33 @@
+{{Item Infobox
+|image={{PAGENAME}}.png
+|name={{PAGENAME}}
+|source=[[Donkey]]
+|type=Quest item
+}}
+
+The '''{{PAGENAME}}''' item is part of the [[Game of Crone]] DLC. It is obtainable through the [[Donkey|donkey's]] questline. It is given along with [[Pile of components]], and serves as the quest instruction of [[Donkey|donkey]] to craft {{Item|Battle horseshoes|1}} and {{Item|Iron unicorn horns|1}}. 
+
+==Usage==
+===Keeper will read the text: <br>===
+"Donkeys of all countries,unite!" <br>
+"1. ECOPODP liked your aphorisms very much!"<br>
+"So we have decided to adopt them as the Constitution of the coming Worldwide Donkey Socialistic Republic"<br>
+"2. After consuming the faith, everyday donkeys became greatly inspired, even believing that all donkeys are equal."<br>
+"We have had to remind them with our hooves that some donkeys are more equal than others."<br>
+"Thus you have passed the second stage of earning the approval of the ECOPODP."<br>
+"Keep going. We need donkey combat equipment in the contraband box."<br>
+"Your task is to assemble<br>
+and to deliver battle horseshoes and iron unicorn horns."<br>
+"And a magic pumpkin too."<br>
+"One we can exchange for the luxurious carriage of the royal veterinarian."<br>
+"At midnight his carriage will turn back into a pumpkin, and our master will look like a fool in front of the whole royal court!"<br>
+"Let's cross our tails!"<br>
+
+===Keeper will respond:===
+Hmm... I don't know how to make donkey gear, or how to enchant pumpkins.<br>
+Though I know people who can: [[Krezvold]] and [[Clotho]],<br>
+
+
+
+
+{{Navbox-GameofCroneQuest}}

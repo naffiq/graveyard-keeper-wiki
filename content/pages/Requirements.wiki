@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:System Requirements}}
+
+== Windows ==
+'''Minimum:'''<br>
+: '''OS:''' Windows 7 Service Pack 1  32/64 bit
+: '''Processor:''' Intel core i5, 1.5GHz and up
+: '''Memory:''' 2GB RAM
+: '''Graphics:''' 1GB Dedicated GPU, Shader Model 3.0+
+: '''DirectX:''' Version 10
+: '''Storage:''' 1GB available space
+
+== Mac OSX ==
+'''Minimum:'''<br>
+: '''OS:''' High Sierra 10.13
+: '''Processor:''' Intel core i5, 1.5GHz and up
+: '''Memory:''' 2GB RAM
+: '''Graphics:''' 1GB Dedicated GPU, Shader Model 3.0+
+: '''Storage:''' 1GB available space
+
+== Steam OS / Linux ==
+'''Minimum:'''<br>
+: '''OS:''' Ubuntu 18.04, CentOS 7
+: '''Processor:''' Intel core i5, 1.5GHz and up
+: '''Memory:''' 4GB RAM
+: '''Graphics:''' 1GB Dedicated GPU, Shader Model 3.0+
+: '''Storage:''' 1GB available space
+
+== Xbox One ==
+'''Minimum:'''
+'''Approximate size:''' 1016.34 MB
+'''Version:''' 1.202
+
+[[Category:Wiki pages]]
+[[Category:Main Pages]]
+{{DEFAULTSORT:System Requirements}}

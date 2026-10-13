@@ -1,0 +1,85 @@
+{{Stub}}
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Souls room]]
+|technology = None
+|related    = 
+|footprint  = 
+|rotatable  = False
+}}
+The '''{{PAGENAME}}''' is a workbench introduced with the [[Better Save Soul|Better Save Soul DLC]], that may be built in the [[Souls room]] after the [[Soul extractor]] is repaired. The {{PAGENAME}} allows you to use body parts to heal a [[Harmed soul]].<br>
+When a [[Harmed soul]] is successfully healed, it will generate a [[Healed soul]] and some [[Sin Shard]]s based on the number of body parts used. Each [[Harmed soul]] requires a different combination of body parts and their qualities, to increase the chance of a successful healing. If a [[Harmed soul]] is not preserved in a [[Soul container I|Soul container]], it will rapidly deteriorate and turn into a [[Sin Shard|Sin shard]]. Considering that healing a [[Harmed soul]] harvests a greater amount of [[Sin Shard|Sin shards]], it is not advisable to let [[Harmed soul|Harmed souls]] deteriorate.  
+
+The Soul healer can work with any unmodified body parts, but maxing out an organ's Red skulls and White skulls through the [[Organ Workbench]] will give the best healing results. The body parts do not degrade from use, and can in fact be used indefinitely. Extensions to the Soul healer must be crafted to unlock the 6 remaining organ slots, which in turn are unlocked through the [[Spiritualism (Tech Tree)|Spiritualism]] technology tree using soul gratitude and the standard blue, red and green points.
+
+''If a [[Healed soul]] is not preserved in a [[Soul container I|Soul container]], it will slowly deteriorate and turn into a [[Sin Shard]], just like its Harmed counterpart. This can be used as a technique for harvesting [[Sin Shard|Sin shards]] when [[Soul Gratitude]] is unneeded.''
+
+== Interface ==
+[[File:Soul Healer Interface with Soul.png|thumb|421x421px|The interface of a fully upgraded Soul Healer with partially upgraded organs and a damaged soul. ]]
+The interface of the soul healer starts with one slot for an organ (flesh) and the center slot for a soul. The other organs are unlocked though the Spiritualism tech tree. Click on a slot to add the needed item. When an organ is loaded you can see its stats. In the image shown, the Fat, for example, has one green and one red skull. Note the White Skull next to the green on the fat. The loaded soul needs two white skulls on the fat to heal its sins.  Likewise the soul requires the blood to have 3 white skulls and 3 red skulls but it is missing one red skull. Consequently the "Heal Soul" bar is still partially red and the soul will not be fully healed. More can be added using the [[Organ Workbench]]. All organs can hold 3 red and 3 white skulls. The more of both the organ has, the more capability it has to heal souls. Organs are not consumed by healing souls.
+
+== Fix ==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:Repair.png|64px|link={{PAGENAME}}]]
+|{{Item|Glass|2}}<br/>{{Item|Simple iron parts|3}}<br>{{Item|Skin|2}}
+|style="text-align:center" |{{energy|-|15}}
+|Adds {{Souls Room Capacity|15}}
+Available after [[Soul extractor]] is repaired
+|}
+
+==Extensions==
+Extensions can be added to the workstation to accommodate more types of body parts.
+
+{| class="wikitable"
+! Extension
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Bodypart
+!Notes
+|-
+|[[File:Healing pride nb.png]] Healing from pride
+|{{Item|Conical flasks|1}}<br/>{{Item|Simple iron parts|2}}
+|{{Item|Skin}}
+|Requires [[Spiritualism (Tech Tree)|Healer enthusiast]]
+|-
+|[[File:Healing from wrath nb.png]] Healing from wrath
+|{{Item|Conical flasks|1}}<br/>{{Item|Simple iron parts|2}}
+|{{Item|Blood}}
+|Requires [[Spiritualism (Tech Tree)|Experienced healer]]
+|-
+|[[File:Healing from gluttony nb.png]] Healing from gluttony
+|{{Item|Conical flasks|1}}<br/>{{Item|Simple iron parts|2}}
+|{{Item|Fat}}
+|Requires [[Spiritualism (Tech Tree)|Experienced healer]]
+|-
+|[[File:Healing from sloth nb.png]] Healing from sloth
+|{{Item|Conical flasks|1}}<br/>{{Item|Simple iron parts|2}}
+|{{Item|Brain}}
+|Requires [[Spiritualism (Tech Tree)|Professional healer]]
+|-
+|[[File:Healing from lust nb.png]] Healing from lust
+|{{Item|Conical flasks|1}}<br/>{{Item|Simple iron parts|2}}
+|{{Item|Heart}}
+|Requires [[Spiritualism (Tech Tree)|Professional healer]]
+|-
+|[[File:Healing from envy nb.png]] Healing from envy
+|{{Item|Conical flasks|1}}<br/>{{Item|Simple iron parts|2}}
+|{{Item|Intestine}}
+|Requires [[Spiritualism (Tech Tree)|Professional healer]]
+|-
+|[[File:Human soul healing.png]] Human soul healing
+|{{Item|Wooden plank|4}}<br/>{{Item|Nails|4}}<br/>{{Item|Complex iron parts|2}}
+|{{Item|Flesh}}
+|Unlocks after the conversation with [[Smiler]]
+|}
+
+{{Navbox-Souls room}}
+== Easter Egg ==
+
+The Design seems close to the statue from the "5th Element" Movie.
+https://i.pinimg.com/736x/2d/13/a1/2d13a1344c9b01bb5741343ed9bd9ad8.jpg

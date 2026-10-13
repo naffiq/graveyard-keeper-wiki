@@ -1,0 +1,336 @@
+{{stub}}
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = village_house_main.png
+| size      = //optional, default is 250x250px
+| exits     = [[Cellar]], [[Workyard]]
+| buildable = False
+| NPCs      = 
+}}
+
+One of the two places where the player is able to sleep (the other being the [[Cabin in the woods]]). Contains a bed, two chests, the [[oven]] and the [[cooking table]].
+
+The hatch leads to the [[cellar]] and onward to several different areas, and is acessible after finishing the tutorial.
+
+After the first night [[Yorick]], the ghost, haunts you.
+
+Using the worktable, you can change the existing decorations of your home. To create the paints used for the decorations, simply combine the powder of the corresponding colour with oil. There are eight new paints for the eight powders (not including white and black):
+{| class="wikitable" style="width:600px;" style="text-align:center;"
+! colspan="8" style="width:12em;" |Paint Colours
+|-
+|Blue
+|Brown
+|Dark Green
+|Green
+|Red
+|Dark Violet
+|Violet
+|Yellow
+|-
+|Acceleration
+|Slowing
+|Health
+|Order
+|Toxic
+|Death
+|Chaos
+|Life
+|}
+
+
+'''Save before decorating.''' The game seems to sometimes apply decorations upon selection at the worktable, before the left click confirmation at the preview page, so you may waste materials if you don't save.
+<br />
+==Furniture & Hangings==
+There are three slots to hang paintings. Each painting is unlocked upon completion of some event.
+{| class="wikitable"
+! colspan="4" |[[File:Home Sweet Home.png]] Home Sweet Home
+|-
+! style="width:17.5em;" |Blueprint
+! style="width:17.5em;" |Required Materials
+!Size
+!Notes
+|-
+|[[File:Household Utensils Rack.png|80x80px]] [[Household utensils rack]]
+|{{Item|Flitch|12}}<br />{{Item|Nails|10}}<br />{{Item|Wooden beam|4}}
+|4x2
+
+2x4
+|Available from the beginning
+Adds decorative storage to your kitchen
+
+Has 25 slots (larger than [[Chest]]s)
+|-
+|[[File:Painting.png|80x80px]]Burning witch
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Yellow Paint|1}}
+| rowspan="7" |3 slots
+|Unlocked on first witch-burning
+[[File:Burning witch.png]] 
+|-
+|[[File:Painting.png|80x80px]]Bridge of the Dead
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Blue Paint|1}}
+|Available from the beginning
+[[File:Bridge of the Dead.png]]
+|-
+|[[File:Painting.png|80x80px]]Red Eye
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Black paint|1}}
+|Available from the beginning
+[[File:Red Eye.png]]
+|-
+|[[File:Painting.png|80x80px]]Bishop's Choice
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Violet Paint|1}}
+|Unlocked upon meeting [[Bishop]]
+[[File:Bishop's Choice.png]]
+|-
+|[[File:Painting.png|80x80px]]Inquisitor's Joy
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Red Paint|1}}
+|Unlocked upon meeting [[Inquisitor]]
+[[File:Inquisitor's Joy.png]]
+|-
+|[[File:Painting.png|80x80px]]Ms. Charm Monroe
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Red Paint|1}}
+|Unlocked upon meeting [[Ms. Charm]]
+[[File:Ms. Charm Monroe.png]]
+|-
+|[[File:Painting.png|80x80px]]Donkeys of the world, unite!
+|{{Item|Clean paper|3}}<br />{{Item|Feather|1}}<br />{{Item|Red Paint|1}}
+|Unlocked upon meeting [[Donkey]]
+[[File:Donkeys of the world, unite!.png]]
+|-
+|[[File:Cooking Table b.png|80x80px]]Cooking Table
+|{{Item|Flitch|4}}<br />{{Item|Nails|6}}<br />{{Item|Simple iron parts|3}}
+|
+|Default decor
+|-
+|[[File:Updated cooking table.png|80x80px]]Updated Cooking Table
+|{{Item|Wooden plank|4}}<br />{{Item|Nails|6}}<br />{{Item|Complex iron parts|3}}
+|
+|Changes appearance of cooking table
+
+Don't think it provides cooking boost
+|-
+|[[File:Cupboard.png|80x80px]]Cupboard
+|{{Item|Flitch|8}}<br />{{Item|Nails|6}}<br />{{Item|Simple iron parts|4}}
+|
+|Default decor
+|-
+|[[File:Cupboard.png|80x80px]]Old-fashioned Cupboard
+|{{Item|Wooden plank|8}}<br />{{Item|Nails|6}}<br />{{Item|Complex iron parts|4}}
+|
+|Changes appearance of cupboard
+|}<br />
+
+== Carpets ==
+There are two slots for the carpets, including the pre-existing default Common Carpet.
+{| class="wikitable"
+! colspan="4" |[[File:Home Sweet Home.png]] Home Sweet Home
+|-
+! style="width:17.5em;" |Blueprint
+! style="width:17.5em;" |Required Materials
+!Size
+!Notes
+|-
+|[[File:Common Carpet.png|80x80px]]Common Carpet
+|{{Item|Silk|2}}
+| rowspan="11" |4x3
+3x4
+| rowspan="11" |Available from the beginning
+|-
+|[[File:Colour Carpet.png|80x80px]]Blue Carpet
+|{{Item|Silk|2}}<br />{{Item|Blue Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Brown Carpet
+|{{Item|Silk|2}}<br />{{Item|Brown Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Dark Green Carpet
+|{{Item|Silk|2}}<br />{{Item|Dark Green Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Green Carpet
+|{{Item|Silk|2}}<br />{{Item|Green Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Red Carpet
+|{{Item|Silk|2}}<br />{{Item|Red Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Violet Carpet
+|{{Item|Silk|2}}<br />{{Item|Violet Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Dark Violet Carpet
+|{{Item|Silk|2}}<br />{{Item|Dark Violet Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Yellow Carpet
+|{{Item|Silk|2}}<br />{{Item|Yellow Paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]White Carpet
+|{{Item|Silk|2}}<br />{{Item|White paint|1}}
+|-
+|[[File:Colour Carpet.png|80x80px]]Black Carpet
+|{{Item|Silk|2}}<br />{{Item|Black paint|1}}
+|}<br />
+
+== Flower Shelves ==
+Flower shelves can be used to line the south wall of your house. You can place a maximum of 5 flower shelves.
+{| class="wikitable"
+! colspan="4" |[[File:Home Sweet Home.png]] Home Sweet Home
+|-
+! style="width:17.5em;" |Blueprint
+! style="width:17.5em;" |Required Materials
+!Size
+!Notes
+|-
+|[[File:Flower shelf.png|80x80px|Repair the desk]]Red Flower Shelf 1/2/3/4
+|{{Item|Flitch|2}}<br />{{Item|Peat|1}}<br />{{Item|Red flower|4}}
+| rowspan="3" |3x2
+| rowspan="3" |Available from the beginning
+|-
+|[[File:Flower shelf.png|80x80px|Repair the desk]]White Flower Shelf 1/2/3/4
+|{{Item|Flitch|2}}<br />{{Item|Peat|1}}<br />{{Item|White flower|5}}
+|-
+|[[File:Flower shelf.png|80x80px|Repair the desk]]Yellow Flower Shelf 1/2/3/4
+|{{Item|Flitch|2}}<br />{{Item|Peat|1}}<br />{{Item|Yellow flower|5}}
+|}<br />
+
+== Bedspreads ==
+This changes the colour of the sheets on the bed.
+{| class="wikitable"
+! colspan="4" |[[File:Home Sweet Home.png]] Home Sweet Home
+|-
+! style="width:17.5em;" |Blueprint
+! style="width:17.5em;" |Required Materials
+!Size
+!Notes
+|-
+|[[File:Common bedspread.png|80x80px]]Common bedspread
+|{{Item|Silk|2}}
+|
+| rowspan="11" |Available from the beginning
+|-
+|[[File:Colour bedspread.png|80x80px]]Blue bedspread
+|{{Item|Silk|2}}<br />{{Item|Blue Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Brown bedspread
+|{{Item|Silk|2}}<br />{{Item|Brown Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Dark Green bedspread
+|{{Item|Silk|2}}<br />{{Item|Dark Green Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Green bedspread
+|{{Item|Silk|2}}<br />{{Item|Green Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Red bedspread
+|{{Item|Silk|2}}<br />{{Item|Red Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Violet bedspread
+|{{Item|Silk|2}}<br />{{Item|Violet Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Dark Violet bedspread
+|{{Item|Silk|2}}<br />{{Item|Dark Violet Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Yellow bedspread
+|{{Item|Silk|2}}<br />{{Item|Yellow Paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]White bedspread
+|{{Item|Silk|2}}<br />{{Item|White paint|1}}
+|
+|-
+|[[File:Colour bedspread.png|80x80px]]Black bedspread
+|{{Item|Silk|2}}<br />{{Item|Black paint|1}}
+|
+|}<br />
+
+== Wallpapers ==
+This changes the wallpaper of the room. All colors can be combined with all patterns. If you choose a wallpaper, you can see the result in a preview and only if you accept it, the wallpaper will be permanently changed. If you want to remove a pattern without changing it to another one, you can remove it via the "Remove" option at the workstation.
+{| class="wikitable"
+! colspan="4" |[[File:Home Sweet Home.png]] Home Sweet Home
+|-
+! style="width:17.5em;" |Blueprint
+! style="width:17.5em;" |Required Materials
+!Snippet
+!Notes
+|-
+|[[File:Common walls.png|80x80px]]Common walls
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}
+|[[File:Common walls wallpaper.png]]
+| rowspan="11" |Wall color
+|-
+|[[File:Colour walls.png|80x80px]]Blue Storm
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Blue Paint|1}}
+|[[File:Blue Storm wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Ripe Hazelnut
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Brown Paint|1}}
+|[[File:Ripe Hazelnut wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Slime Green
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Green Paint|1}}
+|[[File:Slime Green wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Seaweed Green
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Dark Green Paint|1}}
+|[[File:Seaweed Green wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Bloody Red
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Red Paint|1}}
+|[[File:Bloody Red wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Plum Violet
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Violet Paint|1}}
+|[[File:Plum Violet wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Void Purple
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Dark Violet Paint|1}}
+|[[File:Void Purple wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Cheesy Yellow
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Yellow Paint|1}}
+|[[File:Cheesy Yellow wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Plain White
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|White paint|1}}
+|[[File:Plain White wallpaper.png]]
+|-
+|[[File:Colour walls.png|80x80px]]Black Shadow
+|{{Item|Clean paper|6}}<br />{{Item|Glue|2}}<br />{{Item|Black paint|1}}
+|[[File:Black Shadow wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Skulls and bats
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Skulls and bats wallpaper.png]]
+| rowspan="8" | Patterned wallpaper
+|-
+|[[File:Deco walls.png|80x80px]]Argyle skulls
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Argyle skulls wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Dots and crosses
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Dots and crosses wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Crosses
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Crosses wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Paisley
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Paisley wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Fleur-de-lis
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Fleur de lis wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Vines
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Vines wallpaper.png]]
+|-
+|[[File:Deco walls.png|80x80px]]Bellflowers
+|{{Item|Feather|1}}<br />{{Item|White paint|1}}
+|[[File:Bellflowers wallpaper.png]]
+|}{{Navbox-Locations}}
+
+[[fr:Domicile]]

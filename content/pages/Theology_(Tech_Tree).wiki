@@ -1,0 +1,312 @@
+This [[Technologies|technology tree]] deals with the [[church]] and [[graveyard]]. It is unlocked by first meeting the [[bishop]]. Through it you can unlock better [[gravestone]]s and [[Stone grave fence|fences]] for a better {{Graveyard Rating}}, new items for the [[church]] to help you boost its rating and new [[sermon]]s which give unique bonuses.
+
+==Faith==
+This branch is unlocked after completing the [[Episcop#Fix_the_graveyard|bishops quest]] to raise {{Graveyard Rating}} to 5. He will give you the [[Perks|preacher perk]] allowing you to hold [[sermons]] in the local [[church]]. Further down the tree you are able to craft more sermons.
+
+{| class="wikitable" style="text-align:center"
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" style="width:10em;" |Unlocks
+|- id="Faith"
+| rowspan="2" |Faith
+| rowspan="2" |None
+| rowspan="2" |Unlocked by reopening the [[church]]
+|[[File:Prayer for faith item.png|64px|link=Prayer for faith]]
+|style="text-align:left"|Create: [[Prayer for faith]]
+|-
+|[[File:Preacher Perk.png|link=Perks#Preacher Perk]]
+|style="text-align:left"|Perk: [[Perks#Preacher Perk|Preacher]]
+|- id="Light of Faith"
+| rowspan="3" |Light of Faith
+| rowspan="3" |Faith
+| rowspan="3" |{{Techpoint|red|5}} {{Techpoint|green|5}} {{Techpoint|blue|5}}
+|[[File:Candelabra I item.png|64px|link=Candelabra I]]
+|style="text-align:left"|Blueprint: [[Candelabra I]]
+|-
+|[[File:Candle (1) item.png|64px|link=Candle (1)]]
+|style="text-align:left"|Create: [[Candle (1)]]
+|-
+|[[File:Candle (3) item.png|64px|link=Candle (3)]]
+|style="text-align:left"|Create: [[Candle (3)]]
+|- id="Illumination of Faith"
+| rowspan="3" |Illumination of Faith
+| rowspan="3" |Light of Faith
+| rowspan="3" |{{Techpoint|red|50}} {{Techpoint|blue|25}}
+|[[File:Candelabra II item.png|64px|link=Candelabra II]]
+|style="text-align:left"|Blueprint: [[Candelabra II]]
+|-
+|[[File:Candle (4) item.png|64px|link=Candle (4)]]
+|style="text-align:left"|Create: [[Candle (4)]]
+|-
+|[[File:Stained glass window item.png|64px|link=Stained glass window]]
+|style="text-align:left"|Create: [[Stained glass window]]
+|- id="Shining of Faith"
+| rowspan="1" |Shining of Faith
+| rowspan="1" |Illumination of Faith +<br>Superpower of Faith
+| rowspan="1" |{{Techpoint|red|250}} {{Techpoint|green|100}} {{Techpoint|blue|100}}
+|[[File:Candelabra III item.png|64px|link=Candelabra III]]
+|style="text-align:left"|Blueprint: [[Candelabra III]]
+|- id="Comfort of Faith"
+| rowspan="1" |Comfort of Faith
+| rowspan="1" |Faith
+| rowspan="1" |{{Techpoint|red|10}} {{Techpoint|blue|5}}
+|[[File:Church bench item.png|64px|link=Church bench]]
+|style="text-align:left"|Blueprint: [[Church bench]]
+|- id="Power of Faith"
+| rowspan="3" |Power of Faith
+| rowspan="3" |Comfort of Faith
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|blue|30}}
+|[[File:Confessional item.png|64px|link=Confessional]]
+|style="text-align:left"|Blueprint: [[Confessional]]
+|-
+|[[File:Wooden church shrine item.png|64px|link=Wooden church shrine]]
+|style="text-align:left"|Blueprint: [[Wooden church shrine]]
+|-
+| [[File:Prayer for repentance item.png|64px|link=Prayer for repentance]]
+|style="text-align:left"|Create: [[Prayer for repentance]]
+|- id="Softness of Faith"
+| rowspan="1" |Softness of Faith
+| rowspan="1" |Power of Faith
+| rowspan="1" |{{Techpoint|red|25}} {{Techpoint|green|50}} {{Techpoint|blue|20}}
+|[[File:Soft church bench item.png|64px|link=Soft church bench]]
+|style="text-align:left"|Blueprint: [[Soft church bench]]
+|- id="Superpower of Faith"
+| rowspan="2" |Superpower of Faith
+| rowspan="2" |Softness of Faith
+| rowspan="2" |{{Techpoint|red|150}} {{Techpoint|blue|250}}
+|[[File:Confessional II item.png|64px|link=Confessional II]]
+|style="text-align:left"|Blueprint: [[Confessional II]]
+|-
+|[[File:Stone church shrine item.png|64px|link=Stone church shrine]]
+|style="text-align:left"|Blueprint: [[Stone church shrine]]
+|- id="Smell of Faith"
+| rowspan="2" |Smell of Faith
+| rowspan="2" |Power of Faith
+| rowspan="2" |{{Techpoint|red|10}} {{Techpoint|green|30}} {{Techpoint|blue|10}}
+|[[File:Incense burner item.png|64px|link=Incense burner]]
+|style="text-align:left"|Blueprint: [[Incense burner]]
+|-
+|[[File:Incense item.png|64px|link=Incense]]
+|style="text-align:left"|Create: [[Incense]]
+|- id="Pheromones"
+| rowspan="2" |Pheromones
+| rowspan="2" |Smell of Faith
+| rowspan="2" |{{Techpoint|red|10}} {{Techpoint|green|100}} {{Techpoint|blue|100}}
+|[[File:Incense burner II item.png|64px|link=Incense burner II]]
+|style="text-align:left"|Blueprint: [[Incense burner II]]
+|-
+|[[File:Incense II item.png|64px|link=Incense II]]
+|style="text-align:left"|Create: [[Incense II]]
+|- id="Business of Faith"
+| rowspan="2" |Business of Faith
+| rowspan="2" |Faith
+| rowspan="2" |{{Techpoint|red|10}} {{Techpoint|blue|5}}
+|[[File:Flyer item.png|64px|link=Flyer]]
+|style="text-align:left"|Create: [[Flyer]]
+|-
+| [[File:Prayer for prosperity item.png|64px|link=Prayer for prosperity]]
+|style="text-align:left"|Create: [[Prayer for prosperity]]
+|- id="Price of Faith"
+| rowspan="3" |Price of Faith
+| rowspan="3" |Business of Faith
+| rowspan="3" |{{Techpoint|blue|20}}
+| [[File:Prayer for donations item.png|64px|link=Prayer for donations]]
+|style="text-align:left"|Create: [[Prayer for donations]]
+|-
+| [[File:Combo prayer item.png|64px|link=Combo prayer]]
+|style="text-align:left"|Create: [[Combo prayer]]
+|-
+|[[File:Cardinal Perk.png|link=Perks#Cardinal Perk]]
+|style="text-align:left"|Perk: [[Perks#Cardinal Perk|Cardinal]]
+|}
+
+==Graves==
+Upon arriving to the graveyard for the first time the [[Episcop#Fix_the_graveyard|bishop]] will ask you to the be the graveyard keeper. You gain access to the [[Technologies|technology tree]] so that you can improve the [[graveyard]] to 5 {{Graveyard Rating}} and complete his quest. Unlocking all of these technology's costs a total of [[File:Red Tech Symbol.png]] [[Technologies|'''1455,''']] [[File:Green Tech Symbol.png]] [[Technologies|'''155''']], and [[File:Blue Tech Symbol.png]] '''[[Technologies|635]]''' technology points.
+
+{| class="wikitable" style="text-align:center"
+! Technology
+! Prerequisite tech
+! style="width:10em;" | Cost
+! colspan="2" style="width:20em;" | Unlocks
+|- id="Humble Marker"
+| rowspan="1" |Humble Marker
+| rowspan="1" |None
+| rowspan="1" |Unlocked by meeting the [[bishop]]
+|[[File:Wooden marker item.png|64px|link=Wooden marker]]
+|style="text-align:left"|Create: [[Wooden marker]]
+|- id="Simple Gravestones"
+| rowspan="3" |Simple Gravestones
+| rowspan="3" |Humble Marker
+| rowspan="3" |{{Techpoint|red|10}} {{Techpoint|green|5}}
+|[[File:Wooden grave fence item.png|64px|link=Wooden grave fence]]
+|style="text-align:left"|Create: [[Wooden grave fence]]
+|-
+|[[File:Wooden cross item.png|64px|link=Wooden cross]]
+|style="text-align:left"|Create: [[Wooden cross]]
+|-
+|[[File:Gravestone item.png|64px|link=Gravestone]]
+|style="text-align:left"|Create: [[Gravestone]]
+|- id="Cremation"
+| rowspan="3" |Cremation
+| rowspan="3" |Simple Gravestones
+| rowspan="3" |{{Techpoint|red|5}} {{Techpoint|green|20}} {{Techpoint|blue|5}}
+|[[File:Place for burning corpses item.png|64px|link=Place for burning corpses]]
+|style="text-align:left"|Blueprint: [[Place for burning corpses]]
+|-
+|[[File:Ceramic funeral urn item.png|64px|link=Ceramic funeral urn]]
+|style="text-align:left"|Create: [[Ceramic funeral urn]]
+|-
+|[[File:Stone columbarium item.png|64px|link=Stone columbarium]]
+|style="text-align:left"|Blueprint: [[Stone columbarium]]
+|- id="Graveyard Enchancement"
+| rowspan="2" |Graveyard Enchancement
+| rowspan="2" |Cremation
+| rowspan="2" |{{Techpoint|red|40}} {{Techpoint|blue|20}}
+|[[File:Wooden prayer station item.png|64px|link=Wooden prayer station]]
+|style="text-align:left"|Blueprint: [[Wooden prayer station]]
+|-
+|[[File:Lawn item.png|64px|link=Lawn]]
+|style="text-align:left"|Blueprint: [[Lawn]]
+|- id="Cremation II"
+| rowspan="2" |Cremation II
+| rowspan="2" |Cremation
+| rowspan="2" |{{Techpoint|red|120}} {{Techpoint|green|80}} {{Techpoint|blue|20}}
+|[[File:Porcelain funeral urn item.png|64px|link=Porcelain funeral urn]]
+|style="text-align:left"|Create: [[Porcelain funeral urn]]
+|-
+|[[File:Marble columbarium item.png|64px|link=Marble columbarium]]
+|style="text-align:left"|Blueprint: [[Marble columbarium]]
+|- id="Stone Prayer Station"
+| rowspan="3" |Stone Prayer Station
+| rowspan="3" |Cremation II
+| rowspan="3" |{{Techpoint|red|150}} {{Techpoint|blue|100}}
+|[[File:Stone prayer station item.png|64px|link=Stone prayer station]]
+|style="text-align:left"|Blueprint: [[Stone prayer station]]
+|-
+|[[File:Marble flagstones item.png|64px|link=Marble flagstones]]
+|style="text-align:left"|Blueprint: [[Marble flagstones]]
+|-
+|[[File:Lantern item.png|64px|link=Lantern]]
+|style="text-align:left"|Blueprint: [[Lantern]]
+|- id="Stone Gravestones"
+| rowspan="3" |Stone Gravestones
+| rowspan="3" |Simple Gravestones
+| rowspan="3" |{{Techpoint|red|30}} {{Techpoint|blue|10}}
+|[[File:Stone grave fence item.png|64px|link=Stone grave fence]]
+|style="text-align:left"|Create: [[Stone grave fence]]
+|-
+|[[File:Stone cross item.png|64px|link=Stone cross]]
+|style="text-align:left"|Create: [[Stone cross]]
+|-
+|[[File:Gravestone II item.png|64px|link=Gravestone II]]
+|style="text-align:left"|Create: [[Gravestone II]]
+|- id="Carved Gravestones"
+| rowspan="3" |Carved Gravestones
+| rowspan="3" |Stone Gravestones
+| rowspan="3" |{{Techpoint|red|100}} {{Techpoint|blue|30}}
+|[[File:Stone grave fence II item.png|64px|link=Stone grave fence II]]
+|style="text-align:left"|Create: [[Stone grave fence II]]
+|-
+|[[File:Stone cross II item.png|64px|link=Stone cross II]]
+|style="text-align:left"|Create: [[Stone cross II]]
+|-
+|[[File:Stone plinth item.png|64px|link=Stone plinth]]
+|style="text-align:left"|Create: [[Stone plinth]]
+|- id="Grave monuments"
+| rowspan="2" |Grave monuments
+| rowspan="2" |Carved gravestones
+| rowspan="2" |{{Techpoint|red|150}} {{Techpoint|blue|50}}
+|[[File:Stone sculpture item.png|64px|link=Stone sculpture]]
+|style="text-align:left"|Create: [[Stone sculpture]]
+|-
+|[[File:Stone sculpture II item.png|64px|link=Stone sculpture II]]
+|style="text-align:left"|Create: [[Stone sculpture II]]
+|- id="Marble gravestones"
+| rowspan="2" |Marble gravestones
+| rowspan="2" |Grave Monuments
+| rowspan="2" |{{Techpoint|red|250}} {{Techpoint|blue|100}}
+|[[File:Marble grave fence item.png|64px|link=Marble grave fence]]
+|style="text-align:left"|Create: [[Marble grave fence]]
+|-
+|[[File:Marble cross item.png|64px|link=Marble cross]]
+|style="text-align:left"|Create: [[Marble cross]]
+|- id="Carved Marble Gravestones"
+| rowspan="3" |Carved Marble Gravestones
+| rowspan="3" |Marble Gravestones
+| rowspan="3" |{{Techpoint|red|300}} {{Techpoint|green|50}} {{Techpoint|blue|150}}
+|[[File:Marble grave fence II item.png|64px|link=Marble grave fence II]]
+|style="text-align:left"|Create: [[Marble grave fence II]]
+|-
+|[[File:Marble cross II item.png|64px|link=Marble cross II]]
+|style="text-align:left"|Create: [[Marble cross II]]
+|-
+|[[File:Marble plinth item.png|64px|link=Marble plinth]]
+|style="text-align:left"|Create: [[Marble plinth]]
+|- id="Crypts"
+| rowspan="2" |Crypts
+| rowspan="2" |Marble Gravestones
+| rowspan="2" |{{Techpoint|red|300}} {{Techpoint|blue|150}}
+|[[File:Marble sculpture item.png|64px|link=Marble sculpture]]
+|style="text-align:left"|Create: [[Marble sculpture]]
+|-
+|[[File:Marble sculpture II item.png|64px|link=Marble sculpture II]]
+|style="text-align:left"|Create: [[Marble sculpture II]]
+|- id="Advanced gravestones"
+| rowspan="3" |Advanced gravestones
+| rowspan="3" |[[Undertaker]] from Refugee camp ([[Game of Crone]] DLC)
+| rowspan="3" |{{Money|500}}
+|[[File:Stone grave fence III.png|64px|link=Stone grave fence III]]
+|style="text-align:left"|Create: [[Stone grave fence III]]
+|-
+|[[File:Stone grave fence IV.png|64px|link=Stone grave fence IV]]
+|style="text-align:left"|Create: [[Stone grave fence IV]]
+|-
+|[[File:Gravestone III.png|64px|link=Gravestone III]]
+|style="text-align:left"|Create: [[Gravestone III]]
+|- id="Advanced gravestones II"
+| rowspan="3" |Advanced gravestones II
+| rowspan="3" |[[Undertaker]] from Refugee camp ([[Game of Crone]] DLC)
+| rowspan="3" |{{Money|1000}}
+|[[File:Stone grave fence V.png|64px|link=Stone grave fence V]]
+|style="text-align:left"|Create: [[Stone grave fence V]]
+|-
+|[[File:Marble gravestone III.png|64px|link=Marble gravestone III]]
+|style="text-align:left"|Create: [[Marble gravestone III]]
+|-
+|[[File:Marble grave fence III.png|64px|link=Marble grave fence III]]
+|style="text-align:left"|Create: [[Marble grave fence III]]
+|- id="Marble Fences"
+| rowspan="2" |Marble Fences
+| rowspan="2" |[[Undertaker]] from Refugee camp ([[Game of Crone]] DLC)
+| rowspan="2" |{{Money|2800}}
+|[[File:Marble grave fence IV.png|64px|link=Marble grave fence IV]]
+|style="text-align:left"|Create: [[Marble grave fence IV]]
+|-
+|[[File:Marble grave fence V.png|64px|link=Marble grave fence V]]
+|style="text-align:left"|Create: [[Marble grave fence V]]
+|- id="Stone Statues"
+| rowspan="2" |Stone Statues
+| rowspan="2" |[[Undertaker]] from Refugee camp ([[Game of Crone]] DLC)
+| rowspan="2" |{{Money|1200}}
+|[[File:Stone sculpture III.png|64px|link=Stone sculpture III]]
+|style="text-align:left"|Create: [[Stone sculpture III]]
+|-
+|[[File:Stone sculpture IV.png|64px|link=Stone sculpture IV]]
+|style="text-align:left"|Create: [[Stone sculpture IV]]
+|- id="Marble Statues"
+| rowspan="2" |Marble Statues
+| rowspan="2" |[[Undertaker]] from Refugee camp ([[Game of Crone]] DLC)
+| rowspan="2" |{{Money|2500}}
+|[[File:Marble sculpture III.png|64px|link=Marble sculpture III]]
+|style="text-align:left"|Create: [[Marble sculpture III]]
+|-
+|[[File:Marble sculpture IV.png|64px|link=Marble sculpture IV]]
+|style="text-align:left"|Create: [[Marble sculpture IV]]
+|}
+
+{{Navbox-Technology}}
+[[Category:Technologies]]
+
+[[pt-br:Teologia (Árvore de Tecnologias)]]
+[[es:Teología]]

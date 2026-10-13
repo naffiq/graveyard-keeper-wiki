@@ -1,0 +1,104 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Snack
+| consume      = {{Energy|+|12}}/{{Energy|+|19}}/{{Energy|+|24}}; [[file:Brewing effect.png]]
+| nameinternal = snack:onion_ring
+| study        = 
+| alchemy      = 
+| source       = [[Cooking]]
+| cost         = 20
+}}
+
+A food item which restores {{Energy||10 -}} {{Energy||20}} and applies the beer thirst buff when consumed. It can be made in the [[oven]]. The quality is dependent on the ingredients used as well as any [[perks]] or [[sermons]] that might be active.  Higher quality {{PAGENAME}} have a larger restorative effect when consumed. The recipe can be unlocked by talking to [[Horadric]] while carrying {{item|onion||copper}} (one is enough and must be {{Quality|Copper}}.) in your inventory. For the main page on preparing food see [[cooking]].
+
+==Quality levels== 
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = i_onion_ring.png|quality = copper}}
+|{{Quality Sprite|image = i_onion_ring.png|quality = silver}}
+|{{Quality Sprite|image = i_onion_ring.png|quality = gold}}
+|-
+|{{Money|10}}
+|{{Money|16}}
+|{{Money|20}}
+|-
+|{{Energy|+|12}}
+|{{Energy|+|19}}
+|{{Energy|+|24}}
+|}
+
+==Effect==
+
+On use, onion rings will apply the beer thirst buff for a duration of 2 minutes. The buff increases energy restoration from [[a mug of beer|beer]] by 33%. For a list of buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Brewing effect.png|link=Effects#Beer Thirst|Beer Thirst]]
+|Beer tastes much better now.
+|style="text-align:center"|2:00
+|[[Effects#Beer Thirst|Beer Thirst]]
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:100%; max-width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|rowspan = "2"|	{{Item|{{PAGENAME}}|5|animation}}
+|{{Item|Onion|1|animation}}
+{{Item|Oil|1|}}
+
+{{Item|Fuel|2}}
+|}
+
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality || Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Horadric}} 
+| align="center" | [[file:Bronze Star.png]]
+| align="center" | I 
+| {{Money|10}}
+| align="center" | I 
+| {{Money|8}}
+|-
+| {{NPC|Horadric}} 
+| align="center" | [[file:Silver Star.png]]
+| align="center" | II 
+| {{Money|16}}
+| align="center" | II 
+| {{Money|11}}
+|-
+| {{NPC|Horadric}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+| {{Money|20}}
+| align="center" | III 
+| {{Money|14}}
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+|  N/A
+| align="center" | III 
+| {{Money|20}}
+|}
+
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]
+[[Category:effect items]]

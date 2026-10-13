@@ -1,0 +1,230 @@
+This [[Technologies|technology tree]] deals with farming and the manipulation of nature. This involves growing crops, gathering food, fruit trees, beekeeping, wine and beer production as well as fishing.
+
+==Farming==
+This branch is unlocked upon talking to [[Horadric]] about the [[kitchen garden]] after reading the sign at the blueprint table there. For more information on growing crops see [[farming]].
+
+{| class="wikitable" style="text-align:center" 
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="Garden Beds"
+|Garden Beds
+|None
+|Talk to [[Horadric]] about the [[kitchen garden]]
+|[[File:Empty garden bed item.png|64px|link=Empty garden bed]]
+|style="text-align:left"|Blueprint: [[Empty garden bed]]
+|- id="Improvement"
+| rowspan="2" |Improvement
+| rowspan="2" |Garden Beds
+| rowspan="2" |{{Techpoint|red|10}}
+|[[file:Trunk item.png|64px|link=trunk]]
+|style="text-align:left"|Blueprint: [[Trunk]]
+|-
+|[[File:Garden bed with sticks item.png|64px|link=Garden bed with sticks]]
+|style="text-align:left"|Blueprint: [[Garden bed with sticks]]
+|- id="Gardening"
+| rowspan="2" |Gardening
+| rowspan="2" |Improvement
+| rowspan="2" |{{Techpoint|green|50}}{{Techpoint|blue|10}}
+|[[File:Prayer for shoots and roots item.png|64px|link=Prayer for shoots and roots]]
+|style="text-align:left"|Create: [[Prayer for shoots and roots]]
+|-
+|[[File:Farmer Perk.png|link=Perks#Farmer Perk]]
+|style="text-align:left"|Perk: [[Perks#Farmer Perk|Farmer]]
+|- id="Zombie gardening"
+| rowspan="1" |Zombie gardening
+| rowspan="1" |Gardening
+| rowspan="1" |Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|green|20}}{{Techpoint|blue|5}}
+|[[File:Zombie farm item.png|64px|link=Zombie farm]]
+|style="text-align:left"|Blueprint: [[Zombie farm]]
+|- id="Decay"
+| rowspan="3" |Decay
+| rowspan="3" |Garden Beds
+| rowspan="3" |{{Techpoint|green|10}}
+|[[File:Compost heap item.png|64px|link=Compost heap]]
+|style="text-align:left"|Blueprint: [[Compost heap]]
+|-
+|[[File:Peat item.png|64px|link=Peat]]
+|style="text-align:left"|Create: [[Peat]]
+|-
+|[[File:Maggot item.png|64px|link=Maggot]]
+|style="text-align:left"|Gathering: [[Maggot]]
+|- id="Simple Fertilizers"
+| rowspan="2" |Simple Fertilizers
+| rowspan="2" |Decay
+| rowspan="2" |{{Techpoint|green|75}}{{Techpoint|blue|20}}
+|[[File:Boost fertilizer I item.png|64px|link=Boost fertilizer I]]
+|style="text-align:left"|Create: [[Boost fertilizer I]]
+|-
+|[[File:Quality fertilizer I item.png|64px|link=Quality fertilizer I]]
+|style="text-align:left"|Create: [[Quality fertilizer I]]
+|- id="Complex Fertilizers"
+| rowspan="2" |Complex Fertilizers
+| rowspan="2" |Simple Fertilizers
+| rowspan="2" |{{Techpoint|green|150}}{{Techpoint|blue|35}}
+|[[File:Boost fertilizer II item.png|64px|link=Boost fertilizer II]]
+|style="text-align:left"|Create: [[Boost fertilizer II]]
+|-
+|[[File:Quality fertilizer II item.png|64px|link=Quality fertilizer II]]
+|style="text-align:left"|Create: [[Quality fertilizer II]]
+|- id="Brewing"
+| rowspan="2" |Brewing
+| rowspan="2" |Decay
+| rowspan="2" |{{Techpoint|green|100}}{{Techpoint|blue|10}}
+|[[File:Brewing stand item.png|64px|link=Brewing stand]]
+|style="text-align:left"|Blueprint: [[Brewing stand]]
+|-
+|[[File:A mug of beer item.png|64px|link=A mug of beer]]
+|style="text-align:left"|Create: [[A mug of beer]]
+|- id="Zombie-brewery"
+| rowspan="1" |Zombie-brewery
+| rowspan="1" |Brewing
+| rowspan="1" |Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|green|50}}{{Techpoint|blue|10}}
+|[[File: Zombie-brewery icon.png|80px|link=Zombie-brewery]]
+|style="text-align:left"|Blueprint: [[Zombie-brewery]]
+|- id="Digestion"
+| rowspan="3" |Digestion
+| rowspan="3" |Brewing
+| rowspan="3" |{{Techpoint|green|20}}{{Techpoint|blue|5}}
+|[[File:Fermentation barrel item.png|64px|link=Fermentation barrel]]
+|style="text-align:left"|Blueprint: [[Fermentation barrel]]
+|-
+|[[File:Bottle of apple ferment item.png|64px|link=Bottle of apple ferment]]
+|style="text-align:left"|Create: [[Bottle of apple ferment]]
+|-
+|[[File:Bottle of berry ferment item.png|64px|link=Bottle of berry ferment]]
+|style="text-align:left"|Create: [[Bottle of berry ferment]]
+|- id="Strong Alcohol"
+| rowspan="2" |Strong Alcohol
+| rowspan="2" |Digestion +<br>Winemaking
+| rowspan="2" |{{Techpoint|green|150}}{{Techpoint|blue|20}}
+|[[File:Alcohol distiller item.png|64px|link=Alcohol distiller]]
+|style="text-align:left"|Blueprint: [[Alcohol distiller]]
+|-
+|[[File:Booze item.png|64px|link=Booze]]
+|style="text-align:left"|Create: [[Booze]]
+|- id="Blending"
+|Blending
+|Strong Alcohol
+|{{Techpoint|green|50}}{{Techpoint|blue|50}}
+|[[File:Wine Master Perk.png|link=Perks#Wine Master Perk]]
+|style="text-align:left"|Perk: [[Perks#Wine Master Perk|Wine Master]]
+|-
+|}
+
+==Nature==
+
+This branch is unlocked upon returning from the [[village]] for the first time and meeting [[Gerry]] near the [[kitchen garden]].
+
+{| class="wikitable" style="text-align:center"
+!Technology
+!Prerequisite tech
+!Cost
+! colspan="2" |Unlocks
+|- id="Gathering"
+| rowspan="3" |Gathering
+| rowspan="3" |None
+| rowspan="3" |Return from the [[village]]
+|[[File:Edible mushroom item.png|64px|link=Edible mushroom]]
+|style="text-align:left"|Gathering: [[Edible mushroom]]
+|-
+|[[File:Berry item.png|64px|link=Berry]]
+|style="text-align:left"|Gathering: [[Berry]]
+|-
+|[[File:Apple item.png|64px|link=Apple]]
+|style="text-align:left"|Gathering: [[Apple]]
+|- id="Master Gathering"
+| rowspan="2" |Master Gathering
+| rowspan="2" |Gathering
+| rowspan="2" |{{Techpoint|green|5}} {{Techpoint|blue|10}}
+|[[File:Red mushroom item.png|64px|link=Red mushroom]]
+|style="text-align:left"|Gathering: [[Red mushroom]]
+|-
+|[[File:Master Gatherer Perk.png|link=Perks#Master Gatherer Perk]]
+|style="text-align:left"|Perk: [[Perks#Master Gatherer Perk|Master Gatherer]]
+|- id="Transplanting"
+| rowspan="2" |Transplanting
+| rowspan="2" |Gathering
+| rowspan="2" |{{Techpoint|red|5}} {{Techpoint|green|5}}
+|[[File:Place for the berry bush item.png|64px|link=Place for the berry bush]]
+|style="text-align:left"|Blueprint: [[Place for the berry bush]]
+|-
+|[[File:Place for the apple tree item.png|64px|link=Place for the apple tree]]
+|style="text-align:left"|Blueprint: [[Place for the apple tree]]
+|- id="Grape Farming"
+| rowspan="3" |Grape Farming
+| rowspan="3" |Transplanting
+| rowspan="3" |{{Techpoint|red|5}} {{Techpoint|green|20}} {{Techpoint|blue|10}}
+|[[File:Vine trellis item.png|64px|link=Vine trellis]]
+|style="text-align:left"|Blueprint: [[Vine trellis]]
+|-
+|[[File:Grapes item.png|64px|link=Grapes]]
+|style="text-align:left"|Gathering: [[Grapes]]
+|-
+|[[File:Hops item.png|64px|link=Hops]]
+|style="text-align:left"|Gathering: [[Hops]]
+|- id="Zombie vineyard"
+| rowspan="1" |Zombie vineyard
+| rowspan="1" |Grape Farming
+| rowspan="1" |Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|25}} {{Techpoint|green|125}} {{Techpoint|blue|25}}
+|[[File:Zombie vineyard item.png|64px|link=Zombie vineyard]]
+|style="text-align:left"|Blueprint: [[Zombie vineyard]]
+|- id="Winemaking"
+| rowspan="3" |Winemaking
+| rowspan="3" |Grape Farming
+| rowspan="3" |{{Techpoint|red|50}} {{Techpoint|green|20}} {{Techpoint|blue|30}}
+|[[File:Vine press item.png|64px|link=Vine press]]
+|style="text-align:left"|Blueprint: [[Vine press]]
+|-
+|[[File:Wine making barrel item.png|64px|link=Wine making barrel]]
+|style="text-align:left"|Blueprint: [[Wine making barrel]]
+|-
+|[[File:Red wine item.png|64px|link=Red wine]]
+|style="text-align:left"|Create: [[Red wine]]
+|- id="Zombie-winery"
+| rowspan="1" |Zombie-winery
+| rowspan="1" |Winemaking
+| rowspan="1" |Talk to [[Gunter]] and dig up the buried [[zombie]]<br>{{Techpoint|red|100}} {{Techpoint|green|50}} {{Techpoint|blue|50}}
+|[[File:Zombie-winery icon.png|80px|link=Zombie-winery]]
+|style="text-align:left"|Blueprint: [[Zombie-winery]]
+|- id="Beekeeping"
+| rowspan="2" |Beekeeping
+| rowspan="2" |Gathering
+| rowspan="2" |{{Techpoint|green|15}}
+|[[File:Honey item.png|64px|link=Honey]]
+|style="text-align:left"|Gathering: [[Honey]]
+|-
+|[[File:Beeswax item.png|64px|link=Beeswax]]
+|style="text-align:left"|Gathering: [[Beeswax]]
+|- id="Insects"
+| rowspan="3" |Insects
+| rowspan="3" |Beekeeping
+| rowspan="3" |{{Techpoint|green|20}} {{Techpoint|blue|5}}
+|[[File:Butterfly item.png|64px|link=Butterfly]]
+|style="text-align:left"|Gathering: [[Butterfly]]
+|-
+|[[File:Moth item.png|64px|link=Moth]]
+|style="text-align:left"|Gathering: [[Moth]]
+|-
+|[[File:Bee item.png|64px|link=Bee]]
+|style="text-align:left"|Gathering: [[Bee]]
+|- id="Bee Domestication"
+|Bee Domestication
+|Insects
+|{{Techpoint|red|30}} {{Techpoint|green|50}}
+|[[File:Bee hive item.png|64px|link=Bee hive]]
+|style="text-align:left"|Blueprint: [[Bee hive]]
+|- id="Beefriend"
+|Beefriend
+|Bee Domestication
+|{{Techpoint|green|20}} {{Techpoint|blue|50}}
+|[[File:Beefriend Perk.png|link=Perks#Beekeper Perk]]
+|style="text-align:left"|Perk: [[Perks#Beekeper Perk|Beekeeper]]
+|}
+
+{{Navbox-Technology}}
+[[Category:Technologies]]
+[[de:Landwirtschaft und Natur (Technologiebaum)]]
+[[ru:Фермерство и природа (Дерево технологий)]]
+[[pt-br:Agricultura e Natureza (Árvore de Tecnologias)]]

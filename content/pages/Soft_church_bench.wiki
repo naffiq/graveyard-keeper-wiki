@@ -1,0 +1,30 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Church bench.gif
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Softness of Faith]]
+|related    = [[Church]]
+|footprint  = 7 x 2
+|rotatable  = False
+}}
+<b>{{PAGENAME}}es</b> are [[church]] constructs, which apply a passive {{Church Rating}} improvement. There are six spots available, not determinant on the level of the church, which are too narrow to fit any other constructs.
+
+==Cost==
+{|class="wikitable" style="width:40em;"
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|[[file:soft church bench item.png|80px|Soft church bench|link=church]]
+|{{Item|Wooden plank|8}}<br>{{Item|Jointing|4}}<br>{{Item|Silk|2}}
+|N/A
+| +3 {{Church Rating}}<hr>Required Tech:<br>[[Theology (Tech Tree)|Softness of Faith]]
+|}
+
+<br>
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+[[Category:Church workstations]]
+[[de:Weiche Kirchenbank]]
+[[ru:Мягкая церковная скамья]]

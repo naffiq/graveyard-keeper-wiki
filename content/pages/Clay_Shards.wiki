@@ -1,0 +1,15 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Adam]]
+| cost         = 
+}}
+
+The {{PAGENAME}} can be retrieved from [[Adam]]. The first thing you need to do is upgrade the [[Talking Skull#Tavern Upgrade|Talking Skull]] tavern. You then need to add items to the tavern to reach a tavern quality of 40[[file:Tavern_quality item.png|32px]]. After that return and speak with Adam. He'll then tell you to come back to his place at night to investigate someone coming around his place. When you come back in the evening you'll find [[Yorick]] terrorizing the house. Ask him to stop. The next morning, you should speak to Adam again and he'll thank you for you help and give you the {{PAGENAME}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

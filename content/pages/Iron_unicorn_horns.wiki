@@ -1,0 +1,20 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Quest item
+| nameinternal = i_unicorn_horn
+| buy          = [[Krezvold]]
+| cost         = 5000
+| quest        = [[Donkey]], [[Krezvold]]
+}}
+{{quote|Awaken your internal unicorn! Rainbows not included.|Item description}}
+<b>{{PAGENAME}}</b> is a quest item from the [[Game of Crone]] DLC. It is given to the player by [[Krezvold]] for {{Money|5000}} after the {{item|Pile of components|2}} are received from the [[Donkey]].
+
+''Note: The {{Money|5000}} cost includes the [[Battle horseshoes]] quest item as well.''
+
+After giving it to the [[Donkey]] through the contraband box "Send: weapons" quest, along with the [[Battle horseshoes]] the player will receive the [[Revolutionary message]] II.
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]
+[[ru:Железные единорожьи рога]]

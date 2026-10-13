@@ -1,0 +1,23 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = caldron
+| study        = 
+| alchemy      = 
+| source       = 
+| buy          = [[Krezvold|Krezvold (T II)]]
+| sell         = None
+| cost         = 1000
+| quest        = [[Clotho]]
+}}
+The cauldron's only use is as a method of completing [[Clotho]]'s quest.  It can be obtained from the [[Blacksmith]] as a tier II trade for {{Money|1000}}.  Alternatively the quest can be completed with a [[heal potion]] which can be obtained easily from the [[Dungeon]] or crafted via [[Alchemy]].
+
+BUG: Even if the quest is completed using the alternate method, the cauldron will still be available for purchase from Krezvold. Once it has been purchased, however, it will disappear from his available inventory. Be aware that the only purpose of this item is for the quest and Krezvold will not buy the item back once it has been purchased from him, however it can be destroyed.
+
+
+{{Navbox-Metal}}
+[[Category:Quest items]]
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Kessel]]

@@ -1,0 +1,3 @@
+'''Soul Gratitude''' is a new mechanic implemented in the [[Better Save Soul|Better Save Soul DLC]]. It is used for Remote Craft Control (RCC), which allows you to survey an area through the map menu (after a certain point in [[Euric|Euric's]] quest is reached). 
+
+It is now possible to both observe and craft items remotely with the help of Soul Gratitude, a new type of "points" system obtained through the [[Soul healer|Soul healing]] mechanic. Remote Craft Control can only be used in areas with [[Soul Receiver|Soul Receivers]], which have to be built in each area beforehand. There are 12 [[Soul Receiver|Soul Receivers]] in total.

@@ -1,0 +1,28 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Grave Marker
+| nameinternal = 
+| source       = None
+| quest        = 
+}}
+<b>Currently unimplemented!</b>
+
+The {{lcfirst:{{PAGENAME}}}} is a grave decoration which will provide a bonus to {{Grave Decor}} when placed on a [[grave place]] after a [[corpse]] has been buried there. The number of positive modifiers to {{Graveyard Rating}} a grave can benefit from is based on the number of {{Skull|Red}} and {{Skull|White}}.  A grave's positive score cannot exceed the number of {{Skull|white}} on the corpse buried there, any decorations added beyond that point will have no effect.  For more information on the types of graves and their effects see the [[Graveyard]]'s location page. 
+
+Installing or uninstalling a grave decoration will take 5-10{{Energy}}. 
+
+==Crafting==
+<!-- Placeholder for when it becomes craftable.
+
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Stone cutter}}
+|-
+| {{Item|{{PAGENAME}}|1}}
+|
+|}
+-->
+{{Navbox-Graves}}
+[[Category:grave markers]]
+
+[[Category:Graveyard items]]

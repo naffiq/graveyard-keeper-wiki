@@ -1,0 +1,582 @@
+== The Beginning of Alchemy ==
+To unlock alchemy you must talk to [[Clotho]] who is found in the center of [[The Swamp]] during the Day.{{clear}}
+
+==Processing==
+[[file:Health Components.png|right|250px|All health components]]
+Before making use of any items in alchemy, you've got to research them on the [[study table]]. This shows their decomposition products ("decomposes into"). It can be in the form of a powder, solution, or extract, even combinations are possible. 
+
+Each form requires a different machine to process it:
+
+* Powders are produced by the [[alchemy mill]].
+* Solutions are produced by the [[hand mixer]].
+* Extracts are produced by the [[distillation cube]].
+When you've acquired the [[perk#Scientist Perk|scientist perk]], every machine yields one extra decomposition product per item processed. 
+
+After unlocking [[zombie]]s, the usage of a [[zombie alchemy decomposer]] is possible to produce all three forms of substances.
+
+==Elements==
+Currently, there are eight known elements that are matched in pairs.  Health/Toxic, Order/Chaos, Acceleration/Slowness, and Life/Death. Substances are processed in many ways, but a substance can only have one element.
+{| class="wikitable mw-collapsible mw-collapsed"
+!colspan="4" style="width:50em;"|Elements
+|-
+|
+!Extract
+!Powder
+!Solution
+|-
+!Acceleration
+|{{Item|Acceleration extract}}<br>Made with either:<br>{{Item|Hemp|1}}<br>{{Item|Blue jelly|1}}<br>{{Item|goo|4|variant=Acceleration}}
+|{{Item|Acceleration powder}}<br>Made with either:<br>{{Item|Hemp|1}}<br>{{Item|Honey|1}}<br>{{Item|goo|4|variant=Acceleration}}
+|{{Item|Acceleration solution}}<br>Made with either:<br>{{Item|Honey|1}}<br>{{Item|Blue jelly|1}}<br>{{Item|goo|4|variant=Acceleration}}
+|-
+!Chaos
+|{{Item|Chaos extract}}<br>Made with either:<br>{{Item|Butterfly|1}}<br>{{Item|Moth|1}}<br>{{Item|goo|4|variant=Chaos}}
+|{{Item|Chaos powder}}<br>Made with either:<br>{{Item|Bat wing|1}}<br>{{Item|Butterfly|1}}<br>{{Item|goo|4|variant=Chaos}}
+|{{Item|Chaos solution}}<br>Made with either:<br>{{Item|Bat wing|1}}<br>{{Item|Moth|1}}<br>{{Item|goo|4|variant=Chaos}}
+|-
+!Death
+|{{Item|Death extract}}<br>Made with either:<br>{{Item|Dark heart|1}}<br>{{Item|Black jelly|1}}<br>{{Item|goo|4|variant=Death}}
+|{{Item|Death powder}}<br>Made with either:<br>{{Item|Dark intestine|1}}<br>{{Item|goo|4|variant=Death}}
+|{{Item|Death solution}}<br>Made with either:<br>{{Item|Dark brain|1}}<br>{{Item|Black jelly|1}}<br>{{Item|goo|4|variant=Death}}
+|-
+!Health
+|{{Item|Health extract}}<br>Made with either:<br>{{Item|Lentils|1|animation}}<br>{{Item|Pumpkin|1|animation}}<br>{{Item|goo|4|variant=Health}}
+|{{Item|Health powder}}<br>Made with either:<br>{{Item|Cabbage|1}}<br>{{Item|Crop waste|1}}<br>{{Item|Pumpkin|1|animation}}<br>{{Item|goo|4|variant=Health}}
+|{{Item|Health solution}}<br>Made with either:<br>{{Item|Cabbage|1}}<br>{{Item|Carrot|1}}<br>{{Item|Hiccup grass|1}}<br>{{Item|goo|4|variant=Health}}
+|-
+!Life
+|{{Item|Life extract}}<br>Made with either:<br>{{Item|Heart|1}}<br>{{Item|Maggot|1}}<br>{{Item|Yellow flower|1}}<br>{{Item|goo|4|variant=Life}}
+|{{Item|Life powder}}<br>Made with either:<br>{{Item|Intestine|1}}<br>{{Item|Sulfur|1}}<br>{{Item|goo|4|variant=Life}}
+|{{Item|Life solution}}<br>Made with either:<br>{{Item|Brain|1}}<br>{{Item|Maggot|1}}<br>{{Item|Yellow flower|1}}<br>{{Item|goo|4|variant=Life}}
+|-
+!Order
+|{{Item|Order extract}}<br>Made with either:<br>{{Item|Green jelly|1}}<br>{{Item|White flower|1}}<br>{{Item|goo|4|variant=Order}}
+|{{Item|Order powder}}<br>Made with either:<br>{{Item|Bee|1}}<br>{{Item|goo|4|variant=Order}}
+|{{Item|Order solution}}<br>Made with either:<br>{{Item|Bee|1}}<br>{{Item|Green jelly|1}}<br>{{Item|White flower|1}}<br>{{Item|goo|4|variant=Order}}
+|-
+!Slowing
+|{{Item|Slowing extract}}<br>Made with either:<br>{{Item|Beeswax|1}}<br>{{Item|Spider web|1}}<br>{{Item|goo|4|variant=Slowing}}
+|{{Item|Slowing powder}}<br>Made with either:<br>{{Item|Hops|1|animation}}<br>{{Item|Spider web|1}}<br>{{Item|goo|4|variant=Slowing}}
+|{{Item|Slowing solution}}<br>Made with either:<br>{{Item|Beeswax|1}}<br>{{Item|Fat|1}}<br>{{Item|Hops|1|animation}}<br>{{Item|goo|4|variant=Slowing}}
+|-
+!Toxic
+|{{Item|Toxic extract}}<br>Made with either:<br>{{Item|Onion|1|animation}}<br>{{Item|Orange jelly|1}}<br>{{Item|goo|4|variant=Toxic}}
+|{{Item|Toxic powder}}<br>Made with either:<br>{{Item|Onion|1|animation}}<br>{{Item|Red flower|1}}<br>{{Item|goo|4|variant=Toxic}}
+|{{Item|Toxic solution}}<br>Made with either:<br>{{Item|Red mushroom|1}}<br>{{Item|Orange jelly|1}}<br>{{Item|goo|4|variant=Toxic}}
+|}
+
+==Other Ingredients==
+Besides element substances there are other powders and liquids used in alchemy. Besides of the source mentioned in the table, they can all be also be created by using {{item|goo|4|animation}} of the related type in the related machine ([[hand mixer]] for liquids and [[alchemy mill]] for powders)
+
+{| class="wikitable mw-collapsible mw-collapsed"
+!colspan="3" style="width:50em"|Other Ingredients
+|-
+!Item
+!Usage
+!Notes
+|-
+|{{Item|Alcohol}}
+|Powder • Solution • Extract
+|Obtained by using a bottle of [[booze]], from the [[alcohol distiller]].
+|-
+|{{Item|Ash}}
+|Powder
+|Obtained by cremating a [[corpse]].
+|-
+|{{Item|Blood}}
+|Powder • Solution • Extract
+|Obtained by processing a [[corpse]] at the [[preparation place]].
+|-
+|{{Item|Electric powder}}
+|Powder
+|Obtained by processing an [[eel]] at the [[alchemical mill]].
+|-
+|{{Item|Goo}}
+|Solution
+|Obtained by failing to craft anything at either alchemy workbench.
+|-
+|{{Item|Gold powder}}
+|Powder
+|Obtained by processing a [[gold nugget]] at the [[alchemical mill]]
+|-
+|{{Item|Graphite powder}}
+|Powder
+|Obtained by processing [[graphite]] at the [[alchemical mill]].
+|-
+|{{Item|Oil}}
+|Powder • Solution • Extract
+|Purchased from [[Dig]] or obtained from crafting recipes at the [[vine press]].
+|-
+|{{Item|Salt}}
+|Powder
+|Obtained by cremating a [[corpse]].
+|-
+|{{Item|Silver powder}}
+|Powder
+|Obtained by processing a [[silver nugget]] at the [[alchemical mill]]
+|-
+|{{Item|Spices}}
+|Powder
+|Obtained by combining [[salt]] and [[health solution]] at an [[alchemy workbench (tier I)]].
+|-
+|{{Item|Water}}
+|Powder • Solution • Extract
+|Obtained by using a [[bucket of clear water]], from a well.
+|-
+|{{Item|White powder}}
+|Powder
+|Obtained by processing either [[bone]] or [[limestone]] in the [[alchemical mill]].
+|}
+
+== Alchemy Workbench (Tier I) ==
+The [[alchemy workbench (tier I)]] combines two ingredients, mostly powder and solution, in rare cases two liquids. To find useful alchemical combinations, one must experiment through trial and error.
+
+A combination that does not produce a useful resource creates {{item|goo|1|animation}}. The type of goo hints what should be used instead of one of the ingredients. You've got to guess, if the first or the second one was wrong.
+
+'''Note:''' Required materials are entered from left to right in the order they appear.
+{| class = "wikitable mw-collapsible mw-collapsed"
+! colspan="4" style="width:50em;"|[[Alchemy workbench (tier I)|Alchemy Workbench (Tier I)]]
+|-
+!style="width:15em;"|Item Produced
+!style="width:30em;"|Required Materials
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Spices|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Salt}}
+|{{Item|Health solution}}
+|}
+|{{Energy|-|5}}
+|Quest item for [[Merchant]]
+|-
+|{{Item|Black paint|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Graphite powder}} 
+| {{Item|Water}}
+|-
+|{{Item|Ash}}
+|{{Item|Oil}}
+|-
+|{{Item|Death powder|}} 
+| {{Item|Water}}
+|}
+|{{Energy|-|5}}
+|Main component for {{Item|Ink}}
+|-
+|{{Item|White paint|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|White powder}} 
+| {{Item|Oil}}
+|-
+|{{Item|Alcohol}} 
+| {{Item|Slowing solution}}
+|-
+|{{Item|Electric powder}} 
+| {{Item|Water}}
+|}
+|{{Energy|-|5}}
+|Required to craft some Candles
+
+and mass-produced {{Item|Clean paper}}
+|-
+|{{Item|Brown Paint|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Slowing powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Blue Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Acceleration powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Dark Green Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Health powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Green Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Order powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Dark Violet Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Death powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Violet Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Chaos powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Red Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Toxic powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Yellow Paint|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Life powder}}
+|{{Item|Oil}}
+|}
+|{{Energy|-|5}}
+|Used in home decorating
+|-
+|{{Item|Heal potion|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Health powder}}
+|{{Item|Chaos solution}}
+|-
+|{{Item|Life powder}}
+|{{Item|Health solution}}
+|}
+|{{Energy|-|5}}
+|{{Health|+|50}} on use
+|-
+|{{Item|Energy potion|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Acceleration powder}}
+|{{Item|Acceleration solution}}
+|}
+|{{Energy|-|5}}
+|{{Energy|+|50}} on use
+|-
+|{{Item|Zombie juice|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Health powder}}
+|{{Item|Blood}}
+|}
+|{{Energy|-|5}}
+|Main component for {{Item|Zombie}}
+|-
+|{{Item|Dark elixir|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Death powder}}
+|{{Item|Blood}}
+|}
+|{{Energy|-|5}}
+|Main component for {{Item|Dark injection|}}<br>(+2{{Skull|Red}})
+|-
+|{{Item|Freshener|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Oil}}
+|{{Item|Order solution}}
+|}
+|{{Energy|-|5}}
+|Main component for {{Item|Incense}}
+|-
+|{{Item|Growth enhancer|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Ash}}
+|{{Item|Life solution}}
+|}
+|{{Energy|-|5}}
+|Main component for {{Item|Quality fertilizer I|}}
+|-
+|{{Item|Energy elixir|1}}
+|
+{| style="width:100%; table-layout:fixed;"
+|{{Item|Acceleration powder}}
+|{{Item|Slowing solution}}
+|-
+|{{Item|Slowing powder}}
+|{{Item|Acceleration solution}}
+|}
+|{{Energy|-|5}}
+|Main component for {{Item|Boost fertilizer I|}}<br>and {{Item|Boost fertilizer II|}}
+|}
+
+== Alchemy Workbench (Tier II) ==
+The [[alchemy workbench (tier II)]] combines three ingredients: powder, solution, and extract, with the possibility to replace the solution or the extract by additional ingredients like alcohol or oil. There are significantly more possible combinations with an added ingredient, and thus more particular applications.
+
+Failed reactions create {{item|goo|2|animation}}. The types of goo hint, that if you keep one of the three ingredients and replace the other two by the related ingredients, you'll get a working recipe. You still have to guess, which one to keep and how to replace the others, but it narrows down the possibilities quite considerably. Check the [[goo]] page for more details.
+
+'''Note:''' It is '''not''' possible to craft the recipes from the tier I workbench here and leave the third slot empty.
+
+'''Note:''' Required materials are entered from left to right in the order they appear.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="4" style="width:50em"|[[Alchemy workbench (tier II)|Alchemy Workbench (Tier II)]]
+|-
+!style="width:15em;"|Item Produced
+!style="width:40em;"|Required Materials
+!style="width:5em;"|Energy
+!Notes
+|-
+|{{Item|Acid|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Toxic powder}}
+|{{Item|Chaos solution}}
+|{{Item|Toxic extract}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Acid injection}}<br>(-1{{Skull|White}}, -1{{Skull|Red}})
+|-
+|{{Item|Preservative|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Slowing powder}}
+|{{Item|Life solution}}
+|{{Item|Slowing extract}} 
+|-
+|{{Item|Life powder}}
+|{{Item|Slowing solution}}
+|{{Item|Slowing extract}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Preservative injection}}
+|-
+|{{Item|Balsamic solution|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Chaos powder}}
+|{{Item|Water}}
+|{{Item|Death extract}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Restore injection}}
+|-
+|{{Item|Alkali|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Life powder}}
+|{{Item|Death solution}}
+|{{Item|Blood}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Lye injection}}<br>(+1{{Skull|White}}, +1{{Skull|Red}})
+|-
+|{{Item|Glue|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Health powder}}
+|{{Item|Life solution}}
+|{{Item|Chaos extract}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Glue injection}}<br>(+1{{Skull|White}})
+|-
+|{{Item|Silver elixir|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Silver powder}}
+|{{Item|Order solution}}
+|{{Item|Life extract}} 
+|-
+|{{Item|Silver powder}}
+|{{Item|Chaos solution}}
+|{{Item|Order extract}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Silver injection}}<br>(+1{{Skull|White}}, -1{{Skull|Red}})
+|-
+|{{Item|Golden elixir|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Gold powder}}
+|{{Item|Toxic solution}}
+|{{Item|Chaos extract}} 
+|-
+|{{Item|Gold powder}}
+|{{Item|Order solution}}
+|{{Item|Health extract}}
+|}
+|{{Energy|-|10}}
+|Main component of {{Item|Gold injection}}<br>(+2{{Skull|White}}, -2{{Skull|Red}})
+|-
+|{{Item|Speed potion|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Acceleration powder}}
+|{{Item|Chaos solution}}
+|{{Item|Blood}}
+|}
+|{{Energy|-|10}}
+|Increases movement speed
+|-
+|{{Item|Digestion potion|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Health powder}}
+|{{Item|Toxic solution}}
+|{{Item|Acceleration extract}}
+|}
+|{{Energy|-|10}}
+|Increases energy gain from food
+|-
+|{{Item|Restoring potion|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Order powder}}
+|{{Item|Health solution}}
+|{{Item|Health extract}}
+|}
+|{{Energy|-|10}}
+|Slowly restores health
+|-
+|{{Item|Protection potion|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Order powder}}
+|{{Item|Slowing solution}}
+|{{Item|Slowing extract}}
+|}
+|{{Energy|-|10}}
+|Reduces damage received
+|-
+|{{Item|Rage potion|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Chaos powder}}
+|{{Item|Death solution}}
+|{{Item|Toxic extract}}
+|}
+|{{Energy|-|10}}
+|Increases damage dealt
+|-
+|{{Item|Berserk potion|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Toxic powder}}
+|{{Item|Death solution}}
+|{{Item|Death extract}}
+|}
+|{{Energy|-|10}}
+|Increases damage dealt while draining health over time
+|-
+|{{Item|Flavor enhancer|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Ash}}
+|{{Item|Toxic solution}}
+|{{Item|Life extract}}
+|}
+|{{Energy|-|10}}
+|Main component for {{Item|Quality fertilizer II}}
+|-
+|{{Item|Aromatizer|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Acceleration powder}}
+|{{Item|Alcohol}}
+|{{Item|Life extract}}
+|}
+|{{Energy|-|10}}
+|Main component for {{Item|Incense II}}
+|-
+|{{Item|Tanning agent|1}}
+|
+{| style = "width:100%; table-layout:fixed;"
+|{{Item|Slowing powder}}
+|{{Item|Death solution}}
+|{{Item|Order extract}}
+|}
+|{{Energy|-|10}}
+|Main component for {{Item|Hard cover||copper}}
+|}
+
+== Alchemy for Embalming ==
+If you want to embalm your corpses to maximize the number of {{Skull|white}}, you will need to use the following injections: {{Item|Glue injection}}, {{Item|Lye injection}}, {{Item|Silver elixir}}, {{Item|Golden elixir}}.  In order to mass-produce these four items, you will need to stockpile the following items, alternatively you can buy them all from [[Clotho]]:
+
+{{Item|Conical flasks}}, from {{Item|Sand}} and {{Item|Water}}
+
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="4" style="width:50em;"|Embalming Alchemy Ingredients
+|-
+|
+!Solution
+(Mix)
+!Powder
+(Mill)
+!Extract
+(Distill)
+|-
+!{{Item|Glue}}
+|{{Item|Life solution}}<br>Made with either:<br>{{Item|Brain|1}}<br>{{Item|Maggot|1}}<br>{{Item|Yellow flower|1}}<br>{{Item|goo|4|variant=Life}}
+|{{Item|Health powder}}<br>Made with either:<br>{{Item|Cabbage|1}}<br>{{Item|Crop waste|1}}<br>{{Item|Pumpkin|1|animation}}<br>{{Item|goo|4|variant=Health}}
+|{{Item|Chaos extract}}<br>Made with either:<br>{{Item|Butterfly|1}}<br>{{Item|Moth|1}}<br>{{Item|goo|4|variant=Chaos}}
+|-
+!{{Item|Alkali}}
+|{{Item|Death solution}}<br>Made with either:<br>{{Item|Dark brain|1}}<br>{{Item|Black jelly|1}}<br>{{Item|goo|4|variant=Death}}
+|{{Item|Life powder}}<br>Made with either:<br>{{Item|Intestine|1}}<br>{{Item|Sulfur|1}}<br>{{Item|goo|4|variant=Life}}
+|{{Item|Blood}}
+|-
+!{{Item|Silver elixir}}
+|{{Item|Order solution}}<br>Made with either:<br>{{Item|Bee|1}}<br>{{Item|Green jelly|1}}<br>{{Item|White flower|1}}<br>{{Item|goo|4|variant=Order}}
+|{{Item|Silver powder}}Made with 
+
+{{Item|Silver nugget}}
+|{{Item|Life extract}}<br>Made with either:<br>{{Item|Heart|1}}<br>{{Item|Maggot|1}}<br>{{Item|Yellow flower|1}}<br>{{Item|goo|4|variant=Life}}
+|-
+!{{Item|Silver elixir}}(alternate recipe)
+|{{Item|Chaos solution}}<br>Made with either:<br>{{Item|Bat wing|1}}<br>{{Item|Moth|1}}<br>{{Item|goo|4|variant=Chaos}}
+|{{Item|Silver powder}}Made with 
+
+{{Item|Silver nugget}}
+|{{Item|Order extract}}<br>Made with either:<br>{{Item|Green jelly|1}}<br>{{Item|White flower|1}}<br>{{Item|goo|4|variant=Order}}
+|-
+!{{Item|Golden elixir}}
+|{{Item|Order solution}}<br>Made with either:<br>{{Item|Bee|1}}<br>{{Item|Green jelly|1}}<br>{{Item|White flower|1}}<br>{{Item|goo|4|variant=Order}}
+|{{Item|Gold powder}}Made with
+
+{{Item|Gold nugget}}
+|{{Item|Health extract}}<br>Made with either:<br>{{Item|Lentils|1|animation}}<br>{{Item|nori|1}}<br>{{Item|Pumpkin|1|animation}}<br>{{Item|goo|4|variant=Health}}
+|-
+!{{Item|Golden elixir}} (alternate recipe)
+|{{Item|Toxic solution}}<br>Made with either:<br>{{Item|Red mushroom|1}}<br>{{Item|Orange jelly|1}}<br>{{Item|goo|4|variant=Toxic}}
+|{{Item|Gold powder}}Made with
+
+{{Item|Gold nugget}}
+|{{Item|Chaos extract}}<br>Made with either:<br>{{Item|Butterfly|1}}<br>{{Item|Moth|1}}<br>{{Item|goo|4|variant=Chaos}}
+|}
+{{Navbox-Alchemy}}
+[[Category:Alchemy]]
+
+
+<!-- Language links -->
+[[de:Alchemie]]
+[[ru:Алхимия]]
+[[fr:Alchimie]]
+[[pt-br:Alquimia]]
+[[es:Alquimia]]
+<!--[[ja:]]-->
+<!--[[es:]]-->

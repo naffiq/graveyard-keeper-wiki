@@ -1,0 +1,163 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.gif
+| type         = Meal
+| consume      = {{Energy|+|30}}/{{Energy|+|45}}/{{Energy|+|60}}; [[File:Protection_effect.png]]
+| nameinternal = meal:baked_kebab_1
+| study        = 
+| source       = [[Cooking]]
+| cost         = 
+| stacksize    = 20
+}}
+The <b>{{lc:{{PAGENAME}}}}</b> is a consumable food item which restores energy and bestows an effect. It's creation has the unique requirement of needing a fueled [[bonfire]], and thus pointedly can't be made using the [[oven]]. Not only is it a complex craftable, meaning that it has multiple tiers of quality, but they're also unlike any other food items in that they have different variants; requiring a mid-to-high-tier fish fillet, as well as a choice between [[pumpkin]], [[onion]], or [[edible mushroom]]. For more information, see [[cooking]].
+
+==Pumpkin and fish==
+===Recipe===
+{| class = "wikitable" style = "width:40em;"
+!colspan="3"|{{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Baked kebab|6|animation|variant=pumpkin}}
+|{{Item|Quality fish fillet|1|animation}}<br>{{Item|Pumpkin|2|animation}}<hr>{{Item|Blue fish fillet|1|animation}}<br>{{Item|Pumpkin|2|animation}}
+|0:45<br>{{Fuel|-|25}}
+|}
+
+===Quality levels===
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = baked_kebab_pumpkin.png|quality = copper}}
+|{{Quality Sprite|image = baked_kebab_pumpkin.png|quality = silver}}
+|{{Quality Sprite|image = baked_kebab_pumpkin.png|quality = gold}}
+|-
+|{{Energy|+|30}}
+|{{Energy|+|45}}
+|{{Energy|+|60}}
+|}
+
+===Effect===
+On use, this {{lc:{{PAGENAME}}}} will apply the 'Tough Mood' buff for a duration of 2 minutes, increasing the player's defense by 4 points. Quality level does not have an impact. For a list of all available buffs and their benefits, see [[effects]].
+
+{| class="wikitable" style="width:40em; text-align:center;"
+!Icon
+!Description
+!Duration
+!Notes
+|-
+|[[File:Protection effect.png|link=Effects#Tough Mood|Tough Mood]]
+|Incoming damage is reduced.
+|2:00
+|[[Effects#Tough Mood|Tough Mood]]
+|}
+
+==Onion and fish==
+===Recipe===
+{| class = "wikitable" style = "width:40em;"
+!colspan="3"|{{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Baked kebab|6|animation|variant=onion}}
+|{{Item|Quality fish fillet|1|animation}}<br>{{Item|Onion|2|animation}}<hr>{{Item|Blue fish fillet|1|animation}}<br>{{Item|Onion|2|animation}}
+|0:55<br>{{Fuel|-|20}}
+|}
+
+===Quality levels===
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = baked kebab onion item.png|quality = copper}}
+|{{Quality Sprite|image = baked kebab onion item.png|quality = silver}}
+|{{Quality Sprite|image = baked kebab onion item.png|quality = gold}}
+|-
+|{{Energy|+|30}}
+|{{Energy|+|42}}
+|{{Energy|+|53}}
+|}
+
+===Effect===
+On use, this {{lc:{{PAGENAME}}}} will apply the 'Rage' buff for a duration of 2 minutes, increasing the player's damage by {{Health|-|5}}. Quality level does not have an impact. For a list of all available buffs and their benefits, see [[effects]].
+
+{| class="wikitable" style="width:40em; text-align:center;"
+!Icon
+!Description
+!Duration
+!Notes
+|-
+|[[File:Retribution effect.png|link=Effects#Rage|Rage]]
+|You deal additional damage to monsters.
+|2:00
+|[[Effects#Rage|Rage]]
+|}
+
+==Mushroom and fish==
+===Recipe===
+{| class = "wikitable" style = "width:40em;"
+!colspan="3"|{{Item|Bonfire}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|Baked kebab|6|animation|variant=mushroom}}
+|{{Item|Quality fish fillet|1|animation}}<br>{{Item|Edible mushroom|5}}<hr>{{Item|Blue fish fillet|1|animation}}<br>{{Item|Edible mushroom|5}}
+|1:10<br>{{Fuel|-|20}}
+|}
+
+===Quality levels===
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = baked kebab mushroom item.png|quality = copper}}
+|{{Quality Sprite|image = baked kebab mushroom item.png|quality = silver}}
+|{{Quality Sprite|image = baked kebab mushroom item.png|quality = gold}}
+|-
+|{{Energy|+|24}}
+|{{Energy|+|33}}
+|{{Energy|+|42}}
+|}
+
+===Effect===
+On use, this {{lc:{{PAGENAME}}}} will apply the 'Tough Mood' buff for a duration of 2 minutes, increasing the player's defense by 4 points. Quality level does not have an impact. For a list of all available buffs and their benefits, see [[effects]].
+
+{| class="wikitable" style="width:40em; text-align:center;"
+!Icon
+!Description
+!Duration
+!Notes
+|-
+|[[File:Protection effect.png|link=Effects#Tough Mood|Tough Mood]]
+|Incoming damage is reduced.
+|2:00
+|[[Effects#Tough Mood|Tough Mood]]
+|}
+
+==Trading==
+{| class="wikitable" style="text-align:center;"
+|-
+! NPC !! Quality || Buy Tier !! Base Cost !! Sell Tier !! Base Price
+|-
+|{{NPC|Merchant}} 
+|[[file:Gold Star.png]]<br>(pumpkin)
+|III
+|N/A
+|III
+|{{Money|36}}
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:meals]]
+[[Category:consumable items]]

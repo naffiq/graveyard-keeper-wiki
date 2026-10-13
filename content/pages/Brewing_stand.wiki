@@ -1,0 +1,69 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Cellar]]
+|technology = [[Farming and Nature (Tech Tree)|Brewing]]
+|related    = [[Farming]]
+|footprint  = 4x3
+|rotatable  = False
+}}
+
+The {{lcfirst:{{PAGENAME}}}} is used to brew [[a mug of beer|mugs of beer]] and [[a mug of mead|mugs of mead]]. The blueprints for the {{lcfirst:{{PAGENAME}}}} will become accessible after unlocking [[Farming and Nature (Tech Tree)|Brewing]] in the Farming and nature technology tree.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A piece of stone|24}}
+{{Item|Simple iron parts|4}}
+|{{Energy|-|7}}
+|Requires: [[Farming and Nature (Tech Tree)|Brewing]]
+|}
+
+==Recipes==
+{| class="wikitable"
+!Item Produced
+!Materials Required
+!Fuel
+!Time
+!Notes
+|-
+|{{Item|A mug of beer|10|animation}}
+|{{Item|water|50}}<br>
+{{Item|Hops|3|animation}}<br>
+{{Item|Wheat|15}}
+|{{fuel|-|10}}
+|2:00
+|{{quality|copper}} {{health|+|5}} and  {{energy|+|23}} Each<br>
+{{quality|silver}} {{health|+|8}} and {{energy|+|25}} Each<br>
+{{quality|gold}} {{health|+|10}} and {{energy|+|30}} Each
+|-
+|{{Item|A mug of mead|10|animation}}
+|{{Item|water|50}}<br>
+{{Item|Hops|3|animation}}<br>
+{{Item|Honey|1}}
+|{{fuel|- |7}}
+|1:30
+|{{quality|copper}} {{health|+|5}} and  {{energy|+|10}} Each<br>
+{{quality|silver}} {{health|+|5}} and {{energy|+|15}} Each<br>
+{{quality|gold}} {{health|+|5}} and {{energy|+|20}} Each
+|-
+|{{Item|Emulsion of death|10}}
+|{{Item|Water|10}}
+{{Item|Death solution|2}}
+|{{Fuel|-|7}}
+|1:30
+|[[Game of Crone]] DLC
+|}
+
+
+{{Navbox-Cellar}}
+[[Category:Workstations]]
+
+[[Category:Cellar workstations]]

@@ -1,0 +1,76 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = ingot_silver 
+| study        = {{Techpoint|Red|50}}
+| source       = [[Furnace II]], [[Furnace III]]
+| buy          = [[Moneylender|Moneylender (T I)]]
+| sell         = [[Merchant|Merchant (T I)]]<br>[[Moneylender|Moneylender (T I)]]
+| cost         = 
+| stacksize    = 30
+}}
+<b>{{PAGENAME}}s</b> are produced by smelting [[silver nugget]]s in an advanced [[Furnace II|furnace]]. These ingots are only useful as a source of [[currency]], as they can be sold to the [[Merchant]] and the [[Moneylender]].
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Silver nugget|2}}
+|2:00<br>{{Fuel|-|20}}
+|-
+!colspan="3"|{{Item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Cost
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Silver nugget|2}}
+|1:30<br>{{Fuel|-|20}}
+|}
+
+==Study==
+{| class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Trading==
+{|class="wikitable"
+|-
+! NPC !! Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | I 
+|  N/A
+| align="center" | I 
+| {{Money|1225}}
+|-
+| {{NPC|Moneylender}}
+| align="center" | I 
+|  N/A
+| align="center" | I 
+| {{Money|1225}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:jewelry items]]
+[[ru:Серебряный_самородок]]
+[[de:Silberbarren]]

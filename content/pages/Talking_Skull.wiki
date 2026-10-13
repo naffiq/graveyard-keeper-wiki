@@ -1,0 +1,1367 @@
+{{Location Infobox
+|name = {{PAGENAME}}
+|image = {{PAGENAME}}.png
+|buildable = True
+|exits = [[Village]], [[Talking Skull Cellar]]
+|NPCs = [[Barman]]
+}}
+The [[{{PAGENAME}}]] (unlocked with the [[Stranger sins|Stranger Sins DLC]]) is located east of the village. It is a Tavern that you build and own. It is also  a front to provide cover for the unearthing of an ancient machine and shows you images of the past. You can sell drinks and hold events which allow you to also sell food.
+
+The [[Barman]], who is inhabited by the ghost named [[Yorick]], is located behind the bar. He sells drinks and food to the patrons of your establishment. He has an accessible inventory in which you can place food to sell during events.
+
+The [[Talking Skull Cellar|cellar]] is located behind the bar, in the basement of the tavern. 
+
+==Tavern Quality==
+The higher your Tavern Quality [[file:Tavern quality item.png|32px]] the more patrons will visit your tavern. The tavern can be upgraded to a maximum of [[file:Tavern quality item.png|32px]]81.
+
+==Tavern Reputation==
+[[file:Tavern reputation meter.gif|80px|link=|right]][[Tavern reputation]] [[file:Tavern reputation.png|16px|link=Tavern reputation]] is earned through selling [[Fermentation#Brewing|Beer]], [[Booze]], [[Fermentation#Brewing|Mead]] and [[Wine]] to the patrons of the tavern. This can be done by placing these drinks on the racks in the cellar, where they will be automatically pulled from and sold. The higher the quality of the items you sell, the more reputation you gain. There is a gauge on the reputation meter that tracks how much reputation your Tavern is gaining. Once the bar is full a [[file:Tavern reputation.png|16px|link=Tavern reputation]] appears next to the bar. You can have a maximum of 3 [[file:Tavern reputation.png|16px|link=Tavern reputation]] on the meter, after-which any earned reputation will be wasted. [[file:Tavern reputation.png|16px|link=Tavern reputation]] may then be spent in order to hold events.
+
+==Cabinet with Artifacts==
+You can place the artifacts you gain during your quests once you have used them in the machine in the cellar.
+{| class="wikitable"
+!style="width:10em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:6em;"|Tavern Quality
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Cabinet with artifacts item.png|64px|link=Cabinet with artifacts]]<br>Cabinet with Artifacts
+|{{Item|Wooden beam|8}} <br> {{Item|Wooden plank|18}} <br> {{Item|Nails|36}}
+|5[[file:Tavern_quality item.png|32px]]
+|You can build only 1 Cabinet with artifacts. You gain +1[[file:Tavern_quality item.png|32px]] for each Artifact placed on its shelves.
+|}
+
+== Artifacts ==
+{| class="wikitable"
+!Artifact
+!Source
+!Effect
+|-
+|[[Statuette]]
+|[[Horadric]]
+|
+
+|-
+|[[Flask]]
+|[[Farmer's Son]]
+|
+
+|-
+|[[Door Hinge]]
+|Left of [[Dig]]
+|
+
+|-
+|[[Legionary Helm]]
+|[[Farmer]]
+|
+
+|-
+|[[Ancient Lockpicks]]
+|[[Miller]]
+|unlocks [[Talking Skull#Tavern Events|Comedy Standup Show]]
+
+|-
+|[[Priests Medallion]]
+|[[Dig]]
+|
+
+|-
+|[[The Legionary Dagger]]
+|[[Krezvold]]
+|unlocks [[Talking Skull#Tavern Events|Ms. Charm's Song]]
+
+|-
+|[[Belt Buckle]]
+|[[Woodcutter]]
+|
+
+|-
+|[[Clay Shards]]
+|[[Adam]]
+|[[Talking Skull#Tavern Upgrade|Tavern Upgrade]]
+
+|-
+|[[Amulet of The Ancient God]]
+|[[Lighthouse Keeper]]
+|unlocks [[Talking Skull#Tavern Events|Rat Races]]
+
+|-
+|[[Ancient Shackles]]
+|Near [[Swamp]]
+|
+
+|-
+|[[Ancient Pickaxe]]
+|[[Koukol]]
+|upgrade Tavern Tables
+
+|-
+|[[Ancient Keys]]
+|[[Adam]]
+|
+
+|-
+|[[Clay Pot of Tar]]
+|[[Witch Hill]]
+|
+
+|-
+|[[Priestess Ring]]
+|[[Farmer]]
+|
+
+|-
+|[[Priests Signet]]
+|[[Dig]]
+|
+
+|-
+|[[A Brick from The Church]]
+|[[Graveyard]]
+|
+
+|}
+
+==Tavern Furniture==
+{| class="wikitable"
+!style="width:13em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:6em;"|Tavern Quality
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Tavern barrel item.png|64px|link=]]<br>Tavern Barrel
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}}
+|3[[file:Tavern_quality item.png|32px]]
+|You can build up to 3 Tavern barrels.
+|-
+|style="text-align:center"|[[file:Tavern table item.png|64px|link=]]<br>Tavern Table
+|{{Item|Wooden plank|8}} <br> {{Item|Nails|8}}
+|5[[file:Tavern_quality item.png|32px]]
+|You can build up to 4 Tavern tables.
+|-
+|style="text-align:center"|[[file:Tavern table 2 item.png|64px|link=]]<br>Tavern Table II
+|{{Item|Wooden beam|4}} <br> {{Item|Wooden plank|8}} <br> {{Item|Silk|2}}
+|10[[file:Tavern_quality item.png|32px]]
+|You can build up to 4 Tavern tables.
+|-
+|style="text-align:center"|[[file:Rat race table item.png|64px|link=]]<br>Rat race table
+|{{Item|Wooden plank|18}} <br> {{Item|Nails|36}} <br> {{Item|Advanced conical flasks|4}}
+|5[[file:Tavern_quality item.png|32px]]
+|Needed for the Rat Races Event
+|}
+
+==Tavern Upgrade==
+To upgrade the tavern you need to progress through the cabinet with artifacts. You need to speak with [[Adam]] to get the [[Clay Shards]] and he will give you the quest to upgrade your tavern.
+
+The upgraded tavern comes with a 10% "Tavern upgrade bonus" on any alcohol sold and allows you to build the rat race event (once the quest line advances far enough along) and more tables to increase your [[file:Tavern quality item.png|32px]].
+
+The upgrade comes with two additional Spaces for Tavern Tables and three spots for Tavern Barrels. One of the Tavern Barrels is included in the upgrade, the other two must be built afterwards.
+On the Switch, there is a known glitch where the upgrade does not provide the additional spaces for two new Tavern Tables. This glitch usually resolves through restarting the game. 
+{| class="wikitable"
+! style="width:15em;" |Icon
+! style="width:17.5em;" |Materials Required
+!Tavern Quality
+|-
+| style="text-align:center" |[[file:Tavern_upgrade item.png|64px|link=]]<br>Tavern Upgrade
+|{{Item|Wooden plank|30}} <br> {{Item|A piece of stone|30}} <br> {{Item|Simple iron parts|12}}
+|5[[file:Tavern_quality item.png|32px]]
+|}
+
+==Selling Drinks==
+Any acceptable beverages, that are stored in either the chest or the box racks in the [[Talking Skull Cellar|cellar]], will gradually be sold to patrons of the tavern. A sale is made every ~1:07 (or ~7 sales per in-game day), with each sold beverage generating a respective amount of money and [[file:Tavern reputation.png|16px]]0.065. Each sale consumes multiple beverages, the number of which is dependent on the tavern quality, the maximum being 12x requiring at least [[file:Tavern quality item.png|32px]]77, 
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ Acceptable Beverages
+!Product
+!Base Price
+!Product
+!Base Price
+|-
+|{{Item|Red wine||gold}}
+|{{Money|250}}
+|{{Item|Red wine||silver}}
+|{{Money|200}}
+|-
+|{{Item|Red wine||copper}}
+|{{Money|150}}
+|{{Item|Booze}}
+|{{Money|150}}
+|-
+|{{Item|A mug of beer||gold}}
+|{{Money|40}}
+|{{Item|A mug of mead||gold}}
+|{{Money|30}}
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|35}}
+|{{Item|A mug of mead||silver}}
+|{{Money|25}}
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|30}}
+|{{Item|A mug of mead||copper}}
+|{{Money|20}}
+|}
+|
+{| class="wikitable"
+|+ Unacceptable Beverages
+!colspan="2"|Products
+|-
+|{{Item|Bottle of grape juice||gold}}
+|{{Item|Bottle of grape juice||silver}}
+|-
+|{{Item|Bottle of grape juice||copper}}
+|{{Item|Infusion}}
+|-
+|{{Item|Bottle of apple juice}}
+|{{Item|Bottle of apple ferment}}
+|-
+|{{Item|Bottle of berry juice}}
+|{{Item|Bottle of berry ferment}}
+|}
+|}
+
+==Trade Report==
+The trade report details the [[money]] and [[file:Tavern reputation.png|16px]] you've earned selling your drinks during the day and food during events.
+[[File:Talking Skull Trade Report.png|200px|left|alt=Trade Report]]{{clear}}
+
+==Tavern Events==
+Once an event is unlocked, via tavern upgrades and progression through the [[Stranger sins|Stranger Sins]] quest-line, the player may hold events at the tavern assuming the requisite [[Tavern reputation|tavern reputation]] [[file:Tavern reputation.png|16px|link=Tavern reputation]] has been earned. There are four events available, each allowing a substantial amount of food and drink to be sold, with differing food requirements for each that will impact the happiness of the patrons. Happy patrons will pay more for their preferred foods, and will also tend to buy more valuable consumables if available. There are also achievements for each event that can be unlocked by holding an event with an overall high amount of happiness.
+
+Before you begin an event, all the consumables you wish to sell must be in the [[Barman]]'s inventory, which you can fill by speaking to him or by preparing food items at the [[Cooking#Professional Kitchen|Professional Kitchen]] or the [[Cooking#Professional Oven|Professional Oven]] in the [[Talking Skull Cellar| tavern's cellar]].
+
+The number of items sold = Tavern Quality [[file:Tavern_quality item.png|32px]] x 2
+
+===Event Costs===
+{| class="wikitable" style="width:55em;"
+!Icon
+!Materials Required
+!Notes
+|-
+|[[file:Tavern_Event_beerfest.png|64px|link=Talking Skull#Graveyard Fest|Graveyard Fest]] [[Talking Skull#Graveyard Fest|Graveyard Fest]]
+|{{Item|Flyer|5}}<br>{{Item|Faith|5}}<br>{{Item|Tavern reputation|1}}
+|Base Income: {{Money|1000}}<hr>Max Income: {{Money|31875}}<br>consuming {{Item|Booze|162}}
+|-
+|[[file:Tavern_Event_standup.png|64px|link=Talking Skull#Comedy Standup|Comedy Standup]] [[Talking Skull#Comedy Standup|Comedy Standup]]
+|{{Item|Flyer|10}}<br>{{Item|Faith|5}}<br>{{Item|Tavern reputation|2}}
+|Base Income: {{Money|2000}}<hr>Max Income: {{Money|32875}}<br>consuming {{Item|Booze|162}}
+|-
+|[[file:Tavern_Event_singer.png|64px|link=Talking Skull#Ms. Charm's Song]] [[Talking Skull#Ms. Charm's Song|Ms. Charm's Song]]
+|{{Item|Flyer|15}}<br>{{Item|Faith|10}}<br>{{Item|Tavern reputation|3}}
+|Base Income: {{Money|3000}}<hr>Max Income: {{Money|44000}}<br>consuming {{Item|Red wine|162|gold}}
+|-
+|[[file:Tavern_Event_ratrace.png|64px|link=Talking Skull#Rat Races]] [[Talking Skull#Rat Races|Rat Races]]
+|{{Item|Flyer|10}}<br>{{Item|Faith|5}}<br>{{Item|Tavern reputation|2}}
+|Base Income: {{Money|2000}}<hr>Max Income: {{Money|27812}}<br>consuming {{Item|Grape pie|162|gold}}
+|}
+
+==Event Food and Drinks==
+<tabber>
+|-|Graveyard Fest=
+===Graveyard Fest===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_frown.png|16px|link=]]  <big>Unhappy Villagers</big>  [[file:Event_frown.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||gold}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of pumpkin soup||gold}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|{{Money|12}}
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}} (P)
+|{{Money|25}}
+|-
+|{{Item|Baked kebab||gold|variant=onion}} (O)
+|{{Money|22}}
+|-
+|{{Item|Baked kebab||silver|variant=pumpkin}} (P)
+|{{Money|18}}
+|-
+|{{Item|Baked kebab||silver|variant=onion}} (O)
+|{{Money|18}}
+|-
+|{{Item|Baked kebab||gold|variant=mushroom}} (M)
+|{{Money|18}}
+|-
+|{{Item|Baked salmon||silver}}
+|{{Money|20}}
+|-
+|{{Item|Baked salmon||copper}}
+|{{Money|15}}
+|-
+|{{Item|Beet slices||}}
+|{{Money|8}}
+|-
+|{{Item|Berry pie||copper}}
+|{{Money|18}}
+|-
+|{{Item|Bottle of apple juice}}
+|{{Money|4}}
+|-
+|{{Item|Bottle of berry juice}}
+|{{Money|6}}
+|-
+|{{Item|Bottle of grape juice||gold}}
+|{{Money|62}}
+|-
+|{{Item|Bottle of grape juice||silver}}
+|{{Money|50}}
+|-
+|{{Item|Bottle of grape juice||copper}}
+|{{Money|38}}
+|-
+|{{Item|Burger||gold}}
+|{{Money|20}}
+|-
+|{{Item|Cabbage soup||gold}}
+|{{Money|20}}
+|-
+|{{Item|Cabbage soup||silver}}
+|{{Money|18}}
+|-
+|{{Item|Cabbage soup||copper}}
+|{{Money|15}}
+|-
+|{{Item|Cake}}
+|{{Money|48}}
+|-
+|{{Item|Croissant}}
+|{{Money|12}}
+|-
+|{{Item|Grape pie||gold}}
+|{{Money|62}}
+|-
+|{{Item|Grape pie||silver}}
+|{{Money|50}}
+|-
+|{{Item|Grape pie||copper}}
+|{{Money|40}}
+|-
+|{{Item|Green jelly (food)}}
+|{{Money|12}}
+|-
+|{{Item|Lasagna||gold}}
+|{{Money|18}}
+|-
+|{{Item|Lasagna||silver}}
+|{{Money|15}}
+|-
+|{{Item|Lasagna||copper}}
+|{{Money|12}}
+|-
+|{{Item|Muffin}}
+|{{Money|10}}
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|10}}
+|-
+|{{Item|Pancakes||silver}}
+|{{Money|16}}
+|-
+|{{Item|Pasta||copper}}
+|{{Money|25}}
+|-
+|{{Item|Pumpkin soup||gold}}
+|{{Money|30}}
+|-
+|{{Item|Pumpkin soup||silver}}
+|{{Money|25}}
+|-
+|{{Item|Pumpkin soup||copper}}
+|{{Money|20}}
+|-
+|{{Item|Red jelly}}
+|{{Money|15}}
+|-
+|{{Item|Red wine||gold}}
+|{{Money|75}}
+|-
+|{{Item|Red wine||silver}}
+|{{Money|60}}
+|-
+|{{Item|Red wine||copper}}
+|{{Money|45}}
+|-
+|{{Item|Royal fish||gold}}
+|{{Money|35}}
+|-
+|{{Item|Royal fish||silver}}
+|{{Money|28}}
+|-
+|{{Item|Toasts with onions||gold}}
+|{{Money|10}}
+|-
+|{{Item|Vegetable soup||gold}}
+|{{Money|28}}
+|-
+|{{Item|Vegetable soup||silver}}
+|{{Money|22}}
+|-
+|{{Item|Vegetable soup||copper}}
+|{{Money|18}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_meh.png|16px|link=]]  <big>Meh Villagers</big>  [[file:Event_meh.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||silver}}
+|{{Money|19}}
+|-
+|{{Item|A bowl of pumpkin soup||silver}}
+|{{Money|19}}
+|-
+|{{Item|A mug of beer||gold}}
+|{{Money|30}}
+|-
+|{{Item|A mug of mead||gold}}
+|{{Money|22}}
+|-
+|{{Item|Baked apple}}
+|{{Money|4}}
+|-
+|{{Item|Baked kebab||copper|variant=pumpkin}} (P)
+|{{Money|19}}
+|-
+|{{Item|Baked kebab||silver|variant=mushroom}} (M)
+|{{Money|19}}
+|-
+|{{Item|Baked mushrooms}}
+|{{Money|8}}
+|-
+|{{Item|Baked pumpkin||gold}}
+|{{Money|19}}
+|-
+|{{Item|Bread}}
+|{{Money|9}}
+|-
+|{{Item|Burger||silver}}
+|{{Money|26}}
+|-
+|{{Item|Fish nuggets}}
+|{{Money|19}}
+|-
+|{{Item|Fish soup||copper}}
+|{{Money|15}}
+|-
+|{{Item|Fried egg}}
+|{{Money|8}}
+|-
+|{{Item|Onion rings||silver}}
+|{{Money|12}}
+|-
+|{{Item|Sandwich||copper}}
+|{{Money|13}}
+|-
+|{{Item|Toasts with onions||silver}}
+|{{Money|12}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_smile.png|16px|link=]]  <big>Happy Villagers</big>  [[file:Event_smile.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||copper}}
+|{{Money|25}}
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|{{Money|25}}
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|44}}
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|38}}
+|-
+|{{Item|A mug of mead||silver}}
+|{{Money|31}}
+|-
+|{{Item|A mug of mead||copper}}
+|{{Money|25}}
+|-
+|{{Item|Baked fish}}
+|{{Money|19}}
+|-
+|{{Item|Baked kebab||copper|variant=onion}} (O)
+|{{Money|31}}
+|-
+|{{Item|Baked kebab||copper|variant=mushroom}} (M)
+|{{Money|25}}
+|-
+|{{Item|Baked meat}}
+|{{Money|19}}
+|-
+|{{Item|Baked pumpkin||silver}}
+|{{Money|25}}
+|-
+|{{Item|Baked pumpkin||copper}}
+|{{Money|19}}
+|-
+|{{Item|Booze}}
+|{{Money|188}}
+|-
+|{{Item|Bottle of apple ferment}}
+|{{Money|25}}
+|-
+|{{Item|Bottle of berry ferment}}
+|{{Money|34}}
+|-
+|{{Item|Burger||copper}}
+|{{Money|38}}
+|-
+|{{Item|Carrot cutlet}}
+|{{Money|15}}
+|-
+|{{Item|Omelette||copper}}
+|{{Money|25}}
+|-
+|{{Item|Onion rings||copper}}
+|{{Money|12}}
+|-
+|{{Item|Toasts with onions||copper}}
+|{{Money|14}}
+|}
+|}
+|-|Comedy Standup=
+===Comedy Standup===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_frown.png|16px|link=]]  <big>Unhappy Villagers</big>  [[file:Event_frown.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||gold}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of pumpkin soup||gold}}
+|{{Money|15}}
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}} (P)
+|{{Money|25}}
+|-
+|{{Item|Baked kebab||gold|variant=onion}} (O)
+|{{Money|22}}
+|-
+|{{Item|Baked kebab||copper|variant=mushroom}} (M)
+|{{Money|10}}
+|-
+|{{Item|Baked pumpkin||copper}}
+|{{Money|8}}
+|-
+|{{Item|Baked salmon||silver}}
+|{{Money|20}}
+|-
+|{{Item|Beet slices}}
+|{{Money|8}}
+|-
+|{{Item|Berry pie||copper}}
+|{{Money|18}}
+|-
+|{{Item|Bottle of apple juice}}
+|{{Money|4}}
+|-
+|{{Item|Bottle of berry juice}}
+|{{Money|6}}
+|-
+|{{Item|Bottle of grape juice||gold}}
+|{{Money|62}}
+|-
+|{{Item|Bottle of grape juice||silver}}
+|{{Money|50}}
+|-
+|{{Item|Bottle of grape juice||copper}}
+|{{Money|38}}
+|-
+|{{Item|Bread}}
+|{{Money|6}}
+|-
+|{{Item|Cabbage soup||gold}}
+|{{Money|20}}
+|-
+|{{Item|Cabbage soup||silver}}
+|{{Money|18}}
+|-
+|{{Item|Cake||gold}}
+|{{Money|48}}
+|-
+|{{Item|Croissant}}
+|{{Money|12}}
+|-
+|{{Item|Fried egg}}
+|{{Money|6}}
+|-
+|{{Item|Grape pie||gold}}
+|{{Money|62}}
+|-
+|{{Item|Grape pie||silver}}
+|{{Money|50}}
+|-
+|{{Item|Grape pie||copper}}
+|{{Money|40}}
+|-
+|{{Item|Green jelly (food)}}
+|{{Money|12}}
+|-
+|{{Item|Lasagna||gold}}
+|{{Money|18}}
+|-
+|{{Item|Lasagna||silver}}
+|{{Money|15}}
+|-
+|{{Item|Lasagna||copper}}
+|{{Money|12}}
+|-
+|{{Item|Muffin}}
+|{{Money|10}}
+|-
+|{{Item|Pancakes||silver}}
+|{{Money|16}}
+|-
+|{{Item|Pasta||copper}}
+|{{Money|25}}
+|-
+|{{Item|Pumpkin soup||gold}}
+|{{Money|30}}
+|-
+|{{Item|Pumpkin soup||silver}}
+|{{Money|25}}
+|-
+|{{Item|Red jelly}}
+|{{Money|15}}
+|-
+|{{Item|Red wine||gold}}
+|{{Money|75}}
+|-
+|{{Item|Red wine||silver}}
+|{{Money|60}}
+|-
+|{{Item|Red wine||copper}}
+|{{Money|45}}
+|-
+|{{Item|Royal fish||gold}}
+|{{Money|35}}
+|-
+|{{Item|Royal fish||silver}}
+|{{Money|28}}
+|-
+|{{Item|Vegetable soup||gold}}
+|{{Money|28}}
+|-
+|{{Item|Vegetable soup||silver}}
+|{{Money|22}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_meh.png|16px|link=]]  <big>Meh Villagers</big>  [[file:Event_meh.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||copper}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|{{Money|19}}
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|22}}
+|-
+|{{Item|A mug of mead||copper}}
+|{{Money|15}}
+|-
+|{{Item|Baked apple}}
+|{{Money|4}}
+|-
+|{{Item|Baked fish}}
+|{{Money|11}}
+|-
+|{{Item|Baked kebab||silver|variant=pumpkin}} (P)
+|{{Money|26}}
+|-
+|{{Item|Baked kebab||silver|variant=onion}} (O)
+|{{Money|26}}
+|-
+|{{Item|Baked kebab||copper|variant=onion}} (O)
+|{{Money|19}}
+|-
+|{{Item|Baked kebab||silver|variant=mushroom}} (M)
+|{{Money|19}}
+|-
+|{{Item|Baked mushrooms}}
+|{{Money|8}}
+|-
+|{{Item|Baked pumpkin||silver}}
+|{{Money|15}}
+|-
+|{{Item|Baked salmon||copper}}
+|{{Money|22}}
+|-
+|{{Item|Burger||gold}}
+|{{Money|30}}
+|-
+|{{Item|Burger||copper}}
+|{{Money|22}}
+|-
+|{{Item|Cabbage soup||copper}}
+|{{Money|22}}
+|-
+|{{Item|Carrot cutlet}}
+|{{Money|9}}
+|-
+|{{Item|Fish soup||copper}}
+|{{Money|15}}
+|-
+|{{Item|Omelette||copper}}
+|{{Money|15}}
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|15}}
+|-
+|{{Item|Onion rings||copper}}
+|{{Money|8}}
+|-
+|{{Item|Pumpkin soup||copper}}
+|{{Money|30}}
+|-
+|{{Item|Toasts with onions||gold}}
+|{{Money|15}}
+|-
+|{{Item|Toasts with onions||copper}}
+|{{Money|8}}
+|-
+|{{Item|Vegetable soup||copper}}
+|{{Money|26}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_smile.png|16px|link=]]  <big>Happy Villagers</big>  [[file:Event_smile.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||silver}}
+|{{Money|31}}
+|-
+|{{Item|A bowl of pumpkin soup||silver}}
+|{{Money|31}}
+|-
+|{{Item|A mug of beer||gold}}
+|{{Money|50}}
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|44}}
+|-
+|{{Item|A mug of mead||gold}}
+|{{Money|38}}
+|-
+|{{Item|A mug of mead||silver}}
+|{{Money|31}}
+|-
+|{{Item|Baked kebab||copper|variant=pumpkin}} (P)
+|{{Money|31}}
+|-
+|{{Item|Baked kebab||gold|variant=mushroom}} (M)
+|{{Money|44}}
+|-
+|{{Item|Baked meat}}
+|{{Money|19}}
+|-
+|{{Item|Baked pumpkin||gold}}
+|{{Money|31}}
+|-
+|{{Item|Booze}}
+|{{Money|188}}
+|-
+|{{Item|Bottle of apple ferment}}
+|{{Money|25}}
+|-
+|{{Item|Bottle of berry ferment}}
+|{{Money|34}}
+|-
+|{{Item|Burger||silver}}
+|{{Money|44}}
+|-
+|{{Item|Fish nuggets}}
+|{{Money|31}}
+|-
+|{{Item|Onion rings||silver}}
+|{{Money|20}}
+|-
+|{{Item|Sandwich||copper}}
+|{{Money|21}}
+|-
+|{{Item|Toasts with onions||silver}}
+|{{Money|20}}
+|}
+|}
+|-|Ms. Charm's Song=
+===Ms. Charm's Song===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_frown.png|16px|link=]]  <big>Unhappy Villagers</big>  [[file:Event_frown.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||copper}}
+|{{Money|10}}
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|{{Money|10}}
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|{{Money|12}}
+|-
+|{{Item|A mug of beer||gold}}
+|{{Money|20}}
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|18}}
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|15}}
+|-
+|{{Item|A mug of mead||gold}}
+|{{Money|15}}
+|-
+|{{Item|A mug of mead||silver}}
+|{{Money|12}}
+|-
+|{{Item|A mug of mead||copper}}
+|{{Money|10}}
+|-
+|{{Item|Baked apple}}
+|{{Money|3}}
+|-
+|{{Item|Baked fish}}
+|{{Money|8}}
+|-
+|{{Item|Baked mushrooms}}
+|{{Money|5}}
+|-
+|{{Item|Baked kebab||copper|variant=onion}} (O)
+|{{Money|12}}
+|-
+|{{Item|Baked kebab||silver|variant=mushroom}} (M)
+|{{Money|12}}
+|-
+|{{Item|Baked kebab||copper|variant=mushroom}} (M)
+|{{Money|10}}
+|-
+|{{Item|Baked pumpkin||gold}}
+|{{Money|12}}
+|-
+|{{Item|Baked pumpkin||silver}}
+|{{Money|10}}
+|-
+|{{Item|Baked pumpkin||copper}}
+|{{Money|8}}
+|-
+|{{Item|Beet slices}}
+|{{Money|8}}
+|-
+|{{Item|Berry pie||copper}}
+|{{Money|18}}
+|-
+|{{Item|Bread}}
+|{{Money|6}}
+|-
+|{{Item|Booze}}
+|{{Money|75}}
+|-
+|{{Item|Bottle of apple ferment}}
+|{{Money|10}}
+|-
+|{{Item|Bottle of berry ferment}}
+|{{Money|14}}
+|-
+|{{Item|Cake||gold}}
+|{{Money|48}}
+|-
+|{{Item|Carrot cutlet}}
+|{{Money|6}}
+|-
+|{{Item|Croissant}}
+|{{Money|12}}
+|-
+|{{Item|Fish soup||copper}}
+|{{Money|10}}
+|-
+|{{Item|Grape pie||gold}}
+|{{Money|62}}
+|-
+|{{Item|Grape pie||silver}}
+|{{Money|50}}
+|-
+|{{Item|Grape pie||copper}}
+|{{Money|40}}
+|-
+|{{Item|Green jelly (food)}}
+|{{Money|12}}
+|-
+|{{Item|Lasagna||copper}}
+|{{Money|12}}
+|-
+|{{Item|Muffin}}
+|{{Money|10}}
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|10}}
+|-
+|{{Item|Onion rings||silver}}
+|{{Money|8}}
+|-
+|{{Item|Onion rings||copper}}
+|{{Money|5}}
+|-
+|{{Item|Pancakes||silver}}
+|{{Money|16}}
+|-
+|{{Item|Red jelly}}
+|{{Money|15}}
+|-
+|{{Item|Sandwich||copper}}
+|{{Money|8}}
+|-
+|{{Item|Toasts with onions||gold}}
+|{{Money|10}}
+|-
+|{{Item|Toasts with onions||silver}}
+|{{Money|8}}
+|-
+|{{Item|Toasts with onions||copper}}
+|{{Money|6}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_meh.png|16px|link=]]  <big>Meh Villagers</big>  [[file:Event_meh.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||silver}}
+|{{Money|19}}
+|-
+|{{Item|A bowl of pumpkin soup||silver}}
+|{{Money|19}}
+|-
+|{{Item|Baked kebab||copper|variant=pumpkin}} (P)
+|{{Money|19}}
+|-
+|{{Item|Burger||copper}}
+|{{Money|22}}
+|-
+|{{Item|Fish nuggets}}
+|{{Money|19}}
+|-
+|{{Item|Lasagna||silver}}
+|{{Money|22}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_smile.png|16px|link=]]  <big>Happy Villagers</big>  [[file:Event_smile.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||gold}}
+|{{Money|38}}
+|-
+|{{Item|A bowl of pumpkin soup||gold}}
+|{{Money|38}}
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}} (P)
+|{{Money|62}}
+|-
+|{{Item|Baked kebab||gold|variant=onion}} (O)
+|{{Money|56}}
+|-
+|{{Item|Baked kebab||silver|variant=pumpkin}} (P)
+|{{Money|44}}
+|-
+|{{Item|Baked kebab||silver|variant=onion}} (O)
+|{{Money|44}}
+|-
+|{{Item|Baked kebab||gold|variant=mushroom}} (M)
+|{{Money|44}}
+|-
+|{{Item|Baked meat}}
+|{{Money|19}}
+|-
+|{{Item|Baked salmon||silver}}
+|{{Money|50}}
+|-
+|{{Item|Baked salmon||copper}}
+|{{Money|38}}
+|-
+|{{Item|Bottle of apple juice}}
+|{{Money|11}}
+|-
+|{{Item|Bottle of berry juice}}
+|{{Money|16}}
+|-
+|{{Item|Bottle of grape juice||gold}}
+|{{Money|156}}
+|-
+|{{Item|Bottle of grape juice||silver}}
+|{{Money|125}}
+|-
+|{{Item|Bottle of grape juice||copper}}
+|{{Money|94}}
+|-
+|{{Item|Burger||gold}}
+|{{Money|50}}
+|-
+|{{Item|Burger||silver}}
+|{{Money|44}}
+|-
+|{{Item|Cabbage soup||gold}}
+|{{Money|50}}
+|-
+|{{Item|Cabbage soup||silver}}
+|{{Money|44}}
+|-
+|{{Item|Cabbage soup||copper}}
+|{{Money|38}}
+|-
+|{{Item|Fried egg}}
+|{{Money|14}}
+|-
+|{{Item|Lasagna||gold}}
+|{{Money|44}}
+|-
+|{{Item|Omelette||copper}}
+|{{Money|25}}
+|-
+|{{Item|Pasta||Copper}}
+|{{Money|62}}
+|-
+|{{Item|Pumpkin soup||gold}}
+|{{Money|75}}
+|-
+|{{Item|Pumpkin soup||silver}}
+|{{Money|62}}
+|-
+|{{Item|Pumpkin soup||copper}}
+|{{Money|50}}
+|-
+|{{Item|Red wine||gold}}
+|{{Money|250}}
+|-
+|{{Item|Red wine||silver}}
+|{{Money|200}}
+|-
+|{{Item|Red wine||copper}}
+|{{Money|150}}
+|-
+|{{Item|Royal fish||gold}}
+|{{Money|88}}
+|-
+|{{Item|Royal fish||silver}}
+|{{Money|69}}
+|-
+|{{Item|Vegetable soup||gold}}
+|{{Money|69}}
+|-
+|{{Item|Vegetable soup||silver}}
+|{{Money|56}}
+|-
+|{{Item|Vegetable soup||copper}}
+|{{Money|44}}
+|}
+|}
+|-|Rat Races=
+===Rat Races===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_frown.png|16px|link=]]  <big>Unhappy Villagers</big>  [[file:Event_frown.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of lentils||gold}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of lentils||silver}}
+|{{Money|12}}
+|-
+|{{Item|A bowl of lentils||copper}}
+|{{Money|10}}
+|-
+|{{Item|A bowl of pumpkin soup||gold}}
+|{{Money|15}}
+|-
+|{{Item|A bowl of pumpkin soup||silver}}
+|{{Money|12}}
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|{{Money|10}}
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|15}}
+|-
+|{{Item|A mug of mead||copper}}
+|{{Money|10}}
+|-
+|{{Item|Baked apple}}
+|{{Money|3}}
+|-
+|{{Item|Baked fish}}
+|{{Money|8}}
+|-
+|{{Item|Baked kebab||gold|variant=pumpkin}} (P)
+|{{Money|25}}
+|-
+|{{Item|Baked kebab||gold|variant=onion}} (O)
+|{{Money|22}}
+|-
+|{{Item|Baked kebab||silver|variant=pumpkin}} (P)
+|{{Money|18}}
+|-
+|{{Item|Baked kebab||silver|variant=onion}} (O)
+|{{Money|18}}
+|-
+|{{Item|Baked kebab||copper|variant=pumpkin}} (P)
+|{{Money|12}}
+|-
+|{{Item|Baked kebab||copper|variant=onion}} (O)
+|{{Money|12}}
+|-
+|{{Item|Baked kebab||gold|variant=mushroom}} (M)
+|{{Money|18}}
+|-
+|{{Item|Baked kebab||silver|variant=mushroom}} (M)
+|{{Money|12}}
+|-
+|{{Item|Baked kebab||copper|variant=mushroom}} (M)
+|{{Money|10}}
+|-
+|{{Item|Baked meat}}
+|{{Money|8}}
+|-
+|{{Item|Baked pumpkin||gold}}
+|{{Money|12}}
+|-
+|{{Item|Baked pumpkin||silver}}
+|{{Money|10}}
+|-
+|{{Item|Baked pumpkin||copper}}
+|{{Money|8}}
+|-
+|{{Item|Baked salmon||silver}}
+|{{Money|20}}
+|-
+|{{Item|Baked salmon||copper}}
+|{{Money|15}}
+|-
+|{{Item|Baked mushrooms}}
+|{{Money|5}}
+|-
+|{{Item|Booze}}
+|{{Money|75}}
+|-
+|{{Item|Bottle of grape juice||gold}}
+|{{Money|62}}
+|-
+|{{Item|Bottle of grape juice||silver}}
+|{{Money|50}}
+|-
+|{{Item|Bottle of grape juice||copper}}
+|{{Money|38}}
+|-
+|{{Item|Bread}}
+|{{Money|6}}
+|-
+|{{Item|Burger||gold}}
+|{{Money|20}}
+|-
+|{{Item|Burger||silver}}
+|{{Money|18}}
+|-
+|{{Item|Burger||copper}}
+|{{Money|15}}
+|-
+|{{Item|Cabbage soup||gold}}
+|{{Money|20}}
+|-
+|{{Item|Cabbage soup||silver}}
+|{{Money|18}}
+|-
+|{{Item|Cabbage soup||copper}}
+|{{Money|15}}
+|-
+|{{Item|Carrot cutlet}}
+|{{Money|6}}
+|-
+|{{Item|Fish nuggets}}
+|{{Money|12}}
+|-
+|{{Item|Fish soup||copper}}
+|{{Money|10}}
+|-
+|{{Item|Fried egg}}
+|{{Money|6}}
+|-
+|{{Item|Lasagna||gold}}
+|{{Money|18}}
+|-
+|{{Item|Lasagna||silver}}
+|{{Money|15}}
+|-
+|{{Item|Lasagna||copper}}
+|{{Money|12}}
+|-
+|{{Item|Omelette||copper}}
+|{{Money|10}}
+|-
+|{{Item|Onion rings||copper}}
+|{{Money|5}}
+|-
+|{{Item|Pasta||copper}}
+|{{Money|25}}
+|-
+|{{Item|Pumpkin soup||gold}}
+|{{Money|30}}
+|-
+|{{Item|Pumpkin soup||silver}}
+|{{Money|25}}
+|-
+|{{Item|Pumpkin soup||copper}}
+|{{Money|20}}
+|-
+|{{Item|Red wine||gold}}
+|{{Money|75}}
+|-
+|{{Item|Red wine||silver}}
+|{{Money|60}}
+|-
+|{{Item|Red wine||copper}}
+|{{Money|45}}
+|-
+|{{Item|Royal fish||gold}}
+|{{Money|35}}
+|-
+|{{Item|Royal fish||silver}}
+|{{Money|28}}
+|-
+|{{Item|Toasts with onions||copper}}
+|{{Money|6}}
+|-
+|{{Item|Vegetable soup||gold}}
+|{{Money|28}}
+|-
+|{{Item|Vegetable soup||silver}}
+|{{Money|22}}
+|-
+|{{Item|Vegetable soup||copper}}
+|{{Money|18}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_meh.png|16px|link=]]  <big>Meh Villagers</big>  [[file:Event_meh.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|26}}
+|-
+|{{Item|A mug of mead||silver}}
+|{{Money|19}}
+|-
+|{{Item|Onion rings||silver}}
+|{{Money|12}}
+|-
+|{{Item|Toasts with onions||silver}}
+|{{Money|12}}
+|}
+|
+{| class="wikitable sortable mw-collapsible" style="width:20em;"
+|+ [[file:Event_smile.png|16px|link=]]  <big>Happy Villagers</big>  [[file:Event_smile.png|16px|link=]]
+!style="width:15em;"|Food
+!style="width:5em;"|Selling Price
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|{{Money|31}}
+|-
+|{{Item|A mug of beer||gold}}
+|{{Money|50}}
+|-
+|{{Item|A mug of mead||gold}}
+|{{Money|38}}
+|-
+|{{Item|Beet slices}}
+|{{Money|19}}
+|-
+|{{Item|Berry pie||copper}}
+|{{Money|44}}
+|-
+|{{Item|Bottle of apple ferment}}
+|{{Money|25}}
+|-
+|{{Item|Bottle of apple juice}}
+|{{Money|11}}
+|-
+|{{Item|Bottle of berry ferment}}
+|{{Money|34}}
+|-
+|{{Item|Bottle of berry juice}}
+|{{Money|16}}
+|-
+|{{Item|Cake||gold}}
+|{{Money|119}}
+|-
+|{{Item|Croissant}}
+|{{Money|31}}
+|-
+|{{Item|Grape pie||gold}}
+|{{Money|156}}
+|-
+|{{Item|Grape pie||silver}}
+|{{Money|125}}
+|-
+|{{Item|Grape pie||copper}}
+|{{Money|100}}
+|-
+|{{Item|Green jelly (food)}}
+|{{Money|31}}
+|-
+|{{Item|Muffin}}
+|{{Money|25}}
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|25}}
+|-
+|{{Item|Pancakes||silver}}
+|{{Money|41}}
+|-
+|{{Item|Red jelly}}
+|{{Money|38}}
+|-
+|{{Item|Sandwich||copper}}
+|{{Money|21}}
+|-
+|{{Item|Toasts with onions||gold}}
+|{{Money|25}}
+|}
+|}
+</tabber>{{clear}}
+
+{{Navbox-Locations}}
+[[de:Redender Schädel]]
+[[Category:Stranger Sins]]

@@ -1,0 +1,67 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Dessert
+| consume      = {{Energy|+|95}}; [[File:Science effect.png]]
+| nameinternal = dessert:pie
+| study        = 
+| source       = [[Cooking]]
+| cost         = 95
+}}
+
+A food item which restores {{Energy|+|95}} and applies the circumspect buff when consumed.  All food items were given an initial {{Energy}} value equal to their base cost which makes cake an exceptionally good food for energy.  Since all the items which can be used to craft {{lc:{{PAGENAME}}}} lack quality levels it can not be improved by using higher quality ingredients. For more information on preparing food see [[cooking]].
+
+Recipe is obtained from [[Dig]] for exchange of 5x [[Honey]].
+
+==Effect==
+
+On use, a cake will apply the circumspect buff for a duration of 2 minutes, which will give additional {{Techpoint|Blue}} when studying new items at the [[study table]] . For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Science effect.png|link=Effects#Circumspect|Circumspect]]
+|You get extra points when studying new items.
+|style="text-align:center"|2:00
+|[[Effects#Circumspect|Circumspect]]
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Oven}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|Cake|1|gold}}
+|{{Item|Pastry dough|1}}
+{{Item|Honey|1}}
+
+{{Item|Berry|5}}
+
+{{Item|Fuel|10}}
+|}
+==Trading==
+{| class="wikitable"
+|-
+! NPC !! Quality || Buy Tier !! Base Price !! Sell Tier !! Base Price
+|-
+| {{NPC|Merchant}} 
+| align="center" | [[file:Gold Star.png]]
+| align="center" | III 
+|  N/A
+| align="center" | III 
+| {{Money|95}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:desserts]]
+[[Category:consumable items]]
+[[Category:effect items]]
+
+[[pt-br:Bolo]]

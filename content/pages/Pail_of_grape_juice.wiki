@@ -1,0 +1,52 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = N/A
+
+| source       = [[Vine press]]
+| cost         = 750
+| stacksize    = 10
+| type         = Misc
+| quest        = 
+| nameinternal = pail_grape_juice
+}}
+{{PAGENAME}} is a product of using a [[vine press]] to process a large amount of [[grapes]]. The pail can then either be <b>Used</b> in the inventory to produce juice, or processed further in a [[wine making barrel]] to produce ferment.
+
+==Recipe==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Vine press}}
+|-
+! style = "width;17.5em" |Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1|animation}}
+|{{Item|Grapes|15|animation}}
+|}
+
+==Crafting==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" |Use in Inventory
+|-
+! style = "width;17.5em" |Item Produced
+!Materials Required
+|-
+|{{Item|Bottle of grape juice|10|animation}}
+|{{Item|{{PAGENAME}}|1|animation}}
+|-
+! colspan = "2" |{{Item|Wine making barrel}}
+|-
+! style = "width;17.5em" |Item Produced
+!Materials Required
+|-
+|{{Item|Red wine|20|animation}}
+|{{Item|{{PAGENAME}}|2|animation}}
+|}
+
+==See Also==
+*{{Item|Pail of berry juice}}
+*{{Item|Pail of apple juice}}
+
+{{Navbox-Misc}}
+
+[[pt-br:Balde de suco de uvas]]

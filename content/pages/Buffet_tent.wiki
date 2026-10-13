@@ -1,0 +1,39 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Witch Hill]]
+|technology = Talk with the [[inquisitor]]
+|related    = 
+|footprint  = 
+|rotatable  = False
+}}
+This tent appears in the [[inquisitor|Inquisitor's quest]]. It comes complete with a storage tent, a market stall and four bar tables for the customers. It has a fixed place on [[Witch Hill]] and is not rotatable. It is only used during the witch burnings.
+
+5 gold-star Burgers are used in each instance of the Inquisitor's [[Buffet tent|Buffet Tent]] event.
+
+==Cost==
+{|class="wikitable"
+!style="width:5em;|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Hemp rope|5}}<br>{{Item|Wooden plank|15}}<br>{{Item|Nails|20}}
+|{{Energy|-|20}}
+|
+|}
+
+== Working the Tent ==
+# First you have to advance the quest until you are able to build it.
+# Build the tent, check table above for the costs. 
+# Stock it with {{Item|Burger|5|Gold}} and {{Item|A mug of beer|10|Gold}}.
+# On {{Day|Wrath}}, visit the [[inquisitor]] to operate the tent and watch the cutscene. You will earn {{Money|3300}}, {{Item|Faith|4}}, and the [[Achievements|achievement]] "Not a hot dog".
+# Stock the tent and host a burning up to 3 more times (max 1 per week) to earn additional money and faith. This "timer" counts down whether or not you take part, until the tent becomes unusable from the 4th week onward. If you fully restocked the buffet before the Inquisitor arrives the 4th time, you can still tell him the tent is ready and get one last money and faith bonus, even after he tells you burnings are no longer permitted.
+# Finally, the king forbids burnings and the tent has no use any more.
+{{clear}}
+
+<br>
+{{Navbox-Witch hill}}
+[[Category:Workstations]]
+[[Category:Witch hill workstations]]

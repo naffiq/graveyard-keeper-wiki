@@ -1,0 +1,48 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Shining of Faith]]
+|related    = [[Church]]
+|footprint  = 3x2
+|rotatable  = True
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a [[church]] workstation that provides a passive +3{{Church Rating}} Church Quality, which can be temporarily supplemented by applying one of three available consumables - candles.
+
+==Cost==
+{| class="wikitable" style="width:40em;"
+!Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Complex iron parts|8}}<br>{{Item|Gold jewelry details|2}}
+|{{Energy||0}}
+|Requires tech:<br>[[Theology (Tech Tree)|Shining of Faith]]
+|}
+
+==Candles==
+{| class = "wikitable" style="width:35em; table-layout:fixed; text-align:center;"
+!Item
+!Bonus
+!Duration
+|-
+|{{Item|Candle (1)|3}}
+| +3{{Church Rating}}
+|3:00
+|-
+|{{Item|Candle (3)|3}}
+| +6{{Church Rating}}
+|4:30
+|-
+|{{Item|Candle (4)|3}}
+| +9{{Church Rating}}
+|6:00
+|}
+
+<br>
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+[[Category:Church workstations]]
+[[de:Wandleuchter III]]

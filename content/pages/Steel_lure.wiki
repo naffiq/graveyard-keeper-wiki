@@ -1,0 +1,31 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = N/A
+| alchemy      = 
+| source       = [[Lighthouse Keeper]]
+| cost         = 250
+| stacksize    = 1
+| type         = Fishing; Equipment
+| quest        = 
+| nameinternal = bait_steel
+}}
+<b>{{PAGENAME}}</b> is a piece of equipment, one of two available lures, the other being the [[lure with a gem]], that functions as a potential bait while [[fishing]]. They will degrade by 10% with each use, even during a failed attempt, making success particularly important given their expense. The lures, along with all three fishing rods, are available exclusively from the [[Lighthouse Keeper]], this one being sold at Tier II for {{Money|250}}. It cannot be acquired through any other means, such as crafting, nor can it be studied or sold.
+
+==Bait==
+{{PAGENAME}} is one of eight(8) available baits to choose from when fishing.
+*There are eight(8/16) susceptible fish; the [[Bream]], [[Tuna]], [[Sardine]], [[Pike]], [[Silver crucian]], [[Carp]], [[Sturgeon]], and [[Salmon]].
+*The steel lure and [[lure with a gem]] are often - but not always - identical in this regard.
+:{{*}}Both lures are unique, in that no low-tier fish are susceptible.
+:{{*}}Either lure is required in order to catch the Silver Crucian.
+:{{*}}The Pike and Salmon prefer the gem lure, over steel.
+:{{*}}The Bream tolerates the steel lure well enough, yet ignores the gem lure.
+*The Silver Crucian and Salmon are generally considered the best commodity, given a steel lure.
+:{{*}}Guarantees {{Quality|gold}}Salmon @ Waterfall, easily recovering the cost of the lure.
+:{{*}}Silver Crucian, while otherwise only requiring nighttime, will provide [[silver nugget]]s.
+
+<br>
+{{Navbox-Fishing}}
+[[Category:Fish]]
+
+[[pt-br:Isca de aço]]

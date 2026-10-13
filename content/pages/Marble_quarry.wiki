@@ -1,0 +1,54 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Marble quarry 1.png
+|location   = [[Cabin in the woods]], [[Quarry]]
+|technology = [[Building (Tech Tree)|Marble quarrying]]
+|related    = [[Mining]]
+|footprint  = 
+|rotatable  = 
+}}
+It can be built from the beginning (bug ?). It is in the [[quarry]] region and near the [[cabin in the woods]]
+
+==Build==
+Before you can use the quarry, you first have to build it. The site looks like this:
+
+[[file:Marble quarry 1.png|300px|Site before building the quarry]]
+
+After you build the quarry, you can manually mine [[marble block]]s. The quarry now looks like this:
+
+[[file:Marble quarry 2.png|300px|Site after building the quarry]]
+
+After you unlock [[zombie]]s, you may build a [[zombie marble quarry]] on the workbench near the [[cabin in the woods]] and have your minions work there. This is how it looks, when both zombie quarries are built but only the left one is working:
+
+[[file:Marble quarry 3.png|300px|One zombie working in the marble quarry]]
+
+==Recipes==
+{| class="wikitable"
+!style="width:12em;| Item
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:20em;"|Notes
+|-
+|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|Flitch|12}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Nails|4}}
+|{{Energy|-|30}}
+|This must be built prior to usage.<br>Yields {{Techpoint|Red|10}} and {{Techpoint|Green|10}}.
+|-
+|{{Item|Marble block|2}}
+|{{Item|Wood wedge|4}}
+|{{Energy|-|15}}
+| Need at least a {{Item|Rusty pickaxe}} or better ones.
+|-
+|[[file:Zombie marble quarry item.png|64px|link=Zombie marble quarry]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Pickaxe I|1}}
+|
+|This blueprint is available in two variations: left and right
+|}
+
+<br>
+{{Navbox-Cabin in the woods}}
+[[Category:Workstations]]
+
+[[Category:Quarry workstations]]
+
+[[es:Cantera de mármol]]

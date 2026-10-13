@@ -1,0 +1,280 @@
+{{NPC Infobox
+| name     = Bishop
+| image    = Episcot.png
+| day      = {{Day|Pride}}
+| location = [[Graveyard]], [[Church]]
+| vendor   = Church Supplies
+| role     = Bishop
+}}
+
+The '''Bishop''' (formerly '''Episcop''') is the [[village]] priest and as the keeper of the local [[graveyard]] you'll be seeing him quite often. As a visitor [[NPCs|NPC]] he is only available to talk to on {{Day|Pride}} when he has arrived at the [[church]].
+== Quests ==
+===Fix the Graveyard===
+Upon arriving at the graveyard for the first time he will acknowledge you as the new graveyard keeper. He asks you to improve the [[graveyard]] to 5 {{Graveyard Rating}}, and after doing so he will give you the [[Perks|Preacher Perk]] allowing you to hold [[sermons]] in the local [[church]] and gaining access to the [[Alchemy Lab|alchemy lab]] and the [[study table]] in the cellars. You'll earn 10 {{happiness}} from this.
+
+Note that when you open the church, it counts as your prayer for the day. You will not be able to choose a prayer to get faith or donations for the service. After the ceremony, the Bishop disappears from his usual post next to the church for the remainder of the day.
+
+===Bowls for the Soup Kitchen===
+Bishop needs {{Item|Ceramic bowls|20}} to serve soup at his Soup Kitchen near the [[Church]]. He gives you access to [[Building (Tech Tree)#Clay|"The Concept of Dirt" technology]] which lets you gather [[sand]] and [[clay]]. To make his bowls you'll need to get [[clay]] from digging at any of the craggy holes around the [[Locations|map]] (one is directly south of the [[The Graveyard|graveyard]]), and then use it with [[Alchemy|water]] at the [[Potters wheel|potter's wheel]]. You'll earn 10 {{happiness}} from bringing the bowls and the "Cleric's Beginner's Guide" worth {{Techpoint|blue|+5}}.
+
+===Improve the Graveyard===
+To expand the church he requests you to get the [[graveyard]] to 30 {{Graveyard Rating}}. You receive 5 {{Happiness}} for completing the quest.
+
+===Improve the Church===
+Furthermore, he requests you to get the [[church]] to 20 {{Church Rating}}. By using [[candle]]s in the [[candelabra I]] or [[candelabra II]], you can increase the score temporarily and finish the task without having to build an expensive interior. You receive 5 {{Happiness}} for completing the quest.
+
+===Bring Quality Fish Fillets===
+The Bishop would like some freshly caught {{Item|Quality fish fillet|4|Copper}} (Must be {{Quality|Copper}}) because he can't eat meat. [[Bream]] is catchable with a 100% rate at the river far north of the church (you need to unblock the path) without bait. You can also catch it at the waterfall [[fishing]] spot which is across the stone bridge west of the [[graveyard]] and directly north using {{Item|Maggot}} as bait. You can also purchase them from the lighthouse. The fillet itself is prepared in your kitchen. You receive 10 {{Happiness}} for completing the quest.
+
+===Bring a Building Permission===
+After delivering {{Item|Quality fish fillet|4|Copper}}  the bishop will complain about bureaucracy. You have to bring him a {{item|Building permission}} (it costs {{money|2000}}) to transform the [[church]] into a big church. Bear in mind though, after the upgrade, you won't be able to do any church services until you become a rightful citizen, that's another {{money|300}}.
+
+===Improve the Church further===
+He wants you now to improve the church once more, this time to 50 {{Church Rating}} though!
+
+===Improve the Graveyard further===
+As before, but now he wants you to increase your graveyard to 200 {{Graveyard Rating}}.
+
+===Gold Quality Marble Statues===
+After your [[graveyard]] reaches 100 {{Graveyard Rating}}, he admires your graveyard and suddenly realizes he needs {{item|A carved piece of marble|3|gold}} of himself! Three of {{quality|gold}} quality, to be exact. Hand those over for 10 {{happiness}}. You should now have 70 {{happiness}} and could ask to upgrade your [[church]] to a cathedral.
+
+Please note, your chances to get{{item|A carved piece of marble||gold}} of {{quality|gold}} quality increases to 80% percent once you have unlocked the tricks of the trade perk from the tech tree.
+
+<s>'''WARNING:''' You will need {{item|aristocrat papers}} and an {{item|accepted invitation}} to perform any church services in the cathedral. (The [[Inquisitor]] works for this.)</s><small><sup>(No longer required to preach - potential temporary Bug?)</sup></small>
+
+===Bring Aristocrat Papers===
+After upgrading to the cathedral, speak to the bishop and he will tell you he needs {{item|aristocrat papers}}.
+
+You can become an aristocrat via the [[royal services]] in front of the [[church]] for {{money|120000}}. You then get the papers for free. Show them to the bishop for another 10 {{happiness}}. <s>You will need them to hold services in the cathedral.</s><small><sup>(No longer required - potential Bug?)</sup></small>
+
+[[File:Lost Aristocrat papers.png|thumb]]
+
+===Bring an Accepted Invitation===
+After upgrading to the cathedral, the Bishop also demands an {{item|Accepted invitation}} from you.
+
+Speak to the [[Inquisitor]] about the papers, but he will turn you down. You will need to get the invitation from the [[merchant]] instead. This can only be done once you have reached 90 {{Happiness}} with the [[merchant]]. Turn in the invitation for another 10 {{happiness}}.
+
+===Hold the Ceremony===
+Once you have turned in both required papers, you should have acquired 90 {{happiness}} with the Bishop and will be able to hold the ceremony.  
+
+Speak with the Bishop again to finish his quest line. You see a cutscene, where the two brothers reunite and earn the achievement "Two Brothers". You will receive the {{item|Mirror of pride}} from the Bishop and the {{item|Salty fork}} from the [[merchant]]. 
+
+Note that when you hold the ceremony, it counts as your prayer for the day (at least if you hold the ceremony before doing a prayer). You will not be able to choose a prayer to get faith or donations for the service. After the ceremony, the Bishop disappears from his usual post next to the church for the remainder of the day.
+
+==Trading==
+===Selling===
+*The cost of communion cookies does not inflate.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Candle (1)}}
+|20
+|{{Money|100}}
+|-
+|{{Item|Communion cookie}}
+|50
+|{{Money|5}}
+|-
+|{{Item|Casual prayer}}
+|100
+|{{Money|100}}
+|-
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Candle (3)}}
+|10
+|{{Money|150}}
+|-
+|{{Item|Incense}}
+|10
+|{{Money|300}}
+|-
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Candle (4)}}
+|3
+|{{Money|400}}
+|-
+|{{Item|Candle (6)}}
+|3
+|{{Money|500}}
+|-
+|{{Item|Incense II}}
+|4
+|{{Money|400}}
+|-
+|}
+|}
+
+===Purchasing===
+*Will not buy back their inventory, except at Tier III.
+*Will not buy related oddities, such as paper products, [[beeswax]], or [[hemp rope]].
+*Selling most sermons is ill-advised, as the requisite materials can be sold for more elsewhere. <i>(see [[Astrologer#Trading|Astrologer]])</i>
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+|-
+|{{Item|Bread}}
+|{{Money|8}}
+|-
+|{{Item|Communion cookie}}
+|{{Money|4}}
+|-
+|{{Item|Combo prayer||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for imagination||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for protection||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for repose||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for excellence||copper}}
+|{{Money|112}}
+|-
+|{{Item|Prayer for retribution||copper}}
+|{{Money|112}}
+|-
+|{{Item|Casual prayer}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for faith||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for donations||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for shoots and roots||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for repentance||copper}}
+|{{Money|75}}
+|-
+|{{Item|Prayer for prosperity||copper}}
+|{{Money|75}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+|-
+|{{Item|Combo prayer||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for imagination||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for protection||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for repose||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for excellence||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for retribution||silver}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for faith||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for donations||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for shoots and roots||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for repentance||silver}}
+|{{Money|150}}
+|-
+|{{Item|Prayer for prosperity||silver}}
+|{{Money|150}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Candle (4)}}
+|{{Money|260}}
+|-
+|{{Item|Candle (6)}}
+|{{Money|325}}
+|-
+|{{Item|Incense II}}
+|{{Money|268}}
+|-
+|{{Item|Combo prayer||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for imagination||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for protection||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for repose||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for excellence||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for retribution||gold}}
+|{{Money|338}}
+|-
+|{{Item|Prayer for faith||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for donations||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for shoots and roots||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for repentance||gold}}
+|{{Money|225}}
+|-
+|{{Item|Prayer for prosperity||gold}}
+|{{Money|225}}
+|}
+|}
+
+== Trivia ==
+* The statue which will be placed in the graveyard from fulfilling "Gold Quality Marble Statues" resembles "Buddy Christ" from the movie "Dogma".
+* His former name, Episcop, is derived from Greek and literally means "supervisor" or "protector". The word was then adopted into Latin and is nowadays used in several Slavic languages.
+
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[de:Episkop]]
+[[pt-br:Bispo]]
+[[pl:Biskup]]

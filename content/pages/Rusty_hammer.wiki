@@ -1,0 +1,52 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = hammer_0
+| study        = {{Techpoint|red|10}}
+| source       = [[Krezvold]]
+| efficiency   = 70%
+| energy       = {{Energy|-|1}}
+| cost         = 100
+| stacksize    = 1
+}}
+The {{lcfirst:{{PAGENAME}}}} equips the the {{Icon|hammer}} slot and is used when constructing [[blueprints]] and during several other select operations.  The {{lcfirst:{{PAGENAME}}}} can be found in the [[graveyard]] [[trunk]] at the start of the game or can be purchased from the [[Blacksmith]].  The hammer tool progression was bugged as Rusty hammers could only be crafted at the [[anvil II]] and [[iron hammer|iron hammers]] require steel and have the steel hammer sprite in-game. It can now be crafted at the [[Anvil]].
+
+Efficiency represents how much progress toward an operation each swing of the Hammer provides. The {{lcfirst:{{PAGENAME}}}} provides the base 70% efficiency. 
+
+Energy usage represents how much energy each operation consumes. The {{lcfirst:{{PAGENAME}}}} requires {{Energy|-|1}} per swing.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|10}}.
+
+{| class="wikitable"
+!colspan="2"|{{Item|Anvil}}
+|-
+!style="width:17.5em;"|Item Produced
+!style="width:17.5em;"|Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden stick|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Iron ingot|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[Category:smithing items]]
+[[es:Martillo oxidado]]

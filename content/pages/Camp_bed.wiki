@@ -1,0 +1,12 @@
+{{Stub}}
+The camp bed in the [[Refugee camp]] is very similar to [[Zombie farm|Zombie farms]] in that they are automatic farms that produce farmable crops over time. However, they require no zombie to man them (presumably the refugees tend to them occasionally), and thus can be unlocked much earlier and easier. They grow the same products as  [[Zombie farm|Zombie farms]] do, and have the same upgrade pattern of 12 fertilizer per tier and the same crop yields. They can also be set to grow crops in queue, or to produce a certain crop indefinitely.
+
+In order to unlock the ability to build up to 4 of them, one needs to first build a [[Residential tent]] , a [[Water well I]] and finally [[Fence supplies For Garden]], inside which the camp beds will be placed.
+
+Surplus seeds should be deposited in the camp storehouse, as the farm seed output tends to vary. For basic crops like [[Carrot|carrots]], [[Cabbage|cabbages]], [[Beet|beets]] and [[wheat]], the output of seeds can vary from anywhere between 21 and 27 seeds, thus it's recommended to check the camp seed supply from time to time, to make sure the farms aren't idling. 
+
+Farming speed is defined by the quality, it start at 5 minutes per batch and decreased by 1 min for each upgrade (down to 3 min on gold quality).  
+
+
+
+If the [[GoC Cooking table|Cooking table]] is built as well, produce from the camp storehouse will automatically be used in cooking various food dishes. This can be both good and bad, as it will result in the camp becoming more self-sustaining, but will also mean that most of the wheat from the farms is going to get turned into dough, meaning that the player will no longer be able to rely on the camp farm for wheat production for use in beermaking or paper production.[[File:Camp bed.png|thumb]]

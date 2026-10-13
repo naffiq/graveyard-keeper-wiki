@@ -1,0 +1,299 @@
+{{stub}}
+{{NPC Infobox
+| name     = Horadric
+| image    = Horadric.png
+| day      = 
+| location = [[The Dead Horse]]
+| vendor   = Food and Drink
+| role     = Innkeeper
+|money=1000|income=70}}
+Horadric is the [[NPCs|NPC]] innkeeper at [[The Dead Horse]] and the husband of [[Miss Chain]]. He is obligated by ancient contract to purchase your [[Burial certificate]] for the constant price of {{Money|150}}.
+
+==Quests==
+===Deliver the Letter===
+The innkeeper asks you to deliver a letter to his friend, [[Krezvold]] the Blacksmith. After delivering the letter, you can return to Horadric and get {{Item|A mug of beer||copper}} as reward. It can be, and is most likely expected, to be given to [[Gerry]] to complete one of his quests. You'll earn 10 {{Happiness}} by doing such.
+
+===Return With Royal Stamp===
+After asking if he will purchase your {{Item|Flesh}}, he mentions that he would love to, but all meat must have a {{Item|stamp}} to be genuine. The stamp can be obtained in two ways. The first method of obtaining a stamp involves purchasing one the royal service box (left of the [[Church]]) for {{Money|5000}}, after achieving a high enough "relationship" with it. The second method is to visit [[Snake]] in the Cellar, and after you reach {{Happiness}}30 with him, you will be able to ask him to give you a forged stamp. After returning to Horadric, he will teach you how to make a {{Item|Package of meat}} using {{Item|Clean paper}} and {{Item|Flesh}}, along with the {{Item|stamp}}. The stamp is not consumed by crafting.
+
+===Unlock the Kitchen Garden===
+After reading the sign in the north part of the [[Kitchen Garden]] you can ask the innkeeper about it and receive a {{item|Garden certificate}} to open it up.
+
+===Bring Beer===
+After selling {{Item|A mug of beer||gold}} and {{Item|Burger||gold}} (both must be {{quality|gold}}) at a [[Witch Hill]] burning (see [[Inquisitor]] for more details), Horadric asks you to bring him a mug of this famous beer. If you do so, you'll gain another 10 {{Happiness}} after you update the Church to Big Church. If you have 30 {{Happiness}}, you can access a private area of the Dead Horse, where you can get the recipe for Mead at his desk. 
+
+('''Note:''' In the current version of the game you will need 30 {{Happiness}} to gain access to the upstairs room. You need to upgrade the church to get the 30 {{Happiness}}).
+
+===Beer Snacks===
+After obtaining an {{Item|onion||copper}} at some point previously (either bought from [[Farmer]] or planted and harvested, must be {{quality|copper}}), [[Horadric]] will give you the recipe for [[Onion rings]] and [[Toasts with onions]] after talking to him.
+
+==Trades==
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Teleportstone}}
+|1
+|{{Money|200}}
+|-
+|{{Item|Package of meat}}
+|10
+|N/A
+|-
+|{{Item|Grape pie||copper}}
+|16
+|{{Money|80}}
+|-
+|{{Item|A mug of beer||silver}}
+|15
+|{{Money|35}}
+|-
+|{{Item|A mug of beer||copper}}
+|15
+|{{Money|30}}
+|-
+|{{Item|Baked salmon||copper}}
+|10
+|{{Money|30}}
+|-
+|{{Item|Fish nuggets||copper}}
+|18
+|{{Money|25}}
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|12
+|{{Money|25}}
+|-
+|{{Item|A bowl of lentils||copper}}
+|18
+|{{Money|20}}
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|17
+|{{Money|20}}
+|-
+|{{Item|Omelette||copper}}
+|15
+|{{Money|20}}
+|-
+|{{Item|Fish soup||copper}}
+|13
+|{{Money|20}}
+|-
+|{{Item|Beet slices}}
+|20
+|{{Money|15}}
+|-
+|{{Item|Carrot cutlet}}
+|20
+|{{Money|12}}
+|-
+|{{Item|Bread}}
+|8
+|{{Money|12}}
+|-
+|{{Item|Onion rings||copper}}
+|10
+|{{Money|10}}
+|-
+|{{Item|Firewood}}
+|5
+|N/A
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Red wine||silver}}
+|6
+|{{Money|200}}
+|-
+|{{Item|Red wine||copper}}
+|6
+|{{Money|150}}
+|-
+|{{Item|Grape pie||silver}}
+|16
+|{{Money|100}}
+|-
+|{{Item|Baked salmon||silver}}
+|10
+|{{Money|40}}
+|-
+|{{Item|Croissant}}
+|16
+|{{Money|25}}
+|-
+|{{Item|Muffin}}
+|16
+|{{Money|20}}
+|-
+|{{Item|Onion rings||silver}}
+|10
+|{{Money|16}}
+|-
+|{{Item|Toasts with onions||silver}}
+|20
+|{{Money|16}}
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Onion rings||gold}}
+|10
+|{{Money|20}}
+|}
+|}
+
+===Purchasing===
+*Will not buy back the Teleportstone.
+*Will not buy any [[A mug of mead|mead]] or gold-quality [[A mug of beer|beer]], despite an apparent interest.
+*The price of Burial Certificates will not deflate.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed per Week
+|-
+|{{Item|Burial certificate}}
+|{{Money|150}}
+|
+|-
+|{{Item|Package of meat}}
+|{{Money|64}}
+|
+|-
+|{{Item|Grape pie||copper}}
+|{{Money|58}}
+|
+|-
+|{{Item|A mug of beer||silver}}
+|{{Money|26}}
+|?? down to 15
+|-
+|{{Item|A mug of beer||copper}}
+|{{Money|22}}
+|
+|-
+|{{Item|Baked salmon||copper}}
+|{{Money|22}}
+|7 down to 10
+|-
+|{{Item|Fish nuggets||copper}}
+|{{Money|18}}
+|
+|-
+|{{Item|A bowl of sauerkraut||copper}}
+|{{Money|18}}
+|
+|-
+|{{Item|A bowl of lentils||copper}}
+|{{Money|14}}
+|
+|-
+|{{Item|A bowl of pumpkin soup||copper}}
+|{{Money|14}}
+|
+|-
+|{{Item|Omelette||copper}}
+|{{Money|14}}
+|
+|-
+|{{Item|Fish soup||copper}}
+|{{Money|14}}
+|
+|-
+|{{Item|Beet slices}}
+|{{Money|11}}
+|12 down to 20
+|-
+|{{Item|Carrot cutlet}}
+|{{Money|9}}
+|9 down to 20
+|-
+|{{Item|Bread}}
+|{{Money|8}}
+|6 down to 8
+|-
+|{{Item|Onion rings||copper}}
+|{{Money|8}}
+|
+|-
+|{{Item|Firewood}}
+|{{Money|4}}
+|
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+!Consumed per Week
+|-
+|{{Item|Red wine||silver}}
+|{{Money|139}}
+|6 down to 6
+|-
+|{{Item|Red wine||copper}}
+|{{Money|104}}
+|12 down to 6
+|-
+|{{Item|Grape pie||silver}}
+|{{Money|73}}
+|
+|-
+|{{Item|Baked salmon||silver}}
+|{{Money|28}}
+|?? down to 10
+|-
+|{{Item|Croissant}}
+|{{Money|18}}
+|
+|-
+|{{Item|Muffin}}
+|{{Money|14}}
+|
+|-
+|{{Item|Onion rings||silver}}
+|{{Money|11}}
+|
+|-
+|{{Item|Toasts with onions||silver}}
+|{{Money|12}}
+|
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Base Price
+|-
+|{{Item|Onion rings||gold}}
+|{{Money|14}}
+|}
+|}
+
+==Trivia==
+The Horadric Cube is a foundational alchemy artifact in the ''Diablo'' game franchise.
+
+<br>
+{{Navbox-NPCs}}
+[[Category:Vendors]]
+[[pt-br:Manuel]]

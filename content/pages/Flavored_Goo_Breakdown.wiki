@@ -1,0 +1,133 @@
+The following is a walkthrough in regards to 'flavored' [[goo]], and how to reliably go about mass producing it. For more information regarding alchemical reagents and their products, see [[alchemy]].
+
+===Step 1; Find a Recipe===
+Any given flavoring of goo is the result of an unpolished mechanic that's attempting to give you-the-player a hint towards discovering a successful recipe after making an unsuccessful attempt ...however, should you desire a specific flavored goo, the related reagent therefore must first be found within at least one recipe. This is precisely why 'Spices' and '(unflavored) Goo' have no flavorings of themselves, as they aren't used in any recipe, despite technically being usable reagents. Once you find any (and preferably all) recipes involving the desired reagent you intend to goo-ify, you now need to figure out the best way to intentionally fail one of those recipes. And on that note, it would be wise to recognize that the reagents one chooses will essentially be wasted away, so try to avoid those that are made from valuable products or otherwise difficult to obtain ...and/or favor those that are relatively common, inexpensive, and easy to acquire.
+
+===Step 2; Find a Non-Reactant===
+To re-iterate, you're attempting to purposely fail a recipe, so that the in-game mechanic suggests a specific missing reagent; presumably, the flavor you want. And thus, the reagent you want can ''not'' be used in the recipe, and must be replaced with any other reagent. However, you wouldn't necessarily want to fail an alternate recipe, or even accidentally produce a different recipe successfully - you'd want the result to be as specific as possible. To that end, it's easiest to simply input a reagent that is not used in any other recipe in that slot at that workbench - or, in other words, a non-reactant. Furthermore, regarding the AW2, you'll need to fill a second non-desirable slot, preferably with another non-reactant, so as to help trigger the appropriate failed recipe. Lastly, attempting to combine non-reactants is precisely how one can reliably produce the original unflavored Goo.
+{|class="wikitable mw-collapsible mw-collapsed"
+!colspan="5" style="width:55em;"|Non-Reactants
+|-
+!colspan="2"|[[Alchemy workbench (tier I)]]
+!colspan="3"|[[Alchemy workbench (tier II)]]
+|-
+!Powder
+!Solution
+!Powder
+!Solution
+!Extract
+|-
+|{{Item|Water}}<br>{{Item|Blood}}<br>{{Item|Gold powder}}<br>{{Item|Silver powder}}<br>{{Item|Spices}}
+|{{Item|Death solution}}<br>{{Item|Toxic solution}}<br>{{Item|Alcohol}}<br>{{Item|Goo}}
+|{{Item|Death powder}}<br>{{Item|Water}}<br>{{Item|Oil}}<br>{{Item|Alcohol}}<br>{{Item|Blood}}<br>{{Item|Electric powder}}<br>{{Item|Graphite powder}}<br>{{Item|White powder}}<br>{{Item|Salt}}<br>{{Item|Spices}}
+|{{Item|Acceleration solution}}<br>{{Item|Oil}}<br>{{Item|Blood}}<br>{{Item|Goo}}
+|{{Item|Water}}<br>{{Item|Oil}}<br>{{Item|Alcohol}}
+|}
+====Step 2 - Example 1====
+Let's say you desire Ash goo - there are three available recipes to choose from (two at AW1, one at AW2), but the AW2 recipe is rather complicated, and one of the AW1 recipes - [[growth enhancer]] - is noteworthy, as its other ingredient - [[life solution]] - is a single-reactant, in that no other recipe at the AW1 uses 'Life' in the solution slot (see below). So, by using a non-reactant in the 'powder' slot and Life in the solution slot, you'll receive Ash goo as a result every time.
+====Step 2 - Example 2====
+Instead, let's say you desire Salt goo - there's only one available recipe, at the AW1 - [[spices]] - which utilizes a [[health solution]]. So, using a non-reactant in the 'powder' slot is ideal; this won't guarantee a result of Salt goo, as the solution is used in another recipe, but the odds would be worse if there was ''not'' a non-reactant in the powder slot.
+
+===Step 3; Find a Single-Reactant===
+So, you have a desired flavor of goo in mind, you've found most related recipes, along with a non-reactant replacement for your desired flavor - what now? Well, you need to input one of the other ingredients used in whichever recipe you choose. Ideally, you'd want this reagent to not be used in any other recipe at the given workstation - or is, in other words, a single-reactant. However, it's entirely possible that one such reagent may not be available, so just keep in mind - the more reactants in a given failure, the less precise the outcome will be, making it more difficult to produce the desired goo; two reactants? - 50:50 odds ...three reactants? - 33:33:33 odds, etc.
+{|class="wikitable mw-collapsible mw-collapsed"
+!colspan="5" style="width:55em;"|Single-Reactants
+|-
+!colspan="2"|[[Alchemy workbench (tier I)]]
+!colspan="3"|[[Alchemy workbench (tier II)]]
+|-
+!Powder
+!Solution
+!Powder
+!Solution
+!Extract
+|-
+|{{Item|Life powder}}<br>{{Item|Slowing powder}}<br>{{Item|Oil}}<br>{{Item|Alcohol}}<br>{{Item|Electric powder}}<br>{{Item|Graphite powder}}<br>{{Item|White powder}}<br>{{Item|Salt}}
+|{{Item|Life solution}}<br>{{Item|Order solution}}<br>{{Item|Chaos solution}}<br>{{Item|Slowing solution}}
+|{{Item|Ash}}
+|{{Item|Health solution}}<br>{{Item|Water}}<br>{{Item|Alcohol}}
+|{{Item|Acceleration extract}}
+|}
+====Step 3 - Example 1====
+Looking at the examples from Step 2, it should be relatively easy to find some clarity in these processes. For instance, Life solution at the AW1 is a single-reactant, which is why Ash goo is guaranteed when combined with a non-reactant like Water. Similarly, the only way to obtain Salt goo is by using a Health solution, and since it's a double-reactant, it means there's a 50:50 chance of receiving either Salt or Life goo.
+====Step 3 - Example 2====
+Let's say you desire Toxic goo - a tricky one at that, as there are six available recipes, all of which at the AW2. The AW2 has the benefit of producing an additional flavor, but with much more complicated recipes as it includes a third slot. One of these six recipes includes two toxic reagents, though the odd-reagent-out is used in multiple other recipes, making it less than ideal. So, of the remaining five recipes with toxic reagents, are there any that have single-reactants? Yep - there are two - either Ash (powder) or Acceleration extract. As the Ash is fairly valuable, assuming you have fertilizer and urns to craft, the recipe that utilizes Acceleration extract - [[digestion potion]] - is likely preferred. And thus, by utilizing a non-reactant powder (Water / Alcohol / Salt), a non-reactant solution (Oil / Goo), and the Acceleration extract, this failure will always produce a Toxic goo ''and'' Health goo.
+
+===Step 4; Profit?===
+There is little point in going through the trouble of even bothering with flavored goo, so long as you're using the wiki for assistance in regards to [[alchemy]]. Having said that, it does provide an interesting alternative towards creating reagents that are otherwise difficult to acquire. For example, [[Ash]] is no longer restricted to the cremation of a [[corpse]] - you can make it yourself, with 4x [[water]] and 4x [[Life solution]], combined at an AW1 to make 4x Ash goo, to then be processed at an alchemy mill to create 2x Ash. In closing, where there's a goo, there's a way.
+
+===Examples===
+{|class="wikitable mw-collapsible mw-collapsed"
+!colspan="6" style="width:55em;"|Posits
+|-
+!style="width:10em;"|@
+!Powder
+!Solution
+!Extract
+!Product
+!Odds
+|-
+|rowspan="5"|{{Item|Alchemy workbench (tier I)}}
+|Non-Reactant
+|{{Item|Water}}
+!rowspan="5"|
+|{{Item|Goo|variant=Graphite}} (Graphite) **<hr>{{Item|Goo|variant=Death}} (Death)<hr>{{Item|Goo|variant=Electric}} (Electric) **
+|33%
+|-
+|Non-Reactant
+|{{Item|Oil}}
+|{{Item|Goo|variant=Ash}} (Ash)<hr>{{Item|Goo|variant=White}} (White) **
+|50%
+|-
+||Non-Reactant
+|{{Item|Life solution}}
+|{{Item|Goo|variant=Ash}} (Ash) †
+|100%
+|-
+|Non-Reactant
+|{{Item|Health solution}}
+|{{Item|Goo|variant=Salt}} (Salt) **<hr>{{Item|Goo|variant=Life}} (Life)
+|50%
+|-
+|Non-Reactant
+|{{Item|Slowing solution}}
+|{{Item|Goo|variant=Alcohol}} (Alcohol) †<hr>{{Item|Goo|variant=Health}} (Health)
+|50%
+|-
+|rowspan="5"|{{Item|Alchemy workbench (tier II)}}
+|{{Item|Life powder}}
+|Non-Reactant
+|Non-Reactant
+|{{Item|Goo|variant=Death}} (Death)<br>{{Item|Goo|variant=Blood}} (Blood) †
+|100%
+|-
+|{{Item|Toxic powder}}
+|Non-Reactant
+|Non-Reactant
+|{{Item|Goo|variant=Chaos}} (Chaos)<br>{{Item|Goo|variant=Toxic}} (Toxic)
+|100%
+|-
+|{{Item|Acceleration powder}}
+|Non-Reactant
+|Non-Reactant
+|{{Item|Goo|variant=Chaos}} (Chaos)<br>{{Item|Goo|variant=Blood}} (Blood)<hr>{{Item|Goo|variant=Alcohol}} (Alcohol)<br>{{Item|Goo|variant=Life}} (Life)
+|50%
+|-
+|Non-Reactant
+|{{Item|Order solution}}
+|Non-Reactant
+|{{Item|Goo|variant=Silver}} (Silver) †<br>{{Item|Goo|variant=Life}} (Life)<hr>{{Item|Goo|variant=Gold}} (Gold) †<br>{{Item|Goo|variant=Health}} (Health)
+|50%
+|-
+|Non-Reactant
+|Non-Reactant
+|{{Item|Acceleration extract}}
+|{{Item|Goo|variant=Health}} (Health)<br>{{Item|Goo|variant=Toxic}} (Toxic) †
+|100%
+|-
+!colspan="6" style="width:55em;"|** Represents the only possible source of that particular flavor.
+|-
+!colspan="6" style="width:55em;"|† Represents ''not'' the only possible source, but one that's arguably ideal.
+|}
+
+[[Category:Guides]]

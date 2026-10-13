@@ -1,0 +1,14 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Vampireshoe2.png
+| type         = Quest
+}}
+
+'''Charred vampire shoe''' is a quest item from the [[Game of Crone]] DLC. It is obtained from the [[Misty Quagmire]], where it can be dug up out of the second mound of dirt after the [[Bone leg]]. Using three [[memory tincture]]s with the shoe will unlock a memory of the past.
+
+After this, it has no further use.
+
+{{Navbox-GameofCroneQuest}}
+[[Category:Items]]
+[[Category:Game of Crone]]
+[[Category:Game of Crone quest items]]

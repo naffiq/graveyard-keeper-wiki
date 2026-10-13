@@ -1,0 +1,156 @@
+{{NPC Infobox
+| name     = Miller
+| image    = Miller.png
+| day      = 
+| location = [[Wheat Farm]]
+| vendor   = grain products 
+| role     = Miller
+}}
+
+The {{PAGENAME}} can be found in the northern section of the [[Wheat Farm]] during the day. He sells grain products. He is the brother of the [[Farmer]]. As his mill does not work, he is always found saying  "I get so tired without any work to do." until the quest is completed.
+
+==Quests==
+===Fixing the Mill===
+Doing [[Ms. Charm]]'s quest line will eventually lead you to being asked to fix the broken [[mill]]. You have to talk to the miller first. Then seek help at the [[astrologer]] to figure out the {{Item|paper with calculations}}. Then return to the mill to complete the project.
+
+{| class="wikitable"
+! Icon
+! style="width:17.5em;" |Materials Required
+! style="width:5em;" |Energy
+|-
+|[[File:Mill item.png|center|80x80px]]
+|{{Item|Complex iron parts|5}}<br> {{Item|Wooden plank|6}}<br> {{Item|Paper with calculations|1}}
+|{{Energy}}30
+|}
+
+After fixing the [[mill]], go back to the [[farmer]] and talk to him. You will get Alisa's Papers and from now on, you will be able to mill your {{Item|Wheat|10}} into {{Item|flour|15}} for free.
+
+==Trades==
+Miller is bugged in that he is unable to resell {{Item|Firewood}}. Once he runs out of money, he'll be unable to restock his inventory. To remedy that, trade with him until his stock reaches the base amount (i.e. If he has {{Item|Hops|5|gold}} in stock, he'll start making money again).
+===Selling===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Flour}}
+|100
+|{{Money|12}}
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Hops||copper}}
+|10
+|{{Money|40}}
+|-
+|{{Item|Hops seed||copper}}
+|8
+|{{Money|35}}
+|-
+|{{Item|Wheat}}
+|58
+|{{Money|10}}
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Qty
+!Base Cost
+|-
+|{{Item|Hops||gold}}
+|5
+|{{Money|65}}
+|-
+|{{Item|Hops seed||gold}}
+|8
+|{{Money|60}}
+|-
+|{{Item|Hops||silver}}
+|5
+|{{Money|52}}
+|-
+|{{Item|Hops seed||silver}}
+|8
+|{{Money|47}}
+|}
+|}
+
+===Buying===
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+|+ <big>Tier I</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Flour}}
+|{{Money|9}}
+|6 down to 104
+|-
+|{{Item|Firewood}}
+|{{Money|5}}
+|
+|}
+|
+{| class="wikitable"
+|+ <big>Tier II</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Hops||copper}}
+|{{Money|28}}
+|
+|-
+|{{Item|Hops seed||copper}}
+|{{Money|25}}
+|
+|-
+|{{Item|Wheat}}
+|{{Money|8}}
+|
+|}
+|
+{| class="wikitable" 
+|+ <big>Tier III</big>
+!Item
+!Base Price
+!Consumed<br>per week
+|-
+|{{Item|Hops||gold}}
+|{{Money|44}}
+|
+|-
+|{{Item|Hops seed||gold}}
+|{{Money|43}}
+|
+|-
+|{{Item|Hops||silver}}
+|{{Money|35}}
+|
+|-
+|{{Item|Hops seed||silver}}
+|{{Money|33}}
+|
+|}
+|}
+
+<br>
+{{Navbox-NPCs}}
+
+[[de:Müller]]
+[[ru:Мельник]]
+[[pt-br:Moleiro]]
+[[Category:Vendors]]

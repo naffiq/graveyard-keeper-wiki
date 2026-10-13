@@ -1,0 +1,22 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Miller]]
+| cost         = 
+}}
+
+The {{PAGENAME}} are received from [[Miller]]. He is reluctant to give them up when you ask him for them. He says they are the only clue to his stolen invitation to the Official Comedy Show in the [[the Town]]. He tasks you with searching around his home and the [[Mill]] for clues.
+
+Search icons will appear in the field. The search spot near the Tree and the grave will be a rope tied into a noose with a note that says "Farewell, cruel world - Adam". The spot in the field just below the grass on the right of the home contains a moldy pie that must have been left behind a long time ago. The spot to the right above Miller's home has a guy in the field. He tells you to not come any closer and that he'll attack you. He's Miller's sworn enemy and he's trying to learn his sinister plan. He says there is a suspicious fish hook in the field.
+
+You decide to speak to the [[Lighthouse Keeper]]. Once you speak to him he will ask you where his favorite fishing hook is. You accuse the Lighthouse Keeper of being a thief. He says that the invitation is rightfully his and that Miller is stealing his jokes. You tell him that he can perform a [[Talking Skull#Tavern Events|Comedy Standup Show]] at the [[Talking Skull]]. He's delighted at the news.
+
+Head to the Talking Skull and hold a Comedy Standup Show. After the show you'll receive the stolen invitation. Take it back to Miller and he'll give you the {{PAGENAME}}.
+
+[[ru:Древняя отмычка]]
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

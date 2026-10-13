@@ -1,0 +1,56 @@
+{{NPC Infobox
+| name     = {{PAGENAME}}
+| image    = Mrs. Chain.png
+| day      = 
+| location = [[The Dead Horse]]
+| vendor   = 
+| role     = [[Horadric]]'s wife
+}}
+
+{{PAGENAME}} is [[Horadric|Horadric's]] wife, the innkeeper of [[The Dead Horse]], and an ex-priestess.
+
+She is one of three NPCs (the other two being [[Horadric]] and [[Vagner]]) present at the tavern on all of the six [[days]] irrespective of day/night.
+
+==Quests==
+===Visit Clotho===
+After you brought back [[Ms. Charm]] the bad news about her {{Item|necklace}}, she wants Miss Chain's {{Item|perfume}}. In order to get it from her, you have to deliver a {{Item|Basket of food}} to her sister [[Clotho]], and bring back {{Item|Frog|12}} as ingredients for creating more {{Item|perfume}}. For this you'll recieve  a total of 20 {{Happiness}} and you can get the {{Item|perfume}} from her.
+
+==Trades==
+===Selling===
+She sells four [[Cookery (Tech Tree)|cookery technology]] recipes.
+
+{|
+|- style="vertical-align:top;"
+|
+{| class="wikitable"
+!Item
+!Tech
+!Quantity
+!Base Cost
+|-
+|{{Item|Recipe fish delicacies}}
+|[[Cookery (Tech Tree)|Recipe: Fish delicacies]]
+|1
+|{{Money|830}}
+|-
+|{{Item|Recipe tasty and healthy}}
+|[[Cookery (Tech Tree)|Recipe: Tasty and healthy]]
+|1
+|{{Money|540}}
+|-
+|{{Item|Recipe sweet baking}}
+|[[Cookery (Tech Tree)|Recipe: Sweet baking]]
+|1
+|{{Money|200}}
+|-
+|{{Item|Recipe pies}}
+|[[Cookery (Tech Tree)|Recipe: Pies]]
+|1
+|{{Money|100}}
+|-
+|}
+
+{{Navbox-NPCs}}
+[[ru:Miss Chain]]
+[[de:Frau Kette]]
+[[Category:Vendors]]

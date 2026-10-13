@@ -1,0 +1,36 @@
+<!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Church]]
+|technology = [[Theology (Tech Tree)|Superpower of Faith]]
+|related    = [[Church]]
+|footprint  = 3x4
+|rotatable  = Yes
+}}
+The {{lcfirst:{{PAGENAME}}}} provides 8{{Church Rating}}.
+
+Horizontal and vertical : 3 X 4
+
+Rotation : horizontal 
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+| {{Item|Wooden beam|4}} <br> {{Item|A carved piece of marble|2|copper}} <br> {{Item|Complex iron parts|4}}  
+
+|6{{Energy}}
+|Requires [[Theology (Tech Tree)|Superpower of Faith]]
+|}
+
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+
+[[Category:Church workstations]]
+[[Category:Image requested]]
+[[de:Steinerner Schrein]]

@@ -1,0 +1,556 @@
+__NOTOC__<!-- Do not add content above this point -->
+'''''Note; this is in regards to the patch notes provided on [https://store.steampowered.com/news/?appids=599140 Steam News] by the developer [http://lazybeargames.com/ Lazy Bear] specifically for PC users.'''''
+== Ver. 1.405 ==
+-Added on 18 Apr 2022
+
+:[[File:Update Alert.png|link=|frameless]] Be not afraid to go to the deepest and darkest levels of dungeons. We fixed critical issue that appeared while one tried to move to the next floor. Enemies and resources awaits!
+:[[File:Update Alert.png|link=|frameless]] And you know what? Looks like popping achievements are back on the menu, Keepers! We know we took our time with it and some of you might say that it would be faster if the eagles just fixed everything but it's not how it works.
+:[[File:Update Alert.png|link=|frameless]] Minor changes in localization.
+
+== Ver. 1.404 ==
+-Added on 18 Nov 2021
+
+:[[File:Update Alert.png|link=|frameless]] We talked to parishioners, they will behave well now. No more creepy-standing in the church after a sermon.
+:[[File:Update Alert.png|link=|frameless]] Don't be afraid to deconstruct bookshelves - all the stored items will be safe and sound (and fall on the floor).
+:[[File:Update Alert.png|link=|frameless]] Fixed "Axeman" perk - now it affects the number of wood wedges you can get.
+:[[File:Update Alert.png|link=|frameless]] NPC's will now do everything as planned and talk to Keeper as planned, and won't just stay in their houses or on the streets.
+:[[File:Update Alert.png|link=|frameless]] Added some changes in localization.
+:[[File:Update Alert.png|link=|frameless]] Minor fixes here and there.
+
+== Ver. 1.403 ==
+-Added on 10 Nov 2021
+
+:[[File:Update Alert.png|link=|frameless]] We fixed the prioritization of resources for crafting. Now they will be taken directly from Keeper's inventory intstead of bags or trunks or shelves, etc.
+:[[File:Update Alert.png|link=|frameless]] Snake and Garry are back on track and ready to talk to you. Sleep safly, the game shouldn't freeze anymore.
+:[[File:Update Alert.png|link=|frameless]] Fixed some issues that occurred after extracting souls.
+:[[File:Update Alert.png|link=|frameless]] Updated interface for Remote Craft Control. Everything should look and run smoothly now.
+:[[File:Update Feature.png|link=|frameless]] Your inventory won't scroll down if you open it while walking upwards.
+:[[File:Update Feature.png|link=|frameless]] Polished display of some icons and text in the Technology Tree and crafts.
+:[[File:Update Feature.png|link=|frameless]] Updated interface for skullbars of graves, bodies, and zombies. No more skulls out of  borders, everything is in place.
+:[[File:Update Alert.png|link=|frameless]] Added some changes in localization.
+:[[File:Update Alert.png|link=|frameless]] Even more minor fixes.
+:[[File:Update Feature.png|link=|frameless]] We added new Grave Markers and Grave Fences! Bury bodies with even more style.
+
+== Ver. 1.402 ==
+-Added on 29 Oct 2021
+
+:[[File:Update Alert.png|link=|frameless]] No more game freezes after sleep.
+:[[File:Update Alert.png|link=|frameless]] Miss Chain is back and ready to talk about the statuette.
+:[[File:Update Alert.png|link=|frameless]] Position of the Keeper is now considered while placing objects in the world.
+:[[File:Update Alert.png|link=|frameless]] Added some changes in localization.
+:[[File:Update Alert.png|link=|frameless]] Minor fixes.
+
+== Ver. 1.401 ==
+-Added on 28 Oct 2021
+
+:[[File:Update Alert.png|link=|frameless]] Walls are back! No more deep dark void of nothingness, you are safe, Keepers.
+:[[File:Update Alert.png|link=|frameless]] Added some changes in localization.
+:[[File:Update Alert.png|link=|frameless]] Minor fixes here and there.
+
+== Ver. 1.4 - Better Save Soul DLC ==
+-Added on 27 Oct 2021
+
+:[[File:Update Feature.png|link=|frameless]] Added customization (ornaments, wallpapers, paintings, etc.) for Sweet Home.
+:[[File:Update Feature.png|link=|frameless]] Expanded storage space inside Sweet Home.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug with doubling items in the Big universal bag through the trading window.
+:[[File:Update Alert.png|link=|frameless]] Fixed an issue when you couldn't purchase diamonds from the Merchant.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug with duplication of descriptions of objects.
+:[[File:Update Alert.png|link=|frameless]] Minor fixes here and there.
+
+==Ver. 1.310==
+-Added on 24 Nov 2020
+
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when Camp Quality was shown as 0 in some cases.
+:[[File:Update Alert.png|link=|frameless]] Fixed an issue where sounds continued to play when exiting the main menu.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug where the lighting in the basement was broken when entering it through the tavern.
+:[[File:Update Feature.png|link=|frameless]] Now Aristocrat Papers can be bought more than once.
+:[[File:Update Alert.png|link=|frameless]] Fixed an issue where the crate rack in the tavern basement may not be displayed.
+
+==Ver. 1.309==
+-Added on 18 Nov 2020
+
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug when in some cases an object could be missing when dragged into a bag.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug where the Garden Beds in the "Refugee camp" that had ceased to produce crops.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug where the player's health bar remained in the main menu.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug where the quality of the settlement was shown as 0 in some cases.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug where the "Refugee camp" had not produced water in the well.
+
+==Ver. 1.308==
+-Added on 16 Nov 2020
+
+:[[File:Update Alert.png|link=|frameless]] Fixed the bug when the character's interface was broken during the removal of objects in the Refugee camp.
+:[[File:Update Alert.png|link=|frameless]] Added ambient sounds.
+:[[File:Update Alert.png|link=|frameless]] Сorrected wrong music in the cut-scene with Beatrice at the marina.
+:[[File:Update Alert.png|link=|frameless]] Buffs icons are now hidden during the cut-scene.
+:[[File:Update Feature.png|link=|frameless]] Added ability to remove beehives in Apiary.
+
+==Ver. 1.307==
+-Added on 12 Nov 2020
+
+:[[File:Update Alert.png|link=|frameless]] The refugee camp quality is now displayed correctly.
+
+==Ver. 1.306==
+-Added on 11 Nov 2020
+
+:[[File:Update Feature.png|link=|frameless]] Added Polish and Italian localizations to the "Game of Crone" DLC.
+:[[File:Update Alert.png|link=|frameless]] Now items can be bought to a bag and sold from a bags.
+:[[File:Update Alert.png|link=|frameless]] Now bags are shown in the trade window as well as in chests.
+:[[File:Update Alert.png|link=|frameless]] Changed the cut-scene with Clotho's memories.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug where Miss Сhain was able to walk away from the pier when the game was saved.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when Camp Quality was shown as 0 in some cases.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug that could lead to the loss of seeds in zombie farm.
+:[[File:Update Alert.png|link=|frameless]] Corrected sound and music in the dungeon.
+:[[File:Update Alert.png|link=|frameless]] Miss Chain's voice changed.
+
+==Ver. 1.305==
+-Added on 5 Nov 2020
+
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when cutscene with Koukol stuck in some cases.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when the Golem near the Witch Hill can go to the mountains.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when church quality increased by 10 in some cases.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug with relation bar, when redundant relation changes appeared in some cases.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when the task to ask Teodoro about vampires not removed.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug in the cutscene with Ms. Chain in the tavern, when Keeper asks about Misty Quagmire.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when water in automatic water well was invisible for crafts in the zone.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when mobs played sounds after dying.
+:[[File:Update Feature.png|link=|frameless]] Added sound for opening and closing bags in inventory.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when after moving a bag to and from a chest, a gamepad cursor was selecting the first item in inventory.
+
+==Ver. 1.304==
+-Added on 2 Nov 2020
+
+:[[File:Update Alert.png|link=|frameless]] Changed logic of donkey arrival: now he comes to start the revolution or to pick up the contraband even if there is no place for a new corpse or not enough carrots in the carrot box.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when removing garden beds in refugee camp worked incorrectly.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when bush in camp garden prevented building garden beds.
+:[[File:Update Alert.png|link=|frameless]] Changed cutscenes and dialogs in the storyline:
+* with Beatrice: now more obvious, when Keeper chooses helping her.
+* with Teodoro: now the player is being warned before refugees are leaving the camp.
+:[[File:Update Alert.png|link=|frameless]] Now Zombies can craft Memory tincture in Zombie alchemy workbench after Keeper crafts it once by self.
+:[[File:Update Alert.png|link=|frameless]] The goal on Teodoro "Ask him about Misty Quagmire when your part of the bargain is complete" now correctly removes.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug, when perks "Industriousness" and "Eloquence" were given both. Only one of the perks should be issued, depending on the ending.
+
+==Ver. 1.303==
+-Added on 29 Oct 2020
+
+:[[File:Update Alert.png|link=|frameless]] Fixed critical bug: in Craft UI if there are more than three perks and buffs that affect craft quality, Craft UI brakes.
+:[[File:Update Alert.png|link=|frameless]] Donkey's task to take Piece of donkey hair finishes correctly.
+:[[File:Update Alert.png|link=|frameless]] Small fixes in Spanish localization.
+
+==Ver. 1.302==
+-Added on 28 Oct 2020
+
+:[[File:Update Alert.png|link=|frameless]] Achievements that were not received earlier due to an error will be returned.
+:[[File:Update Alert.png|link=|frameless]] Fixed missing Japanese hieroglyphs.
+:[[File:Update Alert.png|link=|frameless]] Fixed critical stuck with Memory Powder item (which is needed for memory tincture) - now you can get it from Clotho.
+:[[File:Update Alert.png|link=|frameless]] Now water and pail of water can be inserted in Food bags.
+:[[File:Update Alert.png|link=|frameless]] Fixed localization error in Portuguese.
+
+==Ver. 1.301 ==
+-Added on 28 Oct 2020
+
+:[[File:Update Alert.png|link=|frameless]] The prayers are fixed.
+:[[File:Update Alert.png|link=|frameless]] Achievements in DLC are now issued correctly. Important: all non received achievements will be returned with the next update. There is no need to replay the game!
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when the log file became too large. This could have been the cause of performance problems.
+:[[File:Update Alert.png|link=|frameless]] Balance corrections.
+
+== Ver. 1.3 - Game Of Crone DLC==
+-Added on 27 Oct 2020
+
+:[[File:Update Alert.png|link=|frameless]] Fixed a lot of bugs.
+:[[File:Update Alert.png|link=|frameless]] Fixed mistakes in localization.
+:[[File:Update Feature.png|link=|frameless]] Added new sounds for mobs.
+:[[File:Update Feature.png|link=|frameless]] Added new sounds for objects and the environment.
+
+== Ver. 1.206==
+-Added on 4 Dec 2019
+
+:[[File:Update Alert.png|link=|frameless]] Fixed game crashes because of removing mobs from the map.
+:[[File:Update Alert.png|link=|frameless]] The first cut-scene in Stranger Sins DLC doesnt freeze anymore (Asian languages).
+:[[File:Update Alert.png|link=|frameless]] Lack of Achievement "Master Alchemist Achievement" was fixed.
+:[[File:Update Alert.png|link=|frameless]] The bug of overfilling the sales window in the tavern won't happen again.
+
+==Ver. 1.205==
+-Added on 6 Nov 2019
+
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when alcohol was sold only once in the tavern.
+:[[File:Update Alert.png|link=|frameless]] The tavern​ was added on the map.
+:[[File:Update Alert.png|link=|frameless]] Now new zombie technologies are only available after the opening of the first zombie.
+:[[File:Update Alert.png|link=|frameless]] Fixed freezing of the lighthouse keeper when approaching the lighthouse.
+
+==Ver. 1.204==
+-Added on 5 Nov 2019
+
+:[[File:Update Alert.png|link=|frameless]] Fixed incorrect display of some Asian characters.
+:[[File:Update Alert.png|link=|frameless]] The crash of the game when you try to skip the introduction text in the first cut-scene with the gamepad will not happen again.
+:[[File:Update Alert.png|link=|frameless]] Added a new spot to work on the desk.
+:[[File:Update Alert.png|link=|frameless]] Fixed sound notification of a new corpse.
+:[[File:Update Alert.png|link=|frameless]] Some dialogues and quest titles were fixed.
+:[[File:Update Alert.png|link=|frameless]] Now you can sell to Adam blessing commerce.
+
+==Ver. 1.203==
+-Added on 1 Nov 2019
+
+: [[File:Update Alert.png|link=|frameless]] Ocassional impossibility to build porter stations at Vineyard is fixed.
+:[[File:Update Alert.png|link=|frameless]] Fixed disappearence of Bella's ring from the body.
+:[[File:Update Alert.png|link=|frameless]] Some missing translation for Zombies working at Vineyard is localized now (Russian).
+:[[File:Update Alert.png|link=|frameless]] Some 1366x768 resolution issues corrupting UI should be fixed.
+:[[File:Update Alert.png|link=|frameless]] Ocassional interactions icons disappearence is fixed.
+:[[File:Update Alert.png|link=|frameless]] Tavern is now running fine after any Event.
+
+==Ver. 1.202==
+-Added on 31 Oct 2019
+
+:[[File:Update Alert.png|link=|frameless]] Fix for quest items disappearing from Bartender's inventory after Event.
+:[[File:Update Alert.png|link=|frameless]] Keeper using the ​fishing rod in wrong direction is fixed.
+:[[File:Update Alert.png|link=|frameless]] New corpse arrival and buffs icons should not overlap each other anymore.
+:[[File:Update Alert.png|link=|frameless]] Few dialogues errors are fixed.
+
+==Ver. 1.201==
+-Added on 29 Oct 2019
+
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug when a farmer didn't go home after a quest with his son and a flask.
+:[[File:Update Alert.png|link=|frameless]] Fixed the game freeze if you give Cloto the potion treatment.
+:[[File:Update Alert.png|link=|frameless]] Fixed the shadow offset of zombie-porters.
+:[[File:Update Alert.png|link=|frameless]] Fixed an issue in the dialogue with Gerry about the last Keeper.
+:[[File:Update Alert.png|link=|frameless]] Missing shoulders of a downhill zombie-porter with a box have been fixed.
+:[[File:Update Alert.png|link=|frameless]] The impassable light from the lantern in the cemetery has been fixed.
+:[[File:Update Alert.png|link=|frameless]] The beekeeper's jam is fixed.
+
+==Ver. 1.200 - Stranger Sins DLC==
+-Added on 28 Oct 2019
+
+:[[File:Update Feature.png|link=|frameless]] Now you will see visual notifications when a new corpse arrives.
+:[[File:Update Feature.png|link=|frameless]] Available ability to automate grapes and hops growing.
+:[[File:Update Feature.png|link=|frameless]] You can assign zombies to carry grapes and hops to the house basement.
+:[[File:Update Feature.png|link=|frameless]] New zombie-brewery and zombie-winery added.
+:[[File:Update Feature.png|link=|frameless]] Added missing character voices.
+:[[File:Update Feature.png|link=|frameless]] Added light from windows in rooms.
+:[[File:Update Feature.png|link=|frameless]] Added a list of all tutorial windows, and now you can see them at any time.
+:[[File:Update Alert.png|link=|frameless]] Fixed a lot of bugs.
+:[[File:Update Alert.png|link=|frameless]] Improved performance and optimization.
+
+==Ver. 1.124==
+-Added on 29 May 2019
+
+:[[File:Update Alert.png|link=|frameless]] Donkey Stuck Fix - fixed a bug causing donkey to get stuck.
+
+==Ver. 1.123==
+-Added on 8 May 2019
+
+:[[File:Update Feature.png|link=|frameless]] Reduced operating time on most crafts.
+:[[File:Update Feature.png|link=|frameless]] Reduced the amount of energy required for most crafts.
+:[[File:Update Feature.png|link=|frameless]] Increased the number of blue points dropping from some crafts.
+:[[File:Update Feature.png|link=|frameless]] Increased the amount of energy that food restores.
+:[[File:Update Feature.png|link=|frameless]] The first zombie worker that can be found under the rockslide is now more efficient.
+:[[File:Update Feature.png|link=|frameless]] Some workbenches require less resources for construction.
+:[[File:Update Feature.png|link=|frameless]] Significantly reduced the time of installation, removing and repair of tombstones and grave fences.
+
+==Ver. 1.122==
+-Added on 12 December 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when zombie alchemists were using their organs in crafts.
+:[[File:Update Feature.png|link=|frameless]] Performance / microfreeze optimizations.
+
+== Ver. 1.121 ==
+-Added on 6 December 2018
+
+:[[File:Update Feature.png|link=|frameless]] Optimized footsteps (should increase overall game performance).
+:[[File:Update Alert.png|link=|frameless]] Fixed disappearing dropped tech points after game re-loading.
+:[[File:Update Alert.png|link=|frameless]] Fixed text position in some hints.
+:[[File:Update Alert.png|link=|frameless]] Fixed some missing translations.
+
+==Ver. 1.120==
+-Added on 5 December 2018
+
+:[[File:Update Feature.png|link=|frameless]] Alchemy rework: now wrong alchemy result gives you a clue of a recipes. More information here: https://steamcommunity.com/gid/103582791457451905/announcements/detail/1709576801685201983
+:[[File:Update Alert.png|link=|frameless]] Optimizations / microfreeze fixes.
+:[[File:Update Alert.png|link=|frameless]] Well pump fix.
+
+==Ver. 1.115==
+-Added on 29 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed some GUI bugs in the zombie alchemy table.
+:[[File:Update Feature.png|link=|frameless]] Added graphics for the stone/marble storage.
+
+==Ver. 1.114 ==
+-Added on 28 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed context mouse menu.
+
+==Ver. 1.113 ==
+-Added on 28 November 2018
+
+:[[File:Update Feature.png|link=|frameless]] Added rotations for some objects.
+:[[File:Update Alert.png|link=|frameless]] Fixed micro-freezing for some late-game states (for example, when you have a lot of zombie workers active).
+
+==Ver. 1.112==
+-Added on 27 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Hotfix fixing some troubles with alchemy, crops and resurrection.
+
+==Ver. 1.111==
+-Added on 26 November 2018
+
+:[[File:Update Feature.png|link=|frameless]] Zombie alchemy added. You can build new zombie workbenches to make zombies craft known alchemy recipes.
+:[[File:Update Feature.png|link=|frameless]] Now you can use gamepad bumpers to add +10/-10 in crafts.
+:[[File:Update Alert.png|link=|frameless]] Minor GUI fixes/improvements.
+
+==Ver. 1.110==
+-Added on 17 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed some gamepad troubles (unable to select a sermon, etc.).
+:[[File:Update Alert.png|link=|frameless]] Fixed a broken alchemy mixer object.
+
+==Ver. 1.109==
+-Added on 13 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed zombie disappearance when resurrecting.
+:[[File:Update Alert.png|link=|frameless]] Fixed wrong science points display in the GUI.
+:[[File:Update Feature.png|link=|frameless]] Item you use in a craft/survey now returns to the place where it was before (the chest or your inventory).
+:[[File:Update Feature.png|link=|frameless]] Added the possibility to rotate some tables.
+
+==Ver. 1.108==
+-Added on 9 November 2018
+
+:[[File:Update Feature.png|link=|frameless]] Added possibility for zombies to transport silver and gold from the cabin.
+: [[File:Update Feature.png|link=|frameless]] Added scrolling lists with keyboard.
+:[[File:Update Feature.png|link=|frameless]] Same items dropped on the ground will stick to each other into one stack.
+:[[File:Update Alert.png|link=|frameless]] Some more Polish language fixes.
+:[[File:Update Feature.png|link=|frameless]] Now you can manually take some water from the water pump.
+:[[File:Update Alert.png|link=|frameless]] Other minor fixes.
+
+==Ver. 1.107==
+-Added on 7 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed disappearing sermons.
+:[[File:Update Alert.png|link=|frameless]] Changed balance for the Random text generator.
+:[[File:Update Alert.png|link=|frameless]] Fixed some language issues (mostly, Polish, thanks to Grzegorz Prusinowski).
+:[[File:Update Alert.png|link=|frameless]] Several minor fixes.
+
+==Ver. 1.106==
+-Added on 6 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Zombies now try to put items in the chests where the same or similar items are found.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug allowing to put two hearts in a zombie (regular + dark one).
+:[[File:Update Feature.png|link=|frameless]] Added possibility to switch tabs in the character GUI with keys.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug displaying wrong amount of crafted items in some cases.
+
+== Ver. 1.105==
+-Added on 1 November 2018
+
+:[[File:Update Alert.png|link=|frameless]] Zombie resurrection table can now be removed.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug that broke a zombie when trying to put him fishing.
+:[[File:Update Alert.png|link=|frameless]] Fixed zombies stopping crafting crates after 1 item crafted (they couldn't take the resources from a neighbor world zone).
+:[[File:Update Alert.png|link=|frameless]] Fixed zombie crafts that uses chisels.
+:[[File:Update Alert.png|link=|frameless]] Minor map graphics change.
+
+==Ver. 1.104==
+-Added on 31 October 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed missing sounds for zombie workers.
+:[[File:Update Alert.png|link=|frameless]] Fixed zombie sawmill missing some parts after game reload.
+:[[File:Update Alert.png|link=|frameless]] Fixed porter station gamepad controls.
+:[[File:Update Alert.png|link=|frameless]] Fixed duplicating items in removal crafts.
+:[[File:Update Alert.png|link=|frameless]] Fixed zombies couldn't transport coal.
+:[[File:Update Feature.png|link=|frameless]] Added a possibility to pick up an idle courier zombie.
+:[[File:Update Feature.png|link=|frameless]] Added "not enough space" indicator for zombie crafts.
+:[[File:Update Alert.png|link=|frameless]] Minor GUI fixes.
+
+==Ver. 1.103==
+-Added on 30 October 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed restoring crafted after game loading.
+:[[File:Update Alert.png|link=|frameless]] Zombie ore mining craft is now split into two sequenced crafts: one for the ore, other for the coal.
+:[[File:Update Alert.png|link=|frameless]] Fixed bugs related to burying/un-burying zombies.
+:[[File:Update Alert.png|link=|frameless]] Made fixing tools possible without un-equipping.
+:[[File:Update Alert.png|link=|frameless]] Fixed some language issues.
+
+==Ver. 1.102==
+-Added on 29 October 2018
+
+:[[File:Update Alert.png|link=|frameless]] Zombie disappearing fix.
+:[[File:Update Alert.png|link=|frameless]] Zombie sounds fix.
+:[[File:Update Alert.png|link=|frameless]] Resurrection windows fix / controller fix.
+
+==Ver. 1.100 -  The Breaking Dead Update==
+-Added on 29 October 2018
+
+:[[File:Update Feature.png|link=|frameless]] Added "Breaking Dead" content: zombie workers (craft automation), zombie couriers. New related questline, new crafts. Possibility to sell crates of different goods and earn money.
+:[[File:Update Feature.png|link=|frameless]] Added the toolbelt (now your tools/equip are stored in a different set of slots, so the inventory space is increased).
+:[[File:Update Feature.png|link=|frameless]] Added the meditation (garden of stones) to fast-forward time.
+:[[File:Update Alert.png|link=|frameless]] Many minor fixes/improvements. For example, game now pauses when you open the chest, etc.
+
+==Ver. 1.037==
+-Added on 5 October 2018
+
+:[[File:Update Alert.png|link=|frameless]] Alchemy ingredients dissappear[sic] fix.
+
+==Ver. 1.036==
+-Added on 4 October 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed "the empty tech tree" bug appeared to some users.
+
+==Ver. 1.035==
+-Added on 4 October 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed red lantern bug.
+:[[File:Update Alert.png|link=|frameless]] Fixed ingredients dissappear[sic] during alchemy.
+:[[File:Update Alert.png|link=|frameless]] Some other minor bugfixes...
+{{Quote|PS: By the way, we're working on a massive content update that will be released before the Halloween ;)}}
+
+==Ver. 1.034==
+-Added on 21 September 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when alchemy craft started at graves.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when garden beds didn't remember fertilizers.
+:[[File:Update Alert.png|link=|frameless]] Fixed some bugs in Spanish localization.
+
+==Ver. 1.033==
+-Added on 20 September 2018
+
+:[[File:Update Feature.png|link=|frameless]] Full screen mode for Mac.
+:[[File:Update Alert.png|link=|frameless]] Fixed merchant's quest when player gives him money for the garden.
+:[[File:Update Alert.png|link=|frameless]] Fixed bug when donkey was dropping an "invisible" body.
+
+==Ver. 1.032 ==
+-Added on 17 September 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed Snake/Astrologer reputation deadlock.
+:[[File:Update Alert.png|link=|frameless]] Fixed negative grave quality calculation bug.
+
+==Ver. 1.031==
+-Added on 9 September 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed Snake/Astrologer questline.
+:[[File:Update Alert.png|link=|frameless]] Fixed an incense burner exploit.
+:[[File:Update Alert.png|link=|frameless]] Language fixes.
+:[[File:Update Feature.png|link=|frameless]] New localizations added: Italian, Polish.
+
+== Ver. 1.030 ==
+-Added on 28 August 2018
+
+:[[File:Update Alert.png|link=|frameless]] A lot of language-related fixes (mostly in Chinese / Japanese / Korean).
+:[[File:Update Alert.png|link=|frameless]] Fixed issue with a mouse scroll wheel in a full-screen mode.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug when a graveyard quality suddenly increases.
+:[[File:Update Alert.png|link=|frameless]] Fixed game-pad issues for some Linux machines.
+
+==Ver. 1.029==
+-Added on 27 August 2018
+
+:[[File:Update Feature.png|link=|frameless]] New teleport points added -- the lighthouse and the quarry.
+:[[File:Update Alert.png|link=|frameless]] Updated the gamepad plugin. Some controller-related issues should be fixed.
+:[[File:Update Alert.png|link=|frameless]] Fixed game freeze when fishing without a rod.
+:[[File:Update Alert.png|link=|frameless]] Fixed "Speed potion" - now it works correctly.
+:[[File:Update Alert.png|link=|frameless]] Fixed game freeze when you buy everything from a vendor (could happen with an egg seller).
+:[[File:Update Alert.png|link=|frameless]] Fixed game freeze when exiting the game.
+:[[File:Update Alert.png|link=|frameless]] Some visual fixes related to grape growing.
+:[[File:Update Alert.png|link=|frameless]] A lot of fixes in Chinese / Japanese / Korean.
+
+
+==Ver. 1.028==
+-Added on 23 August 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed player freeze while fishing with full inventory.
+:[[File:Update Alert.png|link=|frameless]] Changed vendor buyout cap.
+:[[File:Update Alert.png|link=|frameless]] Fixed different controller issues (embalment table, craft GUI).
+:[[File:Update Alert.png|link=|frameless]] Fixed empty perk list when playing using the controller.
+:[[File:Update Feature.png|link=|frameless]] "Prayer for prosperity" now drops "Blessing of commerce" which increases vendor's progress.
+:[[File:Update Alert.png|link=|frameless]] Fixed a bug when some in-game GUI could be left opened in the main menu.
+
+==Ver. 1.027==
+Added on 22 August 2018
+
+:[[File:Update Alert.png|link=|frameless]] Changed Donkey logics to be more clear for the player -- after the carrot quest, he comes every day except weekends (you can still control amount of bodies with carrots).
+:[[File:Update Alert.png|link=|frameless]] Fixed Astrologer/key quest (also the missing key should be available for all who experienced this bug before).
+:[[File:Update Alert.png|link=|frameless]] Fixed Mrs.Chain quest.
+:[[File:Update Alert.png|link=|frameless]] Fixed wooden church shrine removing.
+:[[File:Update Alert.png|link=|frameless]] Fixed jelly craft time.
+:[[File:Update Alert.png|link=|frameless]] Removing something while it is crafting now gives you resources back.
+:[[File:Update Alert.png|link=|frameless]] Restored the stone quarry for those who completely mined it.
+:[[File:Update Alert.png|link=|frameless]] Several language fixes.
+:[[File:Update Alert.png|link=|frameless]] Fixed sand/blue tech points abuse.
+
+==VER. 1.026==
+
+Added on 21 August 2018
+
+:[[File:Update Alert.png|link=|frameless]] Garden beds now remember the last fertilizer as well as the last seed, so planting crops made easier.
+:[[File:Update Alert.png|link=|frameless]] Instant removing of not-finished buildings (you can remove some stucked objects now).
+:[[File:Update Alert.png|link=|frameless]] Sand gathering made much easier/faster.
+:[[File:Update Alert.png|link=|frameless]] Removed blocking bushes in the garden.
+:[[File:Update Alert.png|link=|frameless]] Bishop now buys prayers (you can sell some extras you have).
+:[[File:Update Alert.png|link=|frameless]] Minor language/translation fixes.
+
+==Ver. 1.025==
+Added on 20 August 2018
+
+:[[File:Update Alert.png|link=|frameless]] Fixed some issues in Eastern languages.
+:[[File:Update Alert.png|link=|frameless]] Fixed un-removable church shrine (table) bug.
+:[[File:Update Alert.png|link=|frameless]] Fixed some dialogs and scripts.
+:[[File:Update Alert.png|link=|frameless]] Fixed a lot of minor bugs.
+:
+
+==Ver. 1.024==
+Added on 18 August 2018
+{{Quote|It is time to work on stability!}}
+
+:[[File:Update Alert.png|link=|frameless]] Late game performance improved.
+:[[File:Update Alert.png|link=|frameless]] Made saving game more safe, added a backup system.
+:[[File:Update Alert.png|link=|frameless]] Improved stability of saving and RAM requirements during saving.
+:[[File:Update Alert.png|link=|frameless]] Huge logs with lots of errors -- fixed.
+:[[File:Update Alert.png|link=|frameless]] Cloud saves now exclude log files.
+:[[File:Update Alert.png|link=|frameless]] Fixed a couple of performance issues.
+:[[File:Update Alert.png|link=|frameless]] Tweaked a day length a little bit.
+:[[File:Update Alert.png|link=|frameless]] Fixed some bugs in Chinese, added missing translation in Korean.
+
+
+==ver. 1.023==
+Added on 17 August 2018
+
+:[[File:Update Feature.png|link=|frameless]] Fast traveling! You can buy a teleport stone from the Tavern Keeper.
+:[[File:Update Alert.png|link=|frameless]] Made days much longer (9 minutes now).
+:[[File:Update Alert.png|link=|frameless]] Tools efficiency increased.
+:[[File:Update Feature.png|link=|frameless]] Ability to break old gravestones and fences to get resources.
+:[[File:Update Feature.png|link=|frameless]] Ability to craft a bucket of blood.
+:[[File:Update Alert.png|link=|frameless]] Fixed silver parts requirement.
+:[[File:Update Alert.png|link=|frameless]] Fixed fish kebab cooking recipies.
+:[[File:Update Alert.png|link=|frameless]] Increased iron ore drops and made stone infinite.
+:[[File:Update Alert.png|link=|frameless]] Fixed some issues in Korean / Japanese / Chinese
+:[[File:Update Alert.png|link=|frameless]] Isolated a bug in Turkish (a complete fix is coming later)
+:[[File:Update Alert.png|link=|frameless]] Fixed techology orbs you can't pick up.
+
+==Ver. 1.022 ==
+Added on 16 August 2018
+{{Quote|Hi guys! We're reading the reviews and trying to tune the game for the better experience. So, while one part of our team was working on the key-binding system, the other part was tweaking the balance.}}
+
+:[[File:Update Alert.png|link=|frameless]] Made a lot of crafts shorter.
+:[[File:Update Alert.png|link=|frameless]] Increased the energy from the tier II fuel.
+:[[File:Update Alert.png|link=|frameless]] Lowered the requirements of some crafts.
+:[[File:Update Alert.png|link=|frameless]] Lowered the requirements of some buildings.
+:[[File:Update Alert.png|link=|frameless]] Applied some other balance changes for more smooth experience.
+
+
+==Ver. 1.021==
+Added on 16 August 2018
+
+:[[File:Update Feature.png|link=|frameless]] Key Rebinding added
+:[[File:Update Alert.png|link=|frameless]] Fixed Donkey not delivering bodies
+:[[File:Update Alert.png|link=|frameless]] Fixed different dialog bugs
+:[[File:Update Alert.png|link=|frameless]] Fixed game crashes at startup
+:[[File:Update Alert.png|link=|frameless]] Fixed player stuck in the workyard
+:[[File:Update Alert.png|link=|frameless]] Slightly modified game balance (lowered the requirement for several crafts)
+:[[File:Update Alert.png|link=|frameless]] Hotfixed messed up tasks translations for Eastern languages.
+
+==Ver. 1.020 - Full Game Release==
+Added on 15 August 2018
+
+:[[File:Update Feature.png|frameless]] Full game official release.
+
+==Alpha==
+For older versions of the game before release, see [[Alpha versions]].
+[[Category:Main Pages]]
+
+[[ru:Версии]]
+[[de:Versionen]]
+[[ja:バージョン]]
+[[fr:MAJ du jeu]]

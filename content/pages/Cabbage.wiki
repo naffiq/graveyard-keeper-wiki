@@ -1,0 +1,111 @@
+{{Item Infobox 
+| name         = Cabbage
+| image        = cabbage item.png
+| consume      = {{Energy|+|5}}
+| type         = Crop
+| nameinternal = cabbage_crop
+| study        = {{Techpoint|Green|10}}
+| alchemy      = {{Item|Health powder}} {{Item|Health solution}}
+| source       = [[Farming]]
+| buy          = [[Farmer|Farmer (T I)]]
+| sell         = [[Farmer|Farmer (T I)]]
+| cost         = 10
+| quest        =  
+}}
+[[File:Cabbage patch.gif|left|thumb|Cabbage growing in the garden.]]
+Cabbage is a crop grown from [[cabbage seeds]] in the garden below the [[workyard]] in the kitchen garden. It can be purchased from the [[Farmer]].  Consuming cabbage provides {{Energy||5}}. 12 Cabbages are required for the [[Merchant|Merchant's]] quest. They do not have to be grown by the player. Cabbage is not an improvable crop. It does not have quality levels and cannot be improved with fertilizer.  It can only be made to grow faster.  See [[farming]] for more information on how crops are grown and improved.
+
+==Recipe==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Empty garden bed}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Cabbage|6-8}}<br>{{Item|Cabbage seed|2-3}}<br>{{Item|Crop waste|3-5}}
+|{{Item|Cabbage seed|4}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|1}}
+|Decomposes into<br>[[Health powder|powder]] and [[Health solution|solution]]
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|A bowl of sauerkraut|3}}
+|{{Item|Cabbage|3}}<br>{{Item|Carrot|2}}<br>{{Item|Salt|1}}
+|-
+|{{Item|Sandwich|3}}
+|{{Item|Bread|2}}<br>{{Item|Baked meat|1}}<br>{{Item|Cabbage|1}}
+|-
+!colspan="2"|{{Item|Oven}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Baked salmon|3|animation}}
+|{{Item|Cabbage|1}}<br>{{Item|Quality fish fillet|1|animation}}
+|-
+|{{Item|Lasagna|3|animation}}
+|{{Item|Dough|1}}<br>{{Item|Lentils|1|animation}}<br>{{Item|Cabbage|1}}
+|-
+|{{Item|Cabbage soup|4|animation}}
+|{{Item|Cabbage|2}}<br>{{Item|Beet|1}}<br>{{Item|Onion|1|animation}}
+|-
+|{{Item|Vegetable soup|4|animation}}
+|{{Item|Cabbage|2}}<br>{{Item|Carrot|2}}<br>{{Item|Pumpkin|2|animation}}
+|}
+
+==Alchemy==
+Cabbage can be decomposed to powder and solution at the [[alchemy mill]] and [[hand mixer]], respectively. Having unlocked [[Anatomy and Alchemy (Tech Tree)|Master of Alchemy]] will produce one additional reagent.
+
+{| class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Health powder|2}}
+|{{Item|Cabbage|1}}
+|-
+!colspan="2"|{{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Health solution|2}}
+|{{Item|Cabbage|1}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:Farming items]]
+[[Category:Crops]]
+[[Category:Consumable items]]
+[[Category:Decomposable items]]
+
+<!-- Interlanguage Connection -->
+[[de:Kohl]] 
+<!--[[en:Cabbage]]-->
+[[es:Repollo]]
+[[fr:Chou]]
+[[ja:キャベツ]]
+[[pt-br:Repolho]]
+[[ru:Капуста]]
+[[pl:Kapusta]]

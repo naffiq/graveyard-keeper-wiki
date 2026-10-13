@@ -1,0 +1,40 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Tool
+| nameinternal = shovel_0
+| study        = {{Techpoint|red|10}}
+| source       = [[Krezvold]]
+| efficiency   = 70%
+| energy       = {{Energy|-|1}}
+| cost         = 100
+}}
+
+The {{lcfirst:{{PAGENAME}}}} is equipped in the {{Icon|shovel}} slot and is used when digging [[Gravesite|gravesites]], clearing bushes and debris, and harvesting [[river sand]] and [[clay]].  The {{lcfirst:{{PAGENAME}}}} can be found in the [[graveyard]] [[trunk]] at the start of the game and can be purchased from the [[Blacksmith]].
+
+Efficiency reflects how much progress toward a task each use of a tool provides. An efficiency of 100% would be full speed, 200% would be double speed, and 50% would be half speed. The {{lcfirst:{{PAGENAME}}}} is 70% efficient. 
+
+Energy usage reflects how much energy each action consumes. The {{lcfirst:{{PAGENAME}}}} consumes {{Energy|2=1}} per swing.
+
+Studying {{PAGENAME}} at the [[Study table]] will give you {{Techpoint|Red|10}}.
+
+==Study==
+{| class = "wikitable"
+! colspan = "4" | {{Item|Study table}}
+|-
+!style="width:10em;"| Tech Points
+!style="width:17.5em;"| Resources Required
+!style="width:5em;"| Energy 
+!style="width:10em;"| Notes 
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}} <br> {{Item|Science|1}}
+| {{Energy|-|5}}
+|Not decomposable
+|}
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:tools]]
+[[Category:metal items]]
+[[es:Pala oxidada]]

@@ -1,0 +1,46 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Dessert
+| consume      = {{Energy|+|30}}
+| nameinternal = dessert:jelly_green
+| study        = {{Techpoint|green|10}}
+| source       = [[Cooking]]
+| cost         = 25
+| stacksize    = 20
+| quest        = 
+}}
+'''{{PAGENAME}}''' is a consumable item, restoring a relatively small amount of energy upon use. It's unique among food-types as being capable of study. For more information on preparing food, see [[cooking]].
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Green jelly|4}}<br>{{Item|Honey|1}}
+|}
+
+==Study==
+{| class = "wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+<br>
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:desserts]]
+[[Category:consumable items]]
+[[ru:Зелёное желе (еда)]]

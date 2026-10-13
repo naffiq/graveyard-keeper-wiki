@@ -1,0 +1,51 @@
+{{Item Infobox 
+| name         = A big ol' bowl of sauerkraut for breakfast
+| image        = a bowl of sauerkraut item.png
+| type         = Snack
+| consume      = {{Energy|+|30}}; [[file:Slow effect.png]]
+| nameinternal = snack:bowl_sauerkraut
+| study        = 
+| source       = [[Cooking]], [[Horadric]]
+| cost         = 25
+|stacksize=20}}
+
+A food item which restores {{Energy|+|30}} and applies the slow metabolism buff when consumed.  Since all the items which can be used to craft it lack quality levels it can not be improved by using higher quality ingredients.  For more information on preparing food see [[cooking]].
+
+==Effect==
+
+On use, a bowl of sauerkraut will apply the slow metabolism buff for a duration of 2 minutes, extending the duration of all other buffs. For a list of all buffs see the [[Effects]] page.
+
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:27.5em;"| Description
+!style="width:5em;"| Duration
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:Slow effect.png|link=Effects#Slow Metabolism|Slow Metabolism]]
+|All buffs last longer.
+|style="text-align:center"|2:00
+|[[Effects#Slow Metabolism|Slow Metabolism]]
+|}
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em; table-layout: fixed;"
+! colspan = "2" | {{Item|Cooking table}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+|-
+|{{Item|A bowl of sauerkraut|3}}
+|{{Item|Cabbage|3}}
+{{Item|Carrot|2}}
+
+{{Item|Salt|1}}
+|}
+
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:snacks]]
+[[Category:consumable items]]
+
+[[es:Un bol de chucrut]]
+[[de:Eine Schüssel Sauerkraut]]

@@ -1,0 +1,31 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = Memory_tincture.png
+| type         = Quest item
+| nameinternal = 
+| source       = [[Alchemy]]
+| cost         = 
+| quest        = 
+| stacksize    = 10
+}}
+<b>{{PAGENAME}}</b> is a quest item that can be crafted at [[alchemy workbench (tier II)]]. It is very unreliable and often doesn't work on the first (or second) tries, so plan on making more than you think you'll need...
+
+Used on the [[Vampires jaw]].
+
+Note: If struggling with creating the tincture, make sure that you've learnt the recipe by clicking on it in your inventory, then check the second tab of the [[Alchemy workbench (tier II)]]. It cannot be crafted the traditional way, by putting in the 3 ingredients in the slots.
+
+The first time will take all three Memory Tinctures, you will need to buy {{Item|Memory powder}} from [[Clotho]] for {{Money|1000}}.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Memory powder|1}}<br>{{Item|Silver powder|1}}<br>{{Item|Gold powder|1}}
+|}
+
+<br>
+{{Navbox-GameofCroneQuest}}

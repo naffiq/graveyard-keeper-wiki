@@ -1,0 +1,34 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seedling
+| nameinternal = sapling_bush_berry
+| study        = None
+| buy          = [[Clotho|Clotho (T I)]]
+| sell         = [[Clotho|Clotho (T I)]]
+| source       = None
+| cost         = 100
+}}
+
+Sold by the witch [[Clotho]] and used in the creation of berry bushes in the [[Orchard]] directly south of the house. 
+
+===Blueprints===
+{| class="wikitable"
+|-
+! style="width:14em;" |Workstation
+! style="width:12em;" |Ingredients
+! Unlocked by
+! Use
+|-
+| {{Item|Place for the berry bush|||64px}}
+| {{Item|Bush berry seedling|1}} <br> {{Item|Peat|3}} <br> {{Item|Wooden stick|1}}
+| [[Farming and Nature (Tech Tree)|Transplanting]]
+| After the Bush is grown, you can repeatedly harvest it for {{Item|Berry}}.
+|}
+
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seedlings]]
+
+[[fr:Jeune Plant de Buissons à Baies]]
+[[pt-br:Mudas de frutinha]]

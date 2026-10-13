@@ -1,0 +1,29 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = 
+| source       = [[Alchemy]]
+| stacksize    = 
+| type         = Alchemy Product
+| cost         = 
+| quest        = 
+| nameinternal = 
+}}
+
+{{PAGENAME}} is produced through [[Alchemy]] at the [[Alchemy_Lab#Alchemy_Workbench_.28Tier_I.29|Alchemy Workbench (Tier I)]]. 
+
+== Recipe ==
+{| class = "wikitable" style = "table-layout:fixed; width:30em;"
+! colspan="2" |{{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Death powder|1}}<br>{{Item|Oil|1}}
+|}
+
+{{Navbox-Alchemy}}
+
+[[Category:Alchemy products]]
+[[Category:Alchemy]]

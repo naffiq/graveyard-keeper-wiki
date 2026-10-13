@@ -1,0 +1,27 @@
+{{Workstation-Infobox
+| name         = {{PAGENAME}}
+| image        = pyre.png
+|location      = [[Crematorium]]
+|technology    = 
+|footprint     = 6x5
+|rotatable     = False
+}}
+The place for burning {{item|corpse}}s is used to cremate corpses in the [[crematorium]] which can be found south of the [[morgue]] entrance. Cremated corpses will leave behind a {{item|burial certificate}}, some [[ash]] and [[salt]]. Places for burning can only be used for one cremation. This tech is unlocked in the [[Theology_(Tech_Tree)|theology tech tree]] under the graves category.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wood billet|8}}
+|
+|single use
+|}
+
+{{Navbox-Crematorium}}
+[[Category:Workstations]]
+
+[[Category:Creamatorium workstations]]

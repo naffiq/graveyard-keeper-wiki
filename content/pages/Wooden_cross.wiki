@@ -1,0 +1,54 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Grave Marker
+| nameinternal = 
+| source       = [[Carpenter's workbench]]
+| study        = {{Techpoint|Blue|20}}
+| quest        = 
+}}
+The <b>{{lcfirst:{{PAGENAME}}}}</b> is a grave decoration which provides +2 {{Grave Decor}} when placed on a [[gravesite]], after a [[corpse]] has been buried there. Installing or uninstalling any grave decoration costs {{Energy|5}}. Excess wooden decor may be recycled at the [[chopping spot]], generating [[firewood]]. For more information, see [[graveyard]]. 
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden plank|1}}<br>{{Item|Nails|1}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|5}}
+|}
+
+==Study==
+{| class = "wikitable" style="width:40em;"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Blue|20}}
+|{{Item|Faith|2}}<br>{{Item|Science|2}}
+|{{Energy|-|5}}
+|Not decomposable<br>(via alchemy)
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Chopping spot}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Firewood|4}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Graves}}
+[[Category:Grave markers]]
+[[Category:Graveyard items]]

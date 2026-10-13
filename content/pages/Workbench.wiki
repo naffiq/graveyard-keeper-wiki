@@ -1,0 +1,9 @@
+{{DISPLAYTITLE:workbench}}
+{{Delete|Organ workbench page already exists}}
+
+The 'Workbench' is a [[souls room]] crafting station that can be used to upgrade organs, and craft things that can be unlocked via the spiritualism tech tree
+
+{{DEFAULTSORT:workbench}}
+__INDEX__
+[[Category:Workstations]]
+[[Category:Souls room workstations]]

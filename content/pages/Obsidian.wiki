@@ -1,0 +1,30 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = Obsidian item.png
+| study        = {{Techpoint|Red|25}} {{Techpoint|Green|15}} {{Techpoint|Blue|100}}
+| sell         = <!-- Where the item can be sold to -->
+| type         = Miscellaneous; Stranger Sins
+| stacksize    = 
+| quest        = <!-- If this is a quest item, this should link to the specific quest it's for.-->
+| nameinternal = <!-- Name of the items in the internal game files. --> 
+}}
+'''{{PAGENAME}}''' is a miscellaneous item, introduced by the DLC Stranger Sins, which can only be found when searching for a specific tavern artifact - [[Ancient Shackles]]. Its only known purpose is to be studied, which upon doing so will provide the item [[Research Obsidian]], along with a significant tech point bonus.
+
+The [[Research Obsidian]] item can be used instead of a silver star book for the Astrologist last event. Doing so, however, locks the possibility of earning the "Best seller" [[Achievements|achievement]] for giving the [[Astrologer]] a gold star [[Book]]. 
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|25}}<br>{{Techpoint|Green|15}}<br>{{Techpoint|Blue|100}}
+|{{Item|Faith|4}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable<hr>Drops [[Research Obsidian]]
+|}
+
+[[de:Obsidian]]

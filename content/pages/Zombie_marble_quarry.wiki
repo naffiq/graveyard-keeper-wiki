@@ -1,0 +1,39 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = Marble quarry 3.png
+|location   = [[Cabin in the woods]], [[Quarry]]
+|technology = [[Building (Tech Tree)|Zombie quarrying II]]
+|related    = [[Mining]]
+|footprint  = 
+|rotatable  = No
+}}
+The zombie marble quarry can be built in the cliffs north of the [[cabin in the woods]]. It's an extension of the [[marble quarry]] but the zombies don't need any [[wood wedge]]s for their work.
+
+After unlocking [[Building (Tech Tree)|zombie quarrying II]], you can build up to two mines: A left and a right variant.
+
+'''Note:''' You don't have to build the player's [[marble quarry]] in the middle first.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;|Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Flitch|8}} <br> {{Item|Nails|4}} <br> {{Item|Pickaxe I|1}}
+|no {{energy}}
+|This blueprint is available in two variations: left and right.
+|}
+
+==Miners==
+To employ a [[zombie]], walk next to the wooden stand and hit "E" to put it to work. If you want to stop the mine, grab the [[zombie]] out of the wooden stand by walking next to it and hit "E" again.
+
+The marble blocks are stored on the [[stone stockpile]] near the [[cabin in the woods]]. Without this, it won't work. This sign [[file:work blocked.png|work blocked]] on the blocks means, that the stockpile is full (or missing) and the work is blocked until some storage space is freed up (or constructed). 
+
+{{Navbox-Cabin in the woods}}
+[[Category:Workstations]]
+
+[[Category:Cabin in the woods workstations]]
+
+[[es:Cantera de mármol de zombis]]

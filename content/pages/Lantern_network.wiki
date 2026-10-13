@@ -1,0 +1,21 @@
+[[Category:Image requested]]  <!-- Needs better infobox image -->
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} item.png
+|location   = [[Cabin in the woods]]
+|technology = [[Smithing (Tech Tree)|Rules of Burning]]
+|related    = [[Place for lantern]]
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} can be constructed using the workbench near the [[cabin in the woods]]. It sets up eleven [[Place for lantern|places]] where you can build [[lantern]]s. They follow the path down from the [[cabin in the woods]], across the [[footbridge]], through the [[forest near the river|forest]], past the [[felling site]], around the [[apiary]] and on to the [[workyard]].
+
+==Cost==
+Setting up the network is free, but building the [[Place for lantern|lanterns]] needs some materials.
+
+==Benefit==
+Provides light so you can see.  
+
+Does not affect bat spawns. 
+
+{{Navbox-Cabin in the woods}}

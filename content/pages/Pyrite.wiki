@@ -1,0 +1,19 @@
+{{Item Infobox 
+| name         = Pyrite
+| image        = i_pyrite.png
+| type         = Unimplemented
+| nameinternal = pyrite
+| study        = 
+| alchemy      = {{Item|Slowing powder}}
+| source       = ?
+| cost         = 
+| quest        =  
+}}
+{{PAGENAME}} is currently not obtainable.
+
+{{Navbox-Misc}}
+[[Category:mined items]]
+[[Category:secondary ore]]
+
+[[pt-br: Pirita]]
+[[Category:Unobtainable]]

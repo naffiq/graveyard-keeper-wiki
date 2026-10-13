@@ -1,0 +1,31 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Graveyard]]
+|technology = [?]
+|footprint  = 
+|rotatable  = False
+}}
+After upgrading [[church]] for the first time you are able to fix the fence surrounding the [[graveyard]] for the first time. Doing this will add +10 {{Graveyard Rating}}. Afterwards you can build a [[build stone fence|stone fence]] for another +20 {{Graveyard Rating}}.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=The Graveyard|Fix the Fence]]
+|{{Item|Nails|10}}
+{{Item|Wooden plank|10}}
+{{Item|A piece of stone|6}}
+|0{{Energy}} 
+|Doesn't require {{Energy}}.<br>Adds +10 {{Graveyard Rating}}.
+|}
+
+[[file:{{PAGENAME}}.gif|700px|This is how it looked before and after the fix|link=The Graveyard]]
+
+{{Navbox-Graveyard}}
+
+<!-- lang links -->
+[[de:Den_Zaun_reparieren]]

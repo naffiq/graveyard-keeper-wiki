@@ -1,0 +1,97 @@
+<div class="plainlinks makeitcrisp" style="text-align:center; padding: 3px; font-size:120%; font-variant: small-caps; border-radius: 4px;">'''[{{fullurle:{{FULLPAGENAME}}|action=edit&section=new}} Please post your questions or comments at the bottom of the page by clicking this link to add a new section.]'''</div>
+
+== Q: Church wont give me money ==
+
+I have been playing alot and now that my church is bigger. It wont let my allow my to keep the money I gain from the church. It will show I removed the money but when I look at my money it will not be there. Any idea why this is happening.
+
+:A: Sounds like a bug, in which case I'd suggest reporting it to the devs; [https://steamcommunity.com/app/599140/discussions/3/1734336452551623185/ linky]. Having said that, you'd be one of the only ones to report this, so I'd stress troubleshooting this yourself a bit more - maybe attempt multiple sermons, collect several screenshots proving what you're experiencing, etc. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 06:31, 4 November 2019 (UTC)
+
+== Q: "Sleepy Status": What's it do? ==
+
+If I've been relying on food for energy refills for too long, rather than sleeping, a blue [ZZzz] icon appears near the top of my screen.  Being fairly bright, I can deduce that the game is telling me to go sleep, but what are the effects of this "sleepiness"?  Faster energy consumption?  Reduced energy gains from food?  A slow heath bleed?  Introduces a failure % in workshop activities with a chance to injure oneself (such as losing a finger to the circular saw)?  There's plenty of possibilities.  I'd just like to know. 
+
+(FYI Devs?  These icons would be a great place for some mouseover tooltip text! ) 
+
+:A: It's listed over on the [[Effects]] article page, but basically it should be slowly draining energy from max down to ~50E at -1E ticks. So, if you can operate consistently at sub-50E (and don't need to save), there's no particular reason to sleep, and you probably wouldn't even notice the ill-effect. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 06:31, 4 November 2019 (UTC)
+
+== Updating ==
+Where can i go update the new version of the game?
+
+:A: It's up to the provider of the game. If you play on PC through Steam, it should be automatic, currently operating at v1.203 ...not sure about GoG and any other PC providers, but if it's not on v1.203, I'd contact the provider individually. Meanwhile, console and mobile releases might have a different numerical version ...might also be best to contact the publisher/developer in each case directly. Lastly, if you pirated the game, don't expect free updates. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 06:31, 4 November 2019 (UTC)
+
+<br>
+[[Category:Graveyard Keeper Wiki]]
+
+== Q: Why am I not able to use the sawhorse? ==
+
+New player, on version 1.206 (Windows/Steam), I've created a sawhorse and have logs in my stockpile but am not able to use the sawhorse. There's a sign in front of it, the sign is a part of the sawhorse not a separate entity, and I'm not even able to interact with the sawhorse beyound destroying it. [https://www.dropbox.com/s/wli73ls2h5mtmgb/20200305005058_1.jpg?dl=0 Image] [[User:AnadianDR|AnadianDR]] ([[User talk:AnadianDR|talk]])
+:A: A sign in front of any construct designates that it requires some time/energy in order to be built or put-together. Assuming you have a hammer of some variety equipped, you should be able to approach the saw-horse from it's operating angle (due south) and construct it. If you don't have a hammer equipped, it will give you a prompt saying it requires one. Alternatively, if you can't access the operating angle (ex; you placed the saw-horse directly above another workstation that blocks the southern point), you may be not be able to build it, or operate it if you somehow managed to build it - I'd suggest moving it. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 13:38, 5 March 2020 (UTC)
+::Thank you, I really thought the hammer icon was for destroying it. [[User:AnadianDR|AnadianDR]] ([[User talk:AnadianDR|talk]])
+
+== Bug: Farmer stuck at the bottom of my path ==
+
+Hi! My farmer came to my house to tell me that he was proud of his son drinking alcohol and he can't go back to his place. When I try to talk to him he answers that it's not the moment. Can you help or do I have to start all the game again? Thanks xx
+
+== Cutscene Freezing  ==
+
+On the switch my game keeps freezing on the cutscene with the fisherman at the lighthouse when i go and talk to him.
+
+It happens same to me in PS4
+
+== Crematorium unusable? ==
+After Gerry makes mention of the crematorium to the south i head there to utilize it. However when i access the crafting bench there, there is no option to build a pyre, just to build a chest. Did i miss something? A story/progression prompt?
+:There's a 'Cremation' tech you need to research, under the [[Theology (Tech Tree)]], splitting off from the grave decor, which unlocks the blueprint '[[place for burning corpses]]'. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 15:29, 9 August 2020 (UTC)
+
+==  Water source for basement ==
+
+Can You and second upgrade to player well ? 
+After unlock beer making facility for zombi on basement it ofens stops working because it near o lot of water, with only the player can add to trunk
+
+== Cannot Enter Cathedral ==
+
+I am playing on the Xbox. 
+I just reached the end of the Bishop and Merchant questline and I can not enter into the Cathedral. I attempt to open the door with the A button as usual but it clicks as if I opened the door but all the ratings from the graves disappear and I am still standing outside the Cathedral. After attempting to enter the Cathedral I can no longer enter any building. I tried all doors and trapdoors to no avail. I then restarted the game, same thing occurs. I also tried restarting the whole Xbox One with the same result. I did notice I was unable to enter the Cathedral after giving Bishop the marble statues but I assumed that was part of the game. 
+Hope you can help with this, been playing 426.3 in-game days. 
+One last thing, I have both DLC's installed as well.
+
+== Q: How do I move placed workbenches etc? ==
+
+Hello! I've made a boo boo with the placement of one of my workbenches outside my house and was wondering if there was a "move" function to rearrange your stuff and make it more aesthetically pleasing when you create more stuff/change your mind about placement?
+
+I assumed it would be available with the ' destroy' feature (the proper name escapes me) in the workbenches but I can't find it. Can anyone help me out??
+:You can not 'move' any workstation, but you can 'remove' it using the blueprint table. This obviously isn't ideal, as you then have to tear it down, and lose half of the invested materials, but it's better than nothing. Alternatively, several workstations have to be constructed before they can be used, and while in this state, they can be removed and replaced relatively easily without penalty. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 22:26, 21 January 2021 (UTC)
+
+==Death?==
+What happens if you die?
+:You respawn at Sweet Home. No penalty or sacrifice. People have actually used it as a quick-teleport home when dungeon diving. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 05:55, 21 July 2021 (UTC)
+== Wiki suggestion ==
+
+This wiki is great, and has been super useful. However, it would be great if the item pages would list who you can sell the items to in addition to who you can buy them from. I know that's a LOT of pages to edit, though, so maybe just add one page to the wiki with a table listing all the items and where they can be bought and sold with the prices.
+
+EDIT: I spent several hours making a spreadsheet with this information. I'd add it to the wiki myself if I knew how to, but I'm willing to share the Excel file with anyone who can use it.
+
+== Fame ==
+
+Merchant says " more fame means more money" but however u up the fame box cost is same.  need fix
+
+:I don't think that's what that means. More fame means more people hear about you, increasing demand as they decide to buy from you. More demand means more money as long as you're meeting the demand. So cost might be the same, but has demand increased?
+
+== Prolem with pumpkin seed to complete in serial quest The Donkey and the ECoPoDP ==
+
+In serial quest of The Donkey and the ECoPoDP .I found a prolem with mission" bring a Pumpkin to Clotho and have her enchanted " Well since I was cleaned all level of Dungeon and colected all the seek drop ,but i ve just had got 4 onion gold seeds and 2 pumpkin gold seeds .Well we already know that we need at least 4 seeds to grow anything in garden bed .So i cant grow gold pumpkin with 2 seed then this serial quest can not be complete . So is this a bug or I have to replay breaking dead to colect pumpkin ?
+
+:You can cultivate upgraded seeds of complex crops using 'Quality' (star) fertilizer. Regarding such fertilizers, a silver-star will guarantee 1x upgraded produce and seed, while a gold-star will guarantee 2x upgraded produce and seeds. So, purchase either bronze-or-silver-quality pumpkin seeds from the farmer, and plant it on a plot that has some silver-or-gold-quality Quality fertilizer on it, and you'll get some upgraded variants when it matures. Just note that if you plant bronze-quality seeds, the 'upgraded' will be silver ... likely allowing you to plant a silver batch, which will upgrade into gold-quality. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 21:50, 28 April 2023 (UTC)
+
+== Super stuck without blue points or science ==
+
+I am stuck and cannot progress the game because i spent my first blue points on candle making (I thought that would be cozy) and used all my science on carrot seeds and such. I thought you would get more blue points from sermons, but no... So, I cannot progress, I don’t have the church workbench (needs blue points to unlock), I don't have a desk to make paper. I cannot buy papers from the astrologer because I need to research the key to complete his quest. I cannot make stone grave fences, that tech also needs blue points, the same with glass beakers (or vials?) I don't know what to do. 
+Has anybody been in this situation and solved it? I'm thankful for any help!
+
+:There's [[Technologies#Blue|a very comprehensive list]] of all the ways to earn Blue tech points over on the Technologies page.  There should be at least one or two things you can make happen, though if you're ''absolutely'' sure you've painted yourself into a corner (which the Devs have tried very hard to make not 100% possible) there is the option to restart a new game. Doesn't sound like you got very far, so the loss is small.
+
+:Editing to address the Science part: You can study paper as many times as you like to get science points.
+
+== Is it possible to sell pen and ink? ==
+I accidentally created 16 items and have no idea what to do with them. I read that Astrologer can buy them, but I don't have that option, he doesn't want to buy anything from me.
+
+:No one buys them as far as I know (on PC, v1.4), despite the [[Astrologer]] selling them. Given that an anon user added it to his article page back in 2019, I'd guess he *might* be able to buy them on a different game-version / different platform, as there have been reports of some subtle differences there. I'd suggest just building a 'junk trunk' in either the Workyard or Cellar, and putting them all in there until you find a use for them; aside from Writing, which you will do more of once you have the Faith and tech-unlocks, there are a few other applications - such as building the [[Random text generator]]. [[User:Dsurian|Dsurian]] ([[User talk:Dsurian|talk]]) 22:26, 3 November 2024 (UTC)

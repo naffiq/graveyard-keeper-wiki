@@ -1,0 +1,8 @@
+The bed is a cozy place located in the sweet home where you can sleep for a period of time to regain health and energy.  Note that you do not sleep through the night specifically, but until you either press the key to wake up or you reach full energy and health.
+
+The game also saves when you wake up from the bed.
+
+[[ru:Кровать]]
+[[de:Bett]]
+
+[[Category:Locations]]

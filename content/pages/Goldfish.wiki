@@ -1,0 +1,96 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = i_fish_goldfish.png
+| cost         = 
+| price        = 3750
+| study        = {{Techpoint|Green|50}}
+
+| source       = Sea
+| stacksize    = 10
+| quest        = 
+| nameinternal = fish_goldfish
+}}
+The <b>{{PAGENAME}}</b> is the rarest and most valuable [[Fishing|fish]] in the game. It can either be sold to the [[Lighthouse Keeper]] or prepared at the [[cooking table]].  But due to the high sell price, it is better to sell for profit.
+
+==Fishing==
+The odds of catching any fish are primarily affected by the other fish in the same area, and what each are interested in; more competition between fish, less of a chance in catching a particular fish. In addition, here is a table of this fish's preferences by the rod used, the chosen bait, the location you choose to fish, the area you choose to cast, and sometimes even the time of day.
+
+The {{PAGENAME}} is incredibly difficult to catch. Even with the best equipment, the player's odds at successfully obtaining one are only 2% during the day and 5% at night.
+
+{| style="text-align:left; width:50%;"
+|- style="vertical-align:top;"
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Rod
+|-
+!Type
+!Weight
+|-
+|{{Item|Excellent fishing rod}}
+|Best
+|}
+{| class="wikitable" style="text-align:center; width:90%;"
+!colspan="2"|Bait
+|-
+!Type
+!Weight
+|-
+|{{Item|Lure with a gem}}
+|Best
+|}
+|
+{| class="wikitable" style="text-align:center; width:90%;"
+! colspan="2" |Location
+|-
+!Name
+!Weight
+|-
+|Sea
+|Best
+|}
+{| class="wikitable" style="text-align:center;  width:90%;"
+! colspan="2" |Time of Day
+|-
+!Time
+!Weight
+|-
+|Night
+|Best
+|-
+|Day
+|Poor
+|}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Green|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Crafting==
+{| class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Cooking table}}‎
+|-
+!Item Produced
+!Required Materials
+!style="width:5em;"|Energy
+|-
+|{{Item|Blue fish fillet|4|gold}}
+|{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}
+|}
+
+<br>
+{{Navbox-Fishing}}
+[[de:Goldfisch]]
+[[pt-br:Peixinho-dourado]]

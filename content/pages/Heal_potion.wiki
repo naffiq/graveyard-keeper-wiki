@@ -1,0 +1,43 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Alchemy Product
+| consume      = {{Health|+|50}}
+| nameinternal = 
+| study        = N/A
+| alchemy      = 
+| vendor       = [[Clotho|Clotho (T I)]]
+| buyer        = ???
+| source       = [[Alchemy workbench (tier I)]], [[Dungeon]]
+| cost         = 50
+| stacksize    = 20
+| quest        = Restore [[Clotho|Clotho's]] memories
+}}
+
+Heal potions can be used to restore {{Health||50}}. They can be found in the [[dungeon]] or crafted at the [[Alchemy workbench (tier I)]].
+
+==Quest==
+===Lost Memories===
+Upon first meeting [[Clotho]] she will tell you that she has lost her mind. She gives you a quest to help restore her mind, asking you to either bring her a [[heal potion]] or bring her the ingredients: A [[cauldron]] from the [[Blacksmith]], a [[bee]] and some [[life powder|yellow powder]].
+
+==Recipe==
+
+{| class = "wikitable" style = "width:30em;"
+! colspan = "2" | {{Item|Alchemy workbench (tier I)}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|{{PAGENAME}}|1}}
+| {{Item|Life powder|1}} <br> {{Item|Health solution|1}}
+|-
+| {{Item|{{PAGENAME}}|1}}
+| {{Item|Health powder|1}} <br> {{Item|Chaos solution|1}}
+|}
+
+{{Navbox-Alchemy}}
+[[Category:Alchemy products]]
+
+[[Category:Alchemy]]
+[[Category:Quest items]]
+[[pt-br:Poção de cura]]

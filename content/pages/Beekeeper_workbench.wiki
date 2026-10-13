@@ -1,0 +1,26 @@
+{{stub}}
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} item.png
+|location   = [[Apiary]], northwest of [[Sweet Home|your home]]
+|technology = [[Farming and Nature (Tech Tree)|Bee domestication]]
+|related    = [[Foraging]]
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to build [[bee hive]]s at the [[apiary]]. It starts out broken and must be first repaired. Before you are able to do this, you must unlock the "[[Farming_and_Nature_(Tech_Tree)|bee domestication]]".
+{{clear}}
+
+==Crafting==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80px|{{PAGENAME}}]]
+|{{Item|Wooden plank|4}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Clean paper|2}}
+| -{{energy}}N/A
+|}
+[[Category:Workstations]]
+
+[[Category:Apiary workstations]]

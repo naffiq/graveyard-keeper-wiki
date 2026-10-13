@@ -1,0 +1,114 @@
+{{Location Infobox
+| name      = {{PAGENAME}}
+| image     = Refugee Camp.png
+| exits     = [[Forest near the river]]
+| buildable = True
+| NPCs      = [[Marquis Teodoro Jr.]], [[Cook]], [[Moneylender]], [[Undertaker]], [[Tanner]]
+| DLC       = [[Game of Crone]]
+}}
+
+The '''Refugee camp''' is activated once you meet {{NPC|Marquis Teodoro Jr}}. He appears at your bedside when you wake up, the first time you sleep after unlocking the [[Church]]. He takes you to the camp, which is located in [[Forest near the river]] (directly North of [[Sweet Home]]).
+
+Here you are able to increase the camp population, meet new NPCs with new questlines to earn rewards such as the [[Universal bag]] and so on. To build any new structures and progress through the quests, first, you need to make the refugees happy.
+
+{{Item|Refugee Happiness}} is calculated by combining the {{Happiness}} happiness and the {{Item|refugee camp}} capacity. The camp starts with a base 0 out of {{Item|Refugee Happiness|3}}. {{Item|Refugee Happiness}} decreases if food and water are missing and is capped by the {{Item|refugee camp}} capacity, which can be increased by camp development.
+
+==Food and Water Consumption==
+Each person in the camp consumes a total of {{Item|water|3}} and {{Energy|2=30}} of [[Items#food|food]] each day. There are 5 time intervals per day (one every 90 seconds). In each time interval, {{Energy|2=6}} of food and 0.6 water per person are removed from the stockpile.
+
+The game consumes the items with the most {{Energy}} value until the amount of energy required is reached. For example, when the camp has 4 refugees, it needs to consume {{Energy|2=24}}, if there's cake in the stockpile, it will consume 1 cake, wasting {{Energy|2=76}}. The same applies to water.
+
+==Quests==
+[[Cook]] appears once you build the [[Fence Supplies For Garden]] area and gives task of building her a [[GoC Cooking table|kitchen]] (crafts food automated from the storage).
+
+[[Undertaker]] appears after you built and filled the third tent. She trades gravestones and recipes to build the more advanced gravestones.
+
+After building and filling the fourth tent [[Tanner]] will appear and ask you to build a [[Tanner's workplace|workplace]] for her. She sells different kind of bags.
+
+==Camp upgrades==
+Each upgrade requires sufficient refugee satisfaction as well as the standard materials.
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="wikitable sortable"
+!Improvement
+!Required
+! style="width:14em;" |Cost
+|-
+|[[File:Residential tent item.png|64 px]] [[Residential tent]] (x4)
+|{{Happiness|2/5/8/10}}
+|{{item|Wooden stick|4}}<br>{{item|Silk|2}}<br>{{Item|Refugee Happiness|2/5/8/10}}
+|-
+|[[File:GoC Well 1 item.png|64 px]] [[Water well I]]
+|{{Happiness|3  }}
+| {{Item |{{Item|A piece of stone|12}}<br>{{Item|Simple iron parts|2}}{{Item|Refugee Happiness|3}}
+|-
+|[[File:New refugee item.png|64 px]] [[New refugee]]
+|{{Happiness|2}}
+|{{Item|The free place|1}}<br>{{Item|Refugee Happiness|2}}
+|-
+|[[File:Garden fence item.png|64 px]] [[Fence supplies For Garden|Fence supplies for garden]]
+|{{Happiness|2}}
+|{{Item|Flitch|24}}<br>{{Item|Wood billet|12}}{{Item|Refugee Happiness|2}}
+|-
+|[[File:GoC Cooking table 1 item.png|64 px]] [[GoC Cooking table|Cooking table]]
+|{{Happiness|6}}
+|{{Item|Nails|12}}<br>{{Item|Flitch|6}}{{Item|Refugee Happiness|6}}
+|-
+|[[File:GoC Bed item.png|64 px]] [[Camp bed|Camp Bed]] (x4)
+|{{Happiness|2}}
+|{{Item|Flitch|6}}<br>{{Item|Peat|8}}<br>{{Item|Refugee Happiness|2}}
+|-
+|[[File:GoC Well 2 item.png|64 px]][[Water well|Water well II]]
+|{{Happiness|6}}
+|{{Item|Flitch|8}}<br>{{Item|Simple iron parts|4}}{{Item|Refugee Happiness|6}}
+|-
+|[[File:Storehouse 2 item.png|64 px]] [[Storehouse|Storehouse II]]
+|{{Happiness|6}}
+|{{Item|Flitch|12}}<br>{{Item|Silk|5}}<br>{{Item|Refugee Happiness|6}}
+|-
+|[[File:Campfire 2 item.png|64 px]] [[Campfire II]]
+|{{Happiness|8}}
+|{{Item|Flitch|16}}<br>{{Item|A piece of stone|8}}<br>{{Item|Refugee Happiness|8}}
+|-
+|[[File:GoC Cooking table 2 item.png|64 px]] [[GoC Cooking table|Cooking table II]]
+|{{Happiness|8}}
+|{{Item|Wooden plank|12}}<br>{{Item|Nails|18}}<br>{{Item|Refugee Happiness|8}}
+|-
+|[[File:GoC Bee hive item.png|64 px]] [[Bee hive]] (x3)<br />
+|{{Happiness|2}}
+|{{Item|Flitch|4}}<br>{{Item|bee|10}}<br>{{Item|Refugee Happiness|2}}
+|-
+|[[File:Teodoro's workplace item.png|64 px]] [[Teodoro's workplace]]
+|{{Happiness|8}}
+|{{Item|Wooden plank|10}}<br>{{Item|Nails|16}}<br>{{Item|Refugee Happiness|8}}
+|-
+|[[File:Undertaker's workplace item.png|64 px]] [[Undertaker's workplace]]
+|{{Happiness|10}}
+|{{Item|Wooden plank|10}}<br>{{Item|Nails|16}}<br>{{Item|Refugee Happiness|10}}
+|-
+|[[File:Tanner's workplace item.png|64 px]] [[Tanner's workplace]]
+|{{Happiness|12}}
+|{{Item|Wooden plank|10}}<br>{{Item|Nails|16}}<br>{{Item|Refugee Happiness|12}}
+|-
+|[[File:Fence supplies for farm item.png|64 px]]Fence supplies for farm
+|{{Happiness|12}}
+|{{Item|Flitch|24}}<br>{{Item|Wood billet|12}}{{Item|Refugee Happiness|12}}
+|-
+|[[File:Stakes item.png|64 px]] [[Stakes]]
+|{{Happiness|11}}
+|{{Item|Flitch|48}}<br>{{Item|Wooden stick|24}}<br>{{Item|Refugee Happiness|11}}
+|-
+|[[File:Sword rack item.png|64 px]] [[Sword rack]]
+|{{Happiness|12}}
+|{{Item|Steel sword|5}}<br>{{Item|Flitch|4}}<br>{{Item|Refugee Happiness|12}}
+|-
+|[[File:Observation tower item.png|64 px]] [[Observation tower]]
+|{{Happiness|13}}
+|{{Item|Wooden beam|12}}<br>{{Item|Flitch|18}}<br>{{Item|Refugee Happiness|13}}
+|}
+</table-progress-tracking>
+
+{{Navbox-Locations}}
+[[Category:Game of Crone]]
+[[Category:Locations]]
+
+[[de:Flüchtlingslager]]

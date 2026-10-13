@@ -1,0 +1,81 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| study        = {{Techpoint|Red|50}}
+| source       = [[Furnace II]], [[Furnace III]]
+| buy          = None
+| sell         = None
+| cost         = 235
+| stacksize    = 30
+| type         = Glass Item
+| quest        = 
+| nameinternal = glass_2
+}}
+<b>{{PAGENAME}}</b> are craft-able crafting resources, made in the [[furnace II]] onwards. They have a very limited usefulness, only being utilized during the construction of a few late-game workstations.
+
+Conversely, while wasteful, these are one of the earliest sources of unlimited {{Techpoint|Blue|Blue Tech Points}}.
+
+==Recipe==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{item|Furnace II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Result
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Conical flasks|3}}<br>{{Item|Water|1}}
+|2:30<br>{{Fuel|-|20}}<br>{{Techpoint|Red|3}}{{Techpoint|Blue|1}}
+|-
+!colspan="3"|{{item|Furnace III}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em"|Result
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Conical flasks|3}}<br>{{Item|Water|1}}
+|2:00<br>{{Fuel|-|20}}<br>{{Techpoint|Red|3}}{{Techpoint|Blue|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|5}}<br>{{Item|Science|5}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Building==
+{|class = "wikitable" style="width:35em"
+!colspan="2"|[[file:alchemy lab workbench.png|link=alchemy lab]] [[Alchemy lab]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alchemy workbench (tier I)}}
+|{{Item|Wooden plank|6}}<br>{{Item|Complex iron parts|3}}<br>{{Item|{{PAGENAME}}|2}}
+|-
+|{{Item|Alchemy workbench (tier II)}}
+|{{Item|Jointing|6}}<br>{{Item|Steel parts|2}}<br>{{Item|{{PAGENAME}}|3}}
+|-
+!colspan="2"|[[file:mortuary workbench.png|link=Mortuary desk]] [[Mortuary desk]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Embalming table II}}
+|{{Item|Wooden plank|10}}<br>{{Item|Steel parts|4}}<br>{{Item|{{PAGENAME}}|4}}
+|}
+
+<br>
+{{Navbox-Glass}}
+[[Category:glass items]]
+[[ru:Сложные колбы]]

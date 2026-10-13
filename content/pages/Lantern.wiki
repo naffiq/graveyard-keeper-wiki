@@ -1,0 +1,38 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Graveyard]], [[Forest near the river]], [[Cabin in the woods]]
+|technology = [[Theology (Tech Tree)|Stone Prayer Station]] (graveyard)<br>
+[[Smithing (Tech Tree)|Rules of Burning]] (forest and cabin)
+|related    = [[Lantern network]], [[Place for lantern]], [[Graveyard rating]]
+|footprint  = 2X2
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} can either be constructed on the [[graveyard]], or on a [[place for lantern]] in the [[forest near the river]] or near the [[cabin in the woods]]. You need different [[technologies]] for this.
+
+{{PAGENAME}}s automatically ignite at dusk and go off at dawn. They shed some light at the surroundings.
+
+'''Note:''' Those belonging to the [[lantern network]] located in the [[forest near the river|forest]] can not be removed. There are 2 alternative buildings: a [[Torch]] and a [[Wooden lantern]].
+
+{{PAGENAME}}s give static +4 {{Graveyard Rating}} when built on the [[graveyard]]. The maximum of 9 {{lcfirst:{{PAGENAME}}}}s share the same 9 slots with the {{Item|Flowerbed}}, {{Item|Wooden prayer station}} and {{Item|Stone prayer station}} in the graveyard.
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:12em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"| Quality provided
+!style="width:16em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+|{{Item|A piece of stone|4}}<br>{{Item|simple iron parts|4}}<br>{{Item|Glass|2}}
+|{{Energy|-|15}}
+| +4 {{Graveyard Rating}}
+|[[Theology (Tech Tree)|Stone Prayer Station]] (graveyard) or<br>
+[[Smithing (Tech Tree)|Rules of Burning]] (forest and cabin) needed
+|}
+==Notes==
+There are only nine locations in the [[graveyard]] where lanterns may be built. There are four locations near the [[cabin in the woods]] and seven [[lantern network|along the path]] leading through the [[forest near the river]].
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+[[Category:Graveyard workstations]]
+[[Category:Graveyard items]]

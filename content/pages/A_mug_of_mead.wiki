@@ -1,0 +1,59 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = I_mead_crop.png
+| type         = Beverage
+| consume      = {{Health|+|5}}, {{Energy|+|12}}/{{Energy|+|18}}/{{Energy|+|24}}
+| nameinternal = cup_mead
+| study        = 
+| source       = [[Brewing stand]]
+| cost         = 30
+| quest        = 
+| stacksize    = 20
+}}
+<b>{{PAGENAME}}</b> is a consumable product, able to restore a relatively small amount of health and a moderate amount of energy. It can be brewed at varying quality levels using a [[brewing stand]]. The quality of the crafts depend on the quality of the [[hops]] used. It is the least profitable drink that can be sold at Talking skull.
+
+==Quality Levels==
+{| class = "wikitable"
+!Copper
+!Silver
+!Gold
+|-
+|{{Quality Sprite|image = I_mead_crop.png|quality = copper}}
+|{{Quality Sprite|image = I_mead_crop.png|quality = silver}}
+|{{Quality Sprite|image = I_mead_crop.png|quality = gold}}
+|-
+|{{Money|20}}
+|{{Money|25}}
+|{{Money|30}}
+|-
+|{{Health|+|5}} {{Energy|+|12}}
+|{{Health|+|5}} {{Energy|+|18}}
+|{{Health|+|5}} {{Energy|+|24}}
+|-
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|5}}
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|8}}
+|[[File:Wine Master Perk.png|32x32px|link=Perks|Wine Master Perk]]{{Energy|+|10}}
+|}
+
+==Recipe==
+{|class="wikitable" style="width:35em;table-layout:fixed;"
+!colspan="2"|{{Item|Brewing stand}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|10|animation}}
+|{{Item|Water|50}}<br>{{Item|Hops|3|animation}}<br>{{Item|Honey|1}}
+|}
+
+==Quest==
+The crafting recipe can be obtained from [[Horadric]] after opening the buffet on [[Witch Hill]]. Rumors of the high quality beer served at witch burnings make [[Horadric]] curious, asking the player for {{Item|A mug of beer|1|gold}}. After bringing him the beer [[Horadric]] will reward the player with the recipe for a mug of mead.
+
+==Trading==
+With the DLC ''[[Stranger sins|Stranger Sins]]'', mugs of mead - as with most beverages - may be sold regularly, either passively by being stored in the [[Talking Skull]]s cellar, or actively by being stored in the [[Barman]]s inventory and triggering an event.
+
+<br />
+{{Navbox-Food}}
+[[Category:food]]
+[[Category:beverages]]
+[[Category:consumable items]]

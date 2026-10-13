@@ -1,0 +1,37 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}} image.png
+|location   = [[Graveyard]]
+|technology = [[Theology (Tech Tree)|Cremation II]]
+|footprint  = 4X4
+|rotatable  = False
+}}
+
+<!-- Put page content here -->
+
+Gives a static +20 {{Graveyard Rating}} when built.
+
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"| Quality provided
+!style="width:10em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px|link=]]
+|{{Item|A polished brick of marble|4}}
+{{Item|A carved piece of marble|2|silver}}
+{{Item|Porcelain funeral urn|12}}
+|{{Energy|-|8}} (Hammer)
+| +20 {{Graveyard Rating}}
+|[[Theology (Tech Tree)|Graveyard enhancement]]
+|}
+
+
+{{Navbox-Graveyard}}
+[[Category:Workstations]]
+
+[[Category:Graveyard workstations]]
+[[Category:Graveyard items]]

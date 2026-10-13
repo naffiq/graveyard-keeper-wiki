@@ -1,0 +1,36 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = [[Forest near the river]], [[Cabin in the woods]]
+|technology = [[Smithing (Tech Tree)|Rules of Burning]]
+|footprint  = 2X2
+|related    = [[Lantern network]], [[Place for lantern]]
+|rotatable  = False
+}}
+The {{lcfirst:{{PAGENAME}}}} can only be built on a [[place for lantern]], located in the [[forest near the river]] or near the [[cabin in the woods]]. You need to set up this place first.
+
+{{PAGENAME}}s automatically ignite at dusk and go off at dawn. They shed some light at the surroundings. They can be upgraded to [[lantern|stone lantern]]s after erecting them. Just stand near them and hit "E".
+
+'''Note:''' Those belonging to the [[lantern network]] located in the [[forest near the river|forest]] can not be removed.
+__NOTOC__
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+! Item Produced
+! Materials Required
+! Energy
+! Notes
+|-
+| style="text-align:center"|[[file:{{PAGENAME}} item.png|64px|link={{PAGENAME}}]]
+| {{Item|Wooden beam|1}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Glass|2}}
+| {{Energy|-|10}}
+|
+|-
+| style="text-align:center"|[[file:Lantern item.png|64px|link=Lantern|Upgrade to a stone lantern]]
+| {{Item|A piece of stone|4}}<br>{{Item|Simple iron parts|4}}<br>{{Item|Glass|2}}
+| {{Energy|-|6}}
+| Upgrading a {{lcfirst:{{PAGENAME}}}} to a stone lantern.
+|}
+
+{{Navbox-Cabin in the woods}}

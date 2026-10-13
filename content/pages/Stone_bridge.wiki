@@ -1,0 +1,38 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = river 5.png
+|location   = [[Swamp]], [[Graveyard]]
+|technology = 
+|related    = [[River]]
+|footprint  = 
+|rotatable  = 
+}}
+The {{lcfirst:{{PAGENAME}}}} is directly west of the [[graveyard]] and is required to access the [[swamp]].
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"|Energy
+!style="width:10em;" align:"center"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|1}}<br>{{Item|Flitch|4}}<br>{{Item|Nails|8}}
+|style="text-align:center"|{{Energy|-|20}}<br>[[File:Hammer icon.png|frameless|]]
+|
+|}
+
+==Screenshots==
+Unrepaired bridge:<br>
+[[file:river 5.png|400 px|Unrepaired]]
+
+Repaired bridge:<br>
+[[file:river 6.png|400 px|Repaired]]
+
+
+[[ru:Каменный мост]]
+
+{{Navbox-Other}}
+[[Category:Workstations]]
+
+[[Category:Obstacle workstations]]

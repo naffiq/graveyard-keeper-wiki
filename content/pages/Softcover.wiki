@@ -1,0 +1,65 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = {{Techpoint|Red|50}}
+| alchemy      = 
+| source       = [[Church workbench]], [[Astrologer]]
+| cost         = 200
+| stacksize    = 10
+| type         = Writing Resource
+| quest        = 
+| nameinternal = cover_soft
+}}
+Softcovers are used to make low quality books.  They can be made from [[pigskin paper]] or purchased from the [[Astrologer]].
+
+== Recipe ==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Pigskin paper|2}}
+|}
+
+==Study==
+{| class = "wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|50}}
+|{{Item|Faith|3}}<br>{{Item|Science|3}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+== Crafting ==
+{| class="wikitable" style="table-layout:fixed; width:35em;"
+!colspan="2"|{{Item|Church workbench}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Hard cover|1|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Tanning agent|1}}
+|-
+!colspan="2"|{{Item|Desk}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Book|1|animation}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Chapter|1|animation}}
+|}
+
+<br>
+{{Navbox-Writing}}
+[[Category:Writing]]
+[[Category:Writing resources]]
+[[de:Taschenbuch]]

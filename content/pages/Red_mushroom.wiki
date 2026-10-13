@@ -1,0 +1,67 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Foragable Plant
+| nameinternal = shr_agaric
+| study        = {{Techpoint|Green|30}}
+| alchemy      = {{item|toxic solution|1}}
+| source       = Foraging
+| cost         = 1
+| consume      = {{Health|-|5}}
+}}
+
+Must unlock [[Farming_and_Nature_(Tech_Tree)|Master Gatherer]]. It grows plentiful near swamps, such as the one north of your [[Sweet Home]], and in the [[swamp]] near [[Clotho|Clotho's hut]]. It can be sparsely found in some other places.
+
+Can be found:
+
+* On the way to [[The Village]] second fence before [[Wheat Farm]].
+* Before you cross the [[Swamp bridge]] north.
+* On the way to [[Clotho|Clotho's hut]] next to the [[Swamp bridge]].
+*North of your [[Sweet Home]] left side entrance Swamp Area.
+*Westside of the [[Village Pond]].
+
+==Study==
+{| class = "wikitable" style = "width:53%"
+! colspan = "4" | {{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes 
+|-
+|{{Techpoint|Green|30}}
+|{{Item|Faith|3}} <br> {{Item|Science|3}}
+|{{Energy|-|5}}
+|Decomposes into:<br>[[Toxic solution|solution]]
+|}
+
+==Alchemy==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Hand mixer}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Toxic solution|1}}
+|{{Item|{{PAGENAME}}|1}}
+|}
+
+==Crafting==
+{| class="wikitable" style = "width:35em; table-layout:fixed;"
+! colspan="2" |{{Item|Alcohol distiller}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Infusion|1}}
+|{{Item|Booze|1}}<br>{{Item|{{PAGENAME}}|3}}
+|}
+
+<br>
+{{Navbox-Foraging}}
+[[Category:foragable items]]
+[[Category:plants]]
+[[Category:consumable items]]
+[[Category:decomposable items]]
+
+[[pt-br:Cogumelo vermelho]]

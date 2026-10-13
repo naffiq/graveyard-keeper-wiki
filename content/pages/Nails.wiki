@@ -1,0 +1,148 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Metal
+| nameinternal = nails
+| study        = {{techpoint|red|10}}
+| source       = [[Anvil]], [[Anvil II]], [[Wooden anvil]], [[Cellar]], [[Dungeon]]
+| buy          = [[Krezvold|Krezvold (T I)]]
+| sell         = [[Krezvold|Krezvold (T I)]]
+| cost         = 27
+| stacksize    = 100
+}}
+'''Nails''' are one of the most fundamental resources in the game and can be made from [[iron ingot|
+iron ingots]] at the [[Wooden anvil]], [[Anvil]], or [[Anvil II]]. Alternatively, they can be purchased from [[Krezvold]] or found by breaking barrels and furniture in the [[dungeon]] and [[cellar]].  
+
+==Recipe==
+{|class="mw-collapsible mw-collapsed wikitable" style="width:35em;"
+!colspan="3"| 
+|-
+!colspan="3"|{{Item|Wooden anvil}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|*{{Item|{{PAGENAME}}|8}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|15}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Anvil}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|*{{Item|{{PAGENAME}}|8}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|12}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Anvil II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|*{{Item|{{PAGENAME}}|9}}
+|{{Item|Iron ingot|1}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Cooking table}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Bloody nails|1}}<br>{{Item|River sand|1}}<br>{{Item|Water|1}}
+|{{Energy|-|2}}
+|-
+!colspan="3"|*+3x Product from [[File:Blacksmith Perk.png|32x32px|link=Perks|Blacksmith Perk]] [[Perks|Blacksmith Perk]]
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Red|10}}
+|{{Item|Faith|1}}<br>{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="mw-collapsible mw-collapsed wikitable" style="width:35em;"
+!colspan="3"|Crafting Recipes
+|-
+!colspan="3"|{{Item|Sawhorse}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|Wooden marker|1}}
+|{{Item|Flitch|2}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench}} / {{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|Wooden marker|1}}
+|{{Item|Flitch|2}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|5}}<br>{{Techpoint|Red|3}}
+|-
+|{{Item|Wooden cross|1}}
+|{{Item|Wooden plank|1}}<br>{{Item|{{PAGENAME}}|1}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|5}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|Wood repair kit|4}}
+|{{Item|Flitch|3}}<br>{{Item|Wooden plank|1}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|15}}<br>{{Techpoint|Red|1}}
+|-
+!colspan="3"|{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Result
+|-
+|{{Item|Wood repair kit|4}}
+|{{Item|Flitch|3}}<br>{{Item|Wooden plank|1}}<br>{{Item|{{PAGENAME}}|2}}
+|{{Energy|-|10}}<br>{{Techpoint|Red|1}}
+|-
+|{{Item|Jointing|1}}
+|{{Item|Wooden beam|1}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Complex iron parts|1}}
+|{{Energy|-|15}}<br>{{Techpoint|Red|5}}
+|}
+
+==Building==
+*work in progress*
+{|class="wikitable" style="width:35em;"
+!colspan="3"|Building Recipes
+|-
+! colspan = "3" |[[Witch Hill]]
+|-
+|style="text-align:center"|[[file:Buffet_tent item.png|80x80px]][[Buffet tent]]
+|{{Item|Hemp rope|5}}<br>{{Item|Wooden plank|15}}<br>{{Item|{{PAGENAME}}|20}}
+|{{Energy|-|20}}
+|}
+
+<br>
+{{Navbox-Metal}}
+[[Category:metal items]]
+[[Category:smithing items]]
+[[de:Nägel]]
+[[pt-br:Pregos]]

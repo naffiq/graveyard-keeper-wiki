@@ -1,0 +1,106 @@
+{{stub}}
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Souls room]]
+|technology = [[Spiritualism (Tech Tree)|Beginner Healer]]
+|related    = [[Morgue]]
+|footprint  = ?x?
+|rotatable  = False
+}}
+The '''{{PAGENAME}}''' is a workbench introduced with the [[Better Save Soul|Better Save Soul DLC]], that may be built in the [[Souls room]] after you unlock the [[Spiritualism (Tech Tree)|Beginner Healer]] technology. The {{PAGENAME}} allows you to use {{Item|Sin Shard}} to craft various items including '''enhancing organs'''. <br>
+You can increase an [[Organs|organ's]] {{Skull|White}} or {{Skull|Red}} with the Organ Enhancer, use your [[Sin Shard|Sin Shards]] to create [[Boost fertilizer I|Boost]] and [[Quality fertilizer II|Quality fertilizers]] or craft the '''Soul Prayers'''.
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"|Materials Required
+!style="width:5em;"|Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} Icon.png|80x80px]]
+|{{Item|Flitch|4}}<br/>{{Item|Nails|4}}<br/>{{Item|Simple iron parts|2}}
+|{{Energy||0}}
+|Requires: [[Spiritualism (Tech Tree)|Beginner Healer]]
+Adds {{Souls Room Capacity|+|5}}
+|}
+
+==Recipes==
+
+{| class = "wikitable"
+! colspan="3" | [[file:tab_other.png|link=]]
+|-
+! colspan="3" style="text-align:center" | [[File:Organ Enhancer Icon.png|80x80px]]Organ Enhancer
+|-
+!style="width:17.5em;" | Organ Value Produced
+!style="width:17.5em;" |  Materials Required
+!style="width:5em;" | Energy
+|-
+| {{Skull|White}} '''OR''' {{Skull|Red}}
+| {{Item|Sin Shard|2}}<br> 1x [[:Category:Body_parts|organ]] with no {{Skull|White}} '''OR''' no {{Skull|Red}}
+| {{Energy|-|3}}
+|-
+| {{Skull|White}}{{Skull|White}} '''OR''' {{Skull|Red}}{{Skull|Red}}
+| {{Item|Sin Shard|3}}<br> 1x [[:Category:Body_parts|organ]] with {{Skull|White}} '''OR''' {{Skull|Red}}
+| {{Energy|-|3}}
+|-
+| {{Skull|White}}{{Skull|White}}{{Skull|White}} '''OR''' {{Skull|Red}}{{Skull|Red}}{{Skull|Red}}
+| {{Item|Sin Shard|4}}<br> 1x [[:Category:Body_parts|organ]] with {{Skull|White}}{{Skull|White}} '''OR''' {{Skull|Red}}{{Skull|Red}}
+| {{Energy|-|3}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+! style="width:5em;"| Energy
+|-
+|{{Item|Boost fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|2}}<br>{{Item|Hemp|2}}
+|{{Energy|-|7}}
+|-
+|{{Item|Boost fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|4}}<br>{{Item|Hemp|3}}
+|{{Energy|-|15}}
+|-
+|{{Item|Quality fertilizer I|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|2}}<br>{{Item|Ash|2}}
+|{{Energy|-|7}}
+|-
+|{{Item|Quality fertilizer II|10}}
+|{{Item|Peat|10}}<br>{{Item|Sin Shard|4}}<br>{{Item|Ash|3}}
+|{{Energy|-|15}}
+|-
+|{{Item|Story|1|animation}}
+|{{Item|Clean paper|1}}<br>{{Item|Sin Shard|2}}<br>{{Item|Faith|5}}
+|{{Energy|-|15}}
+|-
+|{{Item|Chapter|1|animation}}
+|{{Item|Clean paper|3}}<br>{{Item|Sin Shard|2}}<br>{{Item|Story|1|animation}}
+|{{Energy|-|20}}
+|-
+|{{Item|Book|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Sin Shard|2}}<br>{{Item|Story|1|animation}}
+|{{Energy|-|5}}
+|-
+!colspan="3" style="text-align:center;"|[[file:tab_sermon.png|link=|frameless]]
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+! style="width:5em;"| Energy
+|-
+|{{Item|Pray for souls' repose|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|5}}<br>{{Item|Sin Shard|2}}
+|{{Energy|-|10}}
+|-
+|{{Item|Pray for souls' contentment|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}<br>{{Item|Sin Shard|2}}
+|{{Energy|-|10}}
+|-
+|{{Item|Pray for souls' thorough cleansing|1|animation}}
+|{{Item|Chapter|1|animation}}<br>{{Item|Faith|4}}<br>{{Item|Sin Shard|1}}
+|{{Energy|-|10}}
+|-
+|}
+
+<br>
+{{Navbox-Souls room}}
+[[Category:Workstations]]
+[[Category:Souls room workstations]]

@@ -1,0 +1,86 @@
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Cellar]]
+|technology = [[Farming and Nature (Tech Tree)|Strong Alcohol]]
+|related    = [[Farming]]
+|footprint  = 7x4
+|rotatable  = True
+}}
+The {{lcfirst:{{PAGENAME}}}} is used to brew [[booze]].
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A piece of stone|20}}
+
+{{Item|Complex iron parts|8}}
+
+{{Item|Flitch|12}}
+|{{Energy|-|20}}
+|Requires: Strong Alcohol
+|}
+
+==Recipes==
+===Fuel===
+{| class="wikitable"
+!colspan = "3" style = "text-align:center;"|[[file:tab_fuel.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Fuel Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+|-
+|{{Item|Fuel|20}}
+|{{Item|Wooden stick|10}}
+|{{Energy|-|0}}
+|-
+|{{Item|Fuel|30}}
+|{{Item|Firewood|1}}
+|{{Energy|-|0}}
+|-
+|{{Item|Fuel|160}}
+|{{Item|Coal|10}}
+|{{Energy|-|0}}
+|-
+|}
+
+===Booze===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_other.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Fuel
+!style="width:5em;"|Time
+|-
+|{{Item|Booze}}
+|{{Item|Bottle of apple ferment|5}}
+|{{Item|Fuel|10}}
+|1:00
+|-
+|{{Item|Booze}}
+|{{Item|Bottle of berry ferment|4}}
+|{{Item|Fuel|10}}
+|1:00
+|-
+|{{Item|Booze}}
+|{{Item|Red wine|3|animation}}
+|{{Item|Fuel|10}}
+|1:00
+|-
+|{{Item|Infusion}}
+|{{Item|Booze|1}} <br> {{Item|Red mushroom|3}}
+|{{Item|Fuel|10}}
+|0:05
+|}
+
+{{Navbox-Cellar}}
+[[Category:Workstations]]
+
+[[Category:Cellar workstations]]

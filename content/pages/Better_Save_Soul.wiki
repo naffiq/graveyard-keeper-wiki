@@ -1,0 +1,43 @@
+[[File:Better-Save-Soul-Logo.png|thumb|500x500px|alt=Yellow text that reads 'Better Save' to the left of red text that reads 'Soul'|Better Save Soul Logo]]
+
+==Better Save Soul Description==
+
+We're all sinners - as the Bishop in the Town teaches us. Our new acquaintance [[Euric]] though is set on proving the opposite. And he will of course need the help of the Graveyard Keeper! Prepare your tools, your charm, and put your mind to work on a mission to save souls!
+
+No one is without sin - this is what the Bishop in the Town teaches, and it is true. But who said that one cannot be cleansed from these sins? Help your new friend [[Euric]] to fulfill his cherished dream and remove the shards of sins from his soul. In return, he is ready to share a book, which contains knowledge for remote craft control of workbenches... What are you ready to do to get it?
+
+'''Note:''' The „Better Save Soul“ DLC is ''not'' available on Nintendo Switch.
+
+==Questions==
+'''Do I need to replay the main game?'''
+
+As with previous DLCs it is not required to start a new savefile.
+To Start the DLC open the [[Church]] and repair the [[Morgue#Corpse_Hatch|Corpse Hatch]]. Starting the Bowl quest from the Bishop is also required.
+
+'''Are there new achievements?'''
+
+For a list of achievements added by the DLC please see [[Achievements#Better Save Soul DLC|here]]
+
+'''What should we expect in the DLC?'''
+
+* 6-12 hours of extra gameplay
+*Manage your workbenches directly from the map with the remote craft control
+*Save souls for the sake of The Ancient Contract (and your own profit)
+*Help to fulfill the dream of your new shady friend - [[Euric]]
+*Discover a new area for all the new workbenches
+
+'''Free or Paid DLC?'''
+
+Paid.
+
+==Release dates==
+Better Save Soul was officially announced on 22.10.2021. 
+Better Save Soul released on 27.10.2021.
+
+The existence of a new DLC named "Better Save Soul" was revealed via Steam records on October 11th 2021.<ref>https://steamdb.info/app/599140/history/?changeid=12815621</ref> The DLCs Store page was created on 20.10.2021.
+
+==References==
+<references />
+[[Category:Graveyard Keeper]]
+[[Category:Better Save Soul]]
+[[Category:DLC]]

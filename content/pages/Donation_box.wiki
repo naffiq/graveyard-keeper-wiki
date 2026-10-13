@@ -1,0 +1,53 @@
+{{stub}}
+
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Church]]
+|technology = 
+|related    = 
+|footprint  = 
+|rotatable  = 
+}}
+
+The donation box is located at the entrance of the [[church]] and can neither be built nor removed. It's where the parishioners leave their [[money|donations]] after you hold a [[sermon]] at {{day|pride}}.
+
+To empty the box and check the success of your sermon, just click at the box after everybody has left.
+
+<!-- placeholder
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|?|?}}
+|
+|
+|-
+|}
+
+==Recipes==
+{| class = "wikitable" style = "width:50em"
+!colspan = "4" style = "text-align:center;"| {{Item|?}}
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:10em;"|Notes
+|-
+|{{Item|?|?}}
+|{{Item|?|?}}
+|{{Energy}}?
+|
+|}
+-->
+
+{{Navbox-Church workstations}}
+[[Category:Workstations]]
+
+[[Category:Church workstations]]
+
+[[ru:Ящик для пожертвований]]

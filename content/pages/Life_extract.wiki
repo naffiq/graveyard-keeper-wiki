@@ -1,0 +1,84 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_3_yellow
+| study        = {{Techpoint|Blue|5}}
+| vendor       = [[Clotho|Clotho (T III)]]
+| buyer        = 
+| source       = [[Alchemy]]
+| stacksize    = 50
+| cost         = 100
+}}
+'''{{PAGENAME}}''' is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout: fixed;"
+!colspan="2"|{{Item|Distillation cube}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Heart|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Maggot|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Yellow flower|1}}
+|-
+!colspan="2"|{{Item|Distillation cube II}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Heart|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Maggot|1}}
+|-
+|{{Item|{{PAGENAME}}|2}}
+|{{Item|Yellow flower|1}}
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Blue|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Alchemy==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier II)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Flavor enhancer|1}}
+|{{Item|Ash|1}}<br>{{Item|Toxic solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Aromatizer|1}}
+|{{Item|Acceleration powder|1}}<br>{{Item|Alcohol|1}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|{{Item|Silver elixir|1}}
+|{{Item|Silver powder|1}}<br>{{Item|Order solution|1}}<br>{{Item|{{PAGENAME}}|1}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+
+[[pt-br:Extrato da vida]]
+[[es:Extracto vital]]

@@ -1,0 +1,16 @@
+==Coin==
+Copper, Silver and Gold coins are the currency used.
+
+1 Gold Coin {{Gold Coin}} = 100 Silver Coins {{Silver Coin}}<br>
+1 Silver Coin {{Silver Coin}} = 100 Copper Coins {{Copper Coin}}
+
+So 1 Gold Coin {{Gold Coin}} = 10,000 Copper Coins {{Copper Coin}}
+
+==Price==
+For additional information on {{happiness}} and how it impacts prices, visit [[reputation]].
+
+==Quality==
+Copper, Silver, and Gold also represent item quality with Copper {{Quality|Copper}}, Silver {{Quality|Silver}}, and Gold {{Quality|Gold}} stars.
+
+[[Category:Topics]]
+[[pt-br:Moedas]]

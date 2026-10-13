@@ -1,0 +1,86 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Seed
+| nameinternal = hop_seed
+| study        = {{Techpoint|Green|40}}
+| source       = [[Farming]]
+| buy          = [[Miller|Miller (T II & T III)]]
+| sell         = [[Miller|Miller (T II & T III)]]
+| cost         = 35
+| stacksize    = 50
+}}
+'''{{PAGENAME}}s''' are one of five different types of complex seeds, to be utilized at the [[Vineyard]]. They must be planted in an [[vine trellis]] and may be harvested after a certain amount of time. In order to obtain {{lcfirst:{{PAGENAME}}}}s, you will likely need to purchase them from the [[Miller]], though there is a small chance in finding some within the [[Dungeon]].
+
+Harvesting a mature crop will return some seeds, though without using a quality fertilizer, the chance of receiving enough seeds to replant the crop is very unlikely. In addition, given the varieties of quality, the use of Q1 and Q2 fertilizers will provide small amounts of upgraded produce and seeds. See the relevant articles on each fertilizer - or the general article on [[farming]] - for more info.
+
+==Quality==
+{|class="wikitable"
+|{{Quality Sprite|image = i_hop_seed.png|quality = copper}}
+|{{Quality Sprite|image = i_hop_seed.png|quality = silver}}
+|{{Quality Sprite|image = i_hop_seed.png|quality = gold}}
+|-
+|Copper
+|Silver
+|Gold
+|}
+
+==Planting==
+{|class="wikitable" style="width:35em;"
+!colspan="3"|{{Item|Vine trellis}}
+|-
+!Items Produced
+!Materials Required
+!style="width:5em;"|Time
+|-
+|{{Item|Hops|3-5|animation}}<br>{{Item|{{PAGENAME}}|2-4|animation}}<br>{{Item|Crop waste|?}}
+|{{Item|{{PAGENAME}}|4|animation}}
+|24:00
+|}
+
+==Study==
+{|class="wikitable" style="width:40em;"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy
+!Notes
+|-
+|{{Techpoint|Green|40}}
+|{{Item|Faith|4}}<br>{{Item|Science|4}}
+|{{Energy|-|1}}
+|Not decomposable
+|}
+
+==Trading==
+{|class="wikitable" style="text-align:center;"
+|-
+!NPC!!Quality!!Tier!!Base Cost!!Qty!!Base Price
+|-
+|rowspan="3"|{{NPC|Miller}} 
+|[[File:Bronze Star.png]]
+|II
+|{{Money|35}}
+|8x
+|{{Money|25}}
+|-
+|[[File:Silver Star.png]]
+|rowspan="2"|III
+|{{Money|47}}
+|8x
+|{{Money|33}}
+|-
+|[[File:Gold Star.png]]
+|{{Money|60}}
+|8x
+|{{Money|43}}
+|}
+
+<br>
+{{Navbox-Farming}}
+[[Category:farming items]]
+[[Category:seeds]]
+[[Category:Sellable]]
+[[fr:Graine de Chanvre]]
+[[ru:Семена хмеля]]

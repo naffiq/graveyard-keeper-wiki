@@ -1,0 +1,76 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Wood
+| nameinternal = jointing
+| study        = {{Techpoint|Red|100}}
+| alchemy      = 
+| source       = [[Carpenter's workbench II]]
+| buy          = [[Tress|Tress (T III)]]
+| sell         = [[Tress|Tress (T III)]]
+| cost         = 70
+| stacksize    = 10
+| quest        = 
+}}
+<b>{{PAGENAME}}s</b> are a late-game craft-able resource that's primarily used for creating upgraded workstations. 
+
+==Recipe==
+{| class = "wikitable" style="width:35em;"
+!colspan="3"|{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+!style="width:5em;"|Energy
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Wooden beam|1}}<br>{{Item|Nails|2}}<br>{{Item|Complex iron parts|1}}
+|style="text-align:center;"|{{Energy|-|15}}<br/>
+{{Techpoint|Red|5}}
+|}
+
+==Study==
+{| class="wikitable"
+!colspan="4"|{{Item|Study table}}
+|-
+!style="width:7.5em;"|Tech Points
+!style="width:12.5em;"|Resources Required
+!style="width:5em;"|Energy 
+!style="width:10em;"|Notes 
+|-
+|{{Techpoint|Red|100}}
+|{{Item|Faith|7}}<br>{{Item|Science|7}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Building==
+{| class="wikitable" style="width:35em;"
+!colspan="2"|[[Church]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Soft church bench}}
+|{{Item|Wooden plank|8}}<br>{{Item|{{PAGENAME}}|4}}<br>{{Item|Silk|2}}
+|-
+!colspan="2"|[[Alchemy lab]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Alchemy workbench (tier II)}}
+|{{Item|{{PAGENAME}}|6}}<br>{{Item|Steel parts|2}}<br>{{Item|Advanced conical flasks|3}}
+|-
+!colspan="2"|[[Workyard]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Jewelry table}}
+|{{Item|{{PAGENAME}}|2}}<br>{{Item|Steel parts|4}}<br>{{Item|Lens|2}}
+|}
+
+<br>
+{{Navbox-Wood}}
+[[Category:wooden items]]
+[[pt-br:Vigamento]]

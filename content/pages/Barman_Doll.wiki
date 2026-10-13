@@ -1,0 +1,38 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| source       = [[Carpenter's workbench]]
+[[Carpenter's workbench II]]
+| stacksize    = 1
+| type         = Stranger Sins Quest
+}}
+The <b>{{PAGENAME}}</b> is a craft-able item needed to operate the [[Talking Skull]] Tavern. Once the tavern is built, [[Gerry]] will tell you to make one. It can be crafted at any {{Item|Carpenter's workbench}}.
+==Recipe ==
+{| class="wikitable" style="width:40em;"
+! colspan="3" |{{Item|Carpenter's workbench}}
+|-
+! Item Produced
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|{{PAGENAME}}|1|}}
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Wooden beam|2}}
+|{{Energy|-|30}}
+|}
+{| class="wikitable" style="width:40em;"
+! colspan="3" |{{Item|Carpenter's workbench II}}
+|-
+!Item Produced
+!Materials Required
+! style="width:5em;" |Energy
+|-
+|{{Item|{{PAGENAME}}|1|}}
+|{{Item|Wooden plank|4}}<br>{{Item|Complex iron parts|4}}<br>{{Item|Wooden beam|2}}
+|{{Energy|-|25}}
+|}
+
+== Trivia ==
+The Barman Doll can be made unlimited times until you take one to the Talking Skull, after which it cannot be made again. Any additional dolls you make cannot be destroyed. While they are held over the head, they cannot be added to stockpiles, pallets, preparation places, resurrection tables, embalming tables, zombie work stations, buried, cremated, or thrown into the river.<br>{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]
+[[ru:Кукла бармена]]
+[[Category:Stranger Sins]]

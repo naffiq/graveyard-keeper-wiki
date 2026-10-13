@@ -1,0 +1,240 @@
+The ability to perform sermons is unlocked when you get the [[Perks|Preacher]] perk as part of the story progression. The [[Perks|Preacher]] perk is obtained when you speak to the [[bishop]] on {{Day|Pride}} after having achieved a [[graveyard]] quality of 5 {{Graveyard Rating}} or higher.
+
+To perform a sermon, wait for {{Day|Pride}} until sunrise then go to the [[church]], stand behind the lectern and press the action button (E) to pray, then select the sermon/prayer to perform, a short cutscene will play out showing a reaction of the congregation and giving you an idea of how the sermon went, afterward the members of the congregation will all provide a donation based on your [[Graveyard|Graveyard Rating]] {{Graveyard Rating}} and [[Church|Church Rating]] {{Church Rating}}.
+
+'''Note:''' If you already have performed a service that day, you'll get an error message, saying that you have to wait until next {{Day|Pride}}. This is misleading before sunrise, because then, it says '''next''' {{Day|Pride}} too, but it's actually only waiting for sunrise.
+
+=== Church Influence ===
+<blockquote>For the main article on how church ratings work see [[church]].</blockquote>Each sermon you can perform has a {{Church Rating}} requirement to be 100% successful.  You can still perform a sermon in a church below that requirement but it will have a chance to fail.   Your church rating {{Church Rating}} determines how many parishioners will attend your sermon as well as the amount of [[faith]] you will get as a result of your sermon. A successful sermon creates donations at the base rate of <span>3{{Copper Coin}}:1{{Graveyard Rating}}</span>, and will produce faith at a rate of <span>1[[file:faith item.png|22px|link=http://graveyardkeeper.gamepedia.com/File:Faith_item.png]]:5{{Church Rating}}</span>.
+
+{| class="wikitable" 
+!Name
+!Notes
+|-
+|{{Item|Faith|||80x80px}}
+|Required for most tasks involving the [[study table]] as well as several [[quests]] and [[Work Stations|recipes]].
+|}
+
+===Sermon Topics===
+All sermon topics must first be unlocked via various [[technologies]] and then must be crafted at the [[desk]] for use in a sermon. The exception to this is the [[casual prayer]] which is given by default when the [[church]] is first opened.
+
+A '''successful''' sermon provides additional faith and coins specified on the prayer. Otherwise, you'll just get the base results.
+
+{| class="wikitable"
+!Icon
+!Sermon Topic
+!{{Church Rating}}Quality Required
+!Description
+!Notes
+|-
+|[[File:i_b_empty.png|link=]]
+|[[Casual prayer]]
+|10
+|A couple words without any real inspiration. It still works somehow...<br><br>
+[[Faith]](x2)
+|Received from the [[Bishop]] after unlocking [[Church]].
+|-
+|[[File:i_b_faith.png|link=]]
+|[[Prayer for faith]]
+|{{quality|copper}}10<br>{{quality|silver}}20<br>{{quality|gold}}50
+|A number of very touching words. Your flock will produce more[[File:Faith.png|frameless|22x22px]].<br><br>
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +20%<br>Sermon faith: +50%<br>[[Faith]](x1), {{Money|100}}
+ |{{Quality|silver}}<br>Sermon money: +20%<br>Sermon faith: +100%<br>[[Faith]](x2), {{Money|200}}
+ |{{Quality|gold}}<br>Sermon money: +20%<br>Sermon faith: +150%<br>[[Faith]](x3), {{Money|300}}
+ |}
+|
+|-
+|[[File:i_b_money.png|link=]]
+|[[Prayer for donations]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}50
+|Piteous word about the church's needs. You can count on the extra donations!<br><br>
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +50%<br>Sermon faith: +20%<br>[[Faith]](x1), {{Money|100}}
+ |{{Quality|silver}}<br>Sermon money: +100%<br>Sermon faith: +20%<br>[[Faith]](x2), {{Money|200}}
+ |{{Quality|gold}}<br>Sermon money: +150%<br>Sermon faith: +20%<br>[[Faith]](x3), {{Money|300}}
+ |}
+|
+|-
+|[[File:i_b_plant.png|link=]]
+|[[Prayer for shoots and roots]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}30
+|A few words about the importance of agriculture, fertilization, and personal hygiene.<br><br>
+Grants [[Effects|Fertility]]: "Vegetables grow faster."
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00<hr>Increases the growth rate of vegetable crops.<br>[[File:Update Alert.png|link=|frameless]] Potentially doesn't work.
+|-
+|[[File:i_b_sins.png|link=]]
+|[[Prayer for repentance]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}40
+|Its about sin and forgiveness. Based on a couple stories from your youth.<br><br>
+Grants [[Effects|Repentance]]: "More people come during the week to confess their sins."
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +10%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +10%<br>Sermon faith: +50%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +10%<br>Sermon faith: +75%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00<hr>Increases the chance the [[Confessional]] being filled at the [[Church]].<br>[[File:Update Alert.png|link=|frameless]] Potentially doesn't work.
+|-
+|[[File:i_b_vilage.png|link=]]
+|[[Prayer for prosperity]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}30
+|For those who earn their keep in honest trade. This will give you a [[Blessing of commerce|Commercial Blessing]] which can improve one vendor.<br><br>
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x1), {{Money|100}}
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x2), {{Money|200}}
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x3), {{Money|300}}
+ |}
+|This sermon grants the user 1/2/3 {{item|Blessing of commerce}}.
+|-
+|[[File:i_b_faith_money.png|link=]]
+|[[Combo prayer]]
+|{{Quality|copper}}15<br>{{quality|silver}}30<br>{{quality|gold}}60
+|A touching story about the church's needs. Earns extra[[File:Faith.png|frameless|22x22px]] and donations.<br><br>
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +50%<br>Sermon faith: +50%<br>[[Faith]](x1), {{Money|100}}
+ |{{Quality|silver}}<br>Sermon money: +100%<br>Sermon faith: +100%<br>[[Faith]](x2), {{Money|200}}
+ |{{Quality|gold}}<br>Sermon money: +150%<br>Sermon faith: +150%<br>[[Faith]](x3), {{Money|300}}
+ |}
+|This prayer combines the benefits of Faith and Donations.
+|-
+|[[File:i_b_sword.png|link=]]
+|[[Prayer for retribution]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}40
+|True words that fuel you with fury.<br><br>
+Grants [[Effects|Rage]]: "You deal additional damage to monsters".
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00<hr>Increases the damage of your weapon by 5.
+|-
+|[[File:i_b_shield.png|link=]]
+|[[Prayer for protection]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}40
+|True words that make you tough.<br><br>
+Grants [[Effects|Tough Mood]]: "You receive less damage from enemy attacks."
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00<hr>Increases armor by 4.
+|-
+|[[File:i_b_skull.png|link=]]
+|[[Prayer for repose]]
+|{{Quality|copper}}20<br>{{Quality|silver}}40<br>{{Quality|gold}}50
+|(Advertising) All deceased are welcome in your graveyard!<br><br>
+Grants [[Effects|Difficult Corpses]]: "Donkey brings corpses with more {{White Skull}} and {{Red Skull}}."
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +10%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +50%<br>Sermon faith: +10%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +75%<br>Sermon faith: +10%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00<hr>Increases the variance in a corpses Important Parts.
+Increases the maximum corpse tier delivered by 1.<br>[[File:Update Alert.png|link=|frameless]] Has no effect if maximum corpse tier is already unlocked.
+|-
+|[[File:i_b_pen.png|link=]]
+|[[Prayer for imagination]]
+|{{Quality|copper}}10<br>{{Quality|silver}}40<br>{{Quality|gold}}60
+|These words will boost your inspiration!<br><br>
+Grants [[Effects|Inspiration]]: "You have a better chance to write something of good quality."
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +10%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +10%<br>Sermon faith: +50%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +10%<br>Sermon faith: +75%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00<hr>+0.7 base quality when crafting stories, notes, chapters, and most sermons.<br>Does not affect any other crafting, <b>including</b> books.
+|-
+|[[File:i_b_star.png|link=]]
+|[[Prayer for excellence]]
+|{{Quality|copper}}10<br>{{Quality|silver}}40<br>{{Quality|gold}}60
+|True words about the blessedness of hard work.<br><br>
+Grants [[Effects|Handyman Mood]]: "You have a better chance to craft something of good quality."
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +10%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +10%<br>Sermon faith: +50%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +10%<br>Sermon faith: +75%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}18:00<br>{{Quality|silver}}36:00<br>{{Quality|gold}}54:00<hr>+0.2 base quality of some craftables.<br>Does <b>not</b> affect food, drink, or writing.
+|-
+|[[File:Prayer for soul repose.png|link=]]
+|[[Prayer for soul's repose]]
+|{{Quality|copper}}15<br>{{Quality|silver}}30<br>{{Quality|gold}}60
+|Let's pray for the repose of souls. The more {{Techpoint|soul}} you got, the more faith you'll get<br><br>
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +50%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +100%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +150%<br>[[Faith]](x3)
+ |}
+|Exact mechanics TBA. Added in the [[Better Save Soul]] DLC.
+|-
+|[[File:Prayer for soul contentment.png|link=]]
+|[[Prayer for soul's contentment]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}30
+|Let us pray for the contentment of souls. Increases the amount of ([[Soul Gratitude|gratitude points]]) received from souls (+10%)<br><br>
+Grants [[Effects|Spiritual blessing]]: "Gain 10% more of {{Techpoint|soul}}"
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}TBA<br>{{Quality|silver}}TBA<br>{{Quality|gold}}1:48:00<hr>Added in the [[Better Save Soul]] DLC.
+|-
+|[[File:Prayer for soul cleansing.png|link=]]
+|[[Prayer for soul's thorough cleansing]]
+|{{Quality|copper}}10<br>{{Quality|silver}}20<br>{{Quality|gold}}30
+|Let us pray for the thorough cleansing of souls. Increases the number of [[Sin Shard|shards of sins]] [sic] received from the successful treatment of souls (x2)<br><br>
+Grants [[Effects|Spiritual magnetism]]: "Gain x2 of sin shards"
+ {| style="width: 100%;"
+ |{{Quality|copper}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x1)
+ |{{Quality|silver}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x2)
+ |{{Quality|gold}}<br>Sermon money: +25%<br>Sermon faith: +25%<br>[[Faith]](x3)
+ |}
+|<u>Duration</u>:<br>{{Quality|copper}}36:00<br>{{Quality|silver}}1:12(confirmation needed)<br>{{Quality|gold}}1:48:00<hr>Added in the [[Better Save Soul]] DLC.
+|}
+
+===Unimplemented Sermon Icons===
+None of these should be seen in-game, though, oddly, the Pray for souls' repose sermon uses grey question mark icon (almost certainly a bug).
+<gallery>
+File:i_b_cross.png
+File:i_b_circle.png
+File:i_b_techpoint_red.png
+File:i_b_techpoint_green.png
+File:i_b_techpoint_blue.png
+File:i_b_random.png
+File:i_b_energy.png
+File:i_b_ghost.png
+</gallery>
+
+===Crafting Sermons===
+Where to craft :
+* Sermons are crafted at [[Desk]] and [[Desk II]].
+* [[Notes]] and [[Chapter]]s required are also crafted at the desks.
+* [[Book]]s required by some of them are crafted at the desks.
+* [[Hard cover]] and [[Softcover]] required to make the [[Book]]s are crafted at the [[Church workbench]].
+* [[Clean paper]] is produced in different ways at different stations.
+
+[[Desk II]] is not required for anything but it improves the quality of many crafts compared to [[Desk]].
+
+Quality of notes, chapters and most sermons is impacted by:
+* The base difficulty of the craft
+* [[Perks|Writer perk]] : +30%
+* [[Perks|Playwright perk]] : +50%
+* ''Inspiration'' buff from [[Prayer for imagination]] : +70%
+* [[Desk II]] : 0 to 30%, 20% for most sermons ( See [[Desk II#Quality Increases compared to Desk|Desk II]] for details )
+* Quality of the Ingredients : using only the best ingredients gives +200 compared to using only the worst. Each quality uptick of an ingredient is worth the same. (So for a craft with a single ingredient with quality and that quality ranging from Bronze to Gold, each uptick is worth 100%.)
+
+Quality of [[Prayer for imagination]] and [[Prayer for excellence]] is not improved by anything but the ingredients.
+
+Quality of [[Book]] is improved by [[Desk II]] (20%) and [[Perks|Jeweler perk]] (70%)
+
+{{Navbox-Church}}
+[[https://graveyardkeeper.gamepedia.com/Category:Topics]]
+[[Category:sermons]]
+[[pt-br:Sermões]]

@@ -1,0 +1,65 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Basic Alchemy Resource
+| nameinternal = alchemy_1_d_violet
+| study        = {{Techpoint|Blue|5}}
+| source       = [[Alchemy]]
+| vendor       = [[Clotho|Clotho (T I)]]
+| buyer        = 
+| cost         = 50
+| stacksize    = 50
+}}
+<b>{{PAGENAME}}</b> is a basic [[alchemy]] resource associated with one of the fundamental elements.
+
+==Recipe==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy mill}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|{{PAGENAME}}|3}}
+|{{Item|Dark intestine|1}}
+|-
+|{{Item|{{PAGENAME}}|1}}
+|{{Item|Goo|variant=death|4}} of Death
+|}
+
+==Study==
+{|class="wikitable" style="width:40em"
+!colspan="4"|{{Item|Study table}}
+|-
+!Tech Points
+!Resources Required
+!Energy 
+!Notes
+|-
+|{{Techpoint|Blue|5}}
+|{{Item|Science|1}}
+|{{Energy|-|5}}
+|Not decomposable
+|}
+
+==Crafting==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|{{Item|Alchemy workbench (tier I)}}
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Black paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Water|1}}
+|-
+|{{Item|Dark elixir|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Blood|1}}
+|-
+|{{Item|Dark Violet Paint|1}}
+|{{Item|{{PAGENAME}}|1}}<br>{{Item|Oil|1|}}
+|}
+
+<br>
+{{Navbox-Alchemy}}
+[[Category:Basic alchemy resources]]
+[[Category:Alchemy]]
+[[pt-br:Pó da morte]]

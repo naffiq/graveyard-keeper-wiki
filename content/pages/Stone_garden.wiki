@@ -1,0 +1,37 @@
+{{Location Infobox
+| name      = Stone Garden
+| image     = Stone garden 1.png
+| size      = //optional, default is 250x250px
+| exits     = [[Workyard]]
+| buildable = True
+| NPCs      = 
+}}
+The stone garden is a quiet place, where you can meditate and let time pass if you want to wait for a specific [[days|day]]. It is located directly northwest of [[Sweet Home|your home]]. In order to use it, you first have to build it.
+
+==Crafting==
+Just click on the sign northwest of [[Sweet Home|your home]].
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|A piece of stone|6}}
+{{Item|River sand|10}}
+| {{energy|-|10}}
+|}
+
+==Usage==
+Just hit "E" to enter the stone garden and start meditating. You will slowly gain {{energy}} while doing so. To quit, hit "E" again. Compared to sleeping, the gain of {{energy}} is slower, but meditation doesn't stop even if you are fully rested.
+
+A full day passes every 45 seconds.
+
+'''Note:''' Your game will '''not''' be saved here.
+
+This is what it looks like:<br>
+[[file:Stone garden 2.png|Ommmm ...]]
+
+{{Navbox-Locations}}
+[[Category:Workstations]]
+
+[[Category:Stone garden workstations]]

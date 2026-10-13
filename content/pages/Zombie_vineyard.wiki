@@ -1,0 +1,90 @@
+__NOTOC__{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.gif
+|location   = West side of [[Witch Hill]]
+|technology = [[Farming and Nature (Tech Tree)|Zombie Vineyard]]
+|related    = [[Zombie]]s, [[Vineyard]]
+|footprint  = 7x6
+|rotatable  = False
+}}
+A {{lcfirst:{{PAGENAME}}}} is a place where you can have a {{item|zombie}} grow your [[Grapes]] or [[Hops]] autonomously. The farms come in 3 tiers: {{quality|copper}}, {{quality|silver}} and {{quality|gold}}, where you can only grow grapes/hops of that tier or below. 
+
+You have to first complete a quest for the [[inquisitor]], after which the workbench in the vineyard will appear. You can use the workbench to create the zombie vineyard, more trellises, or a trunk.{{clear}}
+
+==Cost==
+The player would need to clear any existing vine trellis' before placing the zombie vineyard.
+{| class="wikitable" style="text-align:center;width:40em;"
+!colspan=4|[[file:vineyard workbench.png|64px|link=vineyard workbench|Vineyard]] [[vineyard workbench|Vineyard]]
+|-
+!style="width:5em;"|Icon
+!Materials Required
+!Energy
+!Notes
+|-
+|[[file:{{PAGENAME}} item.png|64px|{{PAGENAME}} tier I]]<br>tier 1
+|{{Item|Wooden plank|5}}<br>{{Item|Simple iron parts|3}}<br>{{Item|Nails|10}}
+|{{Energy|-|17}}<br>+<br>{{Energy|-|11}}
+|trellis built<br>+<br>station built
+|-
+|[[file:{{PAGENAME}} u2 item.png|64px|Upgrade to tier II]]<br>tier 2
+|{{Item|Quality fertilizer I|12}}
+|N/A
+|Upgraded from<br>tier 1 vineyard.
+|-
+|[[file:{{PAGENAME}} u3 item.png|64px|Upgrade to tier III]]<br>tier 3
+|{{Item|Quality fertilizer II|12}}
+|N/A
+|Upgraded from<br>tier 2 vineyard.
+|}
+
+==Upgrading the Farm==
+You need to build a tier I farm first. Then you may upgrade it to tier II and afterwards to tier III. You have to use the [[fertilizer]] only once to upgrade the farm, it lasts forever.
+
+Upgrading the farm to a higher tier has the following effects:
+
+{| class="wikitable" style="text-align:center;width:40em;"
+!style="width:5em;|Icon
+!Available crops
+!Complex crop yield
+!Craft speed
+|-
+|[[file:{{PAGENAME}} item.png|64px|{{PAGENAME}} tier I]]<br>tier 1
+|{{quality|copper}}
+|10
+|8:20 @ 40%e<br>5:08 @ 65%e<br>4:17 @ 77.5%e<hr>3:20 Base*
+|-
+|[[file:{{PAGENAME}} u2 item.png|64px|{{PAGENAME}} tier II]]<br>tier 2
+|{{quality|copper}} {{quality|silver}}
+|14
+|6:40 @ 40%e<br>4:06 @ 65%e<br>3:26 @ 77.5%e<hr>2:40 Base*
+|-
+|[[file:{{PAGENAME}} u3 item.png|64px|{{PAGENAME}} tier III]]<br>tier 3
+|{{quality|copper}} {{quality|silver}} {{quality|gold}}
+|18
+|5:00 @ 40%e<br>3:05 @ 65%e<br>2:35 @ 77.5%e<hr>2:00 Base*
+|}* <small>The time which was arbitrarily chosen for this craft, diminished by the inefficiency of the given zombie.</small>
+
+==Working the Farm==
+Take a {{item|zombie}} near the farm, hit "E" to put it to work, and "E" again to remove it from the farm. Stand next to the zombie, hit "E" to select, and then select which crop should be produced or upgrade the farm.
+
+It takes a while for the crops to be produced - the higher the tier of the farm and the higher the work effiency of the zombie, the faster they work. You'll see a progress bar below the crop that's currently produced. After a while the products are stored automatically in a [[trunk]] of the [[vineyard]]. This sign [[file:work blocked.png|work blocked]] on the farm means that the trunk is full (or missing) and the work is blocked until some storage space is freed up (or constructed).
+
+{| class = "wikitable"
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!Notes
+|-
+|{{Item|Hops|10-18|animation}}<br>{{Item|Hops seed|12|animation}}
+|{{Item|Hops seed|12|animation}}
+|High quality crops need farm of appropriate tier.
+|-
+|{{Item|Grapes|10-18|animation}}<br>{{Item|Grape seed|12|animation}}
+|{{Item|Grape seed|12|animation}}
+|High quality crops need farm of appropriate tier.
+|-
+|}
+'''Note:''' The number of crops produced, that are shown in this table and in the GUI of the farm, are only '''averages'''. The real numbers differ by a small random amount from those. Also the number of seeds varies around 12. 
+
+<br>
+[[Category:Workstations]]
+[[Category:Witch Hill workstations]]

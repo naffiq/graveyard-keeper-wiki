@@ -1,0 +1,41 @@
+{{Workstation-Infobox
+|name       = {{PAGENAME}}
+|image      = {{PAGENAME}}.png
+|location   = [[Alchemy Lab]]
+|technology = [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]]
+|related    = [[Alchemy]]
+|footprint  = 6x3
+|rotatable  = No
+}}
+A {{Item|Zombie}} crafting station can be built in the [[alchemy lab]] after you unlocked [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]].
+
+Here, [[zombie]]s can produce all kinds of alchemical [[potion]]s and [[elixir]]s. The recipes have to be discovered first.
+
+'''Notes:''' 
+
+*You can't work at this station on your own, you can just order the products and the zombie has to prepare them. It's possible to order several products at once in a task queue.
+
+
+*Recipes learned from [[Clotho]] are not automatically added to this workbench. They must first be made at least once by the player on one of the player workbenches before they will become available on the zombie workbench.
+
+Horizontal and vertical : 6 X 3
+
+Rotation : Not possible
+{{clear}}
+
+==Cost==
+{| class="wikitable"
+!style="width:5em;"|Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|style="text-align:center"|[[file:{{PAGENAME}} item.png|80x80px]]
+|{{Item|Wooden plank|10}}<br>
+{{Item|Simple iron parts|6}}<br>
+{{Item|Conical flasks|4}}
+|{{Energy|-|10}}
+|Requires: [[Anatomy_and_Alchemy_(Tech_Tree)#Alchemy|Zombie alchemy workbench]].
+|}
+
+{{Navbox-Alchemy lab}}

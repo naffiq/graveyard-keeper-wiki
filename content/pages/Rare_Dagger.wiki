@@ -1,0 +1,20 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}}.png
+| type         = Stranger Sins Quest item
+| nameinternal = 
+| study        = 
+| stacksize    = 
+| source       = [[Tress]]
+| cost         = 
+}}
+
+The {{PAGENAME}} can be retrieved from [[Tress]]. Near [[Koukol]] in the evening you will find [[Gypsy Baron]] in a wooded area standing in front of a stump. He stuck the dagger into the stump and cast a spell on it so that only the most deserving gypsy can remove it. He is surprised to see the dagger missing from the charmed stump. Whoever could pull the dagger out would become his successor. He lets you know that [[Woodcutter]] and [[Cory]] witnessed him putting it into the stump.
+
+Go Speak to both Cory and Woodcutter and they will tell you they have been unable to get it out despite trying. Cory tells you to ask Tress about it. After speaking with Tress, he tells you that he easily pulled out the {{PAGENAME}} from the stump and gives it to you.
+
+
+Can be sold to [[Koukol]] for {{Money|3750}}.
+
+{{Navbox-StrangerSinsQuest}}
+[[Category:stranger sins quest items]]

@@ -1,0 +1,69 @@
+The visions are granted by an anchient machine that is located in the Talking Skull Cellar. Once Garry askes you to find some booze, you have to dig northern of Dig to find the anchient machine. Sadly you're not allowed to take it with you, because it's not your land, so you have to buy this plot from Horadric in Digs name. Now you can build the Talking Skull in which the machine is located in the cellar.
+
+To get the machine to work, you have to get some artifacts. You have to get them one by one and insert them into the machine to get a corresponding vision. Gerry tells you, where to find the next artifacts after you've seen a vision.
+{| class="fandom-table"
+|+
+!Artifact
+!Vision Title
+!Time Stamp
+|-
+|[[Statuette]]
+|We'll be together
+|11 before the AC
+|-
+|[[Flask]]
+|Terror is coming
+|11 before the AC
+|-
+|[[Door Hinge]]
+|The Portal is dangerous
+|11 before the AC
+|-
+|[[Legionary Helm]]
+|We don't need this God
+|11 before the AC
+|-
+|[[Ancient Lockpicks]]
+|I'm the Master
+|10 before the AC
+|-
+|[[Priests Medallion]]
+|
+|
+|-
+|[[The Legionary Dagger]]
+|
+|
+|-
+|[[Belt Buckle]]
+|
+|
+|-
+|[[Clay Shards]]
+|
+|
+|-
+|[[Amulet of The Ancient God|Amulet Of The Ancient God]]
+|
+|
+|-
+|[[Ancient Shackles]]
+|
+|
+|-
+|[[Ancient Pickaxe]]
+|
+|
+|-
+|[[Ancient Keys]]
+|
+|
+|-
+|[[Clay Pot of Tar|Clay Pot Of Tar]]
+|
+|
+|-
+|
+|
+|
+|}

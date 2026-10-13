@@ -1,0 +1,25 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Weapon
+| damage       = {{Health|-|20}}
+| nameinternal = sword_damask
+| source       = None
+| efficiency   = ?%
+| energy       = {{Energy|-|1}}
+| cost         = 10000
+}}
+
+The {{PAGENAME}} is one of the highest tier weapons known, dealing {{Health|-|20}} damage per swing while only using {{Energy|-|1}}. [[Snake]] will ask for this item as part of his quest chain, but as of v1.030, it's no longer available in-game. He needs a [[Damask sword with gem]] instead to complete the quest.
+
+==See Also==
+*{{Item|Steel sword}}
+*{{Item|Damask sword with gem}}
+
+{{Navbox-Equipment}}
+[[Category:equipment]]
+[[Category:weapons]]
+[[Category:metal items]]
+[[Category:smithing items]]
+
+[[pt-br:Espada damascena]]

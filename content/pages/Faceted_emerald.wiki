@@ -1,0 +1,17 @@
+{{Item Infobox
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| consume      = 
+| study        = 
+| alchemy      = {{Item|Order powder}}
+| source       = ?
+| cost         = 
+| stacksize    = 
+| type         = Unimplemented
+| quest        = 
+| nameinternal = 
+}}
+{{PAGENAME}} is currently not obtainable.
+
+{{Navbox-Misc}}
+[[Category:Unobtainable]]

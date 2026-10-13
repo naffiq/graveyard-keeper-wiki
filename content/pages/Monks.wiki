@@ -1,0 +1,21 @@
+{{stub}}
+
+{{NPC Infobox
+| name     = Monk
+| image    = Church goer.png
+| day      = 
+| location = [[Church]]
+| vendor   = 
+| role     = Church goer
+}}
+
+
+
+The [[{{PAGENAME}}]] are [[NPCs]] who attend your [[Sermon]] on {{day|Pride}} at the [[Church]]. They are the main source of {{Item|Faith}}.
+
+After the [[Sermon]] they also donate [[money]] into the [[Donation box|Donation Box]]. The number attending [[{{PAGENAME}}]] depends on the number of [[Church bench|Church benches]]/{{Church Rating}}.
+
+{{Navbox-NPCs}}
+
+[[Category:NPCs]]
+[[ru:Монахи]]

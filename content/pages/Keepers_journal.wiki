@@ -1,0 +1,14 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Quest
+| nameinternal = quest_cultit_book
+| source       = [[Dungeon]]
+| quest        = [[Astrologer]]
+}}
+
+Obtainable after you unlock the [[dungeon]] as part of the [[Astrologer]]'s quest.  Once you give the [[active key]] to [[Snake]] you'll get a cutscene in which the player dies to a fire trap while trying to retrieve this item.  Afterward [[Snake]] allows you to enter the dungeon, giving you a quest of his own, and the trap is disabled allowing you to retrieve the diary.
+
+
+{{Navbox-Quest}}
+[[Category:Quest items]]

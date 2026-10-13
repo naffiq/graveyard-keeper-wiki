@@ -1,0 +1,38 @@
+{{Item Infobox 
+| name         = {{PAGENAME}}
+| image        = {{PAGENAME}} item.png
+| type         = Repair kit
+| nameinternal = repair_stn
+| study        = 
+| source       = [[Stone cutter]], [[Stone cutter II]]
+| buy          = None
+| sell         = None
+}}
+Stone repair kits are used to fix grave fences and grave markers made of stone. Currently the only damaged graves are those at the start of the game, but in future releases Graves will weather damage and will require regular repair to continue providing their full bonuses.
+
+==Recipe==
+{| class = "wikitable" style = "width:35em; table-layout:fixed;"
+! colspan = "2" | {{Item|Stone cutter}}
+|-
+! style="width:17.5em;"| Item Produced
+! style="width:17.5em;"| Materials Required
+|-
+| {{Item|Stone repair kit|4}}
+|{{Item|A piece of stone|1}}
+{{Item|Simple iron parts|2}}<br>
+{{Item|Clay|1}}
+|}
+
+==Building==
+{|class="wikitable" style="width:35em; table-layout:fixed;"
+!colspan="2"|[[Sacrifice_Zone|Sacrifice Zone]]
+|-
+!Item Produced
+!Materials Required
+|-
+|{{Item|Blood fountain|||80px}}
+|{{Item|A polished brick of stone|5}}<br>{{Item|Polishing paste|5}}<br>{{Item|{{PAGENAME}}|1}}
+|-
+|}
+{{Navbox-Stone}}
+[[Category:stone items]]

@@ -1,0 +1,132 @@
+{{Workstation-Infobox
+|name       = Stone cutter
+|image      = Stone cutter.png
+|location   = [[Workyard]], [[Cabin in the woods]]
+|technology = [[Building (Tech Tree)|Stoneworking]]
+|related    = [[Mining]]
+|footprint  = 5x3
+|rotatable  = True (Mirror)
+}}
+The stone cutter is where you process pieces of stone into more useful products.
+
+With [[Building (Tech Tree)|Stone carving]] technology, you can later build the better (but ore voluminous) [[Stone cutter II]].
+
+==Cost==
+{| class="wikitable"
+!style="width:2.5em;| Icon
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|style = "text-align:center;"|[[file:Stone Cutter Icon.png]]
+|{{Item|Flitch|4}}<br>{{Item|Nails|4}}
+|
+|Requires [[Building (Tech Tree)|Stoneworking]]
+|}
+
+==Recipes==
+===Other===
+{| class="wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_other.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|{{Item|A piece of stone|1}}
+|{{Item|Gravestone|1}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|A piece of stone|1}}
+|{{Item|Stone grave fence|1}}
+|{{Energy|-|10}}
+|
+|}
+===Metal===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_metal.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!style="width:5em;"|Notes
+|-
+|{{Item|Iron ore|5}}
+|{{Item|Iron block|1}}
+|{{Energy|-|10}}
+|
+|}
+===Stone===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab_stone.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|A piece of stone|6}}
+|{{Item|Stone block|1}}
+|{{Energy|-|15}}
+|[[file:Mason Perk.png|40px|link=Perks#Mason Perk]] +2
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Polishing paste|1}}
+|{{Energy|-|15}}
+|
+|-
+|{{Item|A polished brick of stone|1}}
+|{{Item|A piece of stone|1}}<br>{{Item|Iron chisel|1}}
+|{{Energy|-|15}}
+|
+|-
+|{{Item|A piece of marble|3}}
+|{{Item|Marble block|1}}<br>{{Item|Wood wedge|2}}
+|{{Energy|-|15}}
+|
+|-
+|{{Item|A polished brick of marble|1}}
+|{{Item|A piece of marble|1}}<br>{{Item|Iron chisel|1}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|Stone repair kit|4}}
+|{{Item|A piece of stone|1}}<br>{{Item|Simple iron parts|2}}<br>{{Item|Clay|1}}
+|{{Energy|-|10}}
+|
+|-
+|{{Item|Marble repair kit|4}}
+|{{Item|A polished brick of marble|1}}<br>{{Item|Complex iron parts|2}}<br>{{Item|Clay|1}}
+|{{Energy|-|10}}
+|
+|}
+===Stone Decor===
+{| class = "wikitable"
+!colspan = "4" style = "text-align:center;"|[[file:tab stone gravestone.png|link=|frameless]]
+|-
+!style="width:17.5em;"| Item Produced
+!style="width:17.5em;"| Materials Required
+!style="width:5em;"| Energy
+!Notes
+|-
+|{{Item|Gravestone|1}}
+|{{Item|A piece of stone|2}}
+|{{Energy|-|20}}
+|Adds {{Grave Decor}}2 to the grave.
+|-
+|{{Item|Stone grave fence|1}}
+|{{Item|A piece of stone|2}}
+|{{Energy|-|20}}
+|Adds {{Grave Decor}}2 to the grave.
+|-
+|}
+
+
+{{Navbox-Cabin and Workyard}}
+[[Category:Workstations]]
+
+[[Category:Cabin in the woods workstations]]
+[[Category:Workyard workstations]]
+[[de:Steinschneider]]

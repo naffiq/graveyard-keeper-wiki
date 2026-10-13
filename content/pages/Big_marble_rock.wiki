@@ -1,0 +1,5 @@
+{{stub}}
+
+{{item|big marble rock}} can be collected in the landscape or produced on a [[stone cutter]] and is either:
+* {{item|a piece of marble}}
+* {{item|marble block}}

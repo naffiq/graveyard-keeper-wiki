@@ -1,0 +1,57 @@
+Fishing by the sea provides access to several [[fish]] that can be found no where else in the game, and can make your weekly trips to visit the [[astrologer]] slightly more profitable. More importantly, fishing at the sea is required if you happen to be an achievement hunter, as the elusive [[goldfish]] can be found nowhere else and there are several other fish unique to this spot as well.
+
+== Finding the Fishing Spot ==
+
+Starting from the [[The Dead Horse|tavern]], follow the roadway path all the way to the east where you will come across a ruined sea bridge. From there, head north along the [[beach]] sticking beside the coastline.  A short ways up north you'll find a pier, which you can interact with in order to start fishing.
+
+== Fish by Zone ==
+
+Keep in mind that at the sea, the near zone will be on the left of the bar and the far zone will be on the right side of the fishing bar, as replicated below. Information provided is accurate as of [[versions|Version 1.030]].
+
+[[File:Sea fishing zones.png|750px|left]]{{clear}}
+{| class="wikitable"
+! colspan="3" |Near
+! colspan="3" |Middle
+! colspan="3" |Far
+|-
+!{{Quality Sprite|image = i_fish_anchovy.png|link = Anchovy}}
+[[Anchovy]]
+!{{Quality Sprite|image = i_fish_eel.png|link = Eel}}
+[[Eel]]
+!{{Quality Sprite|image = i_fish_sardine.png|link = Sardine}}
+[[Sardine]]
+!{{Quality Sprite|image = i_fish_anchovy.png|link = Anchovy}}
+[[Anchovy]]
+!{{Quality Sprite|image = i_fish_tuna.png|link = Tuna}}
+[[Tuna]]
+!{{Quality Sprite|image = i_fish_salmon.png|link = Salmon}}
+[[Salmon]]
+!{{Quality Sprite|image = i_fish_anchovy.png|link = Anchovy}}
+[[Anchovy]]
+!{{Quality Sprite|image = i_fish_tuna.png|link = Tuna}}
+[[Tuna]]
+!{{Quality Sprite|image = i_fish_goldfish.png|link = Goldfish}}
+[[Goldfish]]
+|}
+
+== Zone Specific Fishing Tips ==
+
+Catching fish at each different fishing location can create different odds towards catching specific fish. For each fish present at the sea, some tips are provided below to help you catch each specific fish type available at the sea. Not all combinations are provided that could lead to catching the fish, only the best possible odds are considered. Further, time of day is only mentioned if it is relevant to the availability of the fish or if it increases the odds to catch them.
+
+=== [[Anchovy]] ===
+Unique to the sea, {{item|Anchovy}} are the alternative to {{item|Gudgeon}} if you are in need of the bait fish. Despite that, you may just need one for the ichthyologist achievement, but they make the bait fish incredibly easy to catch. Just bring the {{item|simple fishing rod}} with you, and you'll be able to nab it in either the near or middle zones with a 100% chance to put them on the hook.
+
+=== [[Eel]] ===
+While it may be easier to catch the {{item|Eel}} over in the [[swamp]], the fishing spot at the swamp is not the most convenient. But unlike the fishing hole in the swamp, you'll have to be a bit more timely regarding eel fishing at the sea.  During the day, you can reach 100% odds with the {{item|simple fishing rod}} and using {{item|Maggot}}s as bait.  At night?,  you're out of luck, because eels simply won't be caught at all at night in the sea no matter what rod and bait combination you try. However you can catch eel at night in the swamp.
+
+=== [[Sardine]] ===
+{{item|Sardine}} is another fish unique to the sea, but one with far less utility than the anchovy.  Thankfully, it isn't much harder to get this fish to have 100% odds of being on the hook.  You'll need the {{item|good fishing rod}} to have a shot at it, and just add bait.  Any bait will do whether it be {{item|Maggot}}s, either of the bait fish, or either lures.
+
+=== [[Tuna]] ===
+The third of the unique sea fish, fishing for {{item|Tuna}} is more about choosing the right zone. For 100% odds to hook one, fish in the far zone with a {{item|steel lure}} or either bait fish with the {{item|excellent fishing rod}}. Don't have that rod yet? Not to worry, you can also get 100% odds to hook one with the {{item|good fishing rod}} and either of the two lures or with bait fish.
+
+=== [[Salmon]] ===
+Apparently, our little slice of land in Graveyard Keeper must be near an estuary, because we can find the {{item|salmon}} here despite it normally being a fresh water fish, which seldom visits the sea. You can certainly find it elsewhere, but if you want to grab it while you are here with 100% odds, bring out the {{item|good fishing rod}} and bait it with {{item|Maggot}}s. Sweet and simple.
+
+=== [[Goldfish]] ===
+Now this is a tricky one, and the last of the sea specific fish.  Not just tricky, but the {{item|goldfish}} is the hardest fish to catch in the game right now, so it makes sense that there is an achievement based on catching one. You will need the {{item|excellent fishing rod}} as well as the {{item|lure with a gem}} to even have a slim chance at it. Better to come in at night for this particular beauty too, 5% odds to hook is significantly better than the 2% odds you'll face in the day. Trying to catch one will lead to a whole lot of tuna too, so make sure you have room in your inventory for those as well if you are fishing for the achievement.  Your reward? On top of the [[achievements|achievement]], you can sell these for around {{money|3400}} before diminishing returns kicks in.
