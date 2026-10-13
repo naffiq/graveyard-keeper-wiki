@@ -151,17 +151,23 @@ def extract(title, text, in_place=None):
             products = items_in(first)
             materials = items_in(second)
             perk = first.lstrip().startswith("*")
-            if products and materials and len(products) == 1:
-                name, qty = products[0]
-                if any(m == name for m, _ in materials):
-                    # e.g. embalming: Corpse + injection -> Corpse. The item is
-                    # modified, not made, so it should stay a raw material.
-                    if in_place is not None:
-                        in_place.add(name)
-                    continue
-                recipes.append(dict(product=name, qty=qty, materials=materials,
-                                    station=station or (title if is_station_page else ""),
-                                    perk=perk, source=title))
+            known_station = bool(station) or is_station_page
+            if products and materials and (len(products) == 1 or (known_station and len(products) <= 3)):
+                # A row may yield several things at once (burning a corpse gives a
+                # Burial certificate, Salt and Ash): one recipe per output, the
+                # others listed as by-products. Long multi-item rows without a
+                # station are quest/trade tables, not crafts.
+                for name, qty in products:
+                    if any(m == name for m, _ in materials):
+                        # e.g. embalming: Corpse + injection -> Corpse. The item is
+                        # modified, not made, so it should stay a raw material.
+                        if in_place is not None:
+                            in_place.add(name)
+                        continue
+                    recipes.append(dict(product=name, qty=qty, materials=materials,
+                                        station=station or (title if is_station_page else ""),
+                                        perk=perk, source=title,
+                                        also=[(n, q) for n, q in products if n != name]))
                 continue
             up = UPGRADE_RE.search(first)
             if up and materials:
@@ -215,7 +221,8 @@ def build(wikitext):
                 continue
             merged[key] = dict(product=r["product"], qty=r["qty"], materials=r["materials"],
                                stations=stations, perk=r["perk"],
-                               building=r.get("building", False), rank=rank)
+                               building=r.get("building", False), rank=rank,
+                               also=r.get("also", []))
     # Default recipe = first one: no perk, known station, product's own page order.
     recipes = sorted(merged.values(),
                      key=lambda r: (r["product"], r["perk"], not r["stations"], r["rank"]))

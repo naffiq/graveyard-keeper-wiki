@@ -3,6 +3,7 @@
 //   items:   name -> {h: page href, s: [x, y] sprite offset | i: image path}
 //   recipes: [product, yield, [[material, qty]...], [stations], flags]
 //            flags: 1 = needs a perk, 2 = building / upgrade
+//            optional 6th element: by-products [[name, qty]...] of the same craft
 (function () {
   const { items, recipes } = window.GK_DATA;
   const Cart = window.GKCart;
@@ -126,13 +127,14 @@
       </li>`).join('') || '<li class="note">Nothing — every ingredient is a craft.</li>';
 
     $('#steps-list').innerHTML = steps.map(({ name, recipe, need, crafts, made }) => {
-      const [, qty, mats, stations, flags] = recipes[recipe];
+      const [, qty, mats, stations, flags, also] = recipes[recipe];
       const options = byProduct.get(name);
       const where = flags & BUILDING && !stations.length ? 'Build' : stations.join(' / ') || 'Unknown station';
       return `<li class="step">
         <div class="step-head">${icon(name, 34)}
           <div><b>${link(name)}</b> <span class="qty">× ${fmt(need)}</span>
-          <div class="note">${esc(where)} · ${crafts} craft${crafts > 1 ? 's' : ''} × ${fmt(qty)}${made > need ? ` · ${fmt(made - need)} left over` : ''}</div></div>
+          <div class="note">${esc(where)} · ${crafts} craft${crafts > 1 ? 's' : ''} × ${fmt(qty)}${made > need ? ` · ${fmt(made - need)} left over` : ''}${
+            also ? ` · also gives ${also.map(([n, q]) => `${fmt(q * crafts)} ${esc(n)}`).join(', ')}` : ''}</div></div>
         </div>
         <div class="mats">${mats.map(([m, q]) => `<span class="mat">${icon(m, 22)}${fmt(q * crafts)} ${esc(m)}</span>`).join('')}</div>
         <div class="step-actions">
