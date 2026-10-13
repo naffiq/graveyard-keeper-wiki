@@ -12,6 +12,9 @@ on:
         description: "Redeploy GitHub Pages even if the wiki did not change"
         type: boolean
         default: false
+  push:  # code changes rebuild and redeploy right away
+    branches: [main]
+    paths: ["*.py", "*.js", "*.css", "icons/**", "deploy.sh", ".github/workflows/update-wiki.yml"]
 
 permissions:
   contents: write
@@ -88,7 +91,7 @@ jobs:
           fi
 
       - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/main' && (steps.snapshot.outputs.changed == 'true' || inputs.deploy)
+        if: github.ref == 'refs/heads/main' && (steps.snapshot.outputs.changed == 'true' || inputs.deploy || github.event_name == 'push')
         env:
           DEPLOY_REMOTE: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         run: ./deploy.sh

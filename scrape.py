@@ -460,6 +460,12 @@ class Archiver:
 </head><body>"""
 
     @staticmethod
+    def footer():
+        return ('<footer class="site-footer">Developed by <a href="https://naffiq.com">naffiq</a> · '
+                f'content from the <a href="{BASE}">Graveyard Keeper Fandom wiki</a>, '
+                '<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></footer>')
+
+    @staticmethod
     def header(root, extra):
         return f"""<header><a href="{root}index.html" class="home"><img src="{root}icons/logo.png" alt="" width="30" height="32">Graveyard Keeper Wiki</a>
 <div class="search"><input id="search" type="search" autocomplete="off"
@@ -486,7 +492,9 @@ class Archiver:
 <main><div class="title-row"><h1>{title}</h1>{add_btn}</div>
 {body}
 {f'<footer class="cats">Categories: {cat_links}</footer>' if cat_links else ''}
-</main></body></html>"""
+</main>
+{self.footer()}
+</body></html>"""
 
     def canon_cat(self, raw):
         """Category name, folding case variants into the one that has a page
@@ -612,6 +620,7 @@ the <b>+ Add to cart</b> button on any item or building page.</p>
 <p class="note">Recipes are parsed from the wiki's tables; a few may be incomplete or need a perk.</p></section>
 </div>
 </main>
+{self.footer()}
 <script src="data.js" defer></script>
 <script src="cart.js" defer></script>
 </body></html>""")
@@ -668,10 +677,10 @@ the <b>+ Add to cart</b> button on any item or building page.</p>
 </section>
 <h2>Categories</h2><ul class="catlist">{listing(cats)}</ul>
 <h2>All articles</h2><ul class="catlist">{listing(articles)}</ul>
-<p class="note">Content from the <a href="{BASE}">Graveyard Keeper Fandom wiki</a>, licensed
-<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; every page links to its original.
+<p class="note">Every page links to its original on Fandom.
 Unofficial offline copy, not affiliated with Fandom or the game's developers.</p>
 </main>
+{self.footer()}
 </body></html>""")
 
     def run(self, content_dir=None):

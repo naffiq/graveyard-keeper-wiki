@@ -63,4 +63,5 @@ python3 scrape.py && ./deploy.sh
    downloads new images; API responses and images persist in the Actions cache.
 2. Commits `content/` — one `.wiki` file per page plus `recipes.json` — so `git log content/`
    is the wiki's history and `git diff` shows exactly what changed between snapshots.
-3. On `main`, redeploys GitHub Pages if anything changed.
+3. On `main`, redeploys GitHub Pages if anything changed; pushes that touch the site code
+   (`*.py`, `*.js`, `*.css`, `icons/`) rebuild and redeploy immediately.
