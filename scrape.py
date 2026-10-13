@@ -468,6 +468,8 @@ class Archiver:
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="apple-touch-icon" href="{root}icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="{root}icons/icon-192.png">
+<script>window.GK_SITE = "gk1";</script>
+<script data-goatcounter="https://naffiq.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </head><body>"""
 
     @staticmethod

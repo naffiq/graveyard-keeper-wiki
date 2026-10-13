@@ -4,6 +4,16 @@
   const root = document.currentScript.src.replace(/[^/]*$/, '');
   const KEY = 'gk-cart';
 
+  // Anonymous, cookieless stats (GoatCounter). Events are prefixed with the
+  // site tag because both wikis report to the same GoatCounter site.
+  function track(name, title) {
+    try {
+      const path = `${window.GK_SITE || 'gk'}/${name}`;
+      window.goatcounter?.count?.({ path, title: title || path, event: true });
+    } catch (e) { /* blocked or not loaded yet: ignore */ }
+  }
+  window.gkTrack = track;
+
   const Cart = {
     load() {
       try {
@@ -55,10 +65,13 @@
     if (!btn) return;
     const name = btn.dataset.item;
     const s = Cart.add(name);
+    track(`cart-add/${name}`, `Add to cart: ${name}`);
     toast(`<b>${name.replace(/[&<>]/g, '')}</b> × ${s.items[name]} in cart · <a href="${root}cart.html">Open cart</a>`);
   });
   window.addEventListener('storage', e => { if (e.key === KEY) Cart.badge(); });
   Cart.badge();
+
+  window.addEventListener('appinstalled', () => track('pwa-installed', 'Installed as an app'));
 
   // ---------- PWA ----------
   if (!('serviceWorker' in navigator) || location.protocol === 'file:') {
@@ -103,6 +116,7 @@
   navigator.serviceWorker.ready.then(reg => {
     reg.active.postMessage({ type: 'offline-status' });
     button.addEventListener('click', () => {
+      track('offline-download', 'Download everything for offline');
       button.disabled = true;
       reg.active.postMessage({ type: 'offline-download', refresh: button.textContent.startsWith('Re-check') });
     });

@@ -5,6 +5,20 @@
   const input = document.getElementById('search');
   const box = document.getElementById('search-results');
   let texts = null, loading = false, active = -1, hits = [];
+  let trackTimer, lastTracked = '';
+
+  // Report what people search for once they stop typing; empty results are
+  // reported separately as they show what the wiki is missing.
+  function trackQuery(q, count) {
+    clearTimeout(trackTimer);
+    if (q.length < 3) return;
+    trackTimer = setTimeout(() => {
+      if (q === lastTracked || !window.gkTrack) return;
+      lastTracked = q;
+      window.gkTrack(`search/${q}`, `Search: ${q}`);
+      if (!count && texts) window.gkTrack(`search-empty/${q}`, `Search, nothing found: ${q}`);
+    }, 1500);
+  }
 
   function loadScript(src, cb) {
     const s = document.createElement('script');
@@ -65,6 +79,7 @@
         + (texts ? '' : '<div class="hint">Loading full-text index…</div>')
       : `<div class="hint">${texts ? 'Nothing found' : 'Loading full-text index…'}</div>`;
     box.hidden = false;
+    trackQuery(q, hits.length);
   }
 
   function move(d) {
