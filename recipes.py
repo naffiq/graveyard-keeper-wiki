@@ -197,6 +197,21 @@ def build(wikitext):
     pages = sorted(wikitext.items(), key=lambda kv: kv[0])
     extracted = [(title, extract(title, text, in_place)) for title, text in pages
                  if not title.startswith("Category:")]
+    # Editors spell the same item with different capitalisation ("Cream of
+    # Mushroom Soup" / "Cream of mushroom soup"): use the page title's spelling,
+    # or the first one seen when the item has no page.
+    spelling = {t.lower(): t for t, _ in pages}
+
+    def canon(name):
+        return spelling.setdefault(name.lower(), name)
+
+    in_place = {canon(n) for n in in_place}
+    for title, found in extracted:
+        for r in found:
+            r["product"] = canon(r["product"])
+            r["materials"] = [(canon(m), q) for m, q in r["materials"]]
+            r["also"] = [(canon(m), q) for m, q in r.get("also", [])]
+            r["station"] = " / ".join(canon(s) for s in r["station"].split(" / ") if s)
     for title, found in extracted:
         for i, r in enumerate(found):
             if r["product"] in in_place and not r.get("building"):
@@ -209,7 +224,7 @@ def build(wikitext):
             r["materials"] = mats
             key = (r["product"], r["qty"], tuple(sorted(r["materials"])))
             stations = [s for s in r["station"].split(" / ") if s]
-            rank = (0 if r["source"] == r["product"] else 1, i)
+            rank = (0 if r["source"].lower() == r["product"].lower() else 1, i)
             if key in merged:
                 m = merged[key]
                 for s in stations:
