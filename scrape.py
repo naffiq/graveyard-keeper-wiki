@@ -630,7 +630,7 @@ class Archiver:
 the <b>+ Add to cart</b> button on any item or building page.</p>
 <div id="cart-result" hidden>
 <section><h2>Raw materials</h2><ul id="raw-list" class="raw-list"></ul></section>
-<section><h2>Crafting steps <small class="note">in order</small></h2><ol id="steps-list" class="steps"></ol>
+<section><h2>Crafting steps <small class="note">grouped by product · numbered in crafting order</small></h2><ol id="steps-list" class="steps"></ol>
 <p><button id="reset-choices" class="chip">Reset recipe choices</button></p>
 <p class="note">Recipes are parsed from the wiki's tables; a few may be incomplete or need a perk.</p></section>
 </div>

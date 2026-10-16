@@ -170,16 +170,16 @@ button { font: inherit; cursor: pointer; }
 .raw-list .qty { font-weight: 700; min-width: 2.5em; text-align: right; font-variant-numeric: tabular-nums; }
 .raw-list .name { flex: 1; }
 .raw-list .chip { min-height: 28px; padding: 2px 10px; font-size: 12px; }
-.steps { counter-reset: step; }
 .step { position: relative; padding: 10px 12px 10px 44px; margin-bottom: 8px; background: var(--panel);
   border: 1px solid var(--border); border-radius: 8px; }
-.step::before { counter-increment: step; content: counter(step); position: absolute; left: 12px; top: 14px;
+.step::before { content: attr(data-n); position: absolute; left: 12px; top: 14px;
   width: 22px; height: 22px; border-radius: 50%; background: var(--th); color: var(--muted);
   font-size: 12px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
-/* sub-steps are indented by recipe depth, with a guide line back to their product */
-.step { margin-left: calc(var(--depth, 0) * 24px); }
-.step.sub::after { content: ""; position: absolute; left: -14px; top: -8px; bottom: 50%; width: 10px;
-  border-left: 2px solid var(--border); border-bottom: 2px solid var(--border); border-bottom-left-radius: 6px; }
+/* crafts nested under the product they are for, on a guide rail */
+.sub-steps { list-style: none; margin: 0 0 8px 16px; padding-left: 16px; border-left: 2px solid var(--border); }
+.sub-steps > .step-group { position: relative; }
+.sub-steps > .step-group::before { content: ""; position: absolute; left: -16px; top: 28px; width: 14px;
+  border-top: 2px solid var(--border); }
 .step-head { display: flex; align-items: center; gap: 10px; }
 .step .qty { color: var(--muted); font-weight: 600; }
 .mats { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 8px 0 4px; font-size: 14px; }
@@ -207,8 +207,8 @@ button { font: inherit; cursor: pointer; }
   .cart-item { flex-wrap: wrap; }
   .cart-item .name { flex-basis: calc(100% - 100px); }
   .stepper { margin-left: auto; }
-  .step { margin-left: calc(var(--depth, 0) * 14px); }
-  .step.sub::after { left: -10px; width: 7px; }
+  .sub-steps { margin-left: 8px; padding-left: 10px; }
+  .sub-steps > .step-group::before { left: -10px; width: 8px; }
   ul.catlist { columns: 2 150px; }
   a, button { -webkit-tap-highlight-color: transparent; }
 }
