@@ -176,6 +176,10 @@ button { font: inherit; cursor: pointer; }
 .step::before { counter-increment: step; content: counter(step); position: absolute; left: 12px; top: 14px;
   width: 22px; height: 22px; border-radius: 50%; background: var(--th); color: var(--muted);
   font-size: 12px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
+/* sub-steps are indented by recipe depth, with a guide line back to their product */
+.step { margin-left: calc(var(--depth, 0) * 24px); }
+.step.sub::after { content: ""; position: absolute; left: -14px; top: -8px; bottom: 50%; width: 10px;
+  border-left: 2px solid var(--border); border-bottom: 2px solid var(--border); border-bottom-left-radius: 6px; }
 .step-head { display: flex; align-items: center; gap: 10px; }
 .step .qty { color: var(--muted); font-weight: 600; }
 .mats { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 8px 0 4px; font-size: 14px; }
@@ -203,6 +207,8 @@ button { font: inherit; cursor: pointer; }
   .cart-item { flex-wrap: wrap; }
   .cart-item .name { flex-basis: calc(100% - 100px); }
   .stepper { margin-left: auto; }
+  .step { margin-left: calc(var(--depth, 0) * 14px); }
+  .step.sub::after { left: -10px; width: 7px; }
   ul.catlist { columns: 2 150px; }
   a, button { -webkit-tap-highlight-color: transparent; }
 }

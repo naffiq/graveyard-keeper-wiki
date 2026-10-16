@@ -79,6 +79,10 @@
     }
 
     const demand = new Map(Object.entries(state.items));
+    // depth: 0 for cart items, +1 per recipe level below the deepest product
+    // that uses it (drives the step indentation); usedBy: products it feeds.
+    const depth = new Map(Object.keys(state.items).map(n => [n, 0]));
+    const usedBy = new Map();
     const steps = [], raw = [];
     for (let k = order.length - 1; k >= 0; k--) {
       const name = order[k], need = demand.get(name) || 0;
@@ -87,8 +91,14 @@
       if (r == null) continue;
       const [, qty, mats] = recipes[r];
       const crafts = Math.ceil(need / qty - 1e-9);
-      for (const [m, q] of mats) demand.set(m, (demand.get(m) || 0) + q * crafts);
-      steps.push({ name, recipe: r, need, crafts, made: crafts * qty });
+      const d = depth.get(name) || 0;
+      for (const [m, q] of mats) {
+        demand.set(m, (demand.get(m) || 0) + q * crafts);
+        depth.set(m, Math.max(depth.get(m) || 0, d + 1));
+        if (!usedBy.has(m)) usedBy.set(m, []);
+        usedBy.get(m).push(name);
+      }
+      steps.push({ name, recipe: r, need, crafts, made: crafts * qty, depth: d, usedBy: usedBy.get(name) || [] });
     }
     for (const name of order) {
       const need = demand.get(name) || 0;
@@ -126,15 +136,16 @@
         ${why === 'cycle' ? '<span class="note">recipe loops back</span>' : ''}
       </li>`).join('') || '<li class="note">Nothing — every ingredient is a craft.</li>';
 
-    $('#steps-list').innerHTML = steps.map(({ name, recipe, need, crafts, made }) => {
+    $('#steps-list').innerHTML = steps.map(({ name, recipe, need, crafts, made, depth, usedBy }) => {
       const [, qty, mats, stations, flags, also] = recipes[recipe];
       const options = byProduct.get(name);
       const where = flags & BUILDING && !stations.length ? 'Build' : stations.join(' / ') || 'Unknown station';
-      return `<li class="step">
+      return `<li class="step${depth ? ' sub' : ''}" style="--depth:${Math.min(depth, 6)}">
         <div class="step-head">${icon(name, 34)}
           <div><b>${link(name)}</b> <span class="qty">× ${fmt(need)}</span>
           <div class="note">${esc(where)} · ${crafts} craft${crafts > 1 ? 's' : ''} × ${fmt(qty)}${made > need ? ` · ${fmt(made - need)} left over` : ''}${
-            also ? ` · also gives ${also.map(([n, q]) => `${fmt(q * crafts)} ${esc(n)}`).join(', ')}` : ''}</div></div>
+            also ? ` · also gives ${also.map(([n, q]) => `${fmt(q * crafts)} ${esc(n)}`).join(', ')}` : ''}</div>${
+            usedBy.length ? `<div class="note used-for">↳ for ${usedBy.map(esc).join(', ')}</div>` : ''}</div>
         </div>
         <div class="mats">${mats.map(([m, q]) => `<span class="mat">${icon(m, 22)}${fmt(q * crafts)} ${esc(m)}</span>`).join('')}</div>
         <div class="step-actions">
