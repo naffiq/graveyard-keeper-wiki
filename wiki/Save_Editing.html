@@ -1,0 +1,794 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Save Editing — Graveyard Keeper Wiki</title>
+<link rel="stylesheet" href="../style.css">
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#2a211d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-icon" href="../icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="../icons/icon-192.png">
+<script>window.GK_SITE = "gk1";</script>
+<script data-goatcounter="https://naffiq.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head><body>
+<header><a href="../index.html" class="home"><img src="../icons/logo.png" alt="" width="30" height="32">Graveyard Keeper Wiki</a>
+<div class="search"><input id="search" type="search" autocomplete="off"
+  placeholder="Search the wiki…  ( / )"><div id="search-results" hidden></div></div>
+<a href="../cart.html" class="cart-link" title="Crafting cart">🛒<span class="cart-count" hidden></span></a>
+<a href="https://graveyardkeeper.fandom.com/wiki/Save_Editing" class="orig">original ↗</a></header>
+<script src="../search.js" defer></script>
+<script src="../app.js" defer></script>
+<main><div class="title-row"><h1><span class="mw-page-title-main">Save Editing</span></h1></div>
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p><span style="font-size: 120%; color:red;">NOTE: The encoding of the save game file seems to have changed. It is no longer possible to do a "simple" edit like this one.<b></b></span>
+</p><p>It is recommended to SAVE BACKUPS before changing anything if you break your save file.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Save_Location"><span class="tocnumber">1</span> <span class="toctext">Save Location</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Editor"><span class="tocnumber">2</span> <span class="toctext">Editor</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Editing_saves"><span class="tocnumber">3</span> <span class="toctext">Editing saves</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Section_of_a_Savefile"><span class="tocnumber">3.1</span> <span class="toctext">Section of a Savefile</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#noteworthy_parameters"><span class="tocnumber">3.1.1</span> <span class="toctext">noteworthy parameters</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Tech_Points"><span class="tocnumber">3.1.2</span> <span class="toctext">Tech Points</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Perks"><span class="tocnumber">3.1.3</span> <span class="toctext">Perks</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#NPC_Relationship"><span class="tocnumber">3.1.4</span> <span class="toctext">NPC Relationship</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Unlocked_Crafts"><span class="tocnumber">3.1.5</span> <span class="toctext">Unlocked Crafts</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Unlocked_Phrases"><span class="tocnumber">3.1.6</span> <span class="toctext">Unlocked Phrases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Community_Fixes"><span class="tocnumber">3.2</span> <span class="toctext">Community Fixes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="Save_Location">Save Location</span></h1>
+<p>On Windows, your save files are stored in your user's App Data folder: C:\Users\%username%\AppData\LocalLow\Lazy Bear Games\Graveyard Keeper\
+</p><p>On MacOS, your save files are stored in $home/Library/Application Support/unity.Lazy Bear Games.Graveyard Keeper. Some Mac devices (such as M1)  store it in `$home/Library/Application Support/Lazy Bear Games/Graveyard Keeper/`
+</p><p>On Linux, your save files are stored in ~/.config/unity3d/Lazy Bear Games/Graveyard Keeper/ 
+</p><p>Save games do not automatically sync between platforms when using Steam (as of version 1.1.24). However, if you manually copy files between platforms, they seem to work.
+</p>
+<h1><span class="mw-headline" id="Editor">Editor</span></h1>
+<p>I use EditPad Lite 8.
+</p><p>Go to Options. 
+</p><p>Configure File Types and click on Unspecified file type and then Editor Options
+</p><p>and select Wrap long lines at the edge of EditPad's window<br /><br />
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="../images/Editor_setting_3-120px-77a90c.png" class="mw-file-description image"><img src="../images/Editor_setting_3-120px-77a90c.png" decoding="async" loading="lazy" width="120" height="61" class="mw-file-element" data-image-name="Editor setting 3.png" data-image-key="Editor_setting_3.png" data-relevant="1" /></a></span></div>
+			<div class="gallerytext"></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="../images/Editor_setting_1-120px-583d97.png" class="mw-file-description image"><img src="../images/Editor_setting_1-120px-583d97.png" decoding="async" loading="lazy" width="120" height="82" class="mw-file-element" data-image-name="Editor setting 1.png" data-image-key="Editor_setting_1.png" data-relevant="1" /></a></span></div>
+			<div class="gallerytext"></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="../images/Editor_setting_2-120px-5f4b3a.png" class="mw-file-description image"><img src="../images/Editor_setting_2-120px-5f4b3a.png" decoding="async" loading="lazy" width="120" height="83" class="mw-file-element" data-image-name="Editor setting 2.png" data-image-key="Editor_setting_2.png" data-relevant="1" /></a></span></div>
+			<div class="gallerytext"></div>
+		</li>
+</ul>
+<p><br /><br />
+</p>
+<h1><span class="mw-headline" id="Editing_saves">Editing saves</span></h1>
+<p>The saves are the .dat Files since the files are so big Notepad++ has problems opening the files so i use EditPad.<br />When you open the File you need to find this section<br />
+</p><p>
+Which contains your Tech Points, Quest progress, Perks, Quality of Church and Graveyard and other Stuff.<br /></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="../images/Code-180px-9bdd56.png" class="mw-file-description image"><img alt="Savefile" decoding="async" loading="lazy" width="180" height="92" class="thumbimage " data-image-name="Code.png" data-image-key="Code.png" data-relevant="1" src="../images/Code-180px-9bdd56.png" /></a> 	<noscript><a href="../images/Code-180px-9bdd56.png" class="mw-file-description image"><img alt="Savefile" decoding="async" loading="lazy" width="180" height="92" class="thumbimage" data-image-name="Code.png" data-image-key="Code.png" data-relevant="1" src="../images/Code-180px-9bdd56.png" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="https://graveyardkeeper.fandom.com/wiki/File:Code.png" class="external" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Savefile</p> 		 	</figcaption> </figure>
+<p><br /><br />
+</p>
+<h2><span class="mw-headline" id="Section_of_a_Savefile">Section of a Savefile</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td>
+<p>:{"_res_type":["inventory_size","sanity","energy","_sloth","_wrath","_envy","_glut","_lust","_pride","speed","witch_hill_is_closed","rednecks_spawned",<br />"in_tutorial","do_not_show_wgo_qualities","not_available_throw_body","gone_out_from_house","dig_graved_skull","lock_tp","tiredness",<br />"skull_digged","go_to_talk_with_donkey_first_time","met_donkey","before_talk_with_donkey","cur_bodies_count","go_to_mortuary_after_skull",<br />"skull_talk_body","in_morgue","skull_talk_autopsi","lock_tp_param",<br /><i><b>"g"</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Green_Tech_Symbol-5791f9.png" class="mw-file-description image"><img alt="Green Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Green Tech Symbol.png" data-image-key="Green_Tech_Symbol.png" data-relevant="0" src="../images/Green_Tech_Symbol-5791f9.png" /></a></span>,<br />"tp_to_morgue_locked","tp_from_morgue_only_with_body","skull_wait_in_cemetery","waiting_for_first_bureal","donkey_on_scene",<br />"prayed_this_week","met_bishop","church_level","take_tools_from_grave_chest","tut_build_wndw_not_shown","craft_tut","goto_tavern",<br />"do_spawn_rednecks","tools_from_grave_chest_taken","test_tavern","in_tavern","was_in_tavern","_rel_npc_blacksmith","sword_has_fixed",<br /><i><b>"r"</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Red_Tech_Symbol-b4049c.png" class="mw-file-description image"><img alt="Red Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Red Tech Symbol.png" data-image-key="Red_Tech_Symbol.png" data-relevant="0" src="../images/Red_Tech_Symbol-b4049c.png" /></a></span>,<br />"cur_key_char","key_to_cellar","not_first_cellar_visit","everyday_cultist_come","graveyard_qual"<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Graveyard_Rating_Symbol-0fa779.png" class="mw-file-description image"><img alt="Graveyard Rating Symbol" decoding="async" loading="lazy" width="19" height="17" class="mw-file-element " data-image-name="Graveyard Rating Symbol.png" data-image-key="Graveyard_Rating_Symbol.png" data-relevant="0" src="../images/Graveyard_Rating_Symbol-0fa779.png" /></a></span>,"church_qual"<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Church_Rating_Symbol-92334d.png" class="mw-file-description image"><img alt="Church Rating Symbol" decoding="async" loading="lazy" width="24" height="30" class="mw-file-element " data-image-name="Church Rating Symbol.png" data-image-key="Church_Rating_Symbol.png" data-relevant="0" src="../images/Church_Rating_Symbol-92334d.png" /></a></span>,"confession_probability",<br />"p_t_beeswax","do_remove_rednecks","donkeys","temp_morgue_zone","inquisitor_waits_under_mountains","inquisitor_waits_under_mountains_2",<br />"met_inquisitor","on_witch_burning","need_to_remove_guards","huray_finished","_rel_npc_inquisitor","church_quality","graveyard_quality",<br />"_rel_npc_tavern owner","tired",<br /><i><b>"b"</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Blue_Tech_Symbol-aed8b6.png" class="mw-file-description image"><img alt="Blue Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Blue Tech Symbol.png" data-image-key="Blue_Tech_Symbol.png" data-relevant="0" src="../images/Blue_Tech_Symbol-aed8b6.png" /></a></span>,<br />"p_collector","p_t_butterfly","p_t_moth","p_t_bee","p_beekeeper2","p_blacksmith","p_fireman","p_big_guy","add_armor","add_damage",<br />"p_engineer","p_t_gold_ore","p_t_silver_ore","p_axeman","p_t_pirit","p_t_sulfur","p_t_lifestone","p_woodworker","p_mason","p_miner",<br />"_rel_crafting_skull_3","met_cultist","thrown_bodies","fixed_morgue_throw","_rel_npc_bishop","cup_20_reached","body_min","body_max",<br />"p_preacher","first_time_preaching","first_sermon","p_t_old_books","p_naturalist","p_cardinal","p_journalist","p_writer","p_good_writer",<br />"_rel_npc_royal_box","saw_garden"],<br />
+"_res_v":[20.0,100.0,100.0,250.0,250.0,250.0,250.0,250.0,250.0,3.2994,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,
+0.0,<br />
+<i><b>2187.0</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Green_Tech_Symbol-5791f9.png" class="mw-file-description image"><img alt="Green Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Green Tech Symbol.png" data-image-key="Green_Tech_Symbol.png" data-relevant="0" src="../images/Green_Tech_Symbol-5791f9.png" /></a></span>,<br />
+0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,10.0,1.0,<br />
+<i><b>2088.0</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Red_Tech_Symbol-b4049c.png" class="mw-file-description image"><img alt="Red Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Red Tech Symbol.png" data-image-key="Red_Tech_Symbol.png" data-relevant="0" src="../images/Red_Tech_Symbol-b4049c.png" /></a></span>,<br />
+5.0,1.0,1.0,1.0,5.0,5.0,0.10612,1.0,0.0,12.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,5.0,0.0,10.0,0.0,<br />
+<i><b>2781.0</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Blue_Tech_Symbol-aed8b6.png" class="mw-file-description image"><img alt="Blue Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Blue Tech Symbol.png" data-image-key="Blue_Tech_Symbol.png" data-relevant="0" src="../images/Blue_Tech_Symbol-aed8b6.png" /></a></span>,<br />
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,10.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,<br />1.0,1.0,100.0,1.0],"_hp":1290.0,"_progress":0.0,"_money":9414.63,"_durability":1.0}
+</p>
+</td></tr></tbody></table>
+<p>if you type (:{"_res_type":)+[^}]+\} into the search bar and select Regex it should be the first one<br />
+everything after&#160;:{"_res_type": is the name of the number under "_res_v":<br />
+For Example "inventory_size" would be the first number after "_res_v": in this case 20.0<br /><br />
+In this case lets say i want to change the number of the Green Tech Points<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Green_Tech_Symbol-5791f9.png" class="mw-file-description image"><img alt="Green Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Green Tech Symbol.png" data-image-key="Green_Tech_Symbol.png" data-relevant="0" src="../images/Green_Tech_Symbol-5791f9.png" /></a></span>. To do this i would need to count everything that is in "", 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>"inventory_size","sanity","energy","_sloth","_wrath","_envy","_glut","_lust","_pride","speed","witch_hill_is_closed","rednecks_spawned",<br />"in_tutorial","do_not_show_wgo_qualities","not_available_throw_body","gone_out_from_house","dig_graved_skull","lock_tp","tiredness",<br />"skull_digged","go_to_talk_with_donkey_first_time","met_donkey","before_talk_with_donkey","cur_bodies_count","go_to_mortuary_after_skull",<br />"skull_talk_body","in_morgue","skull_talk_autopsi","lock_tp_param",<br /><i><b>"g"</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Green_Tech_Symbol-5791f9.png" class="mw-file-description image"><img alt="Green Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Green Tech Symbol.png" data-image-key="Green_Tech_Symbol.png" data-relevant="0" src="../images/Green_Tech_Symbol-5791f9.png" /></a></span>,
+</td></tr></tbody></table>
+<p>until i get to the one i want to change. In This Case "g", for the Green Tech Points. which would be 30
+now i would need to count the numbers after "_res_v": until i get to 30tens in this case 2187.0 which i could now change to wathever number i want.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>20.0,100.0,100.0,250.0,250.0,250.0,250.0,250.0,250.0,3.29284,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,
+<p>0.0,<br />
+<i><b>2187.0</b></i><span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Green_Tech_Symbol-5791f9.png" class="mw-file-description image"><img alt="Green Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Green Tech Symbol.png" data-image-key="Green_Tech_Symbol.png" data-relevant="0" src="../images/Green_Tech_Symbol-5791f9.png" /></a></span>,
+</p>
+</td></tr></tbody></table><p><br /><br />
+</p><h3><span class="mw-headline" id="noteworthy_parameters">noteworthy parameters</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>SLayer
+</th>
+<th>Explantion
+</th>
+<th>Notes
+</th></tr>
+
+<tr>
+<td>"inventory_size",
+</td>
+<td>Size of your Inventory
+</td>
+<td>even works with numbers where you dont have a 5 or 0 at the end
+</td></tr>
+<tr>
+<td>"_money":9414.63
+</td>
+<td>Your Money
+</td>
+<td>where .63<span class="mw-default-size" typeof="mw:File/Frameless"><a href="Currency.html" title="Copper Coin"><img alt="Copper Coin" decoding="async" loading="lazy" width="17" height="22" class="mw-file-element " data-image-name="Copper Coin Symbol.png" data-image-key="Copper_Coin_Symbol.png" data-relevant="0" src="../images/Copper_Coin_Symbol-b0024d.png" /></a></span>, 14<span class="mw-default-size" typeof="mw:File/Frameless"><a href="Currency.html" title="Silver Coin"><img alt="Silver Coin" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Silver Coin Symbol.png" data-image-key="Silver_Coin_Symbol.png" data-relevant="0" src="../images/Silver_Coin_Symbol-16aa3f.png" /></a></span> and everything over 99 <span class="mw-default-size" typeof="mw:File/Frameless"><a href="Currency.html" title="Gold Coin"><img alt="Gold Coin" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Gold Coin Symbol.png" data-image-key="Gold_Coin_Symbol.png" data-relevant="0" src="../images/Gold_Coin_Symbol-e34da9.png" /></a></span>
+</td></tr>
+<tr>
+<td>"church_qual",
+</td>
+<td>Your Cross Rating<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Church_Rating_Symbol-92334d.png" class="mw-file-description image"><img alt="Church Rating Symbol" decoding="async" loading="lazy" width="24" height="30" class="mw-file-element " data-image-name="Church Rating Symbol.png" data-image-key="Church_Rating_Symbol.png" data-relevant="0" src="../images/Church_Rating_Symbol-92334d.png" /></a></span>
+</td>
+<td>999999999
+</td></tr>
+<tr>
+<td>"graveyard_qual",
+</td>
+<td>your Skull Rating<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Graveyard_Rating_Symbol-0fa779.png" class="mw-file-description image"><img alt="Graveyard Rating Symbol" decoding="async" loading="lazy" width="19" height="17" class="mw-file-element " data-image-name="Graveyard Rating Symbol.png" data-image-key="Graveyard_Rating_Symbol.png" data-relevant="0" src="../images/Graveyard_Rating_Symbol-0fa779.png" /></a></span>
+</td>
+<td>999999999
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Tech_Points">Tech Points</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>SLayer
+</th>
+<th>Explantion
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>"b",
+</td>
+<td>Blue Tech Points<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Blue_Tech_Symbol-aed8b6.png" class="mw-file-description image"><img alt="Blue Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Blue Tech Symbol.png" data-image-key="Blue_Tech_Symbol.png" data-relevant="0" src="../images/Blue_Tech_Symbol-aed8b6.png" /></a></span>
+</td>
+<td>999999999
+</td></tr>
+<tr>
+<td>"r",
+</td>
+<td>Red Tech Points<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Red_Tech_Symbol-b4049c.png" class="mw-file-description image"><img alt="Red Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Red Tech Symbol.png" data-image-key="Red_Tech_Symbol.png" data-relevant="0" src="../images/Red_Tech_Symbol-b4049c.png" /></a></span>
+</td>
+<td>999999999
+</td></tr>
+<tr>
+<td>"g",
+</td>
+<td>Green Tech Points<span class="mw-default-size" typeof="mw:File/Frameless"><a href="../images/Green_Tech_Symbol-5791f9.png" class="mw-file-description image"><img alt="Green Tech Symbol" decoding="async" loading="lazy" width="18" height="22" class="mw-file-element " data-image-name="Green Tech Symbol.png" data-image-key="Green_Tech_Symbol.png" data-relevant="0" src="../images/Green_Tech_Symbol-5791f9.png" /></a></span>
+</td>
+<td>999999999
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Perks">Perks</span></h3>
+<p>The Perks start with "p_<br />
+For Perks you need to change the Number to 1.0
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th colspan="6">Perks
+</th></tr>
+<tr>
+<td>Icon
+</td>
+<td>Name
+</td>
+<td>Save Name
+</td></tr>
+
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Preacher Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Preacher Perk.png" data-image-key="Preacher_Perk.png" data-relevant="0" src="../images/Preacher_Perk-9135bb.png" /></span></span>
+</td>
+<td>Preacher
+</td>
+<td>"p_preacher",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Curious Mind Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Curious Mind Perk.png" data-image-key="Curious_Mind_Perk.png" data-relevant="0" src="../images/Curious_Mind_Perk-e6a493.png" /></span></span>
+</td>
+<td>Curious Mind
+</td>
+<td>"p_magnifier",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Cardinal Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Cardinal Perk.png" data-image-key="Cardinal_Perk.png" data-relevant="0" src="../images/Cardinal_Perk-261bc4.png" /></span></span>
+</td>
+<td>Cardinal
+</td>
+<td>"p_cardinal",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Farmer Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Farmer Perk.png" data-image-key="Farmer_Perk.png" data-relevant="0" src="../images/Farmer_Perk-5b36a2.png" /></span></span>
+</td>
+<td>Farmer
+</td>
+<td>"p_farmer"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Axeman Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Axeman Perk.png" data-image-key="Axeman_Perk.png" data-relevant="0" src="../images/Axeman_Perk-6d619e.png" /></span></span>
+</td>
+<td>Axeman
+</td>
+<td>"p_axeman",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Blacksmith Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Blacksmith Perk.png" data-image-key="Blacksmith_Perk.png" data-relevant="0" src="../images/Blacksmith_Perk-d2ac4a.png" /></span></span>
+</td>
+<td>Blacksmith
+</td>
+<td>"p_blacksmith",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Fireman Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Fireman Perk.png" data-image-key="Fireman_Perk.png" data-relevant="0" src="../images/Fireman_Perk-c5260d.png" /></span></span>
+</td>
+<td>Fireman
+</td>
+<td>"p_fireman",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Big Guy Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Big Guy Perk.png" data-image-key="Big_Guy_Perk.png" data-relevant="0" src="../images/Big_Guy_Perk-01e4cf.png" /></span></span>
+</td>
+<td>Big Guy
+</td>
+<td>"p_big_guy",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Miner Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Miner Perk.png" data-image-key="Miner_Perk.png" data-relevant="0" src="../images/Miner_Perk-05e095.png" /></span></span>
+</td>
+<td>Miner
+</td>
+<td>"p_miner",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Carpenter Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Carpenter Perk.png" data-image-key="Carpenter_Perk.png" data-relevant="0" src="../images/Carpenter_Perk-24f35e.png" /></span></span>
+</td>
+<td>Carpenter
+</td>
+<td>"p_woodworker",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Mason Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Mason Perk.png" data-image-key="Mason_Perk.png" data-relevant="0" src="../images/Mason_Perk-f3780e.png" /></span></span>
+</td>
+<td>Mason
+</td>
+<td>"p_mason",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Journalist Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Journalist Perk.png" data-image-key="Journalist_Perk.png" data-relevant="0" src="../images/Journalist_Perk-052ab0.png" /></span></span>
+</td>
+<td>Journalist
+</td>
+<td>"p_journalist",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Writer Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Writer Perk.png" data-image-key="Writer_Perk.png" data-relevant="0" src="../images/Writer_Perk-c8a30a.png" /></span></span>
+</td>
+<td>Writer
+</td>
+<td>"p_writer",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Playwright Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Playwright Perk.png" data-image-key="Playwright_Perk.png" data-relevant="0" src="../images/Playwright_Perk-e54afa.png" /></span></span>
+</td>
+<td>Playwright
+</td>
+<td>"p_good_writer"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Beefriend Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Beefriend Perk.png" data-image-key="Beefriend_Perk.png" data-relevant="0" src="../images/Beefriend_Perk-3e5b93.png" /></span></span>
+</td>
+<td>Beefriend
+</td>
+<td>"p_beekeeper2",
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Butcher Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Butcher Perk.png" data-image-key="Butcher_Perk.png" data-relevant="0" src="../images/Butcher_Perk-4eb2fe.png" /></span></span>
+</td>
+<td>Butcher
+</td>
+<td>"p_butcher"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Master Gatherer Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Master Gatherer Perk.png" data-image-key="Master_Gatherer_Perk.png" data-relevant="0" src="../images/Master_Gatherer_Perk-5aec1d.png" /></span></span>
+</td>
+<td>Master gatherer
+</td>
+<td>"p_collector"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Master Potter Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Master Potter Perk.png" data-image-key="Master_Potter_Perk.png" data-relevant="0" src="../images/Master_Potter_Perk-6907a2.png" /></span></span>
+</td>
+<td>Master potter
+</td>
+<td>"p_master_potter"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="I p cultist" decoding="async" loading="lazy" width="48" height="48" class="mw-file-element " data-image-name="I p cultist.png" data-image-key="I_p_cultist.png" data-relevant="0" src="../images/I_p_cultist-f29b5e.png" /></span></span>
+</td>
+<td>Cultist
+</td>
+<td>"p_cultist"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Surgeon Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Surgeon Perk.png" data-image-key="Surgeon_Perk.png" data-relevant="0" src="../images/Surgeon_Perk-5d07f6.png" /></span></span>
+</td>
+<td>Surgeon
+</td>
+<td>"p_doctor"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Scientist Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Scientist Perk.png" data-image-key="Scientist_Perk.png" data-relevant="0" src="../images/Scientist_Perk-6306a8.png" /></span></span>
+</td>
+<td>Scientist
+</td>
+<td>"p_scientist"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Sword Master Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Sword Master Perk.png" data-image-key="Sword_Master_Perk.png" data-relevant="0" src="../images/Sword_Master_Perk-25e1e7.png" /></span></span>
+</td>
+<td>Sword master
+</td>
+<td>"p_sword_master"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Wine Master Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Wine Master Perk.png" data-image-key="Wine_Master_Perk.png" data-relevant="0" src="../images/Wine_Master_Perk-b84ff8.png" /></span></span>
+</td>
+<td>Wine master
+</td>
+<td>"p_wine_master"
+</td></tr>
+<tr>
+<td colspan="3">unconfirmed
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Naturalist Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Naturalist Perk.png" data-image-key="Naturalist_Perk.png" data-relevant="0" src="../images/Naturalist_Perk-2e48f3.png" /></span></span>
+</td>
+<td>Naturalist (goes to curious mind)
+</td>
+<td>"p_naturalist"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Jeweler Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Jeweler Perk.png" data-image-key="Jeweler_Perk.png" data-relevant="0" src="../images/Jeweler_Perk-5ff1c6.png" /></span></span>
+</td>
+<td>Jeweler
+</td>
+<td>"p_jeweler"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="I p blabla" decoding="async" loading="lazy" width="48" height="48" class="mw-file-element " data-image-name="I p blabla.png" data-image-key="I_p_blabla.png" data-relevant="0" src="../images/I_p_blabla-48f230.png" /></span></span>
+</td>
+<td>?
+</td>
+<td>"p_blabla"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Brewer Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Brewer Perk.png" data-image-key="Brewer_Perk.png" data-relevant="0" src="../images/Brewer_Perk-d89716.png" /></span></span>
+</td>
+<td>Brewer
+</td>
+<td>"p_brewer"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="I p cook" decoding="async" loading="lazy" width="48" height="48" class="mw-file-element " data-image-name="I p cook.png" data-image-key="I_p_cook.png" data-relevant="0" src="../images/I_p_cook-4391c8.png" /></span></span>
+</td>
+<td>Cook
+</td>
+<td>"p_cook"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="Natural Writer Perk" decoding="async" loading="lazy" width="80" height="80" class="mw-file-element " data-image-name="Natural Writer Perk.png" data-image-key="Natural_Writer_Perk.png" data-relevant="0" src="../images/Natural_Writer_Perk-5e5560.png" /></span></span>
+</td>
+<td>Natural writer
+</td>
+<td>"p_natural_writer"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="I p skinner" decoding="async" loading="lazy" width="48" height="48" class="mw-file-element " data-image-name="I p skinner.png" data-image-key="I_p_skinner.png" data-relevant="0" src="../images/I_p_skinner-9ab572.png" /></span></span>
+</td>
+<td>Skinner
+</td>
+<td>"p_skinner"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="I p wine master2" decoding="async" loading="lazy" width="48" height="48" class="mw-file-element " data-image-name="I p wine master2.png" data-image-key="I_p_wine_master2.png" data-relevant="0" src="../images/I_p_wine_master2-2f1e5b.png" /></span></span>
+</td>
+<td>Wine master II
+</td>
+<td>"p_wine_master2"
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><span><img alt="I p writer thief" decoding="async" loading="lazy" width="48" height="48" class="mw-file-element " data-image-name="I p writer thief.png" data-image-key="I_p_writer_thief.png" data-relevant="0" src="../images/I_p_writer_thief-161782.png" /></span></span>
+</td>
+<td>plagiarist
+</td>
+<td>"p_writer_thief"
+</td></tr>
+</tbody></table><p><br /><br />
+</p><h3><span class="mw-headline" id="NPC_Relationship">NPC Relationship</span></h3>
+<p>Starts with "_rel_npc_ <br />
+Number goes from 0.0 t0 100.0 <br />
+If it was never over 0 it doesnt save it.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th colspan="6">Npc
+</th></tr>
+<tr>
+<td>Icon
+</td>
+<td>Name
+</td>
+<td>Save Name
+</td></tr>
+
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Blacksmith-dfdfc1.png" class="mw-file-description image"><img alt="Blacksmith" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Blacksmith.png" data-image-key="Blacksmith.png" data-relevant="0" src="../images/Blacksmith-60px-4cc094.png" /></a></span>
+</td>
+<td><a href="Krezvold.html" class="mw-redirect" title="Blacksmith">Blacksmith</a>
+</td>
+<td>"_rel_npc_blacksmith",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Inquisitor-6d6310.png" class="mw-file-description image"><img alt="Inquisitor" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Inquisitor.png" data-image-key="Inquisitor.png" data-relevant="0" src="../images/Inquisitor-60px-30e2d3.png" /></a></span>
+</td>
+<td><a href="Inquisitor.html" title="Inquisitor">Inquisitor</a>
+</td>
+<td>"_rel_npc_inquisitor",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Horadric-59495e.png" class="mw-file-description image"><img alt="Horadric" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Horadric.png" data-image-key="Horadric.png" data-relevant="0" src="../images/Horadric-60px-2d5749.png" /></a></span>
+</td>
+<td><a href="Horadric.html" title="Horadric">Horadric</a>
+</td>
+<td>"_rel_npc_tavern owner",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Bishop-899408.png" class="mw-file-description image"><img alt="Bishop" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Bishop.png" data-image-key="Bishop.png" data-relevant="0" src="../images/Bishop-60px-3b4ff3.png" /></a></span>
+</td>
+<td><a href="Bishop.html" title="Bishop">Bishop</a>
+</td>
+<td>"_rel_npc_bishop",
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Royal Box
+</td>
+<td>"_rel_npc_royal_box",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Astrologer-7cf036.png" class="mw-file-description image"><img alt="Astrologer" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Astrologer.png" data-image-key="Astrologer.png" data-relevant="0" src="../images/Astrologer-60px-ac7711.png" /></a></span>
+</td>
+<td><a href="Astrologer.html" title="Astrologer">Astrologer</a>
+</td>
+<td>"_rel_npc_astrologer",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Shepherd-7f602c.png" class="mw-file-description image"><img alt="Shepherd" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Shepherd.png" data-image-key="Shepherd.png" data-relevant="0" src="../images/Shepherd-60px-0ff9bd.png" /></a></span>
+</td>
+<td><a href="Shepherd.html" title="Shepherd">Shepherd</a>
+</td>
+<td>"rel_npc_shepherd",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Cory-1dfcd9.png" class="mw-file-description image"><img alt="Cory" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Cory.png" data-image-key="Cory.png" data-relevant="0" src="../images/Cory-60px-553bcf.png" /></a></span>
+</td>
+<td><a href="Cory.html" title="Cory">Cory</a>
+</td>
+<td>"_rel_npc_carpenter",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Dig-c0ce80.png" class="mw-file-description image"><img alt="Dig" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Dig.png" data-image-key="Dig.png" data-relevant="0" src="../images/Dig-60px-4b5098.png" /></a></span>
+</td>
+<td><a href="Dig.html" title="Dig">Dig</a>
+</td>
+<td>"_rel_npc_dig",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Farmersson-0b28f3.png" class="mw-file-description image"><img alt="Farmersson" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Farmersson.png" data-image-key="Farmersson.png" data-relevant="0" src="../images/Farmersson-60px-7ea012.png" /></a></span>
+</td>
+<td><a href="Farmer%27s_Son.html" title="Farmer&#39;s Son">Farmer's Son</a>
+</td>
+<td>"_rel_npc_farmers son",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Mrs._Chain-cd4ae9.png" class="mw-file-description image"><img alt="Mrs. Chain" decoding="async" loading="lazy" width="47" height="80" class="mw-file-element " data-image-name="Mrs. Chain.png" data-image-key="Mrs._Chain.png" data-relevant="0" src="../images/Mrs._Chain-47px-609124.png" /></a></span>
+</td>
+<td><a href="Miss_Chain.html" class="mw-redirect" title="Mrs. Chain">Mrs. Chain</a>
+</td>
+<td>"_rel_npc_mrs chain",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Actor-d3d32c.png" class="mw-file-description image"><img alt="Actor" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Actor.png" data-image-key="Actor.png" data-relevant="0" src="../images/Actor-60px-9d7401.png" /></a></span>
+</td>
+<td><a href="Vagner.html" class="mw-redirect" title="Actor">Actor</a>
+</td>
+<td>"_rel_npc_actor",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Wood_cutter-099b2a.png" class="mw-file-description image"><img alt="Wood cutter" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Wood cutter.png" data-image-key="Wood_cutter.png" data-relevant="0" src="../images/Wood_cutter-60px-dcb6b3.png" /></a></span>
+</td>
+<td><a href="Woodcutter.html" title="Woodcutter">Wood Cutter</a>
+</td>
+<td>"_rel_wood_cutter",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Tress-40px-5dc5d1.png" class="mw-file-description image"><img alt="Tress" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Tress.png" data-image-key="Tress.png" data-relevant="0" src="../images/Tress-60px-e29f78.png" /></a></span>
+</td>
+<td><a href="Tress.html" title="Tress">Tress</a>
+</td>
+<td>"_rel_npc_engineer",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Miller-c55d96.png" class="mw-file-description image"><img alt="Miller" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Miller.png" data-image-key="Miller.png" data-relevant="0" src="../images/Miller-60px-1af2b7.png" /></a></span>
+</td>
+<td><a href="Miller.html" title="Miller">Miller</a>
+</td>
+<td>"_rel_npc_miller",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Captain-f30e48.png" class="mw-file-description image"><img alt="Captain" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Captain.png" data-image-key="Captain.png" data-relevant="0" src="../images/Captain-60px-17415f.png" /></a></span>
+</td>
+<td><a href="Captain.html" title="Captain">Captain</a>
+</td>
+<td>"_rel_npc_captain",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Farmers_Daughter-60px-916754.png" class="mw-file-description image"><img alt="Farmers Daughter" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Farmers Daughter.png" data-image-key="Farmers_Daughter.png" data-relevant="0" src="../images/Farmers_Daughter-60px-916754.png" /></a></span>
+</td>
+<td><span class="new" title="Farmers Daughter (page does not exist)" data-uncrawlable-url="L3dpa2kvRmFybWVyc19EYXVnaHRlcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Farmers Daughter</span>
+</td>
+<td>"_rel_npc_farmers_daughter",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Potter-911cd7.png" class="mw-file-description image"><img alt="Potter" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Potter.png" data-image-key="Potter.png" data-relevant="0" src="../images/Potter-60px-b92f35.png" /></a></span>
+</td>
+<td><a href="Adam.html" class="mw-redirect" title="Potter">Potter</a>
+</td>
+<td>"_rel_npc_potter",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Merchant-d17a97.png" class="mw-file-description image"><img alt="Merchant" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Merchant.png" data-image-key="Merchant.png" data-relevant="0" src="../images/Merchant-60px-ff53c2.png" /></a></span>
+</td>
+<td><a href="Merchant.html" title="Merchant">Merchant</a>
+</td>
+<td>"_rel_npc_merchant",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Snake-0203b5.png" class="mw-file-description image"><img alt="Snake" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Snake.png" data-image-key="Snake.png" data-relevant="0" src="../images/Snake-60px-3e3f9b.png" /></a></span>
+</td>
+<td><a href="Snake.html" class="mw-redirect" title="Cultist">Cultist</a>
+</td>
+<td>"_rel_npc_cultist",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Lighthouse_Keeper_NPC-adbcfb.png" class="mw-file-description image"><img alt="Lighthouse Keeper NPC" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Lighthouse Keeper NPC.png" data-image-key="Lighthouse_Keeper_NPC.png" data-relevant="0" src="../images/Lighthouse_Keeper_NPC-60px-baf396.png" /></a></span>
+</td>
+<td><a href="Lighthouse_Keeper.html" title="Lighthouse Keeper">Lighthouse Keeper</a>
+</td>
+<td>"_rel_npc_light_keeper",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Ms._Charm-f5cb1a.png" class="mw-file-description image"><img alt="Ms. Charm" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Ms. Charm.png" data-image-key="Ms._Charm.png" data-relevant="0" src="../images/Ms._Charm-60px-57cf2e.png" /></a></span>
+</td>
+<td><a href="Ms._Charm.html" class="mw-redirect" title="Actress">Actress</a>
+</td>
+<td>"_rel_npc_actress",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Rosa-3bd1a6.png" class="mw-file-description image"><img alt="Rosa" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Rosa.png" data-image-key="Rosa.png" data-relevant="0" src="../images/Rosa-60px-ef6452.png" /></a></span>
+</td>
+<td><a href="Rosa.html" title="Rosa">Rosa</a>
+</td>
+<td>"_rel_npc_shepherds_wife",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Farmer-067262.png" class="mw-file-description image"><img alt="Farmer" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Farmer.png" data-image-key="Farmer.png" data-relevant="0" src="../images/Farmer-60px-4a3702.png" /></a></span>
+</td>
+<td><a href="Farmer.html" title="Farmer">Farmer</a>
+</td>
+<td>"_rel_npc_farmer",
+</td></tr>
+<tr>
+<td><span typeof="mw:File/Frameless"><a href="../images/Clotho-507aee.png" class="mw-file-description image"><img alt="Clotho" decoding="async" loading="lazy" width="60" height="80" class="mw-file-element " data-image-name="Clotho.png" data-image-key="Clotho.png" data-relevant="0" src="../images/Clotho-60px-86a73b.png" /></a></span>
+</td>
+<td><a href="Clotho.html" class="mw-redirect" title="Witch">Witch</a>
+</td>
+<td>"_rel_npc_witch",
+</td></tr>
+</tbody></table>
+<p><code>
+_rel_npc_tavern owner
+_rel_npc_bishop
+_rel_npc_astrologer
+_rel_npc_royal_box
+_rel_npc_shepherd
+_rel_npc_carpenter
+_rel_npc_dig
+_rel_npc_farmers son
+_rel_npc_mrs chain
+_rel_npc_actor
+_rel_wood_cutter
+_rel_npc_engineer
+_rel_npc_miller
+_rel_npc_captain
+_rel_npc_farmers_daughter
+_rel_npc_potter
+_rel_npc_merchant
+_rel_npc_inquisitor
+_rel_npc_cultist
+_rel_npc_light_keeper
+_rel_npc_actress
+_rel_npc_shepherds_wife
+_rel_npc_farmer
+_rel_npc_witch
+</code>
+</p>
+<h3><span class="mw-headline" id="Unlocked_Crafts">Unlocked Crafts</span></h3>
+<p><code>"unlocked_crafts":[</code>
+<br /><i>best used before 0.676 or earlier, getting partially disabled</i>
+<br /><small><i>Omitted a lot of broken ones</i></small>
+</p>
+<ul><li>Workyard
+<ul><li>Jewelers Station <code>"mf_wood_builddesk:p:mf_jewelry_place",</code>
+<ul><li>Silver jewelry details <code>"jewelry_detail_silver",</code></li>
+<li>Gold jewelry details <code>"jewelry_detail_gold",</code></li>
+<li>Damask sword with gem <code>"sword_damask_gem",</code></li></ul></li>
+<li>(Workyard) Chest <code>"mf_wood_builddesk:p:chest_place",</code></li>
+<li>Stonecutter I <s><code>"mf_wood_builddesk:p:mf_hammer_0_place",</code></s>
+<ul><li>Piece of marble (from slab) <code>"marble_plate_1",</code></li>
+<li>Polished piece of marble <code>"marble_plate_2",</code></li>
+<li>Carved piece of marble <code>"marble_plate_3",</code></li></ul></li>
+<li>Stonecutter II <s><code>"mf_wood_builddesk:p:mf_hammer_1_place",</code></s>
+<ul><li>Piece of marble (from slab) <code>"marble_plate_1_2",</code></li>
+<li>Polished piece of marble <code>"marble_plate_2_2",</code></li>
+<li>Carved piece of marble <code>"marble_plate_3",</code></li>
+<li>Marble Grave Fence <code>"grave_bot_mrb_1",</code></li>
+<li>Marble Cross <code>"grave_top_mrb_cross_1",</code></li>
+<li>Marble Grave Fence II <code>"grave_bot_mrb_2",</code></li>
+<li>Marble Cross II <code>"grave_top_mrb_cross_2",</code></li>
+<li>Marble Plinth <code>"grave_top_stella_mrb_1",</code></li>
+<li>Marble Sculpture <code>"grave_top_sculpt_mrb_1",</code></li>
+<li>Marble Sculpture II <code>"grave_top_sculpt_mrb_2",</code></li>
+<li>Marble Sacrofag <code>"grave_top_sarcofag_mrb_1",</code></li></ul></li>
+<li>Workbench for wood II <s><code>"mf_wood_builddesk:p:mf_workbench_2_place",</code></s>
+<ul><li>Carved wood <code>"carved_wood",</code></li>
+<li>Magic wood plank <code>"wood_magic_1",</code></li>
+<li>Steel sword <code>"sword_steel",</code></li>
+<li>Steel armor <code>"armor_lamellar_2",</code></li>
+<li>Steel sword with gem <code>"sword_steel_gem",</code></li></ul></li>
+<li>Furnace II <s><code>"mf_wood_builddesk:p:mf_furnace_1_place",</code></s>
+<ul><li>Silver ingot <code>"ingot_silver",</code></li>
+<li>Gold ingot <code>"ingot_gold",</code></li></ul></li>
+<li>Furnace III <s><code>"mf_wood_builddesk:p:mf_furnace_2_place",</code></s>
+<ul><li>Silver ingot <code>"ingot_silver_2",</code></li>
+<li>Gold ingot <code>"ingot_gold_2",</code></li></ul></li></ul></li>
+<li>Mortuary
+<ul><li>Preparation place II <code>"morgue_builddesk:p:mf_preparation_2_place",</code></li>
+<li>Embalming table II <code>"morgue_builddesk:p:mf_balsamation_2_place",</code></li>
+<li>Double pallet <code>"morgue_builddesk:p:corpse_bed_big_place",</code></li>
+<li>Fridge pallet <code>"morgue_builddesk:p:corpse_fridge_place",</code></li></ul></li>
+<li>Church
+<ul><li>Confessional II <code>"church_builddesk:p:church_budka_2_place",</code></li>
+<li>Stone shrine <code>"church_builddesk:p:church_table_2_place",</code></li>
+<li>Candelabrum 3 <code>"church_builddesk:p:candelabrum_3",</code></li>
+<li>Incense burner II <code>"church_builddesk:p:c_obj_incense_2_place",</code></li>
+<li>Soft church bench <code>"church_builddesk:p:church_bench_2",</code></li></ul></li>
+<li>Alchemy lab
+<ul><li>Church workbench <s><code>"alchemy_builddesk:p:table_book_constr_place"</code></s>
+<ul><li>Red candle <code>"candle_6",</code></li>
+<li>Incense II <code>"incense_2",</code></li>
+<li>Embalming fluid <code>"embalm_2_0",</code></li>
+<li>Embalming fluid <code>"embalm_0_1",</code></li>
+<li>Embalming fluid <code>"embalm_50",</code></li>
+<li>Embalming fluid <code>"embalm_-1_1",</code></li>
+<li>Embalming fluid <code>"embalm_-2_2",</code></li>
+<li>Embalming fluid <code>"embalm_stop",</code></li></ul></li>
+<li>Distillation cube II <code>"alchemy_builddesk:p:mf_distcube_2_cuprum_place",</code></li></ul></li>
+<li>Slightly broken stuff
+<ul><li>Alchemy Tier I (alternate) <code>"alchemy_builddesk:p:mf_alchemy_craft_02_place",</code><br /><i>Strange single slot variant</i></li>
+<li>Wooden pray stand <code>"graveyard_builddesk:p:pray_stand_wd_place",</code></li>
+<li>Scarecrow <code>"garden_builddesk:p:scarecrow",</code></li></ul></li></ul>
+<h3><span class="mw-headline" id="Unlocked_Phrases">Unlocked Phrases</span></h3>
+<p><code>"unlocked_phrases":[</code>
+<i>Jumping over alpha blocks</i>
+</p>
+<ul><li>Once you give the red fish fillet to the bishop:
+<ul><li><code>"@bishop_6d",</code>
+<ul><li>Item called <code>building_permission</code><br /><i>couldn't figure out how to unlock the mailbox to give you the option</i></li></ul></li></ul></li>
+<li>Once you give the merchant the hiccup grass:
+<ul><li><code>"@merchant_on_cure",</code>
+<ul><li>Item called <code>taste_booster:salt</code> to make <code>taste_booster:alchemy_1_spice</code> by Clotho's description.
+<ul><li>Optionally at <code>"black_list_of_phrases":[</code> <code>"Ñlotho_need_help",</code> to clear that talk option</li>
+<li>Next item in line (that was briefly in 0.677) <code>dinner:3</code> you need 5 of them</li></ul></li></ul></li></ul></li>
+<li>Once the merchant tells you to wait a week (which doesn't work):
+<ul><li><code>"@merchant_traide_license","@merchant_strategy",</code>
+<ul><li>Item called <code>merchant_traide_license</code><br /><i>there is more dialog but functionally is quite lacking as it is here</i>
+<ul><li>shortcut that should unlock <code>"_params":{"_res_type":[</code> (the first from start of file)<br />add new value <code>"key_to_storage"</code> (recommend end) <code>],"_res_v":[</code> add accompanied value <code>1.0</code> (opens storage\mortuary shortcut)</li></ul></li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="Community_Fixes">Community Fixes</span></h2>
+<p>Mostly problems caused by unlocking things in version 0.674<br />
+Find these strings and make sure they read like provided
+</p><p>Black space where workyard expansion is supposed to be:<br />
+<code>
+{"gd_tag":"upgrade_player_buildzone_gd","enabled":true},{"gd_tag":"buildzone_player_before_upgrade","enabled":false},
+</code>
+</p><p>The cursed west graveyard can't be build even when unlocked:<br />
+<code>
+{"gd_tag":"graveyard_buildzone_1_gd","enabled":false},{"gd_tag":"graveyard_buildzone_2_gd","enabled":true},
+</code>
+</p><p><br />
+Missing stone polishing recipes:<br />
+<code>
+"mf_wood_builddesk:p:mf_hammer_1_place","stone_plate_2","stone_plate_3","stone_plate_1_2","stone_plate_2_2","stone_plate_2_3","stone_plate_2_4",
+</code>
+<br />
+Stonecutter II, polished stone with paste, carved fancy stone, polished stone with chisel, stone from stone block, polished stone with paste on SCII, polished stone with chisel on SCII
+</p><p>Missing printing press upgrade:<br />
+<code>
+"alchemy_builddesk:p:mf_printing_press_2_place","mf_printing_press_1_to_2",
+</code>
+</p><p>Writing desk II missing (but still bugged) paper glob:
+<code>
+"pail_wet_paper_2",
+</code>
+</p><p>[<a target="_blank" rel="noreferrer noopener" class="text" href="https://graveyardkeeper.fandom.com/Category:Wiki">pages</a>]
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20261008231030
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.079 seconds
+Real time usage: 0.105 seconds
+Preprocessor visited node count: 232/1000000
+Post‐expand include size: 813/2097152 bytes
+Template argument size: 124/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2168/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.055      1 -total
+ 34.81%    2.804      1 Template:Bug
+ 32.04%    2.581      1 Template:Copper_Coin
+ 16.79%    1.352      3 Template:Coin
+ 15.90%    1.281      1 Template:Gold_Coin
+ 14.75%    1.188      1 Template:Silver_Coin
+ 14.02%    1.129      1 Template:IO
+-->
+
+<!-- Saved in parser cache with key 1.43.9_prod_graveyardkeeper_gamepedia_en:pcache:idhash:1341-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261008231030 and revision id 28377. Rendering was triggered because: page-view
+ -->
+</div>
+<footer class="cats">Categories: <a href="Category_Minor_game_bugs.html">Minor game bugs</a></footer>
+</main>
+<footer class="site-footer">Developed by <a href="https://naffiq.com">naffiq</a> · content from the <a href="https://graveyardkeeper.fandom.com">Graveyard Keeper Fandom wiki</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></footer>
+</body></html>
