@@ -13,7 +13,7 @@ She is one of three NPCs (the other two being [[Horadric]] and [[Vagner]]) prese
 
 ==Quests==
 ===Visit Clotho===
-After you brought back [[Ms. Charm]] the bad news about her {{Item|necklace}}, she wants Miss Chain's {{Item|perfume}}. In order to get it from her, you have to deliver a {{Item|Basket of food}} to her sister [[Clotho]], and bring back {{Item|Frog|12}} as ingredients for creating more {{Item|perfume}}. For this you'll recieve  a total of 20 {{Happiness}} and you can get the {{Item|perfume}} from her.
+After you brought back [[Ms. Charm]] the bad news about her {{Item|necklace}}, she wants Miss Chain's {{Item|perfume}}. In order to get it from her, you have to deliver a {{Item|Basket of food}} to her sister [[Clotho]], and bring back {{Item|Frog|12}} as ingredients for creating more {{Item|perfume}}. For this you'll receive  a total of 20 {{Happiness}} and you can get the {{Item|perfume}} from her.
 
 ==Trades==
 ===Selling===
