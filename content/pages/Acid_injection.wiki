@@ -35,7 +35,7 @@ The <b>{{lcfirst:{{PAGENAME}}}}</b> is used at the [[Embalming table|embalming t
 |-
 |{{Item|Corpse|1}}
 |{{Item|{{PAGENAME}}|1}}<br>{{Item|Corpse|1}}
-| -1{{Skull|white}} -1{{Skull|red}}
+| +1{{Skull|white}} -1{{Skull|red}}
 |}
 
 <br>

@@ -48,7 +48,7 @@ Also speak to Stargazer and Ms. Charm while having 1x Sin Shard in your inventor
 Here is a list of the items needed to fix everything:
 
 * Krezvold: 2 Planks, 4 Nails, 1 Wood repair kit
-* Horadiric: 2 Flitch, 5 Nails, 2 Complex iron parts
+* Horadiric: 4 Flitch, 5 Nails, 2 Complex iron parts
 * Basket eggs: 2 Sticks, 1 Wood repair kit
 * 2 beehives: 2 Flitch, 3 Nails, 5 Bees each
 * Adam's pottery wheel: 2 Flitch, 1 Stone, 3 Nails
