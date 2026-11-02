@@ -163,14 +163,14 @@
 
 |-<div id="Spiritual blessing"></div>
 |[[File:Spiritual blessing effect.png|80x80px]]<br>Spiritual Blessing<br><sup>[[Better Save Soul]]</sup> 
-|style=text-align:left | <small>[[Pray for soul's contentment]]</small>
+|style=text-align:left | <small>[[Prayer for soul's contentment]]</small>
 |{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
 |Gain 10% more {{Techpoint|soul}}
 |10% more [[Soul Gratitude]] from releasing souls through the Soul Portal.<br>''([[Better Save Soul]] DLC)''
 
 |-<div id="Spiritual magnetism"></div>
 |[[File:Spiritual magnetism effect.png|80x80px]]<br>Spiritual Magnetism<br><sup>[[Better Save Soul]]</sup> 
-|style=text-align:left | <small>[[Pray for soul's thorough cleansing]]</small>
+|style=text-align:left | <small>[[Prayer for soul's thorough cleansing]]</small>
 |{{Quality|copper}}36:00<br>{{Quality|silver}}1:12:00<br>{{Quality|gold}}1:48:00
 |Gain x2 sin shards
 |Twice as many [[Sin Shard]]s from cleansing souls.<br>''([[Better Save Soul]] DLC)''
