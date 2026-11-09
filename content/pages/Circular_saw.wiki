@@ -40,16 +40,19 @@ Rotation : No
 |{{Item|Log|1}}
 |{{Energy|-|10}}
 |[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Wood billet|+1}}
+Gives {{Techpoint|red|3}}
 |-
 |{{Item|Flitch|7}}
 |{{Item|Log|1}}
 |{{Energy|-|10}}
 |[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Flitch|+2}}
+Gives {{Techpoint|red|1}}
 |-
 |{{Item|Wooden plank|3}}
 |{{Item|Log|1}}
 |{{Energy|-|15}}
 |[[file:Carpenter Perk.png|40px]][[Perks|Carpenter:]] {{Item|Wooden plank|+1}}
+Gives {{Techpoint|red|2}}
 |-
 |{{Item|Wooden beam|3}}
 |{{Item|Log|1}}

@@ -54,7 +54,7 @@ The cookery tab slowly unlocks as you discover the necessary ingredients for mak
 |{{Item|Lasagna}}<br>{{Item|Pasta}}
 |-
 |Beer Snacks
-|Talk to [[Horadric]] after obtaining an {{Item|Onion||copper}} at some point.
+|Talk to [[Horadric]] after obtaining a Bronze Star {{Item|Onion||copper}} at some point.
 |{{Item|Onion rings}}<br>{{Item|Toasts with onions}}
 |-
 |Fish Dishes

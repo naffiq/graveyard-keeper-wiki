@@ -39,12 +39,12 @@ Rotation : No
 |-
 |{{Item|Wood billet|4}}
 |{{Item|Log|1}}
-|{{Energy|-|15}}
+|{{Energy|-|10}}
 |rowspan="2"|+{{Techpoint|red|1}}
 |-
 |{{Item|Flitch|6}}
 |{{Item|Log|1}}
-|{{Energy|-|15}}
+|{{Energy|-|10}}
 |-
 |}
 
@@ -60,7 +60,7 @@ Rotation : No
 |{{Item|Wooden marker|1}}
 |{{Item|Flitch|2}}
 {{Item|Nails|1}}
-|{{Energy|-|10}}
+|{{Energy|-|5}}
 |Adds +1 {{Grave Decor}} to the grave.<br>+{{Techpoint|red|1}}
 |}
 

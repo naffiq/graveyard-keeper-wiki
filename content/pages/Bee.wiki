@@ -13,6 +13,7 @@
 You can sometimes get bees while harvesting [[bee hive]]s or [[Beekeeping|wild hives]] for [[honey]], but only if you have unlocked the [[Farming and Nature (Tech Tree)|insects]] technology. They can also be bought for quite a high price from the [[beekeeper]] in the [[village]].
 
 Bees are needed for setting up an [[apiary]] or can be decomposed in the [[Alchemy Lab|alchemy laboratory]]. 
+The more bees you have in your inventory, the lower your chance of receiving one.
 
 ==Study==
 {|class="wikitable" style="width:40em;"
