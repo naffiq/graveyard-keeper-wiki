@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Crafting cart — Graveyard Keeper Wiki</title>
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2a211d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<script>window.GK_SITE = "gk1";</script>
+<script data-goatcounter="https://naffiq.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head><body>
+<header><a href="index.html" class="home"><img src="icons/logo.png" alt="" width="30" height="32">Graveyard Keeper Wiki</a>
+<div class="search"><input id="search" type="search" autocomplete="off"
+  placeholder="Search the wiki…  ( / )"><div id="search-results" hidden></div></div>
+<a href="cart.html" class="cart-link" title="Crafting cart">🛒<span class="cart-count" hidden></span></a>
+</header>
+<script src="search.js" defer></script>
+<script src="app.js" defer></script>
+<main class="cart-page">
+<div class="title-row"><h1>Crafting cart</h1><button id="cart-clear" class="chip" hidden>Clear cart</button></div>
+<div class="picker"><input id="cart-pick" type="search" autocomplete="off"
+  placeholder="Add an item or building…"><div id="cart-suggest" hidden></div></div>
+<ul id="cart-items"></ul>
+<p id="cart-empty" class="note">The cart is empty. Add things with the search box above or with
+the <b>+ Add to cart</b> button on any item or building page.</p>
+<div id="cart-result" hidden>
+<section><h2>Raw materials</h2><ul id="raw-list" class="raw-list"></ul></section>
+<section><h2>Crafting steps <small class="note">grouped by product · numbered in crafting order</small></h2><ol id="steps-list" class="steps"></ol>
+<p><button id="reset-choices" class="chip">Reset recipe choices</button></p>
+<p class="note">Recipes are parsed from the wiki's tables; a few may be incomplete or need a perk.</p></section>
+</div>
+</main>
+<footer class="site-footer">Developed by <a href="https://naffiq.com">naffiq</a> · content from the <a href="https://graveyardkeeper.fandom.com">Graveyard Keeper Fandom wiki</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></footer>
+<script src="data.js" defer></script>
+<script src="cart.js" defer></script>
+</body></html>
