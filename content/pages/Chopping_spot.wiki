@@ -63,3 +63,4 @@ Rotation : Mirror
 {{Navbox-Workyard}}
 [[Category:Workstations]]
 [[Category:Workyard workstations]]
+[[ru:Место для рубки]]

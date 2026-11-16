@@ -48,3 +48,9 @@
 {{Navbox-Food}}
 [[Category:food]]
 [[Category:food resources]]
+<!--[[en:Chicken egg]]-->
+[[es:Huevo de gallina]]
+[[de:Hühnerei]]
+[[ja:鶏卵]]
+[[pt-br:Ovo de galinha]]
+[[ru:Куриное яйцо]]

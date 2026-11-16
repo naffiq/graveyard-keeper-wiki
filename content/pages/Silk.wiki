@@ -30,10 +30,10 @@ It's also used to make carpets and bedspreads to decorate your home.
 |{{Item|Curtains}}
 |{{Item|Silk|1}}<br>{{Item|White paint|1}}<br>{{Item|Acceleration powder|2}}
 |-
-|[[File:GoC Residential tent.png|link=http://graveyardkeeper.gamepedia.com/File:GoC_Residential_tent.png]][[Residential tent]]
+|{{Item|Residential tent}}
 |{{Item|Wooden stick|4}}<br>{{Item|{{PAGENAME}}|2}}<br>{{Item|Refugee Happiness|2-10}}
 |-
-|[[File:Storehouse II.png|link=http://graveyardkeeper.gamepedia.com/File:Storehouse.png]] [[Storehouse|Storehouse II]]
+|{{Item|Storehouse II}}
 |{{Item|Flitch|12}}<br>{{Item|Silk|5}}<br>{{Item|Refugee Happiness|6}}
 |-
 |Common Bedspread
@@ -61,4 +61,10 @@ It's also used to make carpets and bedspreads to decorate your home.
 
 <br>
 {{Navbox-Misc}}
+
+[[de:Seide]]
+<!--[[en:Silk]]-->
+[[es:Seda]]
+[[ja:絹]]
+[[pt-br:Seda]]
 [[ru:Шёлк]]

@@ -68,3 +68,5 @@ Rotation : No
 [[Category:Workstations]]
 
 [[Category:Workyard workstations]]
+
+[[ru:Козлы]]

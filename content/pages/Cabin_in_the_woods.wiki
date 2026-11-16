@@ -99,3 +99,4 @@ The workbench for placing all the workstations is located in the northwest corne
 
 [[Category:locations]]
 [[es:Cabaña del bosque]]
+[[ru:Хижина в лесу]]

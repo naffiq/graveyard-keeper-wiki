@@ -519,7 +519,11 @@ If you build the watchtower, you are rip. In other words, if you complete the wa
 
 |[[File:MacPlayer.jpg|frameless]]
 |MacPlayer
-|Die 10 times. The easiest way to die repeatedly is to be killed by enemies in the [[Dungeon]]. Another way is to discard your armor and follow the path past the [[Apiary]], where you will be attacked by Bats from evening until midnight.
+|Die 10 times. This can be achieved via the following methods:
+
+* Be killed by enemies in the [[Dungeon]] (Easiest as long as you didn't clear every floor of the dungeon)
+* Unequip your armor and follow the path past the [[Apiary]], where you will be attacked by Bats from evening until midnight.
+* Make [[Infusion|Infusions]] using the [[Alcohol distiller|Alcohol Distiller]] and drink them back to back. Each one deals 20 points of HP damage.
 |-
 |-
 

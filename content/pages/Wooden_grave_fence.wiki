@@ -62,3 +62,4 @@ The <b>{{lcfirst:{{PAGENAME}}}}</b> is a grave decoration which provides +1 {{Gr
 {{Navbox-Graves}}
 [[Category:Grave fences]]
 [[Category:Graveyard items]]
+[[ru:Деревянная ограда]]

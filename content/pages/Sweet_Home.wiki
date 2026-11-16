@@ -332,5 +332,6 @@ This changes the wallpaper of the room. All colors can be combined with all patt
 |{{Item|Feather|1}}<br />{{Item|White paint|1}}
 |[[File:Bellflowers wallpaper.png]]
 |}{{Navbox-Locations}}
-
+[[es:Dulce hogar]]
 [[fr:Domicile]]
+[[ru:Милый дом]]

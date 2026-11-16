@@ -156,3 +156,5 @@ Rotation : Yes
 [[Category:Workstations]]
 [[Category:Workyard workstations]]
 [[Category:Image requested]]
+[[de:Werkbank für Holz]]
+[[ru:Столярный верстак]]
