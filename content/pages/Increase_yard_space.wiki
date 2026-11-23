@@ -29,3 +29,11 @@ Allows you to expand [[Workyard|work yard]] to the east, clearing out a piece of
 [[Category:Workstations]]
 
 [[Category:Workyard workstations]]
+
+[[de:Hof vergrößern]]
+<!--[[en:Increase yard space]]-->
+[[es:Aumentar el espacio en el patio]]
+[[fr:Increase yard space]]
+[[ja:墓場のスペースを拡張]]
+[[pt-br:Aumentar o espaço do pátio]]
+[[ru:Увеличить площадь двора]]
